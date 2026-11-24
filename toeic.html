@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>多益聽力分 Part / 分區塊盲聽與跟讀訓練器</title>
+<link rel="stylesheet" href="./styles/base.css">
+<link rel="stylesheet" href="./styles/toeic.css">
+</head>
+<body>
+
+<div class="container">
+  <div class="header">
+    <h1>🎧 多益聽力分 Part / 分區塊盲聽訓練</h1>
+    <span class="badge" id="progressBadge">掃描中...</span>
+  </div>
+
+  <div class="card">
+    <div class="loader-bar">
+      <div class="loader-top">
+        <select id="deckSelect" class="deck-select" title="切換 toeic_json 內的 JSON 檔案">
+          <option value="">掃描 toeic_json 中...</option>
+        </select>
+        <div class="loader-actions">
+          <button type="button" class="btn-secondary" id="rescanBtn">🔄 重新掃描資料夾</button>
+          <button type="button" class="btn-secondary" id="manualPickBtn">📄 手動選檔</button>
+        </div>
+      </div>
+      <input type="file" id="filesInput" multiple accept=".json,application/json" style="display:none">
+      <div class="block-row">
+        <select id="blockSelect" class="block-select" title="選擇此 Part 下的題組區塊" disabled></select>
+      </div>
+      <div class="status-hint" id="deckStatus">啟動時會依 <code>config.json</code> 設定並行掃描並載入 <code>toeic_json</code> 內的 <code>.json</code> 檔案。</div>
+    </div>
+
+    <div class="error-box" id="errorBox"></div>
+
+    <div class="part-tabs" id="partTabs">
+      <button type="button" class="part-tab active" data-part="0" disabled>Part 1 照片</button>
+      <button type="button" class="part-tab" data-part="1" disabled>Part 2 應答</button>
+      <button type="button" class="part-tab" data-part="2" disabled>Part 3 對話</button>
+      <button type="button" class="part-tab" data-part="3" disabled>Part 4 獨白</button>
+    </div>
+
+    <select id="voiceSelect" class="voice-select" title="選擇英語語音">
+      <option value="">載入系統美式英語語音中...</option>
+    </select>
+
+    <div class="directions-bar">
+      <button type="button" class="directions-toggle" id="toggleDirectionsBtn">
+        <span>📘 展開本 Part 測驗說明 (Directions)</span>
+      </button>
+      <div class="directions-text" id="directionsText"></div>
+    </div>
+
+    <div class="step-title">
+      <span>階段 1 & 2：整區塊盲聽 3 遍 ＋ 開口復述（點擊單字可單獨發音）</span>
+      <div class="dots" id="blindDots">
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+      </div>
+    </div>
+
+    <div class="controls">
+      <button type="button" class="btn-play" id="play10" disabled>▶ 原速 (1.0x)</button>
+      <button type="button" class="btn-slow" id="play075" disabled>🐢 慢速 (0.75x)</button>
+      <button type="button" class="btn-slow" id="play05" disabled>🐌 超慢 (0.5x)</button>
+      <button type="button" class="btn-stop" id="stopBtn" disabled>⏹ 停止</button>
+    </div>
+
+    <div class="hidden-box" id="blindPlaceholder">
+      🔒 <strong>文字已完全隱藏</strong><br>
+      <span style="font-size: 0.85rem;">請先按上方播放鍵盲聽 3 遍，並試著開口模仿唸出來，再揭曉答案。</span>
+    </div>
+
+    <button type="button" class="btn-reveal" id="revealBtn" disabled>👁️ 揭曉本區塊原文、題目與連音解析</button>
+
+    <div class="answer-box" id="answerBox">
+      <div id="passageSection" style="display:none;">
+        <div class="section-head">
+          <span class="section-label">🗣️ 對話 / 獨白原文（可單句 1.0x / 0.75x / 0.5x 朗讀，或點單字發音）</span>
+          <button type="button" class="btn-chip active" id="wordRateToggleBtn">🔊 單字發音：1.0x</button>
+        </div>
+        <div class="passage-list" id="passageList"></div>
+      </div>
+
+      <div class="section-head">
+        <span class="section-label">📝 題目與選項（支援 1.0x / 0.75x / 0.5x 單點朗讀與點字發音）</span>
+        <button type="button" class="btn-chip active" id="wordRateToggleBtnQ">🔊 單字發音：1.0x</button>
+      </div>
+      <div id="questionsList"></div>
+
+      <div id="linkingSection" style="display:none; margin-top: 14px;">
+        <div class="section-label">🔍 連音、吞音與弱讀解析（支援 1.0x / 0.75x / 0.5x 局部試聽）</div>
+        <div class="linking-container" id="linkingList"></div>
+      </div>
+
+      <div style="margin-top: 18px; padding-top: 14px; border-top: 1px solid var(--border);">
+        <div class="step-title" style="margin-bottom: 6px;">
+          <span>階段 4：整區塊 10 次跟讀計數（揭曉後按上方播放鍵自動累計）</span>
+        </div>
+        <div class="tracker-grid">
+          <div class="tracker-item">
+            <div class="tracker-label">
+              <span>1. 看字跟讀 (第 1~5 次)</span>
+              <span id="readCountText">0 / 5</span>
+            </div>
+            <div class="dots" id="readDots">
+              <div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div>
+            </div>
+          </div>
+          <div class="tracker-item">
+            <div class="tracker-label">
+              <span>2. 閉眼盲跟 (第 6~10 次)</span>
+              <span id="closeCountText">0 / 5</span>
+            </div>
+            <div class="dots" id="closeDots">
+              <div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="nav-controls">
+      <button type="button" class="btn-prev" id="prevBtn" disabled>⬅ 上一區塊</button>
+      <button type="button" class="btn-next" id="nextBtn" disabled>下一區塊 ➔</button>
+    </div>
+  </div>
+</div>
+
+<script type="module" src="./js/toeic-app.js"></script>
+</body>
+</html>

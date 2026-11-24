@@ -11,5 +11,11 @@
     "folderName": "sentences_json",
     "manifestFile": "manifest.json",
     "files": []
+  },
+  "toeic": {
+    "baseUrl": "https://raw.githubusercontent.com/nicklian1927/english-trainer/refs/heads/resource/toeic_json/",
+    "folderName": "toeic_json",
+    "manifestFile": "manifest.json",
+    "files": []
   }
 }
