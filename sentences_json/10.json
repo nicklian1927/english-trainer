@@ -1,0 +1,230 @@
+[
+  {
+    "en": "The secretary's work was disturbed by constant phone calls.",
+    "zh": "秘書的工作被不斷響起的電話聲干擾了。",
+    "notes": [
+      {
+        "orig": "work was",
+        "speakText": "work was",
+        "phonetic": "werk-wuz",
+        "desc": "was 弱讀為輕短的 wuz。"
+      },
+      {
+        "orig": "disturbed by",
+        "speakText": "disturbed by",
+        "phonetic": "di-sturbd-by",
+        "desc": "disturbed 尾音 /d/ 接 by。"
+      }
+    ]
+  },
+  {
+    "en": "The secretary neglected to return the client's call.",
+    "zh": "秘書疏忽了回覆客戶的來電。",
+    "notes": [
+      {
+        "orig": "neglected to",
+        "speakText": "neglected to",
+        "phonetic": "ni-glek-did-tuh",
+        "desc": "neglected 尾音 /d/ 接弱讀的 to（/tuh/）。"
+      },
+      {
+        "orig": "to return",
+        "speakText": "to return",
+        "phonetic": "tuh-ri-tern",
+        "desc": "to 弱讀為 tuh，return 重音落在 tern。"
+      },
+      {
+        "orig": "return the",
+        "speakText": "return the",
+        "phonetic": "ri-tern-thuh",
+        "desc": "the 弱讀為輕短的 thuh。"
+      }
+    ]
+  },
+  {
+    "en": "Janet politely declined my offer to help her move.",
+    "zh": "珍妮特婉拒了我幫她搬家的好意。",
+    "notes": [
+      {
+        "orig": "offer to",
+        "speakText": "offer to",
+        "phonetic": "ah-fer-tuh",
+        "desc": "to 弱讀為 tuh，緊接在 offer 之後。"
+      },
+      {
+        "orig": "help her",
+        "speakText": "help her",
+        "phonetic": "hel-per",
+        "desc": "her 的 /h/ 弱化省略，help 尾音 /p/ 連向 er 聽起來像 hel-per。"
+      }
+    ]
+  },
+  {
+    "en": "Chloe withdrew her application for employment with the trading company.",
+    "zh": "克蘿伊撤回了向這家貿易公司提出的求職申請。",
+    "notes": [
+      {
+        "orig": "withdrew her",
+        "speakText": "withdrew her",
+        "phonetic": "with-droo-er",
+        "desc": "her 的 /h/ 弱化省略，withdrew 尾音滑向 er。"
+      },
+      {
+        "orig": "for employment",
+        "speakText": "for employment",
+        "phonetic": "fer-em-ploy-munt",
+        "desc": "for 弱讀為 fer，連向 employment。"
+      },
+      {
+        "orig": "with the",
+        "speakText": "with the",
+        "phonetic": "wi-thuh",
+        "desc": "the 弱讀為輕短的 thuh。"
+      }
+    ]
+  },
+  {
+    "en": "Roy has completely recovered from the injuries he received in the accident.",
+    "zh": "羅伊已從那場意外所受的傷勢中完全康復。",
+    "notes": [
+      {
+        "orig": "has completely",
+        "speakText": "has completely",
+        "phonetic": "huz-kum-pleet-lee",
+        "desc": "has 弱讀為 huz，completely 首音節弱化為 kum。"
+      },
+      {
+        "orig": "from the",
+        "speakText": "from the",
+        "phonetic": "frum-thuh",
+        "desc": "from 與 the 皆弱讀為輕短的 frum-thuh。"
+      },
+      {
+        "orig": "in the",
+        "speakText": "in the",
+        "phonetic": "in-thuh",
+        "desc": "the 弱讀為輕短的 thuh。"
+      }
+    ]
+  },
+  {
+    "en": "The health department inspected our restaurant kitchen without prior notice.",
+    "zh": "衛生局未事先通知就檢查了我們餐廳的廚房。",
+    "notes": [
+      {
+        "orig": "inspected our",
+        "speakText": "inspected our",
+        "phonetic": "in-spek-did-owr",
+        "desc": "inspected 中的 t 閃化為 /ɾ/，尾音 /d/ 連向 our。"
+      },
+      {
+        "orig": "without prior",
+        "speakText": "without prior",
+        "phonetic": "with-out-pry-er",
+        "desc": "without 尾音 /t/ 接 prior，語流順暢。"
+      }
+    ]
+  },
+  {
+    "en": "We need to come up with measures to protect our intellectual property.",
+    "zh": "我們需要想出措施來保護我們的智慧財產權。",
+    "notes": [
+      {
+        "orig": "need to",
+        "speakText": "need to",
+        "phonetic": "nee-duh",
+        "desc": "need 尾音 /d/ 與 to 合併弱化為 nee-duh。"
+      },
+      {
+        "orig": "come up",
+        "speakText": "come up",
+        "phonetic": "kum-up",
+        "desc": "come 尾音 /m/ 連向 up，聽起來像 kum-up。"
+      },
+      {
+        "orig": "up with",
+        "speakText": "up with",
+        "phonetic": "uh-pwith",
+        "desc": "up 尾音 /p/ 緊接 with。"
+      },
+      {
+        "orig": "to protect",
+        "speakText": "to protect",
+        "phonetic": "tuh-pruh-tekt",
+        "desc": "to 弱讀為 tuh，protect 首音節弱化為 pruh。"
+      },
+      {
+        "orig": "protect our",
+        "speakText": "protect our",
+        "phonetic": "pruh-tek-dowr",
+        "desc": "protect 尾音 /t/ 閃化連向 our，聽起來像 tek-dowr。"
+      }
+    ]
+  },
+  {
+    "en": "It's impossible to obey unrealistic demands of the company president.",
+    "zh": "要順從公司總裁不切實際的要求是不可能的。",
+    "notes": [
+      {
+        "orig": "to obey",
+        "speakText": "to obey",
+        "phonetic": "tuh-oh-bay",
+        "desc": "to 弱讀為 tuh，連向 obey。"
+      },
+      {
+        "orig": "demands of",
+        "speakText": "demands of",
+        "phonetic": "di-man-duhz",
+        "desc": "demands 尾音 /dz/ 連向弱讀的 of（/uh/）。"
+      },
+      {
+        "orig": "of the",
+        "speakText": "of the",
+        "phonetic": "uh-thuh",
+        "desc": "of 與 the 雙雙弱讀為輕短音。"
+      }
+    ]
+  },
+  {
+    "en": "The president did not mention his retirement plans during his speech.",
+    "zh": "總裁在演講中沒有提及他的退休計畫。",
+    "notes": [
+      {
+        "orig": "did not",
+        "speakText": "did not",
+        "phonetic": "did-naht",
+        "desc": "did 與 not 清楚分明，不刻意吞音以免否定語氣被吃掉。"
+      },
+      {
+        "orig": "mention his",
+        "speakText": "mention his",
+        "phonetic": "men-shun-iz",
+        "desc": "his 的 /h/ 弱化省略，mention 尾音 /n/ 連向 iz。"
+      },
+      {
+        "orig": "during his",
+        "speakText": "during his",
+        "phonetic": "duhr-ing-iz",
+        "desc": "his 的 /h/ 弱化省略，during 尾音 /ŋ/ 連向 iz。"
+      }
+    ]
+  },
+  {
+    "en": "The manager predicted the marketing campaign would positively impact sales.",
+    "zh": "經理預測這波行銷活動將對銷售產生正面影響。",
+    "notes": [
+      {
+        "orig": "predicted the",
+        "speakText": "predicted the",
+        "phonetic": "pri-dik-did-thuh",
+        "desc": "predicted 尾音 /d/ 接弱讀的 thuh。"
+      },
+      {
+        "orig": "would positively",
+        "speakText": "would positively",
+        "phonetic": "wood-pah-zi-tiv-lee",
+        "desc": "positively 中間的 t 閃化為 /ɾ/。"
+      }
+    ]
+  }
+]

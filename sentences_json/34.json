@@ -1,0 +1,308 @@
+[
+  {
+    "en": "The boss always gives us terse answers to our questions.",
+    "zh": "老闆對我們的問題總是給出簡短生硬的回答。",
+    "notes": [
+      {
+        "orig": "The boss",
+        "speakText": "The boss",
+        "phonetic": "thuh-boss",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "boss always",
+        "speakText": "boss always",
+        "phonetic": "boss-always",
+        "desc": "boss 尾音輔音自然連向 always 的開頭母音，語流連成 boss-always。"
+      },
+      {
+        "orig": "gives us",
+        "speakText": "gives us",
+        "phonetic": "gives-us",
+        "desc": "gives 尾音輔音自然連向 us 的開頭母音，語流連成 gives-us。"
+      },
+      {
+        "orig": "answers to",
+        "speakText": "answers to",
+        "phonetic": "answers-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to our",
+        "speakText": "to our",
+        "phonetic": "tuh-owr",
+        "desc": "to 與 our 皆為非重讀功能詞，雙雙弱讀並連成輕短的 tuh-owr。"
+      }
+    ]
+  },
+  {
+    "en": "All new recruits must undergo intensive training at our firm.",
+    "zh": "所有新進人員都必須在我們公司接受密集訓練。",
+    "notes": [
+      {
+        "orig": "must undergo",
+        "speakText": "must undergo",
+        "phonetic": "must-undergo",
+        "desc": "must 尾音輔音自然連向 undergo 的開頭母音，語流連成 must-undergo。"
+      },
+      {
+        "orig": "training at",
+        "speakText": "training at",
+        "phonetic": "training-ut",
+        "desc": "training 尾音直接連向弱讀的 at（/ut/），聽起來像 training-ut。"
+      },
+      {
+        "orig": "at our",
+        "speakText": "at our",
+        "phonetic": "u-dowr",
+        "desc": "at 字尾 /t/ 夾在母音間閃化為輕彈音 /ɾ/，與 our 連讀成 u-dowr。"
+      },
+      {
+        "orig": "our firm",
+        "speakText": "our firm",
+        "phonetic": "owr-firm",
+        "desc": "our 與前一字尾音自然連讀滑入。"
+      }
+    ]
+  },
+  {
+    "en": "Akan Express takes care with fragile items, placing them in special wrapping.",
+    "zh": "阿坎快遞小心處理易碎物品，並以特殊包裝材料包裹。",
+    "notes": [
+      {
+        "orig": "Akan Express",
+        "speakText": "Akan Express",
+        "phonetic": "akan-express",
+        "desc": "Akan 尾音輔音自然連向 Express 的開頭母音，語流連成 akan-express。"
+      },
+      {
+        "orig": "them in",
+        "speakText": "them in",
+        "phonetic": "them-in",
+        "desc": "them 尾音輔音自然連向 in 的開頭母音，語流連成 them-in。"
+      }
+    ]
+  },
+  {
+    "en": "The large workload seemed overwhelming to some staff.",
+    "zh": "龐大的工作量對部分員工來說似乎難以承受。",
+    "notes": [
+      {
+        "orig": "The large",
+        "speakText": "The large",
+        "phonetic": "thuh-large",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "seemed overwhelming",
+        "speakText": "seemed overwhelming",
+        "phonetic": "seemd-oh-ver-wel-ming",
+        "desc": "seemed 尾音輔音自然連向 overwhelming 的開頭母音，語流連成 seemd-oh-ver-wel-ming。"
+      },
+      {
+        "orig": "overwhelming to",
+        "speakText": "overwhelming to",
+        "phonetic": "oh-ver-wel-ming-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to some",
+        "speakText": "to some",
+        "phonetic": "tuh-some",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "My smartphone is obsolete compared to newer models, but adequate for my purposes.",
+    "zh": "與新款機型相比我的智慧型手機已經過時，但對我的用途來說已足夠。",
+    "notes": [
+      {
+        "orig": "is obsolete",
+        "speakText": "is obsolete",
+        "phonetic": "is-ahb-suh-leet",
+        "desc": "is 尾音輔音自然連向 obsolete 的開頭母音，語流連成 is-ahb-suh-leet。"
+      },
+      {
+        "orig": "compared to",
+        "speakText": "compared to",
+        "phonetic": "compard-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to newer",
+        "speakText": "to newer",
+        "phonetic": "tuh-newer",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "but adequate",
+        "speakText": "but adequate",
+        "phonetic": "buh-dad-uh-kwit",
+        "desc": "but 字尾 /t/ 夾在母音間閃化為輕彈音 /ɾ/，與 adequate 連讀成 buh-dad-uh-kwit。"
+      },
+      {
+        "orig": "adequate for",
+        "speakText": "adequate for",
+        "phonetic": "ad-uh-kwit-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      }
+    ]
+  },
+  {
+    "en": "Some airlines no longer give out complimentary meals during flights.",
+    "zh": "部分航空公司在飛行途中不再提供免費餐點。",
+    "notes": [
+      {
+        "orig": "Some airlines",
+        "speakText": "Some airlines",
+        "phonetic": "some-airlines",
+        "desc": "Some 與 airlines 之間銜接緊湊，不刻意停頓。"
+      }
+    ]
+  },
+  {
+    "en": "Dr. Cook is known for his splendid achievements in medicine.",
+    "zh": "庫克博士以其在醫學上的輝煌成就聞名。",
+    "notes": [
+      {
+        "orig": "Cook is",
+        "speakText": "Cook is",
+        "phonetic": "cook-is",
+        "desc": "Cook 尾音輔音自然連向 is 的開頭母音，語流連成 cook-is。"
+      },
+      {
+        "orig": "known for",
+        "speakText": "known for",
+        "phonetic": "known-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for his",
+        "speakText": "for his",
+        "phonetic": "fer-iz",
+        "desc": "his 開頭的 /h/ 在連讀時常弱化省略，for 尾音直接黏上 iz 變成 fer-iz。"
+      },
+      {
+        "orig": "his splendid",
+        "speakText": "his splendid",
+        "phonetic": "iz-splen-did",
+        "desc": "his 開頭的 /h/ 在連讀時常弱化省略，與前一字尾音黏連。"
+      },
+      {
+        "orig": "splendid achievements",
+        "speakText": "splendid achievements",
+        "phonetic": "splen-did-uh-cheev-munts",
+        "desc": "splendid 尾音輔音自然連向 achievements 的開頭母音，語流連成 splen-did-uh-cheev-munts。"
+      }
+    ]
+  },
+  {
+    "en": "The new restaurant is popular with women because it has a cozy atmosphere.",
+    "zh": "這家新餐廳因為氣氛溫馨舒適，很受女性歡迎。",
+    "notes": [
+      {
+        "orig": "The new",
+        "speakText": "The new",
+        "phonetic": "thuh-new",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "restaurant is",
+        "speakText": "restaurant is",
+        "phonetic": "res-tuh-rahnt-is",
+        "desc": "restaurant 尾音輔音自然連向 is 的開頭母音，語流連成 res-tuh-rahnt-is。"
+      },
+      {
+        "orig": "it has",
+        "speakText": "it has",
+        "phonetic": "it-huz",
+        "desc": "助動詞 has 弱讀為輕短的 /huz/。"
+      },
+      {
+        "orig": "has a",
+        "speakText": "has a",
+        "phonetic": "huz-uh",
+        "desc": "has 尾音直接連向弱讀的 a（/uh/），聽起來像 huz-uh。"
+      },
+      {
+        "orig": "a cozy",
+        "speakText": "a cozy",
+        "phonetic": "uh-cozy",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      }
+    ]
+  },
+  {
+    "en": "There are many rigid rules we have to follow while working at the factory.",
+    "zh": "在工廠工作時，我們必須遵守許多嚴格死板的規定。",
+    "notes": [
+      {
+        "orig": "There are",
+        "speakText": "There are",
+        "phonetic": "there-er",
+        "desc": "be 動詞 are 在非重讀位置弱讀為 /er/。"
+      },
+      {
+        "orig": "are many",
+        "speakText": "are many",
+        "phonetic": "er-many",
+        "desc": "be 動詞 are 在非重讀位置弱讀為 /er/。"
+      },
+      {
+        "orig": "we have",
+        "speakText": "we have",
+        "phonetic": "we-huv",
+        "desc": "助動詞 have 弱讀為輕短的 /huv/。"
+      },
+      {
+        "orig": "have to",
+        "speakText": "have to",
+        "phonetic": "huv-tuh",
+        "desc": "have 與 to 皆為非重讀功能詞，雙雙弱讀並連成輕短的 huv-tuh。"
+      },
+      {
+        "orig": "to follow",
+        "speakText": "to follow",
+        "phonetic": "tuh-follow",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "We train staff thoroughly in order to provide consistent service levels.",
+    "zh": "我們徹底培訓員工，以提供一致的服務水準。",
+    "notes": [
+      {
+        "orig": "thoroughly in",
+        "speakText": "thoroughly in",
+        "phonetic": "thoroughly-in",
+        "desc": "thoroughly 尾音輔音自然連向 in 的開頭母音，語流連成 thoroughly-in。"
+      },
+      {
+        "orig": "in order",
+        "speakText": "in order",
+        "phonetic": "in-order",
+        "desc": "in 尾音輔音自然連向 order 的開頭母音，語流連成 in-order。"
+      },
+      {
+        "orig": "order to",
+        "speakText": "order to",
+        "phonetic": "order-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to provide",
+        "speakText": "to provide",
+        "phonetic": "tuh-provide",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "consistent service",
+        "speakText": "consistent service",
+        "phonetic": "kun-sis-tunt-service",
+        "desc": "consistent 字尾塞音在後續輔音 /s/ 前發生吞音（無聲除阻），直接滑向 service。"
+      }
+    ]
+  }
+]

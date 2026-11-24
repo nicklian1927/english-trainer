@@ -1,0 +1,224 @@
+[
+  {
+    "en": "Allen is surrounded by paperwork every day and never seems to get things done.",
+    "zh": "艾倫每天都被文書工作包圍，似乎永遠做不完事情。",
+    "notes": [
+      {
+        "orig": "Allen is",
+        "speakText": "Allen is",
+        "phonetic": "al-un-iz",
+        "desc": "Allen 尾音 /n/ 連向 is 的母音 /ɪ/，聽起來像 al-un-iz。"
+      },
+      {
+        "orig": "surrounded by",
+        "speakText": "surrounded by",
+        "phonetic": "suh-rown-did-by",
+        "desc": "surrounded 尾音 /d/ 接 by。"
+      },
+      {
+        "orig": "every day",
+        "speakText": "every day",
+        "phonetic": "ev-ree-day",
+        "desc": "every 常弱化為兩音節 ev-ree。"
+      },
+      {
+        "orig": "to get",
+        "speakText": "to get",
+        "phonetic": "tuh-get",
+        "desc": "to 弱讀為 tuh，直接接 get。"
+      },
+      {
+        "orig": "things done",
+        "speakText": "things done",
+        "phonetic": "thingz-dun",
+        "desc": "things 尾音 /z/ 接 done。"
+      }
+    ]
+  },
+  {
+    "en": "Olivia's fine work reflects her intelligence.",
+    "zh": "奧莉薇亞出色的工作表現反映了她的才智。",
+    "notes": [
+      {
+        "orig": "reflects her",
+        "speakText": "reflects her",
+        "phonetic": "ri-flek-ser",
+        "desc": "her 的 /h/ 弱化省略，reflects 尾音滑向 er。"
+      }
+    ]
+  },
+  {
+    "en": "The president persists in his plan to move the headquarters to the city center.",
+    "zh": "總統仍堅持將總部遷往市中心的計畫。",
+    "notes": [
+      {
+        "orig": "persists in",
+        "speakText": "persists in",
+        "phonetic": "per-sis-tin",
+        "desc": "persists 尾音 /sts/ 連向 in 的母音 /ɪ/，聽起來像 per-sis-tin。"
+      },
+      {
+        "orig": "in his",
+        "speakText": "in his",
+        "phonetic": "i-niz",
+        "desc": "his 的 /h/ 弱化省略，in 的 /n/ 連向 iz 變成 i-niz。"
+      },
+      {
+        "orig": "to move",
+        "speakText": "to move",
+        "phonetic": "tuh-moov",
+        "desc": "to 弱讀為 tuh，直接接 move。"
+      },
+      {
+        "orig": "move the",
+        "speakText": "move the",
+        "phonetic": "moov-thuh",
+        "desc": "the 弱讀為輕短的 thuh。"
+      },
+      {
+        "orig": "to the",
+        "speakText": "to the",
+        "phonetic": "tuh-thuh",
+        "desc": "to 與 the 雙雙弱讀為輕短音。"
+      }
+    ]
+  },
+  {
+    "en": "The scientists plan to explore every possibility of life on Mars.",
+    "zh": "科學家們計畫探索火星上存在生命的所有可能性。",
+    "notes": [
+      {
+        "orig": "to explore",
+        "speakText": "to explore",
+        "phonetic": "tuh-ik-splor",
+        "desc": "to 弱讀為 tuh，直接連向 explore。"
+      },
+      {
+        "orig": "every possibility",
+        "speakText": "every possibility",
+        "phonetic": "ev-ree-pah-suh-bil-uh-tee",
+        "desc": "every 弱化為 ev-ree，possibility 中間的 t 閃化。"
+      },
+      {
+        "orig": "of life",
+        "speakText": "of life",
+        "phonetic": "uh-lyf",
+        "desc": "of 弱讀為輕短的 /uh/，接 life。"
+      },
+      {
+        "orig": "on Mars",
+        "speakText": "on Mars",
+        "phonetic": "ahn-marz",
+        "desc": "on 尾音 /n/ 緊接 Mars。"
+      }
+    ]
+  },
+  {
+    "en": "Hamwell store clerks strive to answer all shopper questions.",
+    "zh": "漢威爾商店的店員努力回答所有顧客的問題。",
+    "notes": [
+      {
+        "orig": "to answer",
+        "speakText": "to answer",
+        "phonetic": "tuh-an-ser",
+        "desc": "to 弱讀為 tuh，連向 answer 的母音 /æ/。"
+      },
+      {
+        "orig": "answer all",
+        "speakText": "answer all",
+        "phonetic": "an-ser-awl",
+        "desc": "answer 尾音 /r/ 連向 all 的母音 /ɔː/。"
+      }
+    ]
+  },
+  {
+    "en": "Robert was told that he should interact more with his colleagues.",
+    "zh": "羅伯特被告知他應該多與同事互動。",
+    "notes": [
+      {
+        "orig": "was told",
+        "speakText": "was told",
+        "phonetic": "wuz-tohld",
+        "desc": "was 弱讀為 wuz，told 尾音 /d/ 輕觸。"
+      },
+      {
+        "orig": "that he",
+        "speakText": "that he",
+        "phonetic": "thut-ee",
+        "desc": "that 弱讀為 thut，he 的 /h/ 弱化省略，聽起來像 thut-ee。"
+      },
+      {
+        "orig": "with his",
+        "speakText": "with his",
+        "phonetic": "wi-thiz",
+        "desc": "his 的 /h/ 弱化省略，連向 with 聽起來像 wi-thiz。"
+      }
+    ]
+  },
+  {
+    "en": "My boss will accompany me to the client's office.",
+    "zh": "老闆將陪同我去客戶的辦公室。",
+    "notes": [
+      {
+        "orig": "to the",
+        "speakText": "to the",
+        "phonetic": "tuh-thuh",
+        "desc": "to 與 the 雙雙弱讀為輕短音。"
+      }
+    ]
+  },
+  {
+    "en": "The couple strolled down the street toward the Seine.",
+    "zh": "這對情侶沿著街道散步走向塞納河。",
+    "notes": [
+      {
+        "orig": "down the",
+        "speakText": "down the",
+        "phonetic": "down-thuh",
+        "desc": "the 弱讀為輕短的 thuh。"
+      },
+      {
+        "orig": "toward the",
+        "speakText": "toward the",
+        "phonetic": "tord-thuh",
+        "desc": "toward 常弱化為兩音節 tord，接弱讀的 thuh。"
+      }
+    ]
+  },
+  {
+    "en": "CEO Michelle Sykes will preside over the annual shareholders' conference.",
+    "zh": "執行長蜜雪兒・賽克斯將主持年度股東大會。",
+    "notes": [
+      {
+        "orig": "preside over",
+        "speakText": "preside over",
+        "phonetic": "pri-zy-doh-ver",
+        "desc": "preside 尾音 /d/ 連向 over 的母音 /oʊ/，聽起來像 zy-doh-ver。"
+      }
+    ]
+  },
+  {
+    "en": "The NPO is soliciting donations to raise and train guide dogs.",
+    "zh": "該非營利組織正在募款以培育和訓練導盲犬。",
+    "notes": [
+      {
+        "orig": "is soliciting",
+        "speakText": "is soliciting",
+        "phonetic": "iz-suh-lis-uh-ding",
+        "desc": "is 弱讀為 iz，soliciting 中間的 t 閃化為 /ɾ/。"
+      },
+      {
+        "orig": "to raise",
+        "speakText": "to raise",
+        "phonetic": "tuh-rayz",
+        "desc": "to 弱讀為 tuh，直接接 raise。"
+      },
+      {
+        "orig": "and train",
+        "speakText": "and train",
+        "phonetic": "un-trayn",
+        "desc": "and 弱化吞掉 /d/，聽起來像 un-trayn。"
+      }
+    ]
+  }
+]

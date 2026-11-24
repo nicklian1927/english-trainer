@@ -1,0 +1,332 @@
+[
+  {
+    "en": "Anna likes to keep a tidy desk and has her files in alphabetical order.",
+    "zh": "安娜喜歡保持書桌整潔，並按字母順序排列檔案。",
+    "notes": [
+      {
+        "orig": "likes to",
+        "speakText": "likes to",
+        "phonetic": "likes-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to keep",
+        "speakText": "to keep",
+        "phonetic": "tuh-keep",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "keep a",
+        "speakText": "keep a",
+        "phonetic": "keep-uh",
+        "desc": "keep 尾音直接連向弱讀的 a（/uh/），聽起來像 keep-uh。"
+      },
+      {
+        "orig": "a tidy",
+        "speakText": "a tidy",
+        "phonetic": "uh-tidy",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "desk and",
+        "speakText": "desk and",
+        "phonetic": "desk-un",
+        "desc": "desk 尾音輔音自然連向 and 的開頭母音，語流連成 desk-un。"
+      }
+    ]
+  },
+  {
+    "en": "The preliminary quarter three report had information that was confirmed later.",
+    "zh": "第三季初步報告中的資訊在後來得到了證實。",
+    "notes": [
+      {
+        "orig": "The preliminary",
+        "speakText": "The preliminary",
+        "phonetic": "thuh-pri-lim-uh-ner-ee",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "had information",
+        "speakText": "had information",
+        "phonetic": "had-in-fer-may-shun",
+        "desc": "had 尾音輔音自然連向 information 的開頭母音，語流連成 had-in-fer-may-shun。"
+      },
+      {
+        "orig": "information that",
+        "speakText": "information that",
+        "phonetic": "in-fer-may-shun-thut",
+        "desc": "連接詞／關係代名詞 that 弱讀為輕短的 /thut/。"
+      },
+      {
+        "orig": "that was",
+        "speakText": "that was",
+        "phonetic": "thut-wuz",
+        "desc": "that 與 was 皆為非重讀功能詞，雙雙弱讀並連成輕短的 thut-wuz。"
+      },
+      {
+        "orig": "was confirmed",
+        "speakText": "was confirmed",
+        "phonetic": "wuz-confirmd",
+        "desc": "was 弱讀為輕短的 /wuz/。"
+      }
+    ]
+  },
+  {
+    "en": "The new jeans are made of a durable fabric that can stand hundreds of washings.",
+    "zh": "這款新牛仔褲採用耐穿布料製成，可經得起數百次水洗。",
+    "notes": [
+      {
+        "orig": "The new",
+        "speakText": "The new",
+        "phonetic": "thuh-new",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "jeans are",
+        "speakText": "jeans are",
+        "phonetic": "jeans-er",
+        "desc": "jeans 尾音直接連向弱讀的 are（/er/），聽起來像 jeans-er。"
+      },
+      {
+        "orig": "are made",
+        "speakText": "are made",
+        "phonetic": "er-made",
+        "desc": "be 動詞 are 在非重讀位置弱讀為 /er/。"
+      },
+      {
+        "orig": "made of",
+        "speakText": "made of",
+        "phonetic": "made-uh",
+        "desc": "介系詞 of 在口語連讀中常弱化為輕短的 /uh/（或 /uv/）。"
+      },
+      {
+        "orig": "of a",
+        "speakText": "of a",
+        "phonetic": "uh-uh",
+        "desc": "of 尾音直接連向弱讀的 a（/uh/），聽起來像 uh-uh。"
+      }
+    ]
+  },
+  {
+    "en": "The critically acclaimed movie Nights of the Mist won prizes in 28 countries.",
+    "zh": "廣受好評的電影《迷霧之夜》在 28 個國家獲得獎項。",
+    "notes": [
+      {
+        "orig": "The critically",
+        "speakText": "The critically",
+        "phonetic": "thuh-kri-duh-klee",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "critically acclaimed",
+        "speakText": "critically acclaimed",
+        "phonetic": "kri-duh-klee-uh-klaymd",
+        "desc": "critically 尾音輔音自然連向 acclaimed 的開頭母音，語流連成 kri-duh-klee-uh-klaymd。"
+      },
+      {
+        "orig": "Nights of",
+        "speakText": "Nights of",
+        "phonetic": "nights-uh",
+        "desc": "Nights 尾音直接連向弱讀的 of（/uh/），聽起來像 nights-uh。"
+      },
+      {
+        "orig": "of the",
+        "speakText": "of the",
+        "phonetic": "uh-thuh",
+        "desc": "of 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 uh-thuh。"
+      },
+      {
+        "orig": "the Mist",
+        "speakText": "the Mist",
+        "phonetic": "thuh-mist",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "I deleted some redundant agenda points.",
+    "zh": "我刪除了一些冗餘的議程項目。",
+    "notes": [
+      {
+        "orig": "redundant agenda",
+        "speakText": "redundant agenda",
+        "phonetic": "ri-dun-dunt-agenda",
+        "desc": "redundant 尾音輔音自然連向 agenda 的開頭母音，語流連成 ri-dun-dunt-agenda。"
+      }
+    ]
+  },
+  {
+    "en": "The glassware company feels it is vulnerable to some emerging competitors.",
+    "zh": "這家玻璃器皿公司覺得自己容易受到部分新興競爭對手的衝擊。",
+    "notes": [
+      {
+        "orig": "The glassware",
+        "speakText": "The glassware",
+        "phonetic": "thuh-glassware",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "feels it",
+        "speakText": "feels it",
+        "phonetic": "feels-it",
+        "desc": "feels 尾音輔音自然連向 it 的開頭母音，語流連成 feels-it。"
+      },
+      {
+        "orig": "it is",
+        "speakText": "it is",
+        "phonetic": "i-dis",
+        "desc": "it 字尾 /t/ 夾在母音間閃化為輕彈音 /ɾ/，與 is 連讀成 i-dis。"
+      },
+      {
+        "orig": "vulnerable to",
+        "speakText": "vulnerable to",
+        "phonetic": "vul-ner-uh-bul-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to some",
+        "speakText": "to some",
+        "phonetic": "tuh-some",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "Interest rates increased only a negligible amount, relieving many borrowers.",
+    "zh": "利率僅微幅調升，讓許多借款人鬆了一口氣。",
+    "notes": [
+      {
+        "orig": "Interest rates",
+        "speakText": "Interest rates",
+        "phonetic": "interest-rates",
+        "desc": "Interest 字尾塞音在後續輔音 /r/ 前發生吞音（無聲除阻），直接滑向 rates。"
+      },
+      {
+        "orig": "rates increased",
+        "speakText": "rates increased",
+        "phonetic": "rates-increasd",
+        "desc": "rates 尾音輔音自然連向 increased 的開頭母音，語流連成 rates-increasd。"
+      },
+      {
+        "orig": "increased only",
+        "speakText": "increased only",
+        "phonetic": "increasd-only",
+        "desc": "increased 尾音輔音自然連向 only 的開頭母音，語流連成 increasd-only。"
+      },
+      {
+        "orig": "only a",
+        "speakText": "only a",
+        "phonetic": "only-uh",
+        "desc": "only 尾音直接連向弱讀的 a（/uh/），聽起來像 only-uh。"
+      },
+      {
+        "orig": "a negligible",
+        "speakText": "a negligible",
+        "phonetic": "uh-neg-li-juh-bul",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      }
+    ]
+  },
+  {
+    "en": "The R&D department is indispensable to the expansion plans of our company.",
+    "zh": "研發部門對我們公司的擴張計畫不可或缺。",
+    "notes": [
+      {
+        "orig": "The R",
+        "speakText": "The R",
+        "phonetic": "thuh-r",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "department is",
+        "speakText": "department is",
+        "phonetic": "di-part-munt-is",
+        "desc": "department 尾音輔音自然連向 is 的開頭母音，語流連成 di-part-munt-is。"
+      },
+      {
+        "orig": "is indispensable",
+        "speakText": "is indispensable",
+        "phonetic": "is-in-di-spen-suh-bul",
+        "desc": "is 尾音輔音自然連向 indispensable 的開頭母音，語流連成 is-in-di-spen-suh-bul。"
+      },
+      {
+        "orig": "indispensable to",
+        "speakText": "indispensable to",
+        "phonetic": "in-di-spen-suh-bul-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to the",
+        "speakText": "to the",
+        "phonetic": "tuh-thuh",
+        "desc": "to 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 tuh-thuh。"
+      }
+    ]
+  },
+  {
+    "en": "The electronics firm is always creating cutting-edge products.",
+    "zh": "這家電子公司總是不斷研發尖端產品。",
+    "notes": [
+      {
+        "orig": "The electronics",
+        "speakText": "The electronics",
+        "phonetic": "thuh-electronics",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "firm is",
+        "speakText": "firm is",
+        "phonetic": "firm-is",
+        "desc": "firm 尾音輔音自然連向 is 的開頭母音，語流連成 firm-is。"
+      },
+      {
+        "orig": "is always",
+        "speakText": "is always",
+        "phonetic": "is-always",
+        "desc": "is 尾音輔音自然連向 always 的開頭母音，語流連成 is-always。"
+      },
+      {
+        "orig": "cutting-edge",
+        "speakText": "cutting-edge",
+        "phonetic": "cutting-edge",
+        "desc": "cutting 尾音輔音自然連向 edge 的開頭母音，語流連成 cutting-edge。"
+      }
+    ]
+  },
+  {
+    "en": "Francine Patton is a high-profile executive who has often been interviewed by the business media.",
+    "zh": "法蘭辛・巴頓是一位備受矚目的高階主管，經常接受財經媒體採訪。",
+    "notes": [
+      {
+        "orig": "Patton is",
+        "speakText": "Patton is",
+        "phonetic": "patton-is",
+        "desc": "Patton 尾音輔音自然連向 is 的開頭母音，語流連成 patton-is。"
+      },
+      {
+        "orig": "is a",
+        "speakText": "is a",
+        "phonetic": "is-uh",
+        "desc": "is 尾音直接連向弱讀的 a（/uh/），聽起來像 is-uh。"
+      },
+      {
+        "orig": "a high",
+        "speakText": "a high",
+        "phonetic": "uh-high",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "who has",
+        "speakText": "who has",
+        "phonetic": "who-huz",
+        "desc": "助動詞 has 弱讀為輕短的 /huz/。"
+      },
+      {
+        "orig": "has often",
+        "speakText": "has often",
+        "phonetic": "huz-often",
+        "desc": "has 尾音輔音自然連向 often 的開頭母音，語流連成 huz-often。"
+      }
+    ]
+  }
+]

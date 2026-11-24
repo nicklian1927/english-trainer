@@ -1,0 +1,338 @@
+[
+  {
+    "en": "The firm plans to develop another office complex downtown.",
+    "zh": "該公司計畫在市中心開發另一座辦公大樓建築群。",
+    "notes": [
+      {
+        "orig": "The firm",
+        "speakText": "The firm",
+        "phonetic": "thuh-firm",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "plans to",
+        "speakText": "plans to",
+        "phonetic": "plans-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to develop",
+        "speakText": "to develop",
+        "phonetic": "tuh-develop",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "develop another",
+        "speakText": "develop another",
+        "phonetic": "develop-another",
+        "desc": "develop 尾音輔音自然連向 another 的開頭母音，語流連成 develop-another。"
+      },
+      {
+        "orig": "another office",
+        "speakText": "another office",
+        "phonetic": "another-office",
+        "desc": "another 尾音輔音自然連向 office 的開頭母音，語流連成 another-office。"
+      }
+    ]
+  },
+  {
+    "en": "I work for the company on a contract basis.",
+    "zh": "我以約聘方式為該公司工作。",
+    "notes": [
+      {
+        "orig": "work for",
+        "speakText": "work for",
+        "phonetic": "work-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for the",
+        "speakText": "for the",
+        "phonetic": "fer-thuh",
+        "desc": "for 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 fer-thuh。"
+      },
+      {
+        "orig": "the company",
+        "speakText": "the company",
+        "phonetic": "thuh-kum-puh-nee",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "company on",
+        "speakText": "company on",
+        "phonetic": "kum-puh-nee-on",
+        "desc": "company 尾音輔音自然連向 on 的開頭母音，語流連成 kum-puh-nee-on。"
+      },
+      {
+        "orig": "on a",
+        "speakText": "on a",
+        "phonetic": "on-uh",
+        "desc": "on 尾音直接連向弱讀的 a（/uh/），聽起來像 on-uh。"
+      }
+    ]
+  },
+  {
+    "en": "The firm is known for being a patron of the arts.",
+    "zh": "該公司向來以贊助藝術事業聞名。",
+    "notes": [
+      {
+        "orig": "The firm",
+        "speakText": "The firm",
+        "phonetic": "thuh-firm",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "firm is",
+        "speakText": "firm is",
+        "phonetic": "firm-is",
+        "desc": "firm 尾音輔音自然連向 is 的開頭母音，語流連成 firm-is。"
+      },
+      {
+        "orig": "known for",
+        "speakText": "known for",
+        "phonetic": "known-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for being",
+        "speakText": "for being",
+        "phonetic": "fer-being",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "being a",
+        "speakText": "being a",
+        "phonetic": "being-uh",
+        "desc": "being 尾音直接連向弱讀的 a（/uh/），聽起來像 being-uh。"
+      }
+    ]
+  },
+  {
+    "en": "The insurance policy offers full coverage on fire and theft.",
+    "zh": "這份保單提供火災與竊盜的全額理賠保障。",
+    "notes": [
+      {
+        "orig": "The insurance",
+        "speakText": "The insurance",
+        "phonetic": "thuh-insurance",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "policy offers",
+        "speakText": "policy offers",
+        "phonetic": "policy-offers",
+        "desc": "policy 尾音輔音自然連向 offers 的開頭母音，語流連成 policy-offers。"
+      },
+      {
+        "orig": "fire and",
+        "speakText": "fire and",
+        "phonetic": "fire-un",
+        "desc": "連接詞 and 常弱化並吞掉字尾 /d/，唸成輕短的 /un/。"
+      },
+      {
+        "orig": "and theft",
+        "speakText": "and theft",
+        "phonetic": "un-theft",
+        "desc": "and 字尾塞音在後續輔音 /t/ 前發生吞音（無聲除阻），直接滑向 theft。"
+      }
+    ]
+  },
+  {
+    "en": "What is the frequency of your overseas business trips?",
+    "zh": "你出國出差的頻率有多高？",
+    "notes": [
+      {
+        "orig": "What is",
+        "speakText": "What is",
+        "phonetic": "wha-dis",
+        "desc": "What 字尾 /t/ 夾在母音間閃化為輕彈音 /ɾ/，與 is 連讀成 wha-dis。"
+      },
+      {
+        "orig": "is the",
+        "speakText": "is the",
+        "phonetic": "is-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the frequency",
+        "speakText": "the frequency",
+        "phonetic": "thuh-free-kwun-see",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "frequency of",
+        "speakText": "frequency of",
+        "phonetic": "free-kwun-see-uh",
+        "desc": "frequency 尾音直接連向弱讀的 of（/uh/），聽起來像 free-kwun-see-uh。"
+      },
+      {
+        "orig": "of your",
+        "speakText": "of your",
+        "phonetic": "uh-yer",
+        "desc": "of 與 your 皆為非重讀功能詞，雙雙弱讀並連成輕短的 uh-yer。"
+      }
+    ]
+  },
+  {
+    "en": "This vacuum cleaner works well on any kind of surface.",
+    "zh": "這台吸塵器在任何表面上都很好用。",
+    "notes": [
+      {
+        "orig": "well on",
+        "speakText": "well on",
+        "phonetic": "well-on",
+        "desc": "well 尾音輔音自然連向 on 的開頭母音，語流連成 well-on。"
+      },
+      {
+        "orig": "on any",
+        "speakText": "on any",
+        "phonetic": "on-any",
+        "desc": "on 尾音輔音自然連向 any 的開頭母音，語流連成 on-any。"
+      },
+      {
+        "orig": "kind of",
+        "speakText": "kind of",
+        "phonetic": "kind-uh",
+        "desc": "kind 尾音直接連向弱讀的 of（/uh/），聽起來像 kind-uh。"
+      },
+      {
+        "orig": "of surface",
+        "speakText": "of surface",
+        "phonetic": "uh-surface",
+        "desc": "介系詞 of 在口語連讀中常弱化為輕短的 /uh/（或 /uv/）。"
+      }
+    ]
+  },
+  {
+    "en": "We are a travel agency focused on Tuscany, Italy.",
+    "zh": "我們是一家專注於義大利托斯卡尼旅遊的旅行社。",
+    "notes": [
+      {
+        "orig": "We are",
+        "speakText": "We are",
+        "phonetic": "we-er",
+        "desc": "be 動詞 are 在非重讀位置弱讀為 /er/。"
+      },
+      {
+        "orig": "are a",
+        "speakText": "are a",
+        "phonetic": "er-uh",
+        "desc": "are 與 a 皆為非重讀功能詞，雙雙弱讀並連成輕短的 er-uh。"
+      },
+      {
+        "orig": "a travel",
+        "speakText": "a travel",
+        "phonetic": "uh-travel",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "travel agency",
+        "speakText": "travel agency",
+        "phonetic": "travel-agency",
+        "desc": "travel 尾音輔音自然連向 agency 的開頭母音，語流連成 travel-agency。"
+      },
+      {
+        "orig": "focused on",
+        "speakText": "focused on",
+        "phonetic": "focusd-on",
+        "desc": "focused 尾音輔音自然連向 on 的開頭母音，語流連成 focusd-on。"
+      }
+    ]
+  },
+  {
+    "en": "A panel of doctors reviewed several medical malpractice claims.",
+    "zh": "一個醫師小組審查了幾起醫療疏失索賠案件。",
+    "notes": [
+      {
+        "orig": "A panel",
+        "speakText": "A panel",
+        "phonetic": "uh-panel",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "panel of",
+        "speakText": "panel of",
+        "phonetic": "panel-uh",
+        "desc": "panel 尾音直接連向弱讀的 of（/uh/），聽起來像 panel-uh。"
+      },
+      {
+        "orig": "of doctors",
+        "speakText": "of doctors",
+        "phonetic": "uh-doctors",
+        "desc": "介系詞 of 在口語連讀中常弱化為輕短的 /uh/（或 /uv/）。"
+      }
+    ]
+  },
+  {
+    "en": "Overall reform is necessary for the current pension system.",
+    "zh": "目前的退休金制度有必要進行全面改革。",
+    "notes": [
+      {
+        "orig": "reform is",
+        "speakText": "reform is",
+        "phonetic": "reform-is",
+        "desc": "reform 尾音輔音自然連向 is 的開頭母音，語流連成 reform-is。"
+      },
+      {
+        "orig": "necessary for",
+        "speakText": "necessary for",
+        "phonetic": "necessary-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for the",
+        "speakText": "for the",
+        "phonetic": "fer-thuh",
+        "desc": "for 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 fer-thuh。"
+      },
+      {
+        "orig": "the current",
+        "speakText": "the current",
+        "phonetic": "thuh-current",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "current pension",
+        "speakText": "current pension",
+        "phonetic": "current-penzhun",
+        "desc": "current 字尾塞音在後續輔音 /p/ 前發生吞音（無聲除阻），直接滑向 pension。"
+      }
+    ]
+  },
+  {
+    "en": "We operate on the principle of putting the customer first.",
+    "zh": "我們秉持顧客至上的原則營運。",
+    "notes": [
+      {
+        "orig": "on the",
+        "speakText": "on the",
+        "phonetic": "on-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the principle",
+        "speakText": "the principle",
+        "phonetic": "thuh-prin-suh-pul",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "principle of",
+        "speakText": "principle of",
+        "phonetic": "prin-suh-pul-uh",
+        "desc": "介系詞 of 在口語連讀中常弱化為輕短的 /uh/（或 /uv/）。"
+      },
+      {
+        "orig": "of putting",
+        "speakText": "of putting",
+        "phonetic": "uh-putting",
+        "desc": "介系詞 of 在口語連讀中常弱化為輕短的 /uh/（或 /uv/）。"
+      },
+      {
+        "orig": "putting the",
+        "speakText": "putting the",
+        "phonetic": "putting-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "en": "There is controversy over the plans to outsource some business functions.",
+    "zh": "關於將部分業務職能外包的計畫存在爭議。",
+    "notes": [
+      {
+        "orig": "controversy over",
+        "speakText": "controversy over",
+        "phonetic": "kahn-truh-ver-see-over",
+        "desc": "controversy 尾音輔音自然連向 over 的開頭母音，語流連成 kahn-truh-ver-see-over。"
+      },
+      {
+        "orig": "over the",
+        "speakText": "over the",
+        "phonetic": "over-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the plans",
+        "speakText": "the plans",
+        "phonetic": "thuh-plans",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "plans to",
+        "speakText": "plans to",
+        "phonetic": "plans-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to outsource",
+        "speakText": "to outsource",
+        "phonetic": "tuh-outsource",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "He received a caution from his doctor about too much fat in his diet.",
+    "zh": "他收到醫生的警告，提醒他飲食中脂肪攝取過多。",
+    "notes": [
+      {
+        "orig": "He received",
+        "speakText": "He received",
+        "phonetic": "ee-receivd",
+        "desc": "he 開頭的 /h/ 在句中連讀時常弱化省略。"
+      },
+      {
+        "orig": "received a",
+        "speakText": "received a",
+        "phonetic": "receivd-uh",
+        "desc": "received 尾音直接連向弱讀的 a（/uh/），聽起來像 receivd-uh。"
+      },
+      {
+        "orig": "a caution",
+        "speakText": "a caution",
+        "phonetic": "uh-caushun",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "caution from",
+        "speakText": "caution from",
+        "phonetic": "caushun-frum",
+        "desc": "介系詞 from 弱讀為輕短的 /frum/。"
+      },
+      {
+        "orig": "from his",
+        "speakText": "from his",
+        "phonetic": "frum-iz",
+        "desc": "his 開頭的 /h/ 在連讀時常弱化省略，from 尾音直接黏上 iz 變成 frum-iz。"
+      }
+    ]
+  },
+  {
+    "en": "The rising unemployment rate has become a concern to the state government.",
+    "zh": "不斷攀升的失業率已成為州政府關注的焦點。",
+    "notes": [
+      {
+        "orig": "The rising",
+        "speakText": "The rising",
+        "phonetic": "thuh-rising",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "rising unemployment",
+        "speakText": "rising unemployment",
+        "phonetic": "rising-un-em-ploy-munt",
+        "desc": "rising 尾音輔音自然連向 unemployment 的開頭母音，語流連成 rising-un-em-ploy-munt。"
+      },
+      {
+        "orig": "unemployment rate",
+        "speakText": "unemployment rate",
+        "phonetic": "un-em-ploy-munt-rate",
+        "desc": "unemployment 字尾塞音在後續輔音 /r/ 前發生吞音（無聲除阻），直接滑向 rate。"
+      },
+      {
+        "orig": "rate has",
+        "speakText": "rate has",
+        "phonetic": "rate-huz",
+        "desc": "助動詞 has 弱讀為輕短的 /huz/。"
+      },
+      {
+        "orig": "has become",
+        "speakText": "has become",
+        "phonetic": "huz-become",
+        "desc": "助動詞 has 弱讀為輕短的 /huz/。"
+      }
+    ]
+  },
+  {
+    "en": "Eve is a friendly person and has a good attitude toward work.",
+    "zh": "伊芙為人友善，對工作抱持良好的態度。",
+    "notes": [
+      {
+        "orig": "is a",
+        "speakText": "is a",
+        "phonetic": "is-uh",
+        "desc": "is 尾音直接連向弱讀的 a（/uh/），聽起來像 is-uh。"
+      },
+      {
+        "orig": "a friendly",
+        "speakText": "a friendly",
+        "phonetic": "uh-friendly",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "person and",
+        "speakText": "person and",
+        "phonetic": "person-un",
+        "desc": "person 尾音輔音自然連向 and 的開頭母音，語流連成 person-un。"
+      },
+      {
+        "orig": "and has",
+        "speakText": "and has",
+        "phonetic": "un-huz",
+        "desc": "and 字尾塞音在後續輔音 /h/ 前發生吞音（無聲除阻），直接滑向 has。"
+      },
+      {
+        "orig": "has a",
+        "speakText": "has a",
+        "phonetic": "huz-uh",
+        "desc": "has 尾音直接連向弱讀的 a（/uh/），聽起來像 huz-uh。"
+      }
+    ]
+  },
+  {
+    "en": "The rumor about Ms. Davidson's retirement quickly spread around the office.",
+    "zh": "關於戴維森女士退休的傳聞很快在辦公室裡傳開了。",
+    "notes": [
+      {
+        "orig": "The rumor",
+        "speakText": "The rumor",
+        "phonetic": "thuh-rumor",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "rumor about",
+        "speakText": "rumor about",
+        "phonetic": "rumor-about",
+        "desc": "rumor 尾音輔音自然連向 about 的開頭母音，語流連成 rumor-about。"
+      },
+      {
+        "orig": "retirement quickly",
+        "speakText": "retirement quickly",
+        "phonetic": "retiremunt-quickly",
+        "desc": "retirement 字尾塞音在後續輔音 /q/ 前發生吞音（無聲除阻），直接滑向 quickly。"
+      },
+      {
+        "orig": "spread around",
+        "speakText": "spread around",
+        "phonetic": "spread-around",
+        "desc": "spread 尾音輔音自然連向 around 的開頭母音，語流連成 spread-around。"
+      },
+      {
+        "orig": "around the",
+        "speakText": "around the",
+        "phonetic": "around-thuh",
+        "desc": "around 字尾塞音在後續輔音 /t/ 前發生吞音（無聲除阻），直接滑向 the。"
+      }
+    ]
+  },
+  {
+    "en": "Higher market share was the outcome of the two companies' merger.",
+    "zh": "更高的市占率是兩家公司合併的結果。",
+    "notes": [
+      {
+        "orig": "share was",
+        "speakText": "share was",
+        "phonetic": "share-wuz",
+        "desc": "was 弱讀為輕短的 /wuz/。"
+      },
+      {
+        "orig": "was the",
+        "speakText": "was the",
+        "phonetic": "wuz-thuh",
+        "desc": "was 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 wuz-thuh。"
+      },
+      {
+        "orig": "the outcome",
+        "speakText": "the outcome",
+        "phonetic": "thuh-outcome",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "outcome of",
+        "speakText": "outcome of",
+        "phonetic": "outcome-uh",
+        "desc": "介系詞 of 在口語連讀中常弱化為輕短的 /uh/（或 /uv/）。"
+      },
+      {
+        "orig": "of the",
+        "speakText": "of the",
+        "phonetic": "uh-thuh",
+        "desc": "of 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 uh-thuh。"
+      }
+    ]
+  },
+  {
+    "en": "Our main objective is to deliver packages as quickly as possible.",
+    "zh": "我們的主要目標是盡快送達包裹。",
+    "notes": [
+      {
+        "orig": "Our main",
+        "speakText": "Our main",
+        "phonetic": "owr-main",
+        "desc": "our 與前一字尾音自然連讀滑入。"
+      },
+      {
+        "orig": "main objective",
+        "speakText": "main objective",
+        "phonetic": "main-ub-jek-tiv",
+        "desc": "main 尾音輔音自然連向 objective 的開頭母音，語流連成 main-ub-jek-tiv。"
+      },
+      {
+        "orig": "is to",
+        "speakText": "is to",
+        "phonetic": "is-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to deliver",
+        "speakText": "to deliver",
+        "phonetic": "tuh-deliver",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "packages as",
+        "speakText": "packages as",
+        "phonetic": "packages-uz",
+        "desc": "packages 尾音直接連向弱讀的 as（/uz/），聽起來像 packages-uz。"
+      }
+    ]
+  },
+  {
+    "en": "The purpose of the event is to raise money for children's charities.",
+    "zh": "這場活動的目的是為兒童慈善機構募款。",
+    "notes": [
+      {
+        "orig": "The purpose",
+        "speakText": "The purpose",
+        "phonetic": "thuh-purpose",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "purpose of",
+        "speakText": "purpose of",
+        "phonetic": "purpose-uh",
+        "desc": "介系詞 of 在口語連讀中常弱化為輕短的 /uh/（或 /uv/）。"
+      },
+      {
+        "orig": "of the",
+        "speakText": "of the",
+        "phonetic": "uh-thuh",
+        "desc": "of 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 uh-thuh。"
+      },
+      {
+        "orig": "the event",
+        "speakText": "the event",
+        "phonetic": "thuh-event",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "event is",
+        "speakText": "event is",
+        "phonetic": "event-is",
+        "desc": "event 尾音輔音自然連向 is 的開頭母音，語流連成 event-is。"
+      }
+    ]
+  },
+  {
+    "en": "Findings on the latest consumer survey are posted on our website.",
+    "zh": "最新消費者調查的結果已公布在我們的網站上。",
+    "notes": [
+      {
+        "orig": "Findings on",
+        "speakText": "Findings on",
+        "phonetic": "findings-on",
+        "desc": "Findings 尾音輔音自然連向 on 的開頭母音，語流連成 findings-on。"
+      },
+      {
+        "orig": "on the",
+        "speakText": "on the",
+        "phonetic": "on-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the latest",
+        "speakText": "the latest",
+        "phonetic": "thuh-latest",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "latest consumer",
+        "speakText": "latest consumer",
+        "phonetic": "latest-consumer",
+        "desc": "latest 字尾塞音在後續輔音 /c/ 前發生吞音（無聲除阻），直接滑向 consumer。"
+      },
+      {
+        "orig": "survey are",
+        "speakText": "survey are",
+        "phonetic": "survey-er",
+        "desc": "survey 尾音直接連向弱讀的 are（/er/），聽起來像 survey-er。"
+      }
+    ]
+  },
+  {
+    "en": "That new movie was just a waste of time.",
+    "zh": "那部新電影根本是在浪費時間。",
+    "notes": [
+      {
+        "orig": "That new",
+        "speakText": "That new",
+        "phonetic": "thut-new",
+        "desc": "連接詞／關係代名詞 that 弱讀為輕短的 /thut/。"
+      },
+      {
+        "orig": "movie was",
+        "speakText": "movie was",
+        "phonetic": "movie-wuz",
+        "desc": "was 弱讀為輕短的 /wuz/。"
+      },
+      {
+        "orig": "was just",
+        "speakText": "was just",
+        "phonetic": "wuz-just",
+        "desc": "was 弱讀為輕短的 /wuz/。"
+      },
+      {
+        "orig": "just a",
+        "speakText": "just a",
+        "phonetic": "just-uh",
+        "desc": "just 尾音直接連向弱讀的 a（/uh/），聽起來像 just-uh。"
+      },
+      {
+        "orig": "a waste",
+        "speakText": "a waste",
+        "phonetic": "uh-waste",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      }
+    ]
+  }
+]

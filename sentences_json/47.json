@@ -1,0 +1,356 @@
+[
+  {
+    "en": "Mr. Go secured three international accounts in his first month on the job.",
+    "zh": "吳先生上任第一個月就拿下了三個國際客戶。",
+    "notes": [
+      {
+        "orig": "international accounts",
+        "speakText": "international accounts",
+        "phonetic": "in-ter-nash-uh-nul-accounts",
+        "desc": "international 尾音輔音自然連向 accounts 的開頭母音，語流連成 in-ter-nash-uh-nul-accounts。"
+      },
+      {
+        "orig": "accounts in",
+        "speakText": "accounts in",
+        "phonetic": "accounts-in",
+        "desc": "accounts 尾音輔音自然連向 in 的開頭母音，語流連成 accounts-in。"
+      },
+      {
+        "orig": "in his",
+        "speakText": "in his",
+        "phonetic": "in-iz",
+        "desc": "his 開頭的 /h/ 在連讀時常弱化省略，in 尾音直接黏上 iz 變成 in-iz。"
+      },
+      {
+        "orig": "his first",
+        "speakText": "his first",
+        "phonetic": "iz-first",
+        "desc": "his 開頭的 /h/ 在連讀時常弱化省略，與前一字尾音黏連。"
+      },
+      {
+        "orig": "first month",
+        "speakText": "first month",
+        "phonetic": "first-month",
+        "desc": "first 字尾塞音在後續輔音 /m/ 前發生吞音（無聲除阻），直接滑向 month。"
+      }
+    ]
+  },
+  {
+    "en": "Dan has a certain amount of loyalty to his boss.",
+    "zh": "丹對他的老闆有一定程度的忠誠度。",
+    "notes": [
+      {
+        "orig": "Dan has",
+        "speakText": "Dan has",
+        "phonetic": "dan-huz",
+        "desc": "助動詞 has 弱讀為輕短的 /huz/。"
+      },
+      {
+        "orig": "has a",
+        "speakText": "has a",
+        "phonetic": "huz-uh",
+        "desc": "has 尾音直接連向弱讀的 a（/uh/），聽起來像 huz-uh。"
+      },
+      {
+        "orig": "a certain",
+        "speakText": "a certain",
+        "phonetic": "uh-certain",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "certain amount",
+        "speakText": "certain amount",
+        "phonetic": "certain-uh-mount",
+        "desc": "certain 尾音輔音自然連向 amount 的開頭母音，語流連成 certain-uh-mount。"
+      },
+      {
+        "orig": "amount of",
+        "speakText": "amount of",
+        "phonetic": "uh-mount-uh",
+        "desc": "amount 尾音直接連向弱讀的 of（/uh/），聽起來像 uh-mount-uh。"
+      }
+    ]
+  },
+  {
+    "en": "That was my first opportunity to visit the head office.",
+    "zh": "那是我第一次有機會造訪總公司。",
+    "notes": [
+      {
+        "orig": "That was",
+        "speakText": "That was",
+        "phonetic": "thut-wuz",
+        "desc": "That 與 was 皆為非重讀功能詞，雙雙弱讀並連成輕短的 thut-wuz。"
+      },
+      {
+        "orig": "was my",
+        "speakText": "was my",
+        "phonetic": "wuz-my",
+        "desc": "was 弱讀為輕短的 /wuz/。"
+      },
+      {
+        "orig": "first opportunity",
+        "speakText": "first opportunity",
+        "phonetic": "first-ahp-er-too-nuh-tee",
+        "desc": "first 尾音輔音自然連向 opportunity 的開頭母音，語流連成 first-ahp-er-too-nuh-tee。"
+      },
+      {
+        "orig": "opportunity to",
+        "speakText": "opportunity to",
+        "phonetic": "ahp-er-too-nuh-tee-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to visit",
+        "speakText": "to visit",
+        "phonetic": "tuh-visit",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "The board members were eager to discuss the issue at hand.",
+    "zh": "董事會成員迫切希望討論眼前的議題。",
+    "notes": [
+      {
+        "orig": "The board",
+        "speakText": "The board",
+        "phonetic": "thuh-board",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "members were",
+        "speakText": "members were",
+        "phonetic": "members-wer",
+        "desc": "were 弱讀為輕短的 /wer/。"
+      },
+      {
+        "orig": "were eager",
+        "speakText": "were eager",
+        "phonetic": "wer-eager",
+        "desc": "were 弱讀為輕短的 /wer/。"
+      },
+      {
+        "orig": "eager to",
+        "speakText": "eager to",
+        "phonetic": "eager-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to discuss",
+        "speakText": "to discuss",
+        "phonetic": "tuh-discuss",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "The new promotion had a substantial effect on sales.",
+    "zh": "新的促銷活動對銷售產生了顯著效果。",
+    "notes": [
+      {
+        "orig": "The new",
+        "speakText": "The new",
+        "phonetic": "thuh-new",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "had a",
+        "speakText": "had a",
+        "phonetic": "had-uh",
+        "desc": "had 尾音直接連向弱讀的 a（/uh/），聽起來像 had-uh。"
+      },
+      {
+        "orig": "a substantial",
+        "speakText": "a substantial",
+        "phonetic": "uh-sub-stan-shul",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "substantial effect",
+        "speakText": "substantial effect",
+        "phonetic": "sub-stan-shul-effect",
+        "desc": "substantial 尾音輔音自然連向 effect 的開頭母音，語流連成 sub-stan-shul-effect。"
+      },
+      {
+        "orig": "effect on",
+        "speakText": "effect on",
+        "phonetic": "effect-on",
+        "desc": "effect 尾音輔音自然連向 on 的開頭母音，語流連成 effect-on。"
+      }
+    ]
+  },
+  {
+    "en": "Both parties have the option to cancel the contract at the end of the term.",
+    "zh": "雙方在合約期滿時皆有權選擇終止合約。",
+    "notes": [
+      {
+        "orig": "parties have",
+        "speakText": "parties have",
+        "phonetic": "parties-huv",
+        "desc": "助動詞 have 弱讀為輕短的 /huv/。"
+      },
+      {
+        "orig": "have the",
+        "speakText": "have the",
+        "phonetic": "huv-thuh",
+        "desc": "have 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 huv-thuh。"
+      },
+      {
+        "orig": "the option",
+        "speakText": "the option",
+        "phonetic": "thuh-opshun",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "option to",
+        "speakText": "option to",
+        "phonetic": "opshun-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to cancel",
+        "speakText": "to cancel",
+        "phonetic": "tuh-cancel",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "It was a pleasure to meet the employees of our affiliate company.",
+    "zh": "很高興能見到我們關係企業的員工。",
+    "notes": [
+      {
+        "orig": "It was",
+        "speakText": "It was",
+        "phonetic": "it-wuz",
+        "desc": "was 弱讀為輕短的 /wuz/。"
+      },
+      {
+        "orig": "was a",
+        "speakText": "was a",
+        "phonetic": "wuz-uh",
+        "desc": "was 尾音直接連向弱讀的 a（/uh/），聽起來像 wuz-uh。"
+      },
+      {
+        "orig": "a pleasure",
+        "speakText": "a pleasure",
+        "phonetic": "uh-pleasure",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "pleasure to",
+        "speakText": "pleasure to",
+        "phonetic": "pleasure-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to meet",
+        "speakText": "to meet",
+        "phonetic": "tuh-meet",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "Let me express my sincere gratitude for all your support.",
+    "zh": "請允許我對您所有的支持表達誠摯的感謝。",
+    "notes": [
+      {
+        "orig": "gratitude for",
+        "speakText": "gratitude for",
+        "phonetic": "gra-duh-tood-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for all",
+        "speakText": "for all",
+        "phonetic": "fer-all",
+        "desc": "for 尾音輔音自然連向 all 的開頭母音，語流連成 fer-all。"
+      },
+      {
+        "orig": "all your",
+        "speakText": "all your",
+        "phonetic": "all-yer",
+        "desc": "所有格 your 在非重讀位置常弱讀為 /yer/。"
+      },
+      {
+        "orig": "your support",
+        "speakText": "your support",
+        "phonetic": "yer-support",
+        "desc": "所有格 your 在非重讀位置常弱讀為 /yer/。"
+      }
+    ]
+  },
+  {
+    "en": "I felt such a sense of relief when I received an acceptance letter.",
+    "zh": "當我收到錄取通知書時，感到如釋重負。",
+    "notes": [
+      {
+        "orig": "such a",
+        "speakText": "such a",
+        "phonetic": "such-uh",
+        "desc": "such 尾音直接連向弱讀的 a（/uh/），聽起來像 such-uh。"
+      },
+      {
+        "orig": "a sense",
+        "speakText": "a sense",
+        "phonetic": "uh-sense",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "sense of",
+        "speakText": "sense of",
+        "phonetic": "sense-uh",
+        "desc": "介系詞 of 在口語連讀中常弱化為輕短的 /uh/（或 /uv/）。"
+      },
+      {
+        "orig": "of relief",
+        "speakText": "of relief",
+        "phonetic": "uh-relief",
+        "desc": "介系詞 of 在口語連讀中常弱化為輕短的 /uh/（或 /uv/）。"
+      },
+      {
+        "orig": "when I",
+        "speakText": "when I",
+        "phonetic": "when-i",
+        "desc": "when 尾音輔音自然連向 I 的開頭母音，語流連成 when-i。"
+      }
+    ]
+  },
+  {
+    "en": "Some television producers take extreme measures to increase the ratings of their shows.",
+    "zh": "有些電視製作人會採取極端手段來提高節目收視率。",
+    "notes": [
+      {
+        "orig": "measures to",
+        "speakText": "measures to",
+        "phonetic": "measures-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to increase",
+        "speakText": "to increase",
+        "phonetic": "tuh-in-krees",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "increase the",
+        "speakText": "increase the",
+        "phonetic": "in-krees-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the ratings",
+        "speakText": "the ratings",
+        "phonetic": "thuh-ratings",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "ratings of",
+        "speakText": "ratings of",
+        "phonetic": "ratings-uh",
+        "desc": "ratings 尾音直接連向弱讀的 of（/uh/），聽起來像 ratings-uh。"
+      }
+    ]
+  }
+]

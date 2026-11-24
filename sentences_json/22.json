@@ -1,0 +1,332 @@
+[
+  {
+    "en": "The ideal candidate will have a passion for customer service.",
+    "zh": "理想的候選人需對客戶服務抱有熱忱。",
+    "notes": [
+      {
+        "orig": "The ideal",
+        "speakText": "The ideal",
+        "phonetic": "thuh-y-deel",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "will have",
+        "speakText": "will have",
+        "phonetic": "will-huv",
+        "desc": "助動詞 have 弱讀為輕短的 /huv/。"
+      },
+      {
+        "orig": "have a",
+        "speakText": "have a",
+        "phonetic": "huv-uh",
+        "desc": "have 與 a 皆為非重讀功能詞，雙雙弱讀並連成輕短的 huv-uh。"
+      },
+      {
+        "orig": "a passion",
+        "speakText": "a passion",
+        "phonetic": "uh-pash-un",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "passion for",
+        "speakText": "passion for",
+        "phonetic": "pash-un-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      }
+    ]
+  },
+  {
+    "en": "The company charges an annual membership fee of 55 euros.",
+    "zh": "該公司收取每年 55 歐元的會費。",
+    "notes": [
+      {
+        "orig": "The company",
+        "speakText": "The company",
+        "phonetic": "thuh-kum-puh-nee",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "charges an",
+        "speakText": "charges an",
+        "phonetic": "char-jiz-un",
+        "desc": "charges 尾音直接連向弱讀的 an（/un/），聽起來像 char-jiz-un。"
+      },
+      {
+        "orig": "an annual",
+        "speakText": "an annual",
+        "phonetic": "un-an-yoo-ul",
+        "desc": "an 尾音輔音自然連向 annual 的開頭母音，語流連成 un-an-yoo-ul。"
+      },
+      {
+        "orig": "fee of",
+        "speakText": "fee of",
+        "phonetic": "fee-uh",
+        "desc": "介系詞 of 在口語連讀中常弱化為輕短的 /uh/（或 /uv/）。"
+      },
+      {
+        "orig": "of 55",
+        "speakText": "of 55",
+        "phonetic": "uh-55",
+        "desc": "介系詞 of 在口語連讀中常弱化為輕短的 /uh/（或 /uv/）。"
+      }
+    ]
+  },
+  {
+    "en": "This brand of shoe will be familiar to almost all female shoppers.",
+    "zh": "幾乎所有女性消費者對這個鞋履品牌都很熟悉。",
+    "notes": [
+      {
+        "orig": "brand of",
+        "speakText": "brand of",
+        "phonetic": "brand-uh",
+        "desc": "brand 尾音直接連向弱讀的 of（/uh/），聽起來像 brand-uh。"
+      },
+      {
+        "orig": "of shoe",
+        "speakText": "of shoe",
+        "phonetic": "uh-shoo",
+        "desc": "介系詞 of 在口語連讀中常弱化為輕短的 /uh/（或 /uv/）。"
+      },
+      {
+        "orig": "familiar to",
+        "speakText": "familiar to",
+        "phonetic": "fuh-mil-yer-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to almost",
+        "speakText": "to almost",
+        "phonetic": "tuh-awl-mohst",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "almost all",
+        "speakText": "almost all",
+        "phonetic": "awl-mohst-all",
+        "desc": "almost 尾音輔音自然連向 all 的開頭母音，語流連成 awl-mohst-all。"
+      }
+    ]
+  },
+  {
+    "en": "Let me know which day is convenient for you.",
+    "zh": "請讓我知道哪一天對你比較方便。",
+    "notes": [
+      {
+        "orig": "day is",
+        "speakText": "day is",
+        "phonetic": "day-is",
+        "desc": "day 尾音輔音自然連向 is 的開頭母音，語流連成 day-is。"
+      },
+      {
+        "orig": "convenient for",
+        "speakText": "convenient for",
+        "phonetic": "kun-veen-yunt-fer",
+        "desc": "convenient 字尾塞音在後續輔音 /f/ 前發生吞音（無聲除阻），直接滑向 for。"
+      },
+      {
+        "orig": "for you",
+        "speakText": "for you",
+        "phonetic": "fer-you",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      }
+    ]
+  },
+  {
+    "en": "We spent the whole week inspecting the new software.",
+    "zh": "我們花了整整一週檢查這款新軟體。",
+    "notes": [
+      {
+        "orig": "spent the",
+        "speakText": "spent the",
+        "phonetic": "spent-thuh",
+        "desc": "spent 字尾塞音在後續輔音 /t/ 前發生吞音（無聲除阻），直接滑向 the。"
+      },
+      {
+        "orig": "the whole",
+        "speakText": "the whole",
+        "phonetic": "thuh-hohl",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "week inspecting",
+        "speakText": "week inspecting",
+        "phonetic": "week-in-spek-ting",
+        "desc": "week 尾音輔音自然連向 inspecting 的開頭母音，語流連成 week-in-spek-ting。"
+      },
+      {
+        "orig": "inspecting the",
+        "speakText": "inspecting the",
+        "phonetic": "in-spek-ting-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the new",
+        "speakText": "the new",
+        "phonetic": "thuh-new",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "The house looks new, as the previous owner remodeled it entirely.",
+    "zh": "這棟房子看起來很新，因為前屋主已將它全面翻修。",
+    "notes": [
+      {
+        "orig": "The house",
+        "speakText": "The house",
+        "phonetic": "thuh-house",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "as the",
+        "speakText": "as the",
+        "phonetic": "uz-thuh",
+        "desc": "as 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 uz-thuh。"
+      },
+      {
+        "orig": "the previous",
+        "speakText": "the previous",
+        "phonetic": "thuh-pree-vee-us",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "previous owner",
+        "speakText": "previous owner",
+        "phonetic": "pree-vee-us-oh-ner",
+        "desc": "previous 尾音輔音自然連向 owner 的開頭母音，語流連成 pree-vee-us-oh-ner。"
+      },
+      {
+        "orig": "remodeled it",
+        "speakText": "remodeled it",
+        "phonetic": "ree-mah-duld-it",
+        "desc": "remodeled 尾音輔音自然連向 it 的開頭母音，語流連成 ree-mah-duld-it。"
+      }
+    ]
+  },
+  {
+    "en": "The park is closed to the public until further notice.",
+    "zh": "該公園暫停對外開放，直至另行通知。",
+    "notes": [
+      {
+        "orig": "The park",
+        "speakText": "The park",
+        "phonetic": "thuh-park",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "park is",
+        "speakText": "park is",
+        "phonetic": "park-is",
+        "desc": "park 尾音輔音自然連向 is 的開頭母音，語流連成 park-is。"
+      },
+      {
+        "orig": "closed to",
+        "speakText": "closed to",
+        "phonetic": "klohzd-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to the",
+        "speakText": "to the",
+        "phonetic": "tuh-thuh",
+        "desc": "to 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 tuh-thuh。"
+      },
+      {
+        "orig": "the public",
+        "speakText": "the public",
+        "phonetic": "thuh-pub-lik",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "The sales seminar was both informative and motivational.",
+    "zh": "這場銷售研討會既內容豐富又具激勵作用。",
+    "notes": [
+      {
+        "orig": "The sales",
+        "speakText": "The sales",
+        "phonetic": "thuh-sales",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "seminar was",
+        "speakText": "seminar was",
+        "phonetic": "sem-uh-nar-wuz",
+        "desc": "was 弱讀為輕短的 /wuz/。"
+      },
+      {
+        "orig": "was both",
+        "speakText": "was both",
+        "phonetic": "wuz-both",
+        "desc": "was 弱讀為輕短的 /wuz/。"
+      },
+      {
+        "orig": "both informative",
+        "speakText": "both informative",
+        "phonetic": "both-in-for-muh-tiv",
+        "desc": "both 尾音輔音自然連向 informative 的開頭母音，語流連成 both-in-for-muh-tiv。"
+      },
+      {
+        "orig": "informative and",
+        "speakText": "informative and",
+        "phonetic": "in-for-muh-tiv-un",
+        "desc": "連接詞 and 常弱化並吞掉字尾 /d/，唸成輕短的 /un/。"
+      }
+    ]
+  },
+  {
+    "en": "We have little time left, so please be brief.",
+    "zh": "我們剩下的時間不多了，所以請長話短說。",
+    "notes": [
+      {
+        "orig": "We have",
+        "speakText": "We have",
+        "phonetic": "we-huv",
+        "desc": "助動詞 have 弱讀為輕短的 /huv/。"
+      },
+      {
+        "orig": "have little",
+        "speakText": "have little",
+        "phonetic": "huv-li-dul",
+        "desc": "助動詞 have 弱讀為輕短的 /huv/。"
+      }
+    ]
+  },
+  {
+    "en": "It was obvious that the expansion plan wouldn't work out.",
+    "zh": "很明顯，這項擴張計畫行不通。",
+    "notes": [
+      {
+        "orig": "It was",
+        "speakText": "It was",
+        "phonetic": "it-wuz",
+        "desc": "was 弱讀為輕短的 /wuz/。"
+      },
+      {
+        "orig": "was obvious",
+        "speakText": "was obvious",
+        "phonetic": "wuz-ahb-vee-us",
+        "desc": "was 尾音輔音自然連向 obvious 的開頭母音，語流連成 wuz-ahb-vee-us。"
+      },
+      {
+        "orig": "obvious that",
+        "speakText": "obvious that",
+        "phonetic": "ahb-vee-us-thut",
+        "desc": "連接詞／關係代名詞 that 弱讀為輕短的 /thut/。"
+      },
+      {
+        "orig": "that the",
+        "speakText": "that the",
+        "phonetic": "thut-thuh",
+        "desc": "that 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 thut-thuh。"
+      },
+      {
+        "orig": "the expansion",
+        "speakText": "the expansion",
+        "phonetic": "thuh-ik-span-shun",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  }
+]

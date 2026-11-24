@@ -1,0 +1,338 @@
+[
+  {
+    "en": "Ignorance is an obstacle to progress.",
+    "zh": "無知是進步的絆腳石。",
+    "notes": [
+      {
+        "orig": "is an",
+        "speakText": "is an",
+        "phonetic": "is-un",
+        "desc": "is 尾音直接連向弱讀的 an（/un/），聽起來像 is-un。"
+      },
+      {
+        "orig": "an obstacle",
+        "speakText": "an obstacle",
+        "phonetic": "un-ahb-stuh-kul",
+        "desc": "an 尾音輔音自然連向 obstacle 的開頭母音，語流連成 un-ahb-stuh-kul。"
+      },
+      {
+        "orig": "obstacle to",
+        "speakText": "obstacle to",
+        "phonetic": "ahb-stuh-kul-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to progress",
+        "speakText": "to progress",
+        "phonetic": "tuh-progress",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "Camille's position as quality control manager gives her a broad scope of authority.",
+    "zh": "卡蜜兒身為品管經理的職位賦予她廣泛的職權範圍。",
+    "notes": [
+      {
+        "orig": "position as",
+        "speakText": "position as",
+        "phonetic": "posishun-uz",
+        "desc": "position 尾音直接連向弱讀的 as（/uz/），聽起來像 posishun-uz。"
+      },
+      {
+        "orig": "as quality",
+        "speakText": "as quality",
+        "phonetic": "uz-quality",
+        "desc": "as 弱讀為輕短的 /uz/。"
+      },
+      {
+        "orig": "gives her",
+        "speakText": "gives her",
+        "phonetic": "gives-er",
+        "desc": "her 開頭的 /h/ 在連讀時常弱化省略，gives 尾音直接黏上 er 變成 gives-er。"
+      },
+      {
+        "orig": "her a",
+        "speakText": "her a",
+        "phonetic": "er-uh",
+        "desc": "her 尾音直接連向弱讀的 a（/uh/），聽起來像 er-uh。"
+      },
+      {
+        "orig": "a broad",
+        "speakText": "a broad",
+        "phonetic": "uh-broad",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      }
+    ]
+  },
+  {
+    "en": "Beth read only a portion of the contract, but signed it anyway.",
+    "zh": "貝絲只讀了合約的一小部分，但還是簽了字。",
+    "notes": [
+      {
+        "orig": "read only",
+        "speakText": "read only",
+        "phonetic": "read-only",
+        "desc": "read 尾音輔音自然連向 only 的開頭母音，語流連成 read-only。"
+      },
+      {
+        "orig": "only a",
+        "speakText": "only a",
+        "phonetic": "only-uh",
+        "desc": "only 尾音直接連向弱讀的 a（/uh/），聽起來像 only-uh。"
+      },
+      {
+        "orig": "a portion",
+        "speakText": "a portion",
+        "phonetic": "uh-porshun",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "portion of",
+        "speakText": "portion of",
+        "phonetic": "porshun-uh",
+        "desc": "portion 尾音直接連向弱讀的 of（/uh/），聽起來像 porshun-uh。"
+      },
+      {
+        "orig": "of the",
+        "speakText": "of the",
+        "phonetic": "uh-thuh",
+        "desc": "of 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 uh-thuh。"
+      }
+    ]
+  },
+  {
+    "en": "Can you see any negative aspects of the plan?",
+    "zh": "你看得出這項計畫有任何負面層面嗎？",
+    "notes": [
+      {
+        "orig": "Can you",
+        "speakText": "Can you",
+        "phonetic": "kun-you",
+        "desc": "助動詞 can 在非重讀位置弱讀為 /kun/。"
+      },
+      {
+        "orig": "aspects of",
+        "speakText": "aspects of",
+        "phonetic": "aspects-uh",
+        "desc": "aspects 尾音直接連向弱讀的 of（/uh/），聽起來像 aspects-uh。"
+      },
+      {
+        "orig": "of the",
+        "speakText": "of the",
+        "phonetic": "uh-thuh",
+        "desc": "of 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 uh-thuh。"
+      },
+      {
+        "orig": "the plan",
+        "speakText": "the plan",
+        "phonetic": "thuh-plan",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "The president has a clear perception of the company's weakness.",
+    "zh": "總裁對公司的弱點有清晰的認知。",
+    "notes": [
+      {
+        "orig": "The president",
+        "speakText": "The president",
+        "phonetic": "thuh-prez-i-dunt",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "president has",
+        "speakText": "president has",
+        "phonetic": "prez-i-dunt-huz",
+        "desc": "president 字尾塞音在後續輔音 /h/ 前發生吞音（無聲除阻），直接滑向 has。"
+      },
+      {
+        "orig": "has a",
+        "speakText": "has a",
+        "phonetic": "huz-uh",
+        "desc": "has 尾音直接連向弱讀的 a（/uh/），聽起來像 huz-uh。"
+      },
+      {
+        "orig": "a clear",
+        "speakText": "a clear",
+        "phonetic": "uh-clear",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "perception of",
+        "speakText": "perception of",
+        "phonetic": "per-sep-shun-uh",
+        "desc": "perception 尾音直接連向弱讀的 of（/uh/），聽起來像 per-sep-shun-uh。"
+      }
+    ]
+  },
+  {
+    "en": "Thailand had an enormous rice harvest this year.",
+    "zh": "泰國今年的稻米收成非常豐碩。",
+    "notes": [
+      {
+        "orig": "Thailand had",
+        "speakText": "Thailand had",
+        "phonetic": "thailand-had",
+        "desc": "Thailand 字尾塞音在後續輔音 /h/ 前發生吞音（無聲除阻），直接滑向 had。"
+      },
+      {
+        "orig": "had an",
+        "speakText": "had an",
+        "phonetic": "had-un",
+        "desc": "had 尾音直接連向弱讀的 an（/un/），聽起來像 had-un。"
+      },
+      {
+        "orig": "an enormous",
+        "speakText": "an enormous",
+        "phonetic": "un-i-nor-mus",
+        "desc": "an 尾音輔音自然連向 enormous 的開頭母音，語流連成 un-i-nor-mus。"
+      },
+      {
+        "orig": "harvest this",
+        "speakText": "harvest this",
+        "phonetic": "harvest-this",
+        "desc": "harvest 字尾塞音在後續輔音 /t/ 前發生吞音（無聲除阻），直接滑向 this。"
+      }
+    ]
+  },
+  {
+    "en": "The assistant manager took the initiative in trying to solve the problem.",
+    "zh": "副理主動採取行動試圖解決這個問題。",
+    "notes": [
+      {
+        "orig": "The assistant",
+        "speakText": "The assistant",
+        "phonetic": "thuh-uh-sis-tunt",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "assistant manager",
+        "speakText": "assistant manager",
+        "phonetic": "uh-sis-tunt-manager",
+        "desc": "assistant 字尾塞音在後續輔音 /m/ 前發生吞音（無聲除阻），直接滑向 manager。"
+      },
+      {
+        "orig": "took the",
+        "speakText": "took the",
+        "phonetic": "took-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the initiative",
+        "speakText": "the initiative",
+        "phonetic": "thuh-i-nish-uh-tiv",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "trying to",
+        "speakText": "trying to",
+        "phonetic": "trying-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "Only Ms. Hansen has the vision and the drive to make the project successful.",
+    "zh": "只有韓森女士擁有讓這個專案成功的遠見與衝勁。",
+    "notes": [
+      {
+        "orig": "Hansen has",
+        "speakText": "Hansen has",
+        "phonetic": "hansen-huz",
+        "desc": "助動詞 has 弱讀為輕短的 /huz/。"
+      },
+      {
+        "orig": "has the",
+        "speakText": "has the",
+        "phonetic": "huz-thuh",
+        "desc": "has 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 huz-thuh。"
+      },
+      {
+        "orig": "the vision",
+        "speakText": "the vision",
+        "phonetic": "thuh-vizhun",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "vision and",
+        "speakText": "vision and",
+        "phonetic": "vizhun-un",
+        "desc": "vision 尾音輔音自然連向 and 的開頭母音，語流連成 vizhun-un。"
+      },
+      {
+        "orig": "and the",
+        "speakText": "and the",
+        "phonetic": "un-thuh",
+        "desc": "and 字尾塞音在後續輔音 /t/ 前發生吞音（無聲除阻），直接滑向 the。"
+      }
+    ]
+  },
+  {
+    "en": "I have no particular preference for drinks.",
+    "zh": "我對飲料沒有特別的偏好。",
+    "notes": [
+      {
+        "orig": "I have",
+        "speakText": "I have",
+        "phonetic": "i-huv",
+        "desc": "助動詞 have 弱讀為輕短的 /huv/。"
+      },
+      {
+        "orig": "have no",
+        "speakText": "have no",
+        "phonetic": "huv-no",
+        "desc": "助動詞 have 弱讀為輕短的 /huv/。"
+      },
+      {
+        "orig": "preference for",
+        "speakText": "preference for",
+        "phonetic": "pref-er-uns-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for drinks",
+        "speakText": "for drinks",
+        "phonetic": "fer-drinks",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      }
+    ]
+  },
+  {
+    "en": "The company has established criteria for employee evaluations.",
+    "zh": "該公司已建立員工績效評估的標準。",
+    "notes": [
+      {
+        "orig": "The company",
+        "speakText": "The company",
+        "phonetic": "thuh-kum-puh-nee",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "company has",
+        "speakText": "company has",
+        "phonetic": "kum-puh-nee-huz",
+        "desc": "助動詞 has 弱讀為輕短的 /huz/。"
+      },
+      {
+        "orig": "has established",
+        "speakText": "has established",
+        "phonetic": "huz-i-stab-lisht",
+        "desc": "has 尾音輔音自然連向 established 的開頭母音，語流連成 huz-i-stab-lisht。"
+      },
+      {
+        "orig": "criteria for",
+        "speakText": "criteria for",
+        "phonetic": "kry-teer-ee-uh-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for employee",
+        "speakText": "for employee",
+        "phonetic": "fer-employee",
+        "desc": "for 尾音輔音自然連向 employee 的開頭母音，語流連成 fer-employee。"
+      }
+    ]
+  }
+]

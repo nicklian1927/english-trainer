@@ -1,0 +1,332 @@
+[
+  {
+    "en": "Those who make remarkable achievements win the Nobel Prize.",
+    "zh": "取得卓越成就的人會贏得諾貝爾獎。",
+    "notes": [
+      {
+        "orig": "win the",
+        "speakText": "win the",
+        "phonetic": "win-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the Nobel",
+        "speakText": "the Nobel",
+        "phonetic": "thuh-nobel",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "Several potential sites were considered for the new call center.",
+    "zh": "新客服中心已考慮了幾個潛在選址。",
+    "notes": [
+      {
+        "orig": "sites were",
+        "speakText": "sites were",
+        "phonetic": "sites-wer",
+        "desc": "were 弱讀為輕短的 /wer/。"
+      },
+      {
+        "orig": "were considered",
+        "speakText": "were considered",
+        "phonetic": "wer-kun-si-derd",
+        "desc": "were 弱讀為輕短的 /wer/。"
+      },
+      {
+        "orig": "considered for",
+        "speakText": "considered for",
+        "phonetic": "kun-si-derd-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for the",
+        "speakText": "for the",
+        "phonetic": "fer-thuh",
+        "desc": "for 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 fer-thuh。"
+      },
+      {
+        "orig": "the new",
+        "speakText": "the new",
+        "phonetic": "thuh-new",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "As the election drew near, the candidate reached a critical point in the campaign.",
+    "zh": "隨著選舉逼近，候選人在競選活動中來到了關鍵時刻。",
+    "notes": [
+      {
+        "orig": "As the",
+        "speakText": "As the",
+        "phonetic": "uz-thuh",
+        "desc": "As 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 uz-thuh。"
+      },
+      {
+        "orig": "the election",
+        "speakText": "the election",
+        "phonetic": "thuh-i-lek-shun",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the candidate",
+        "speakText": "the candidate",
+        "phonetic": "thuh-kan-di-dayt",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "reached a",
+        "speakText": "reached a",
+        "phonetic": "reachd-uh",
+        "desc": "reached 尾音直接連向弱讀的 a（/uh/），聽起來像 reachd-uh。"
+      },
+      {
+        "orig": "a critical",
+        "speakText": "a critical",
+        "phonetic": "uh-kri-duh-kul",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      }
+    ]
+  },
+  {
+    "en": "The section chief is deliberate in her decision-making process.",
+    "zh": "課長在決策過程中非常審慎。",
+    "notes": [
+      {
+        "orig": "The section",
+        "speakText": "The section",
+        "phonetic": "thuh-secshun",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "chief is",
+        "speakText": "chief is",
+        "phonetic": "chief-is",
+        "desc": "chief 尾音輔音自然連向 is 的開頭母音，語流連成 chief-is。"
+      },
+      {
+        "orig": "in her",
+        "speakText": "in her",
+        "phonetic": "in-er",
+        "desc": "her 開頭的 /h/ 在連讀時常弱化省略，in 尾音直接黏上 er 變成 in-er。"
+      },
+      {
+        "orig": "her decision",
+        "speakText": "her decision",
+        "phonetic": "er-di-zi-zhun",
+        "desc": "her 開頭的 /h/ 在連讀時常弱化省略，與前一字尾音黏連。"
+      }
+    ]
+  },
+  {
+    "en": "The two powerful leaders had mutual respect for each other.",
+    "zh": "這兩位強勢的領導人彼此互相尊重。",
+    "notes": [
+      {
+        "orig": "The two",
+        "speakText": "The two",
+        "phonetic": "thuh-two",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "respect for",
+        "speakText": "respect for",
+        "phonetic": "ri-spekt-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for each",
+        "speakText": "for each",
+        "phonetic": "fer-each",
+        "desc": "for 尾音輔音自然連向 each 的開頭母音，語流連成 fer-each。"
+      },
+      {
+        "orig": "each other",
+        "speakText": "each other",
+        "phonetic": "each-other",
+        "desc": "each 尾音輔音自然連向 other 的開頭母音，語流連成 each-other。"
+      }
+    ]
+  },
+  {
+    "en": "We are not liable for accidents caused by misuse by the user.",
+    "zh": "對於使用者不當操作所造成的意外，本公司概不負責。",
+    "notes": [
+      {
+        "orig": "We are",
+        "speakText": "We are",
+        "phonetic": "we-er",
+        "desc": "be 動詞 are 在非重讀位置弱讀為 /er/。"
+      },
+      {
+        "orig": "are not",
+        "speakText": "are not",
+        "phonetic": "er-not",
+        "desc": "be 動詞 are 在非重讀位置弱讀為 /er/。"
+      },
+      {
+        "orig": "liable for",
+        "speakText": "liable for",
+        "phonetic": "ly-uh-bul-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for accidents",
+        "speakText": "for accidents",
+        "phonetic": "fer-ak-si-dunts",
+        "desc": "for 尾音輔音自然連向 accidents 的開頭母音，語流連成 fer-ak-si-dunts。"
+      },
+      {
+        "orig": "by the",
+        "speakText": "by the",
+        "phonetic": "by-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "The CEO is a generous man and pays his employees well.",
+    "zh": "執行長為人慷慨，給員工的薪資很優渥。",
+    "notes": [
+      {
+        "orig": "The CEO",
+        "speakText": "The CEO",
+        "phonetic": "thuh-ceo",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "is a",
+        "speakText": "is a",
+        "phonetic": "is-uh",
+        "desc": "is 尾音直接連向弱讀的 a（/uh/），聽起來像 is-uh。"
+      },
+      {
+        "orig": "a generous",
+        "speakText": "a generous",
+        "phonetic": "uh-jen-er-us",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "man and",
+        "speakText": "man and",
+        "phonetic": "man-un",
+        "desc": "man 尾音輔音自然連向 and 的開頭母音，語流連成 man-un。"
+      },
+      {
+        "orig": "and pays",
+        "speakText": "and pays",
+        "phonetic": "un-pays",
+        "desc": "and 字尾塞音在後續輔音 /p/ 前發生吞音（無聲除阻），直接滑向 pays。"
+      }
+    ]
+  },
+  {
+    "en": "The president stressed the need to follow decent business practices at all times.",
+    "zh": "總裁強調任何時候都必須遵循正當的商業慣例。",
+    "notes": [
+      {
+        "orig": "The president",
+        "speakText": "The president",
+        "phonetic": "thuh-prez-i-dunt",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "president stressed",
+        "speakText": "president stressed",
+        "phonetic": "prez-i-dunt-stressd",
+        "desc": "president 字尾塞音在後續輔音 /s/ 前發生吞音（無聲除阻），直接滑向 stressed。"
+      },
+      {
+        "orig": "stressed the",
+        "speakText": "stressed the",
+        "phonetic": "stressd-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the need",
+        "speakText": "the need",
+        "phonetic": "thuh-ned",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "need to",
+        "speakText": "need to",
+        "phonetic": "ned-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "Anne has sufficient savings and can retire early.",
+    "zh": "安妮有足夠的積蓄，可以提早退休。",
+    "notes": [
+      {
+        "orig": "Anne has",
+        "speakText": "Anne has",
+        "phonetic": "anne-huz",
+        "desc": "助動詞 has 弱讀為輕短的 /huz/。"
+      },
+      {
+        "orig": "has sufficient",
+        "speakText": "has sufficient",
+        "phonetic": "huz-suh-fish-unt",
+        "desc": "助動詞 has 弱讀為輕短的 /huz/。"
+      },
+      {
+        "orig": "sufficient savings",
+        "speakText": "sufficient savings",
+        "phonetic": "suh-fish-unt-savings",
+        "desc": "sufficient 字尾塞音在後續輔音 /s/ 前發生吞音（無聲除阻），直接滑向 savings。"
+      },
+      {
+        "orig": "savings and",
+        "speakText": "savings and",
+        "phonetic": "savings-un",
+        "desc": "savings 尾音輔音自然連向 and 的開頭母音，語流連成 savings-un。"
+      },
+      {
+        "orig": "and can",
+        "speakText": "and can",
+        "phonetic": "un-kun",
+        "desc": "and 字尾塞音在後續輔音 /c/ 前發生吞音（無聲除阻），直接滑向 can。"
+      }
+    ]
+  },
+  {
+    "en": "The firm is a dedicated protector of natural resources in the region.",
+    "zh": "該公司致力於保護該地區的自然資源。",
+    "notes": [
+      {
+        "orig": "The firm",
+        "speakText": "The firm",
+        "phonetic": "thuh-firm",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "firm is",
+        "speakText": "firm is",
+        "phonetic": "firm-is",
+        "desc": "firm 尾音輔音自然連向 is 的開頭母音，語流連成 firm-is。"
+      },
+      {
+        "orig": "is a",
+        "speakText": "is a",
+        "phonetic": "is-uh",
+        "desc": "is 尾音直接連向弱讀的 a（/uh/），聽起來像 is-uh。"
+      },
+      {
+        "orig": "a dedicated",
+        "speakText": "a dedicated",
+        "phonetic": "uh-ded-i-kay-tid",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "protector of",
+        "speakText": "protector of",
+        "phonetic": "pruh-tek-ter-uh",
+        "desc": "protector 尾音直接連向弱讀的 of（/uh/），聽起來像 pruh-tek-ter-uh。"
+      }
+    ]
+  }
+]

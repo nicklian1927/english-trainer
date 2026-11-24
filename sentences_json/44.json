@@ -1,0 +1,362 @@
+[
+  {
+    "en": "I'm going to Seattle to close a deal with the client.",
+    "zh": "我要去西雅圖與客戶敲定一筆交易。",
+    "notes": [
+      {
+        "orig": "going to",
+        "speakText": "going to",
+        "phonetic": "going-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to Seattle",
+        "speakText": "to Seattle",
+        "phonetic": "tuh-seattle",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "Seattle to",
+        "speakText": "Seattle to",
+        "phonetic": "seattle-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to close",
+        "speakText": "to close",
+        "phonetic": "tuh-close",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "close a",
+        "speakText": "close a",
+        "phonetic": "close-uh",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      }
+    ]
+  },
+  {
+    "en": "You can reserve a room in the conference hotel at a special rate.",
+    "zh": "您可以用優惠價格預訂會議飯店的房間。",
+    "notes": [
+      {
+        "orig": "You can",
+        "speakText": "You can",
+        "phonetic": "you-kun",
+        "desc": "助動詞 can 在非重讀位置弱讀為 /kun/。"
+      },
+      {
+        "orig": "can reserve",
+        "speakText": "can reserve",
+        "phonetic": "kun-reserve",
+        "desc": "助動詞 can 在非重讀位置弱讀為 /kun/。"
+      },
+      {
+        "orig": "reserve a",
+        "speakText": "reserve a",
+        "phonetic": "reserve-uh",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "a room",
+        "speakText": "a room",
+        "phonetic": "uh-room",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "room in",
+        "speakText": "room in",
+        "phonetic": "room-in",
+        "desc": "room 尾音輔音自然連向 in 的開頭母音，語流連成 room-in。"
+      }
+    ]
+  },
+  {
+    "en": "We have a broad selection of gift items such as t-shirts and keychains.",
+    "zh": "我們有T恤、鑰匙圈等各式各樣的禮品可供選擇。",
+    "notes": [
+      {
+        "orig": "We have",
+        "speakText": "We have",
+        "phonetic": "we-huv",
+        "desc": "助動詞 have 弱讀為輕短的 /huv/。"
+      },
+      {
+        "orig": "have a",
+        "speakText": "have a",
+        "phonetic": "huv-uh",
+        "desc": "have 與 a 皆為非重讀功能詞，雙雙弱讀並連成輕短的 huv-uh。"
+      },
+      {
+        "orig": "a broad",
+        "speakText": "a broad",
+        "phonetic": "uh-broad",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "selection of",
+        "speakText": "selection of",
+        "phonetic": "suh-lek-shun-uh",
+        "desc": "selection 尾音直接連向弱讀的 of（/uh/），聽起來像 suh-lek-shun-uh。"
+      },
+      {
+        "orig": "of gift",
+        "speakText": "of gift",
+        "phonetic": "uh-gift",
+        "desc": "介系詞 of 在口語連讀中常弱化為輕短的 /uh/（或 /uv/）。"
+      }
+    ]
+  },
+  {
+    "en": "The demand for high-rise apartments is increasing as the economy grows.",
+    "zh": "隨著經濟成長，對高層公寓的需求日益增加。",
+    "notes": [
+      {
+        "orig": "The demand",
+        "speakText": "The demand",
+        "phonetic": "thuh-demand",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "demand for",
+        "speakText": "demand for",
+        "phonetic": "demand-fer",
+        "desc": "demand 字尾塞音在後續輔音 /f/ 前發生吞音（無聲除阻），直接滑向 for。"
+      },
+      {
+        "orig": "for high",
+        "speakText": "for high",
+        "phonetic": "fer-high",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "apartments is",
+        "speakText": "apartments is",
+        "phonetic": "uh-part-munts-is",
+        "desc": "apartments 尾音輔音自然連向 is 的開頭母音，語流連成 uh-part-munts-is。"
+      },
+      {
+        "orig": "is increasing",
+        "speakText": "is increasing",
+        "phonetic": "is-increasing",
+        "desc": "is 尾音輔音自然連向 increasing 的開頭母音，語流連成 is-increasing。"
+      }
+    ]
+  },
+  {
+    "en": "In future, we have to hire staff in a more timely manner.",
+    "zh": "今後我們必須更及時地招募人員。",
+    "notes": [
+      {
+        "orig": "we have",
+        "speakText": "we have",
+        "phonetic": "we-huv",
+        "desc": "助動詞 have 弱讀為輕短的 /huv/。"
+      },
+      {
+        "orig": "have to",
+        "speakText": "have to",
+        "phonetic": "huv-tuh",
+        "desc": "have 與 to 皆為非重讀功能詞，雙雙弱讀並連成輕短的 huv-tuh。"
+      },
+      {
+        "orig": "to hire",
+        "speakText": "to hire",
+        "phonetic": "tuh-hire",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "staff in",
+        "speakText": "staff in",
+        "phonetic": "staff-in",
+        "desc": "staff 尾音輔音自然連向 in 的開頭母音，語流連成 staff-in。"
+      },
+      {
+        "orig": "in a",
+        "speakText": "in a",
+        "phonetic": "in-uh",
+        "desc": "in 尾音直接連向弱讀的 a（/uh/），聽起來像 in-uh。"
+      }
+    ]
+  },
+  {
+    "en": "The customs officer opened my suitcase to inspect its contents.",
+    "zh": "海關人員打開我的行李箱檢查裡面的物品。",
+    "notes": [
+      {
+        "orig": "The customs",
+        "speakText": "The customs",
+        "phonetic": "thuh-customs",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "customs officer",
+        "speakText": "customs officer",
+        "phonetic": "customs-aw-fi-ser",
+        "desc": "customs 尾音輔音自然連向 officer 的開頭母音，語流連成 customs-aw-fi-ser。"
+      },
+      {
+        "orig": "officer opened",
+        "speakText": "officer opened",
+        "phonetic": "aw-fi-ser-opend",
+        "desc": "officer 尾音輔音自然連向 opened 的開頭母音，語流連成 aw-fi-ser-opend。"
+      },
+      {
+        "orig": "suitcase to",
+        "speakText": "suitcase to",
+        "phonetic": "suitcase-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to inspect",
+        "speakText": "to inspect",
+        "phonetic": "tuh-inspect",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "Perseverance is a key element to success.",
+    "zh": "毅力是成功的關鍵要素。",
+    "notes": [
+      {
+        "orig": "is a",
+        "speakText": "is a",
+        "phonetic": "is-uh",
+        "desc": "is 尾音直接連向弱讀的 a（/uh/），聽起來像 is-uh。"
+      },
+      {
+        "orig": "a key",
+        "speakText": "a key",
+        "phonetic": "uh-key",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "key element",
+        "speakText": "key element",
+        "phonetic": "key-el-uh-munt",
+        "desc": "key 尾音輔音自然連向 element 的開頭母音，語流連成 key-el-uh-munt。"
+      },
+      {
+        "orig": "element to",
+        "speakText": "element to",
+        "phonetic": "el-uh-munt-tuh",
+        "desc": "element 字尾塞音在後續輔音 /t/ 前發生吞音（無聲除阻），直接滑向 to。"
+      },
+      {
+        "orig": "to success",
+        "speakText": "to success",
+        "phonetic": "tuh-success",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "His view of the new project is too optimistic.",
+    "zh": "他對這個新專案的看法過於樂觀。",
+    "notes": [
+      {
+        "orig": "His view",
+        "speakText": "His view",
+        "phonetic": "iz-view",
+        "desc": "his 開頭的 /h/ 在連讀時常弱化省略，與前一字尾音黏連。"
+      },
+      {
+        "orig": "view of",
+        "speakText": "view of",
+        "phonetic": "view-uh",
+        "desc": "view 尾音直接連向弱讀的 of（/uh/），聽起來像 view-uh。"
+      },
+      {
+        "orig": "of the",
+        "speakText": "of the",
+        "phonetic": "uh-thuh",
+        "desc": "of 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 uh-thuh。"
+      },
+      {
+        "orig": "the new",
+        "speakText": "the new",
+        "phonetic": "thuh-new",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "project is",
+        "speakText": "project is",
+        "phonetic": "project-is",
+        "desc": "project 尾音輔音自然連向 is 的開頭母音，語流連成 project-is。"
+      }
+    ]
+  },
+  {
+    "en": "City officials came for a review of safety measures.",
+    "zh": "市政府官員前來審查安全措施。",
+    "notes": [
+      {
+        "orig": "City officials",
+        "speakText": "City officials",
+        "phonetic": "city-uh-fish-ulz",
+        "desc": "City 尾音輔音自然連向 officials 的開頭母音，語流連成 city-uh-fish-ulz。"
+      },
+      {
+        "orig": "came for",
+        "speakText": "came for",
+        "phonetic": "came-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for a",
+        "speakText": "for a",
+        "phonetic": "fer-uh",
+        "desc": "for 尾音直接連向弱讀的 a（/uh/），聽起來像 fer-uh。"
+      },
+      {
+        "orig": "a review",
+        "speakText": "a review",
+        "phonetic": "uh-review",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "review of",
+        "speakText": "review of",
+        "phonetic": "review-uh",
+        "desc": "review 尾音直接連向弱讀的 of（/uh/），聽起來像 review-uh。"
+      }
+    ]
+  },
+  {
+    "en": "Our ultimate aim is to provide opportunities for jobless young people.",
+    "zh": "我們的最終目標是為失業青年提供機會。",
+    "notes": [
+      {
+        "orig": "Our ultimate",
+        "speakText": "Our ultimate",
+        "phonetic": "owr-ul-tuh-mut",
+        "desc": "Our 尾音輔音自然連向 ultimate 的開頭母音，語流連成 owr-ul-tuh-mut。"
+      },
+      {
+        "orig": "aim is",
+        "speakText": "aim is",
+        "phonetic": "aim-is",
+        "desc": "aim 尾音輔音自然連向 is 的開頭母音，語流連成 aim-is。"
+      },
+      {
+        "orig": "is to",
+        "speakText": "is to",
+        "phonetic": "is-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to provide",
+        "speakText": "to provide",
+        "phonetic": "tuh-provide",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "opportunities for",
+        "speakText": "opportunities for",
+        "phonetic": "ahp-er-too-nuh-teez-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      }
+    ]
+  }
+]

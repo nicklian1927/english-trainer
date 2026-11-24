@@ -1,0 +1,356 @@
+[
+  {
+    "en": "The coach promised to lead his team to a championship in the upcoming season.",
+    "zh": "教練承諾在即將到來的賽季帶領球隊奪冠。",
+    "notes": [
+      {
+        "orig": "The coach",
+        "speakText": "The coach",
+        "phonetic": "thuh-coach",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "promised to",
+        "speakText": "promised to",
+        "phonetic": "prah-mist-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to lead",
+        "speakText": "to lead",
+        "phonetic": "tuh-lead",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "lead his",
+        "speakText": "lead his",
+        "phonetic": "lead-iz",
+        "desc": "his 開頭的 /h/ 在連讀時常弱化省略，lead 尾音直接黏上 iz 變成 lead-iz。"
+      },
+      {
+        "orig": "his team",
+        "speakText": "his team",
+        "phonetic": "iz-team",
+        "desc": "his 開頭的 /h/ 在連讀時常弱化省略，與前一字尾音黏連。"
+      }
+    ]
+  },
+  {
+    "en": "The first sales campaign failed, so we must come up with an alternative plan for the next one.",
+    "zh": "第一波銷售活動失敗了，因此我們必須為下一波擬定替代方案。",
+    "notes": [
+      {
+        "orig": "The first",
+        "speakText": "The first",
+        "phonetic": "thuh-first",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "first sales",
+        "speakText": "first sales",
+        "phonetic": "first-sales",
+        "desc": "first 字尾塞音在後續輔音 /s/ 前發生吞音（無聲除阻），直接滑向 sales。"
+      },
+      {
+        "orig": "must come",
+        "speakText": "must come",
+        "phonetic": "must-come",
+        "desc": "must 字尾塞音在後續輔音 /c/ 前發生吞音（無聲除阻），直接滑向 come。"
+      },
+      {
+        "orig": "with an",
+        "speakText": "with an",
+        "phonetic": "with-un",
+        "desc": "with 尾音直接連向弱讀的 an（/un/），聽起來像 with-un。"
+      },
+      {
+        "orig": "an alternative",
+        "speakText": "an alternative",
+        "phonetic": "un-awl-ter-nuh-tiv",
+        "desc": "an 尾音輔音自然連向 alternative 的開頭母音，語流連成 un-awl-ter-nuh-tiv。"
+      }
+    ]
+  },
+  {
+    "en": "Jan is a competent employee and deserves a raise.",
+    "zh": "珍是一位稱職的員工，值得加薪。",
+    "notes": [
+      {
+        "orig": "Jan is",
+        "speakText": "Jan is",
+        "phonetic": "jan-is",
+        "desc": "Jan 尾音輔音自然連向 is 的開頭母音，語流連成 jan-is。"
+      },
+      {
+        "orig": "is a",
+        "speakText": "is a",
+        "phonetic": "is-uh",
+        "desc": "is 尾音直接連向弱讀的 a（/uh/），聽起來像 is-uh。"
+      },
+      {
+        "orig": "a competent",
+        "speakText": "a competent",
+        "phonetic": "uh-kahm-puh-tunt",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "competent employee",
+        "speakText": "competent employee",
+        "phonetic": "kahm-puh-tunt-employee",
+        "desc": "competent 尾音輔音自然連向 employee 的開頭母音，語流連成 kahm-puh-tunt-employee。"
+      },
+      {
+        "orig": "employee and",
+        "speakText": "employee and",
+        "phonetic": "employee-un",
+        "desc": "連接詞 and 常弱化並吞掉字尾 /d/，唸成輕短的 /un/。"
+      }
+    ]
+  },
+  {
+    "en": "The boss likes to wear a conventional navy suit.",
+    "zh": "老闆喜歡穿傳統的海軍藍西裝。",
+    "notes": [
+      {
+        "orig": "The boss",
+        "speakText": "The boss",
+        "phonetic": "thuh-boss",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "likes to",
+        "speakText": "likes to",
+        "phonetic": "likes-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to wear",
+        "speakText": "to wear",
+        "phonetic": "tuh-wear",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "wear a",
+        "speakText": "wear a",
+        "phonetic": "wear-uh",
+        "desc": "wear 尾音直接連向弱讀的 a（/uh/），聽起來像 wear-uh。"
+      },
+      {
+        "orig": "a conventional",
+        "speakText": "a conventional",
+        "phonetic": "uh-kun-ven-shuh-nul",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      }
+    ]
+  },
+  {
+    "en": "Harold is a typical businessperson with a nine-to-five job.",
+    "zh": "哈羅德是一位朝九晚五的典型上班族。",
+    "notes": [
+      {
+        "orig": "Harold is",
+        "speakText": "Harold is",
+        "phonetic": "harold-is",
+        "desc": "Harold 尾音輔音自然連向 is 的開頭母音，語流連成 harold-is。"
+      },
+      {
+        "orig": "is a",
+        "speakText": "is a",
+        "phonetic": "is-uh",
+        "desc": "is 尾音直接連向弱讀的 a（/uh/），聽起來像 is-uh。"
+      },
+      {
+        "orig": "a typical",
+        "speakText": "a typical",
+        "phonetic": "uh-tip-i-kul",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "with a",
+        "speakText": "with a",
+        "phonetic": "with-uh",
+        "desc": "with 尾音直接連向弱讀的 a（/uh/），聽起來像 with-uh。"
+      },
+      {
+        "orig": "a nine",
+        "speakText": "a nine",
+        "phonetic": "uh-nine",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      }
+    ]
+  },
+  {
+    "en": "The diligent manager revived the failing business.",
+    "zh": "勤勉的經理讓瀕臨倒閉的企業重振生機。",
+    "notes": [
+      {
+        "orig": "The diligent",
+        "speakText": "The diligent",
+        "phonetic": "thuh-dil-i-junt",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "diligent manager",
+        "speakText": "diligent manager",
+        "phonetic": "dil-i-junt-manager",
+        "desc": "diligent 字尾塞音在後續輔音 /m/ 前發生吞音（無聲除阻），直接滑向 manager。"
+      },
+      {
+        "orig": "revived the",
+        "speakText": "revived the",
+        "phonetic": "ri-vyvd-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the failing",
+        "speakText": "the failing",
+        "phonetic": "thuh-failing",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "Ms. Mansfield will be the temporary editor while Mr. Chen is on leave.",
+    "zh": "陳先生休假期間，曼斯菲爾德女士將擔任代理編輯。",
+    "notes": [
+      {
+        "orig": "Mansfield will",
+        "speakText": "Mansfield will",
+        "phonetic": "mansfield-will",
+        "desc": "Mansfield 字尾塞音在後續輔音 /w/ 前發生吞音（無聲除阻），直接滑向 will。"
+      },
+      {
+        "orig": "be the",
+        "speakText": "be the",
+        "phonetic": "be-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the temporary",
+        "speakText": "the temporary",
+        "phonetic": "thuh-tem-puh-rer-ee",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "temporary editor",
+        "speakText": "temporary editor",
+        "phonetic": "tem-puh-rer-ee-ed-i-ter",
+        "desc": "temporary 尾音輔音自然連向 editor 的開頭母音，語流連成 tem-puh-rer-ee-ed-i-ter。"
+      },
+      {
+        "orig": "Chen is",
+        "speakText": "Chen is",
+        "phonetic": "chen-is",
+        "desc": "Chen 尾音輔音自然連向 is 的開頭母音，語流連成 chen-is。"
+      }
+    ]
+  },
+  {
+    "en": "Alex is proving to be a hardworking and reliable assistant.",
+    "zh": "事實證明亞歷克斯是一位勤奮又可靠的助理。",
+    "notes": [
+      {
+        "orig": "Alex is",
+        "speakText": "Alex is",
+        "phonetic": "alex-is",
+        "desc": "Alex 尾音輔音自然連向 is 的開頭母音，語流連成 alex-is。"
+      },
+      {
+        "orig": "proving to",
+        "speakText": "proving to",
+        "phonetic": "proo-ving-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to be",
+        "speakText": "to be",
+        "phonetic": "tuh-be",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "be a",
+        "speakText": "be a",
+        "phonetic": "be-uh",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "a hardworking",
+        "speakText": "a hardworking",
+        "phonetic": "uh-hardworking",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      }
+    ]
+  },
+  {
+    "en": "The sisters are skilled in their own respective areas of science.",
+    "zh": "這對姊妹各自擅長不同的科學領域。",
+    "notes": [
+      {
+        "orig": "The sisters",
+        "speakText": "The sisters",
+        "phonetic": "thuh-sisters",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "sisters are",
+        "speakText": "sisters are",
+        "phonetic": "sisters-er",
+        "desc": "sisters 尾音直接連向弱讀的 are（/er/），聽起來像 sisters-er。"
+      },
+      {
+        "orig": "are skilled",
+        "speakText": "are skilled",
+        "phonetic": "er-skilld",
+        "desc": "be 動詞 are 在非重讀位置弱讀為 /er/。"
+      },
+      {
+        "orig": "skilled in",
+        "speakText": "skilled in",
+        "phonetic": "skilld-in",
+        "desc": "skilled 尾音輔音自然連向 in 的開頭母音，語流連成 skilld-in。"
+      },
+      {
+        "orig": "in their",
+        "speakText": "in their",
+        "phonetic": "in-ther",
+        "desc": "所有格 their 在非重讀位置常弱讀為 /ther/。"
+      }
+    ]
+  },
+  {
+    "en": "We spent a considerable amount of money on refurbishing the office.",
+    "zh": "我們花了相當可觀的資金翻修辦公室。",
+    "notes": [
+      {
+        "orig": "spent a",
+        "speakText": "spent a",
+        "phonetic": "spent-uh",
+        "desc": "spent 尾音直接連向弱讀的 a（/uh/），聽起來像 spent-uh。"
+      },
+      {
+        "orig": "a considerable",
+        "speakText": "a considerable",
+        "phonetic": "uh-kun-sid-er-uh-bul",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "amount of",
+        "speakText": "amount of",
+        "phonetic": "uh-mount-uh",
+        "desc": "amount 尾音直接連向弱讀的 of（/uh/），聽起來像 uh-mount-uh。"
+      },
+      {
+        "orig": "of money",
+        "speakText": "of money",
+        "phonetic": "uh-money",
+        "desc": "介系詞 of 在口語連讀中常弱化為輕短的 /uh/（或 /uv/）。"
+      },
+      {
+        "orig": "money on",
+        "speakText": "money on",
+        "phonetic": "money-on",
+        "desc": "money 尾音輔音自然連向 on 的開頭母音，語流連成 money-on。"
+      }
+    ]
+  }
+]

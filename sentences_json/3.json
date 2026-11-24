@@ -1,0 +1,236 @@
+[
+  {
+    "en": "She didn't approve of the CEO's decision to relocate abroad.",
+    "zh": "她不贊成執行長將總部遷往國外的決定。",
+    "notes": [
+      {
+        "orig": "didn't approve",
+        "speakText": "didn't approve",
+        "phonetic": "di-dn-uh-proov",
+        "desc": "didn't 字尾 /t/ 吞音，approve 的 ap 弱化為 /uh/。"
+      },
+      {
+        "orig": "approve of",
+        "speakText": "approve of",
+        "phonetic": "uh-proo-vuh",
+        "desc": "approve 尾音 /v/ 直接連到弱讀的 of（/uh/）。"
+      },
+      {
+        "orig": "to relocate",
+        "speakText": "to relocate",
+        "phonetic": "tuh-ree-loh-kayt",
+        "desc": "to 弱讀為 tuh，relocate 重音落在 kayt。"
+      }
+    ]
+  },
+  {
+    "en": "We need to adopt a new approach to increase sales.",
+    "zh": "我們需要採取新方法來提升業績。",
+    "notes": [
+      {
+        "orig": "need to",
+        "speakText": "need to",
+        "phonetic": "nee-duh",
+        "desc": "need 尾音 /d/ 與 to 合併弱化，唸起來像 nee-duh。"
+      },
+      {
+        "orig": "adopt a",
+        "speakText": "adopt a",
+        "phonetic": "uh-dahp-duh",
+        "desc": "adopt 字尾 /t/ 夾在母音間閃化為 /ɾ/，連向 a。"
+      },
+      {
+        "orig": "to increase",
+        "speakText": "to increase",
+        "phonetic": "tuh-in-krees",
+        "desc": "to 弱讀為 tuh，直接接 increase。"
+      }
+    ]
+  },
+  {
+    "en": "It's Mary's job to come up with ways to increase business.",
+    "zh": "想辦法拓展業務是瑪麗的工作。",
+    "notes": [
+      {
+        "orig": "come up",
+        "speakText": "come up",
+        "phonetic": "kum-up",
+        "desc": "come 尾音 /m/ 直接連到 up 的母音，唸成 kum-up。"
+      },
+      {
+        "orig": "up with",
+        "speakText": "up with",
+        "phonetic": "uh-pwith",
+        "desc": "up 尾音 /p/ 緊接 with，語流不停頓。"
+      },
+      {
+        "orig": "to increase",
+        "speakText": "to increase",
+        "phonetic": "tuh-in-krees",
+        "desc": "to 弱讀為 tuh，連向 increase。"
+      }
+    ]
+  },
+  {
+    "en": "The shop owner expanded her store by adding another room.",
+    "zh": "店主透過加蓋另一個房間擴大了店面。",
+    "notes": [
+      {
+        "orig": "expanded her",
+        "speakText": "expanded her",
+        "phonetic": "ik-span-did-er",
+        "desc": "expanded 尾音 /d/ 連向 her（/h/ 弱化省略，聽起來像 did-er）。"
+      },
+      {
+        "orig": "adding another",
+        "speakText": "adding another",
+        "phonetic": "ad-ing-uh-nuth-er",
+        "desc": "adding 尾音 /ŋ/ 滑向 another 的弱讀母音 /uh/。"
+      }
+    ]
+  },
+  {
+    "en": "All employees are required to attend the morning meetings.",
+    "zh": "所有員工都必須參加晨會。",
+    "notes": [
+      {
+        "orig": "employees are",
+        "speakText": "employees are",
+        "phonetic": "em-ploy-eez-er",
+        "desc": "employees 尾音 /z/ 連到 are 的弱讀母音 /er/。"
+      },
+      {
+        "orig": "required to",
+        "speakText": "required to",
+        "phonetic": "ri-kwyrd-tuh",
+        "desc": "to 弱讀為 tuh，required 尾音 /d/ 輕觸即收。"
+      },
+      {
+        "orig": "attend the",
+        "speakText": "attend the",
+        "phonetic": "uh-ten-thuh",
+        "desc": "attend 字尾 /d/ 與後續 the 的 /ð/ 緊密銜接。"
+      }
+    ]
+  },
+  {
+    "en": "The customers entered the shop and inquired about prices.",
+    "zh": "顧客走進店裡並詢問價格。",
+    "notes": [
+      {
+        "orig": "entered the",
+        "speakText": "entered the",
+        "phonetic": "en-terd-thuh",
+        "desc": "entered 尾音 /d/ 接弱讀的 thuh。"
+      },
+      {
+        "orig": "shop and",
+        "speakText": "shop and",
+        "phonetic": "shah-pand",
+        "desc": "shop 尾音 /p/ 連到 and 的母音，and 常弱化為 /n/ 或 /und/。"
+      },
+      {
+        "orig": "inquired about",
+        "speakText": "inquired about",
+        "phonetic": "in-kwyrd-uh-bout",
+        "desc": "inquired 尾音 /d/ 連向 about 的弱讀首音 /uh/。"
+      }
+    ]
+  },
+  {
+    "en": "The manager assigned us the new project and asked us to finish it by the weekend.",
+    "zh": "經理把新專案分派給我們，並請我們在週末前完成。",
+    "notes": [
+      {
+        "orig": "assigned us",
+        "speakText": "assigned us",
+        "phonetic": "uh-sy-ndus",
+        "desc": "assigned 尾音 /d/ 連向 us 的母音，聽起來像 uh-sy-ndus。"
+      },
+      {
+        "orig": "asked us",
+        "speakText": "asked us",
+        "phonetic": "ask-tus",
+        "desc": "asked 字尾 /kt/ 的 /t/ 弱化，連向 us 聽起來像 ask-tus。"
+      },
+      {
+        "orig": "finish it",
+        "speakText": "finish it",
+        "phonetic": "fi-ni-shit",
+        "desc": "finish 尾音 /ʃ/ 直接連到 it 的母音，變成 fi-ni-shit。"
+      },
+      {
+        "orig": "by the",
+        "speakText": "by the",
+        "phonetic": "by-thuh",
+        "desc": "the 弱讀為輕短的 thuh。"
+      }
+    ]
+  },
+  {
+    "en": "It is your duty to designate a new leader of the team.",
+    "zh": "指派新的團隊領導人是你的職責。",
+    "notes": [
+      {
+        "orig": "It is",
+        "speakText": "It is",
+        "phonetic": "I-diz",
+        "desc": "It 字尾 /t/ 夾在母音間閃化為 /ɾ/，連向 is 變成 I-diz。"
+      },
+      {
+        "orig": "designate a",
+        "speakText": "designate a",
+        "phonetic": "dez-ig-nay-duh",
+        "desc": "designate 字尾 /t/ 閃化為 /ɾ/，連向 a 聽起來像 nay-duh。"
+      },
+      {
+        "orig": "leader of",
+        "speakText": "leader of",
+        "phonetic": "lee-der-uh",
+        "desc": "leader 尾音 /r/ 連向 of 的弱讀母音 /uh/。"
+      }
+    ]
+  },
+  {
+    "en": "Mr. Lee indicated his wishes for new contract terms in a letter.",
+    "zh": "李先生在信中表明了他對新合約條款的期望。",
+    "notes": [
+      {
+        "orig": "indicated his",
+        "speakText": "indicated his",
+        "phonetic": "in-di-kay-did-iz",
+        "desc": "indicated 尾音 /d/ 連向 his（/h/ 弱化省略，聽起來像 did-iz）。"
+      },
+      {
+        "orig": "in a",
+        "speakText": "in a",
+        "phonetic": "i-nuh",
+        "desc": "in 尾音 /n/ 直接連到不定冠詞 a，唸成 i-nuh。"
+      }
+    ]
+  },
+  {
+    "en": "Elise implied she might transfer to Shanghai if she were promoted.",
+    "zh": "伊莉絲暗示如果獲得升遷，她可能會調往上海。",
+    "notes": [
+      {
+        "orig": "might transfer",
+        "speakText": "might transfer",
+        "phonetic": "my-trans-fer",
+        "desc": "might 字尾 /t/ 在 /t/ 前吞音，直接接 transfer。"
+      },
+      {
+        "orig": "transfer to",
+        "speakText": "transfer to",
+        "phonetic": "trans-fer-tuh",
+        "desc": "to 弱讀為輕短的 tuh。"
+      },
+      {
+        "orig": "if she",
+        "speakText": "if she",
+        "phonetic": "if-shee",
+        "desc": "if 尾音 /f/ 順勢接 shee。"
+      }
+    ]
+  }
+]

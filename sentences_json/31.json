@@ -1,0 +1,302 @@
+[
+  {
+    "en": "After long negotiations, we eventually reached an agreement.",
+    "zh": "經過漫長的談判，我們最終達成了協議。",
+    "notes": [
+      {
+        "orig": "reached an",
+        "speakText": "reached an",
+        "phonetic": "reachd-un",
+        "desc": "reached 尾音直接連向弱讀的 an（/un/），聽起來像 reachd-un。"
+      },
+      {
+        "orig": "an agreement",
+        "speakText": "an agreement",
+        "phonetic": "un-uh-gree-munt",
+        "desc": "an 尾音輔音自然連向 agreement 的開頭母音，語流連成 un-uh-gree-munt。"
+      }
+    ]
+  },
+  {
+    "en": "Don't forget to send your deposit in advance; otherwise your reservation will not be processed.",
+    "zh": "別忘了提前匯出訂金，否則您的預訂將不予處理。",
+    "notes": [
+      {
+        "orig": "forget to",
+        "speakText": "forget to",
+        "phonetic": "forget-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to send",
+        "speakText": "to send",
+        "phonetic": "tuh-send",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "send your",
+        "speakText": "send your",
+        "phonetic": "send-yer",
+        "desc": "send 字尾塞音在後續輔音 /y/ 前發生吞音（無聲除阻），直接滑向 your。"
+      },
+      {
+        "orig": "your deposit",
+        "speakText": "your deposit",
+        "phonetic": "yer-di-pah-zit",
+        "desc": "所有格 your 在非重讀位置常弱讀為 /yer/。"
+      },
+      {
+        "orig": "deposit in",
+        "speakText": "deposit in",
+        "phonetic": "di-pah-zi-din",
+        "desc": "deposit 字尾 /t/ 夾在母音間閃化為輕彈音 /ɾ/，與 in 連讀成 di-pah-zi-din。"
+      }
+    ]
+  },
+  {
+    "en": "The CEO is hardworking; moreover, he is quite decisive.",
+    "zh": "執行長工作勤奮；此外，他也相當果斷。",
+    "notes": [
+      {
+        "orig": "The CEO",
+        "speakText": "The CEO",
+        "phonetic": "thuh-ceo",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "he is",
+        "speakText": "he is",
+        "phonetic": "ee-is",
+        "desc": "he 開頭的 /h/ 在句中連讀時常弱化省略。"
+      }
+    ]
+  },
+  {
+    "en": "The climbing was difficult, but fun nevertheless.",
+    "zh": "攀登過程很艱難，但儘管如此還是很有趣。",
+    "notes": [
+      {
+        "orig": "The climbing",
+        "speakText": "The climbing",
+        "phonetic": "thuh-climbing",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "climbing was",
+        "speakText": "climbing was",
+        "phonetic": "climbing-wuz",
+        "desc": "was 弱讀為輕短的 /wuz/。"
+      },
+      {
+        "orig": "was difficult",
+        "speakText": "was difficult",
+        "phonetic": "wuz-difficult",
+        "desc": "was 弱讀為輕短的 /wuz/。"
+      },
+      {
+        "orig": "but fun",
+        "speakText": "but fun",
+        "phonetic": "buh-fun",
+        "desc": "but 字尾 /t/ 在輔音前常吞音，母音弱化為 /buh/。"
+      }
+    ]
+  },
+  {
+    "en": "The flight is scheduled to arrive in approximately 10 hours.",
+    "zh": "該航班預定約在 10 小時後抵達。",
+    "notes": [
+      {
+        "orig": "The flight",
+        "speakText": "The flight",
+        "phonetic": "thuh-flight",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "flight is",
+        "speakText": "flight is",
+        "phonetic": "flight-is",
+        "desc": "flight 尾音輔音自然連向 is 的開頭母音，語流連成 flight-is。"
+      },
+      {
+        "orig": "scheduled to",
+        "speakText": "scheduled to",
+        "phonetic": "scheduld-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to arrive",
+        "speakText": "to arrive",
+        "phonetic": "tuh-arrive",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "in approximately",
+        "speakText": "in approximately",
+        "phonetic": "in-uh-prahk-suh-mut-lee",
+        "desc": "in 尾音輔音自然連向 approximately 的開頭母音，語流連成 in-uh-prahk-suh-mut-lee。"
+      }
+    ]
+  },
+  {
+    "en": "We rarely have heavy snow like this in our area.",
+    "zh": "我們這地區很少下像這樣的大雪。",
+    "notes": [
+      {
+        "orig": "rarely have",
+        "speakText": "rarely have",
+        "phonetic": "rarely-huv",
+        "desc": "助動詞 have 弱讀為輕短的 /huv/。"
+      },
+      {
+        "orig": "have heavy",
+        "speakText": "have heavy",
+        "phonetic": "huv-heavy",
+        "desc": "助動詞 have 弱讀為輕短的 /huv/。"
+      },
+      {
+        "orig": "this in",
+        "speakText": "this in",
+        "phonetic": "this-in",
+        "desc": "this 尾音輔音自然連向 in 的開頭母音，語流連成 this-in。"
+      },
+      {
+        "orig": "in our",
+        "speakText": "in our",
+        "phonetic": "in-owr",
+        "desc": "in 尾音輔音自然連向 our 的開頭母音，語流連成 in-owr。"
+      },
+      {
+        "orig": "our area",
+        "speakText": "our area",
+        "phonetic": "owr-area",
+        "desc": "our 尾音輔音自然連向 area 的開頭母音，語流連成 owr-area。"
+      }
+    ]
+  },
+  {
+    "en": "Why have our sales been decreasing gradually?",
+    "zh": "為什麼我們的銷售額一直在逐漸下滑？",
+    "notes": [
+      {
+        "orig": "Why have",
+        "speakText": "Why have",
+        "phonetic": "why-huv",
+        "desc": "助動詞 have 弱讀為輕短的 /huv/。"
+      },
+      {
+        "orig": "have our",
+        "speakText": "have our",
+        "phonetic": "huv-owr",
+        "desc": "have 與 our 皆為非重讀功能詞，雙雙弱讀並連成輕短的 huv-owr。"
+      },
+      {
+        "orig": "our sales",
+        "speakText": "our sales",
+        "phonetic": "owr-sales",
+        "desc": "our 與前一字尾音自然連讀滑入。"
+      }
+    ]
+  },
+  {
+    "en": "I want to meet you tomorrow morning, preferably at 10.",
+    "zh": "我想明天早上跟你見面，最好是十點。",
+    "notes": [
+      {
+        "orig": "want to",
+        "speakText": "want to",
+        "phonetic": "want-tuh",
+        "desc": "want 字尾塞音在後續輔音 /t/ 前發生吞音（無聲除阻），直接滑向 to。"
+      },
+      {
+        "orig": "to meet",
+        "speakText": "to meet",
+        "phonetic": "tuh-meet",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "preferably at",
+        "speakText": "preferably at",
+        "phonetic": "pref-er-uh-blee-ut",
+        "desc": "preferably 尾音直接連向弱讀的 at（/ut/），聽起來像 pref-er-uh-blee-ut。"
+      },
+      {
+        "orig": "at 10",
+        "speakText": "at 10",
+        "phonetic": "ut-10",
+        "desc": "介系詞 at 弱讀為輕短的 /ut/。"
+      }
+    ]
+  },
+  {
+    "en": "Carl is extremely good at chess and plays it every day.",
+    "zh": "卡爾非常擅長下西洋棋，而且每天都下。",
+    "notes": [
+      {
+        "orig": "Carl is",
+        "speakText": "Carl is",
+        "phonetic": "carl-is",
+        "desc": "Carl 尾音輔音自然連向 is 的開頭母音，語流連成 carl-is。"
+      },
+      {
+        "orig": "is extremely",
+        "speakText": "is extremely",
+        "phonetic": "is-ik-streem-lee",
+        "desc": "is 尾音輔音自然連向 extremely 的開頭母音，語流連成 is-ik-streem-lee。"
+      },
+      {
+        "orig": "good at",
+        "speakText": "good at",
+        "phonetic": "good-ut",
+        "desc": "good 尾音直接連向弱讀的 at（/ut/），聽起來像 good-ut。"
+      },
+      {
+        "orig": "at chess",
+        "speakText": "at chess",
+        "phonetic": "ut-chess",
+        "desc": "介系詞 at 弱讀為輕短的 /ut/。"
+      },
+      {
+        "orig": "chess and",
+        "speakText": "chess and",
+        "phonetic": "chess-un",
+        "desc": "chess 尾音輔音自然連向 and 的開頭母音，語流連成 chess-un。"
+      }
+    ]
+  },
+  {
+    "en": "The colleagues were understandably shocked by her sudden resignation.",
+    "zh": "同事們對她突然辭職感到震驚是完全可以理解的。",
+    "notes": [
+      {
+        "orig": "The colleagues",
+        "speakText": "The colleagues",
+        "phonetic": "thuh-colleagues",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "colleagues were",
+        "speakText": "colleagues were",
+        "phonetic": "colleagues-wer",
+        "desc": "were 弱讀為輕短的 /wer/。"
+      },
+      {
+        "orig": "were understandably",
+        "speakText": "were understandably",
+        "phonetic": "wer-un-der-stan-duh-blee",
+        "desc": "were 弱讀為輕短的 /wer/。"
+      },
+      {
+        "orig": "by her",
+        "speakText": "by her",
+        "phonetic": "by-er",
+        "desc": "her 開頭的 /h/ 在連讀時常弱化省略，by 尾音直接黏上 er 變成 by-er。"
+      },
+      {
+        "orig": "her sudden",
+        "speakText": "her sudden",
+        "phonetic": "er-sudden",
+        "desc": "her 開頭的 /h/ 在連讀時常弱化省略，與前一字尾音黏連。"
+      }
+    ]
+  }
+]

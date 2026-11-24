@@ -1,0 +1,332 @@
+[
+  {
+    "en": "The company had posted losses for three consecutive years; hence, the CEO resigned.",
+    "zh": "該公司已連續三年虧損，因此執行長辭職了。",
+    "notes": [
+      {
+        "orig": "The company",
+        "speakText": "The company",
+        "phonetic": "thuh-kum-puh-nee",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "losses for",
+        "speakText": "losses for",
+        "phonetic": "losses-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for three",
+        "speakText": "for three",
+        "phonetic": "fer-three",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "the CEO",
+        "speakText": "the CEO",
+        "phonetic": "thuh-ceo",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "She bought an old house in the suburbs and subsequently renovated it completely.",
+    "zh": "她在郊區買了一棟老房子，隨後將其徹底翻新。",
+    "notes": [
+      {
+        "orig": "bought an",
+        "speakText": "bought an",
+        "phonetic": "bought-un",
+        "desc": "bought 尾音直接連向弱讀的 an（/un/），聽起來像 bought-un。"
+      },
+      {
+        "orig": "an old",
+        "speakText": "an old",
+        "phonetic": "un-old",
+        "desc": "an 尾音輔音自然連向 old 的開頭母音，語流連成 un-old。"
+      },
+      {
+        "orig": "old house",
+        "speakText": "old house",
+        "phonetic": "old-house",
+        "desc": "old 字尾塞音在後續輔音 /h/ 前發生吞音（無聲除阻），直接滑向 house。"
+      },
+      {
+        "orig": "in the",
+        "speakText": "in the",
+        "phonetic": "in-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the suburbs",
+        "speakText": "the suburbs",
+        "phonetic": "thuh-suburbs",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "This is arguably the best Madonna painted by Raffaello.",
+    "zh": "這可以說是拉斐爾所繪最出色的一幅《聖母像》。",
+    "notes": [
+      {
+        "orig": "This is",
+        "speakText": "This is",
+        "phonetic": "this-is",
+        "desc": "This 尾音輔音自然連向 is 的開頭母音，語流連成 this-is。"
+      },
+      {
+        "orig": "is arguably",
+        "speakText": "is arguably",
+        "phonetic": "is-ar-gyoo-uh-blee",
+        "desc": "is 尾音輔音自然連向 arguably 的開頭母音，語流連成 is-ar-gyoo-uh-blee。"
+      },
+      {
+        "orig": "arguably the",
+        "speakText": "arguably the",
+        "phonetic": "ar-gyoo-uh-blee-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the best",
+        "speakText": "the best",
+        "phonetic": "thuh-best",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "best Madonna",
+        "speakText": "best Madonna",
+        "phonetic": "best-madonna",
+        "desc": "best 字尾塞音在後續輔音 /m/ 前發生吞音（無聲除阻），直接滑向 Madonna。"
+      }
+    ]
+  },
+  {
+    "en": "Please state your opinions going clockwise around the table.",
+    "zh": "請沿著桌子順時針方向發表您的意見。",
+    "notes": [
+      {
+        "orig": "state your",
+        "speakText": "state your",
+        "phonetic": "state-yer",
+        "desc": "所有格 your 在非重讀位置常弱讀為 /yer/。"
+      },
+      {
+        "orig": "your opinions",
+        "speakText": "your opinions",
+        "phonetic": "yer-opinions",
+        "desc": "your 尾音輔音自然連向 opinions 的開頭母音，語流連成 yer-opinions。"
+      },
+      {
+        "orig": "around the",
+        "speakText": "around the",
+        "phonetic": "around-thuh",
+        "desc": "around 字尾塞音在後續輔音 /t/ 前發生吞音（無聲除阻），直接滑向 the。"
+      },
+      {
+        "orig": "the table",
+        "speakText": "the table",
+        "phonetic": "thuh-tuh-bul",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "The president spoke eloquently on the benefits of the merger deal.",
+    "zh": "總裁雄辯滔滔地闡述了這筆合併交易的好處。",
+    "notes": [
+      {
+        "orig": "The president",
+        "speakText": "The president",
+        "phonetic": "thuh-prez-i-dunt",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "president spoke",
+        "speakText": "president spoke",
+        "phonetic": "prez-i-dunt-spoke",
+        "desc": "president 字尾塞音在後續輔音 /s/ 前發生吞音（無聲除阻），直接滑向 spoke。"
+      },
+      {
+        "orig": "eloquently on",
+        "speakText": "eloquently on",
+        "phonetic": "el-uh-kwunt-lee-on",
+        "desc": "eloquently 尾音輔音自然連向 on 的開頭母音，語流連成 el-uh-kwunt-lee-on。"
+      },
+      {
+        "orig": "on the",
+        "speakText": "on the",
+        "phonetic": "on-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the benefits",
+        "speakText": "the benefits",
+        "phonetic": "thuh-benefits",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "This is an important document, so please write legibly in it.",
+    "zh": "這是一份重要文件，因此在填寫時請字跡工整清晰。",
+    "notes": [
+      {
+        "orig": "This is",
+        "speakText": "This is",
+        "phonetic": "this-is",
+        "desc": "This 尾音輔音自然連向 is 的開頭母音，語流連成 this-is。"
+      },
+      {
+        "orig": "is an",
+        "speakText": "is an",
+        "phonetic": "is-un",
+        "desc": "is 尾音直接連向弱讀的 an（/un/），聽起來像 is-un。"
+      },
+      {
+        "orig": "an important",
+        "speakText": "an important",
+        "phonetic": "un-im-por-tunt",
+        "desc": "an 尾音輔音自然連向 important 的開頭母音，語流連成 un-im-por-tunt。"
+      },
+      {
+        "orig": "important document",
+        "speakText": "important document",
+        "phonetic": "im-por-tunt-documunt",
+        "desc": "important 字尾塞音在後續輔音 /d/ 前發生吞音（無聲除阻），直接滑向 document。"
+      },
+      {
+        "orig": "legibly in",
+        "speakText": "legibly in",
+        "phonetic": "lej-uh-blee-in",
+        "desc": "legibly 尾音輔音自然連向 in 的開頭母音，語流連成 lej-uh-blee-in。"
+      }
+    ]
+  },
+  {
+    "en": "I know the deadline; incidentally, is there enough left in the project budget?",
+    "zh": "我知道截止期限；順便問一下，專案預算還剩足夠的經費嗎？",
+    "notes": [
+      {
+        "orig": "know the",
+        "speakText": "know the",
+        "phonetic": "know-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the deadline",
+        "speakText": "the deadline",
+        "phonetic": "thuh-deadline",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "left in",
+        "speakText": "left in",
+        "phonetic": "left-in",
+        "desc": "left 尾音輔音自然連向 in 的開頭母音，語流連成 left-in。"
+      },
+      {
+        "orig": "in the",
+        "speakText": "in the",
+        "phonetic": "in-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the project",
+        "speakText": "the project",
+        "phonetic": "thuh-project",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "A translation of the speech could be simultaneously heard during the broadcast.",
+    "zh": "廣播期間可以同步聽到演講的翻譯。",
+    "notes": [
+      {
+        "orig": "A translation",
+        "speakText": "A translation",
+        "phonetic": "uh-translashun",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "translation of",
+        "speakText": "translation of",
+        "phonetic": "translashun-uh",
+        "desc": "translation 尾音直接連向弱讀的 of（/uh/），聽起來像 translashun-uh。"
+      },
+      {
+        "orig": "of the",
+        "speakText": "of the",
+        "phonetic": "uh-thuh",
+        "desc": "of 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 uh-thuh。"
+      },
+      {
+        "orig": "the speech",
+        "speakText": "the speech",
+        "phonetic": "thuh-speech",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "could be",
+        "speakText": "could be",
+        "phonetic": "could-be",
+        "desc": "could 字尾塞音在後續輔音 /b/ 前發生吞音（無聲除阻），直接滑向 be。"
+      }
+    ]
+  },
+  {
+    "en": "Jen presumably missed the bus because she is very late.",
+    "zh": "珍遲到了這麼久，大概是錯過公車了。",
+    "notes": [
+      {
+        "orig": "missed the",
+        "speakText": "missed the",
+        "phonetic": "missd-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the bus",
+        "speakText": "the bus",
+        "phonetic": "thuh-bus",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "Online views of the dance video rose exponentially as word spread about it.",
+    "zh": "隨著消息傳開，這支舞蹈影片的線上觀看次數呈指數級飆升。",
+    "notes": [
+      {
+        "orig": "views of",
+        "speakText": "views of",
+        "phonetic": "views-uh",
+        "desc": "views 尾音直接連向弱讀的 of（/uh/），聽起來像 views-uh。"
+      },
+      {
+        "orig": "of the",
+        "speakText": "of the",
+        "phonetic": "uh-thuh",
+        "desc": "of 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 uh-thuh。"
+      },
+      {
+        "orig": "the dance",
+        "speakText": "the dance",
+        "phonetic": "thuh-dance",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "exponentially as",
+        "speakText": "exponentially as",
+        "phonetic": "ek-spuh-nen-shuh-lee-uz",
+        "desc": "exponentially 尾音直接連向弱讀的 as（/uz/），聽起來像 ek-spuh-nen-shuh-lee-uz。"
+      },
+      {
+        "orig": "as word",
+        "speakText": "as word",
+        "phonetic": "uz-word",
+        "desc": "as 弱讀為輕短的 /uz/。"
+      }
+    ]
+  }
+]

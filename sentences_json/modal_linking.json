@@ -1,0 +1,216 @@
+[
+  {
+    "en": "You must be tired.",
+    "zh": "你一定很累了。",
+    "notes": [
+      {
+        "orig": "must be",
+        "phonetic": "/mʌsbi/ 或 /mʌs bi/",
+        "desc": "字尾的 /t/ 在子音 /b/ 前常被吞掉或只做輕微止音，不會明顯爆破，聽起來接近 /mʌsbi/。"
+      }
+    ]
+  },
+  {
+    "en": "We must get this done today.",
+    "zh": "我們今天必須把這件事做完。",
+    "notes": [
+      {
+        "orig": "must get",
+        "phonetic": "/mʌsɡɛt/",
+        "desc": "must 的尾音 /t/ 在軟顎塞音 /g/ 前常被吞掉，直接連到 get。"
+      },
+      {
+        "orig": "get this",
+        "phonetic": "/ɡɛðɪs/",
+        "desc": "get 尾音 /t/ 在齒間音 /ð/ 前常弱化或吞音，直接順接 this。"
+      }
+    ]
+  },
+  {
+    "en": "Can we talk for a minute?",
+    "zh": "我們可以聊一下嗎？",
+    "notes": [
+      {
+        "orig": "Can we",
+        "phonetic": "/kənwi/",
+        "desc": "非重讀的 can 常弱化為 /kən/，與 we 連讀成 /kənwi/，不像重讀時唸成 /kæn/。"
+      },
+      {
+        "orig": "for a",
+        "phonetic": "/fərə/",
+        "desc": "for 弱化為 /fər/ 並連上不定冠詞 a（/ə/），聽起來像 /fərə/。"
+      }
+    ]
+  },
+  {
+    "en": "Can you help me out?",
+    "zh": "你能幫我一下嗎？",
+    "notes": [
+      {
+        "orig": "Can you",
+        "phonetic": "/kənjə/ 或 /kəndʒə/",
+        "desc": "can 弱化為 /kən/，you 弱化為 /jə/，口語快唸時也常聽起來接近 /kəndʒə/。"
+      },
+      {
+        "orig": "me out",
+        "phonetic": "/miːjaʊt/",
+        "desc": "母音連音：me 尾音 /iː/ 接母音開頭的 out 時，中間會自然帶出輕微的 /j/ 滑音。"
+      }
+    ]
+  },
+  {
+    "en": "Could you send it over?",
+    "zh": "你可以把它傳過來嗎？",
+    "notes": [
+      {
+        "orig": "Could you",
+        "phonetic": "/kʊdʒu/ 或 /kʊdʒə/",
+        "desc": "could 尾音 /d/ 遇到 /j/（you）發生顎化連音，聽起來像 /kʊdʒə/（庫擠呀）。"
+      },
+      {
+        "orig": "it over",
+        "phonetic": "/ɪɾoʊvər/",
+        "desc": "it 的 /t/ 夾在兩個母音之間變成閃音 /ɾ/，並連向 over。"
+      }
+    ]
+  },
+  {
+    "en": "Could I ask you something?",
+    "zh": "我可以問你一件事嗎？",
+    "notes": [
+      {
+        "orig": "Could I",
+        "phonetic": "/kʊɾaɪ/",
+        "desc": "could 尾音 /d/ 夾在兩個母音之間常閃音化成 /ɾ/，與 I 連成 /kʊɾaɪ/。"
+      },
+      {
+        "orig": "ask you",
+        "phonetic": "/æskʃu/ 或 /æskjə/",
+        "desc": "ask 尾音 /k/ 接 you 時，/j/ 弱化或與前面子音連讀，常聽起來很輕快。"
+      }
+    ]
+  },
+  {
+    "en": "You should check it again.",
+    "zh": "你應該再確認一次。",
+    "notes": [
+      {
+        "orig": "should check",
+        "phonetic": "/ʃʊtʃɛk/ 或 /ʃʊd tʃɛk/",
+        "desc": "should 的 /d/ 在清音 /tʃ/ 前容易受同化或弱化，與 check 緊密相連。"
+      },
+      {
+        "orig": "it again",
+        "phonetic": "/ɪɾəɡɛn/",
+        "desc": "it 尾音 /t/ 變成閃音 /ɾ/，連上 again 開頭的 /ə/。"
+      }
+    ]
+  },
+  {
+    "en": "Should we start now?",
+    "zh": "我們現在要開始嗎？",
+    "notes": [
+      {
+        "orig": "Should we",
+        "phonetic": "/ʃʊdwi/",
+        "desc": "should 尾音 /d/ 直接連到 we 開頭的 /w/，中間不停頓，唸成 /ʃʊdwi/。"
+      }
+    ]
+  },
+  {
+    "en": "Would you like some water?",
+    "zh": "你要喝點水嗎？",
+    "notes": [
+      {
+        "orig": "Would you",
+        "phonetic": "/wʊdʒu/ 或 /wʊdʒə/",
+        "desc": "would 尾音 /d/ 與 you 開頭的 /j/ 顎化連讀，常聽起來像 /wʊdʒə/（屋擠呀）。"
+      },
+      {
+        "orig": "some water",
+        "phonetic": "/sʌm wɑːɾər/",
+        "desc": "water 中的 /t/ 在美式口語常變成閃音 /ɾ/，聽起來像 /wɑːɾər/。"
+      }
+    ]
+  },
+  {
+    "en": "I would have told you.",
+    "zh": "我原本會告訴你的。",
+    "notes": [
+      {
+        "orig": "would have",
+        "phonetic": "/wʊɾəv/ 或 /wʊdəv/",
+        "desc": "口語中 would have 常弱化縮讀成 would've，have 的 /h/ 吞音、母音弱化成 /əv/，聽起來像「屋得夫」。"
+      },
+      {
+        "orig": "told you",
+        "phonetic": "/toʊldʒu/ 或 /toʊldʒə/",
+        "desc": "told 尾音 /d/ 接 you 開頭的 /j/ 發生顎化連音，聽起來像 /toʊldʒə/。"
+      }
+    ]
+  },
+  {
+    "en": "Will it rain later?",
+    "zh": "晚一點會下雨嗎？",
+    "notes": [
+      {
+        "orig": "Will it",
+        "phonetic": "/wɪlɪɾ/",
+        "desc": "will 尾音 /l/ 連到 it，it 的 /t/ 在句中或母音間常弱化／閃音化。"
+      },
+      {
+        "orig": "rain later",
+        "phonetic": "/reɪn leɪɾər/",
+        "desc": "later 的 /t/ 變成閃音 /ɾ/，整句節奏輕快連貫。"
+      }
+    ]
+  },
+  {
+    "en": "We'll let you know.",
+    "zh": "我們會通知你。",
+    "notes": [
+      {
+        "orig": "We'll let",
+        "phonetic": "/wiːl lɛt/",
+        "desc": "We will 縮讀成 We'll（/wiːl/），尾音 /l/ 順勢接向 let。"
+      },
+      {
+        "orig": "let you",
+        "phonetic": "/lɛtʃu/ 或 /lɛtʃə/",
+        "desc": "let 尾音 /t/ 與 you 開頭的 /j/ 顎化連讀，常聽起來像 /lɛtʃə/。"
+      }
+    ]
+  },
+  {
+    "en": "It might take a while.",
+    "zh": "這可能會花一點時間。",
+    "notes": [
+      {
+        "orig": "might take",
+        "phonetic": "/maɪteɪk/",
+        "desc": "might 尾音 /t/ 在塞音 /t/（take）前常被吞掉或只做停頓，直接接 take。"
+      },
+      {
+        "orig": "take a",
+        "phonetic": "/teɪkə/",
+        "desc": "子音連音：take 的 /k/ 直接連到不定冠詞 a（/ə/）。"
+      }
+    ]
+  },
+  {
+    "en": "May I come in?",
+    "zh": "我可以進來嗎？",
+    "notes": [
+      {
+        "orig": "May I",
+        "phonetic": "/meɪjaɪ/",
+        "desc": "母音連音：May 尾音是 /eɪ/，接母音開頭的 I 時中間會自然帶出輕微的 /j/ 滑音。"
+      },
+      {
+        "orig": "come in",
+        "phonetic": "/kʌmɪn/",
+        "desc": "子音連音：come 尾音鼻音 /m/ 直接連到 in 開頭的母音 /ɪ/。"
+      }
+    ]
+  }
+]

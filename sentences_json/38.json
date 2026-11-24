@@ -1,0 +1,320 @@
+[
+  {
+    "en": "All employees are eligible to enter the national pension plan.",
+    "zh": "所有員工都符合加入國家退休金計畫的資格。",
+    "notes": [
+      {
+        "orig": "All employees",
+        "speakText": "All employees",
+        "phonetic": "all-em-ploy-eez",
+        "desc": "All 尾音輔音自然連向 employees 的開頭母音，語流連成 all-em-ploy-eez。"
+      },
+      {
+        "orig": "employees are",
+        "speakText": "employees are",
+        "phonetic": "em-ploy-eez-er",
+        "desc": "employees 尾音直接連向弱讀的 are（/er/），聽起來像 em-ploy-eez-er。"
+      },
+      {
+        "orig": "are eligible",
+        "speakText": "are eligible",
+        "phonetic": "er-el-i-juh-bul",
+        "desc": "be 動詞 are 在非重讀位置弱讀為 /er/。"
+      },
+      {
+        "orig": "eligible to",
+        "speakText": "eligible to",
+        "phonetic": "el-i-juh-bul-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to enter",
+        "speakText": "to enter",
+        "phonetic": "tuh-enter",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "Our guest tonight is the prominent composer and pianist, David McKenzie.",
+    "zh": "我們今晚的來賓是著名作曲家兼鋼琴家大衛・麥肯齊。",
+    "notes": [
+      {
+        "orig": "Our guest",
+        "speakText": "Our guest",
+        "phonetic": "owr-guest",
+        "desc": "our 與前一字尾音自然連讀滑入。"
+      },
+      {
+        "orig": "guest tonight",
+        "speakText": "guest tonight",
+        "phonetic": "guest-tonight",
+        "desc": "guest 字尾塞音在後續輔音 /t/ 前發生吞音（無聲除阻），直接滑向 tonight。"
+      },
+      {
+        "orig": "tonight is",
+        "speakText": "tonight is",
+        "phonetic": "tonight-is",
+        "desc": "tonight 尾音輔音自然連向 is 的開頭母音，語流連成 tonight-is。"
+      },
+      {
+        "orig": "is the",
+        "speakText": "is the",
+        "phonetic": "is-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the prominent",
+        "speakText": "the prominent",
+        "phonetic": "thuh-prah-muh-nunt",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "We must seek an ultimate solution to the problem.",
+    "zh": "我們必須尋求解決這個問題的終極方案。",
+    "notes": [
+      {
+        "orig": "must seek",
+        "speakText": "must seek",
+        "phonetic": "must-seek",
+        "desc": "must 字尾塞音在後續輔音 /s/ 前發生吞音（無聲除阻），直接滑向 seek。"
+      },
+      {
+        "orig": "seek an",
+        "speakText": "seek an",
+        "phonetic": "seek-un",
+        "desc": "seek 尾音直接連向弱讀的 an（/un/），聽起來像 seek-un。"
+      },
+      {
+        "orig": "an ultimate",
+        "speakText": "an ultimate",
+        "phonetic": "un-ul-tuh-mut",
+        "desc": "an 尾音輔音自然連向 ultimate 的開頭母音，語流連成 un-ul-tuh-mut。"
+      },
+      {
+        "orig": "solution to",
+        "speakText": "solution to",
+        "phonetic": "suh-loo-shun-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to the",
+        "speakText": "to the",
+        "phonetic": "tuh-thuh",
+        "desc": "to 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 tuh-thuh。"
+      }
+    ]
+  },
+  {
+    "en": "Pack fragile goods securely to ensure they arrive intact.",
+    "zh": "請妥善包裝易碎品，以確保送達時完好無損。",
+    "notes": [
+      {
+        "orig": "securely to",
+        "speakText": "securely to",
+        "phonetic": "securely-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to ensure",
+        "speakText": "to ensure",
+        "phonetic": "tuh-ensure",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "they arrive",
+        "speakText": "they arrive",
+        "phonetic": "they-arrive",
+        "desc": "they 尾音輔音自然連向 arrive 的開頭母音，語流連成 they-arrive。"
+      }
+    ]
+  },
+  {
+    "en": "We assemble watch movements with the utmost precision.",
+    "zh": "我們以最高的精密度組裝手錶機芯。",
+    "notes": [
+      {
+        "orig": "with the",
+        "speakText": "with the",
+        "phonetic": "with-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the utmost",
+        "speakText": "the utmost",
+        "phonetic": "thuh-ut-mohst",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "utmost precision",
+        "speakText": "utmost precision",
+        "phonetic": "ut-mohst-pri-zi-zhun",
+        "desc": "utmost 字尾塞音在後續輔音 /p/ 前發生吞音（無聲除阻），直接滑向 precision。"
+      }
+    ]
+  },
+  {
+    "en": "The two carmakers made a concerted effort to jointly develop a new engine.",
+    "zh": "這兩家汽車製造商齊心協力共同開發新款引擎。",
+    "notes": [
+      {
+        "orig": "The two",
+        "speakText": "The two",
+        "phonetic": "thuh-two",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "made a",
+        "speakText": "made a",
+        "phonetic": "made-uh",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "a concerted",
+        "speakText": "a concerted",
+        "phonetic": "uh-kun-ser-tid",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "concerted effort",
+        "speakText": "concerted effort",
+        "phonetic": "kun-ser-tid-effort",
+        "desc": "concerted 尾音輔音自然連向 effort 的開頭母音，語流連成 kun-ser-tid-effort。"
+      },
+      {
+        "orig": "effort to",
+        "speakText": "effort to",
+        "phonetic": "effort-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "Her flat is furnished with exquisite taste.",
+    "zh": "她的公寓佈置得極具精緻品味。",
+    "notes": [
+      {
+        "orig": "Her flat",
+        "speakText": "Her flat",
+        "phonetic": "er-flat",
+        "desc": "her 開頭的 /h/ 在連讀時常弱化省略，與前一字尾音黏連。"
+      },
+      {
+        "orig": "flat is",
+        "speakText": "flat is",
+        "phonetic": "fla-dis",
+        "desc": "flat 字尾 /t/ 夾在母音間閃化為輕彈音 /ɾ/，與 is 連讀成 fla-dis。"
+      },
+      {
+        "orig": "with exquisite",
+        "speakText": "with exquisite",
+        "phonetic": "with-ik-skwiz-it",
+        "desc": "with 尾音輔音自然連向 exquisite 的開頭母音，語流連成 with-ik-skwiz-it。"
+      }
+    ]
+  },
+  {
+    "en": "The Singapore Sling is an iconic cocktail of the colonial-style hotel.",
+    "zh": "新加坡司令是這家殖民風格飯店的經典代表調酒。",
+    "notes": [
+      {
+        "orig": "The Singapore",
+        "speakText": "The Singapore",
+        "phonetic": "thuh-singapore",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "Sling is",
+        "speakText": "Sling is",
+        "phonetic": "sling-is",
+        "desc": "Sling 尾音輔音自然連向 is 的開頭母音，語流連成 sling-is。"
+      },
+      {
+        "orig": "is an",
+        "speakText": "is an",
+        "phonetic": "is-un",
+        "desc": "is 尾音直接連向弱讀的 an（/un/），聽起來像 is-un。"
+      },
+      {
+        "orig": "an iconic",
+        "speakText": "an iconic",
+        "phonetic": "un-y-kah-nik",
+        "desc": "an 尾音輔音自然連向 iconic 的開頭母音，語流連成 un-y-kah-nik。"
+      },
+      {
+        "orig": "cocktail of",
+        "speakText": "cocktail of",
+        "phonetic": "cocktail-uh",
+        "desc": "cocktail 尾音直接連向弱讀的 of（/uh/），聽起來像 cocktail-uh。"
+      }
+    ]
+  },
+  {
+    "en": "Do you want your donation to be anonymous?",
+    "zh": "您希望您的捐款保持匿名嗎？",
+    "notes": [
+      {
+        "orig": "want your",
+        "speakText": "want your",
+        "phonetic": "want-yer",
+        "desc": "want 字尾塞音在後續輔音 /y/ 前發生吞音（無聲除阻），直接滑向 your。"
+      },
+      {
+        "orig": "your donation",
+        "speakText": "your donation",
+        "phonetic": "yer-donashun",
+        "desc": "所有格 your 在非重讀位置常弱讀為 /yer/。"
+      },
+      {
+        "orig": "donation to",
+        "speakText": "donation to",
+        "phonetic": "donashun-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to be",
+        "speakText": "to be",
+        "phonetic": "tuh-be",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "The rescue teams did commendable work in the flood-damaged area.",
+    "zh": "搜救隊在洪災受創地區表現出色，值得嘉許。",
+    "notes": [
+      {
+        "orig": "The rescue",
+        "speakText": "The rescue",
+        "phonetic": "thuh-rescue",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "work in",
+        "speakText": "work in",
+        "phonetic": "work-in",
+        "desc": "work 尾音輔音自然連向 in 的開頭母音，語流連成 work-in。"
+      },
+      {
+        "orig": "in the",
+        "speakText": "in the",
+        "phonetic": "in-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the flood",
+        "speakText": "the flood",
+        "phonetic": "thuh-flood",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "damaged area",
+        "speakText": "damaged area",
+        "phonetic": "damagd-area",
+        "desc": "damaged 尾音輔音自然連向 area 的開頭母音，語流連成 damagd-area。"
+      }
+    ]
+  }
+]

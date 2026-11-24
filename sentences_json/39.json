@@ -1,0 +1,356 @@
+[
+  {
+    "en": "The small village is a congenial place for raising children.",
+    "zh": "這個小村莊是個適合養育孩子的宜人地方。",
+    "notes": [
+      {
+        "orig": "The small",
+        "speakText": "The small",
+        "phonetic": "thuh-small",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "is a",
+        "speakText": "is a",
+        "phonetic": "is-uh",
+        "desc": "is 尾音直接連向弱讀的 a（/uh/），聽起來像 is-uh。"
+      },
+      {
+        "orig": "a congenial",
+        "speakText": "a congenial",
+        "phonetic": "uh-kun-jeen-yul",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "place for",
+        "speakText": "place for",
+        "phonetic": "place-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for raising",
+        "speakText": "for raising",
+        "phonetic": "fer-raising",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      }
+    ]
+  },
+  {
+    "en": "How do you plan to deal with your cumulative debts?",
+    "zh": "你打算如何處理累積的債務？",
+    "notes": [
+      {
+        "orig": "plan to",
+        "speakText": "plan to",
+        "phonetic": "plan-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to deal",
+        "speakText": "to deal",
+        "phonetic": "tuh-deal",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "with your",
+        "speakText": "with your",
+        "phonetic": "with-yer",
+        "desc": "所有格 your 在非重讀位置常弱讀為 /yer/。"
+      },
+      {
+        "orig": "your cumulative",
+        "speakText": "your cumulative",
+        "phonetic": "yer-kyoo-myuh-luh-tiv",
+        "desc": "所有格 your 在非重讀位置常弱讀為 /yer/。"
+      }
+    ]
+  },
+  {
+    "en": "Her singing was the most touching part of the ceremony.",
+    "zh": "她的歌聲是典禮中最動人的部分。",
+    "notes": [
+      {
+        "orig": "Her singing",
+        "speakText": "Her singing",
+        "phonetic": "er-singing",
+        "desc": "her 開頭的 /h/ 在連讀時常弱化省略，與前一字尾音黏連。"
+      },
+      {
+        "orig": "singing was",
+        "speakText": "singing was",
+        "phonetic": "singing-wuz",
+        "desc": "was 弱讀為輕短的 /wuz/。"
+      },
+      {
+        "orig": "was the",
+        "speakText": "was the",
+        "phonetic": "wuz-thuh",
+        "desc": "was 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 wuz-thuh。"
+      },
+      {
+        "orig": "the most",
+        "speakText": "the most",
+        "phonetic": "thuh-most",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "most touching",
+        "speakText": "most touching",
+        "phonetic": "most-touching",
+        "desc": "most 字尾塞音在後續輔音 /t/ 前發生吞音（無聲除阻），直接滑向 touching。"
+      }
+    ]
+  },
+  {
+    "en": "You can enjoy a sweeping view of the city from here.",
+    "zh": "從這裡可以欣賞到整座城市的遼闊景色。",
+    "notes": [
+      {
+        "orig": "You can",
+        "speakText": "You can",
+        "phonetic": "you-kun",
+        "desc": "助動詞 can 在非重讀位置弱讀為 /kun/。"
+      },
+      {
+        "orig": "can enjoy",
+        "speakText": "can enjoy",
+        "phonetic": "kun-enjoy",
+        "desc": "can 尾音輔音自然連向 enjoy 的開頭母音，語流連成 kun-enjoy。"
+      },
+      {
+        "orig": "enjoy a",
+        "speakText": "enjoy a",
+        "phonetic": "enjoy-uh",
+        "desc": "enjoy 尾音直接連向弱讀的 a（/uh/），聽起來像 enjoy-uh。"
+      },
+      {
+        "orig": "a sweeping",
+        "speakText": "a sweeping",
+        "phonetic": "uh-sweeping",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "view of",
+        "speakText": "view of",
+        "phonetic": "view-uh",
+        "desc": "view 尾音直接連向弱讀的 of（/uh/），聽起來像 view-uh。"
+      }
+    ]
+  },
+  {
+    "en": "We must look for the optimal timing to promote our new product.",
+    "zh": "我們必須尋找推廣新產品的最佳時機。",
+    "notes": [
+      {
+        "orig": "must look",
+        "speakText": "must look",
+        "phonetic": "must-look",
+        "desc": "must 字尾塞音在後續輔音 /l/ 前發生吞音（無聲除阻），直接滑向 look。"
+      },
+      {
+        "orig": "look for",
+        "speakText": "look for",
+        "phonetic": "look-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for the",
+        "speakText": "for the",
+        "phonetic": "fer-thuh",
+        "desc": "for 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 fer-thuh。"
+      },
+      {
+        "orig": "the optimal",
+        "speakText": "the optimal",
+        "phonetic": "thuh-ahp-tuh-mul",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "timing to",
+        "speakText": "timing to",
+        "phonetic": "timing-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "Exposure to social media is pivotal to our sales campaigns.",
+    "zh": "社群媒體的曝光對我們的銷售活動至關重要。",
+    "notes": [
+      {
+        "orig": "Exposure to",
+        "speakText": "Exposure to",
+        "phonetic": "exposure-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to social",
+        "speakText": "to social",
+        "phonetic": "tuh-social",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "pivotal to",
+        "speakText": "pivotal to",
+        "phonetic": "piv-uh-tul-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to our",
+        "speakText": "to our",
+        "phonetic": "tuh-owr",
+        "desc": "to 與 our 皆為非重讀功能詞，雙雙弱讀並連成輕短的 tuh-owr。"
+      },
+      {
+        "orig": "our sales",
+        "speakText": "our sales",
+        "phonetic": "owr-sales",
+        "desc": "our 與前一字尾音自然連讀滑入。"
+      }
+    ]
+  },
+  {
+    "en": "Free Wi-Fi spots in the city are ubiquitous, from cafes to public spaces.",
+    "zh": "這座城市的免費 Wi-Fi 熱點無所不在，從咖啡館到公共空間都有。",
+    "notes": [
+      {
+        "orig": "spots in",
+        "speakText": "spots in",
+        "phonetic": "spots-in",
+        "desc": "spots 尾音輔音自然連向 in 的開頭母音，語流連成 spots-in。"
+      },
+      {
+        "orig": "in the",
+        "speakText": "in the",
+        "phonetic": "in-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the city",
+        "speakText": "the city",
+        "phonetic": "thuh-city",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "city are",
+        "speakText": "city are",
+        "phonetic": "city-er",
+        "desc": "city 尾音直接連向弱讀的 are（/er/），聽起來像 city-er。"
+      },
+      {
+        "orig": "are ubiquitous",
+        "speakText": "are ubiquitous",
+        "phonetic": "er-yoo-bik-wi-tus",
+        "desc": "be 動詞 are 在非重讀位置弱讀為 /er/。"
+      }
+    ]
+  },
+  {
+    "en": "Visiting locations of famous scenes is a prevailing trend among young moviegoers.",
+    "zh": "造訪名場景拍攝地是年輕影迷之間的流行趨勢。",
+    "notes": [
+      {
+        "orig": "locations of",
+        "speakText": "locations of",
+        "phonetic": "locations-uh",
+        "desc": "locations 尾音直接連向弱讀的 of（/uh/），聽起來像 locations-uh。"
+      },
+      {
+        "orig": "of famous",
+        "speakText": "of famous",
+        "phonetic": "uh-famus",
+        "desc": "介系詞 of 在口語連讀中常弱化為輕短的 /uh/（或 /uv/）。"
+      },
+      {
+        "orig": "scenes is",
+        "speakText": "scenes is",
+        "phonetic": "scenes-is",
+        "desc": "scenes 尾音輔音自然連向 is 的開頭母音，語流連成 scenes-is。"
+      },
+      {
+        "orig": "is a",
+        "speakText": "is a",
+        "phonetic": "is-uh",
+        "desc": "is 尾音直接連向弱讀的 a（/uh/），聽起來像 is-uh。"
+      },
+      {
+        "orig": "a prevailing",
+        "speakText": "a prevailing",
+        "phonetic": "uh-pri-vay-ling",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      }
+    ]
+  },
+  {
+    "en": "The investor was agile enough to sell all her stocks just before the crash.",
+    "zh": "這位投資人反應敏捷，就在崩盤前賣光了所有股票。",
+    "notes": [
+      {
+        "orig": "The investor",
+        "speakText": "The investor",
+        "phonetic": "thuh-in-ves-ter",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "investor was",
+        "speakText": "investor was",
+        "phonetic": "in-ves-ter-wuz",
+        "desc": "was 弱讀為輕短的 /wuz/。"
+      },
+      {
+        "orig": "was agile",
+        "speakText": "was agile",
+        "phonetic": "wuz-aj-ul",
+        "desc": "was 尾音輔音自然連向 agile 的開頭母音，語流連成 wuz-aj-ul。"
+      },
+      {
+        "orig": "enough to",
+        "speakText": "enough to",
+        "phonetic": "enough-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to sell",
+        "speakText": "to sell",
+        "phonetic": "tuh-sell",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "The CEO pledged the company would see robust growth next year.",
+    "zh": "執行長承諾公司明年將迎來強勁成長。",
+    "notes": [
+      {
+        "orig": "The CEO",
+        "speakText": "The CEO",
+        "phonetic": "thuh-ceo",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "pledged the",
+        "speakText": "pledged the",
+        "phonetic": "pledgd-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the company",
+        "speakText": "the company",
+        "phonetic": "thuh-kum-puh-nee",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "would see",
+        "speakText": "would see",
+        "phonetic": "would-see",
+        "desc": "would 字尾塞音在後續輔音 /s/ 前發生吞音（無聲除阻），直接滑向 see。"
+      },
+      {
+        "orig": "robust growth",
+        "speakText": "robust growth",
+        "phonetic": "robust-growth",
+        "desc": "robust 字尾塞音在後續輔音 /g/ 前發生吞音（無聲除阻），直接滑向 growth。"
+      }
+    ]
+  }
+]

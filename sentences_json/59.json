@@ -1,0 +1,350 @@
+[
+  {
+    "en": "Get away from the hustle and bustle of the city with weekend resorts.",
+    "zh": "週末前往度假村，遠離城市的喧囂繁忙。",
+    "notes": [
+      {
+        "orig": "Get away",
+        "speakText": "Get away",
+        "phonetic": "ge-daway",
+        "desc": "Get 字尾 /t/ 夾在母音間閃化為輕彈音 /ɾ/，與 away 連讀成 ge-daway。"
+      },
+      {
+        "orig": "away from",
+        "speakText": "away from",
+        "phonetic": "away-frum",
+        "desc": "介系詞 from 弱讀為輕短的 /frum/。"
+      },
+      {
+        "orig": "from the",
+        "speakText": "from the",
+        "phonetic": "frum-thuh",
+        "desc": "from 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 frum-thuh。"
+      },
+      {
+        "orig": "the hustle",
+        "speakText": "the hustle",
+        "phonetic": "thuh-hustle",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "hustle and",
+        "speakText": "hustle and",
+        "phonetic": "hustle-un",
+        "desc": "連接詞 and 常弱化並吞掉字尾 /d/，唸成輕短的 /un/。"
+      }
+    ]
+  },
+  {
+    "en": "Investors are demanding full disclosure of the financial details.",
+    "zh": "投資人要求全面揭露財務細節。",
+    "notes": [
+      {
+        "orig": "Investors are",
+        "speakText": "Investors are",
+        "phonetic": "investors-er",
+        "desc": "Investors 尾音直接連向弱讀的 are（/er/），聽起來像 investors-er。"
+      },
+      {
+        "orig": "are demanding",
+        "speakText": "are demanding",
+        "phonetic": "er-demanding",
+        "desc": "be 動詞 are 在非重讀位置弱讀為 /er/。"
+      },
+      {
+        "orig": "disclosure of",
+        "speakText": "disclosure of",
+        "phonetic": "di-skloh-zher-uh",
+        "desc": "介系詞 of 在口語連讀中常弱化為輕短的 /uh/（或 /uv/）。"
+      },
+      {
+        "orig": "of the",
+        "speakText": "of the",
+        "phonetic": "uh-thuh",
+        "desc": "of 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 uh-thuh。"
+      },
+      {
+        "orig": "the financial",
+        "speakText": "the financial",
+        "phonetic": "thuh-financial",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "The mystery novel loses momentum toward the end.",
+    "zh": "這本推理小說到了結尾處氣勢減弱了。",
+    "notes": [
+      {
+        "orig": "The mystery",
+        "speakText": "The mystery",
+        "phonetic": "thuh-mystery",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "toward the",
+        "speakText": "toward the",
+        "phonetic": "toward-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the end",
+        "speakText": "the end",
+        "phonetic": "thuh-end",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "CFO Roslyn Harper has significant leverage with the board of directors.",
+    "zh": "財務長羅斯琳・哈珀在董事會中擁有舉足輕重的影響力。",
+    "notes": [
+      {
+        "orig": "Harper has",
+        "speakText": "Harper has",
+        "phonetic": "harper-huz",
+        "desc": "助動詞 has 弱讀為輕短的 /huz/。"
+      },
+      {
+        "orig": "has significant",
+        "speakText": "has significant",
+        "phonetic": "huz-sig-nif-i-kunt",
+        "desc": "助動詞 has 弱讀為輕短的 /huz/。"
+      },
+      {
+        "orig": "significant leverage",
+        "speakText": "significant leverage",
+        "phonetic": "sig-nif-i-kunt-leverage",
+        "desc": "significant 字尾塞音在後續輔音 /l/ 前發生吞音（無聲除阻），直接滑向 leverage。"
+      },
+      {
+        "orig": "with the",
+        "speakText": "with the",
+        "phonetic": "with-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the board",
+        "speakText": "the board",
+        "phonetic": "thuh-board",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "Julius has a preoccupation with languages, studying Arabic, Russian, and Chinese daily.",
+    "zh": "朱利葉斯對語言十分著迷，每天學習阿拉伯語、俄語和中文。",
+    "notes": [
+      {
+        "orig": "Julius has",
+        "speakText": "Julius has",
+        "phonetic": "julius-huz",
+        "desc": "助動詞 has 弱讀為輕短的 /huz/。"
+      },
+      {
+        "orig": "has a",
+        "speakText": "has a",
+        "phonetic": "huz-uh",
+        "desc": "has 尾音直接連向弱讀的 a（/uh/），聽起來像 huz-uh。"
+      },
+      {
+        "orig": "a preoccupation",
+        "speakText": "a preoccupation",
+        "phonetic": "uh-pree-ahk-yuh-pay-shun",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "studying Arabic",
+        "speakText": "studying Arabic",
+        "phonetic": "studying-arabic",
+        "desc": "studying 尾音輔音自然連向 Arabic 的開頭母音，語流連成 studying-arabic。"
+      },
+      {
+        "orig": "and Chinese",
+        "speakText": "and Chinese",
+        "phonetic": "un-chinese",
+        "desc": "and 字尾塞音在後續輔音 /c/ 前發生吞音（無聲除阻），直接滑向 Chinese。"
+      }
+    ]
+  },
+  {
+    "en": "The farmers had a surplus of grain last year, but this year the supply is low.",
+    "zh": "農民去年穀物生產過剩，但今年供應量卻很低。",
+    "notes": [
+      {
+        "orig": "The farmers",
+        "speakText": "The farmers",
+        "phonetic": "thuh-farmers",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "had a",
+        "speakText": "had a",
+        "phonetic": "had-uh",
+        "desc": "had 尾音直接連向弱讀的 a（/uh/），聽起來像 had-uh。"
+      },
+      {
+        "orig": "a surplus",
+        "speakText": "a surplus",
+        "phonetic": "uh-surplus",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "surplus of",
+        "speakText": "surplus of",
+        "phonetic": "surplus-uh",
+        "desc": "surplus 尾音直接連向弱讀的 of（/uh/），聽起來像 surplus-uh。"
+      },
+      {
+        "orig": "of grain",
+        "speakText": "of grain",
+        "phonetic": "uh-grain",
+        "desc": "介系詞 of 在口語連讀中常弱化為輕短的 /uh/（或 /uv/）。"
+      }
+    ]
+  },
+  {
+    "en": "The electrician had to wear a special outfit when performing his duties.",
+    "zh": "電工在執行任務時必須穿著特製服裝。",
+    "notes": [
+      {
+        "orig": "The electrician",
+        "speakText": "The electrician",
+        "phonetic": "thuh-electrician",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "had to",
+        "speakText": "had to",
+        "phonetic": "had-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to wear",
+        "speakText": "to wear",
+        "phonetic": "tuh-wear",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "wear a",
+        "speakText": "wear a",
+        "phonetic": "wear-uh",
+        "desc": "wear 尾音直接連向弱讀的 a（/uh/），聽起來像 wear-uh。"
+      },
+      {
+        "orig": "a special",
+        "speakText": "a special",
+        "phonetic": "uh-special",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      }
+    ]
+  },
+  {
+    "en": "Convention turnout was high, with people drawn to the exciting exhibits.",
+    "zh": "展覽會出席率很高，人們都被精彩的展品吸引而來。",
+    "notes": [
+      {
+        "orig": "turnout was",
+        "speakText": "turnout was",
+        "phonetic": "turnout-wuz",
+        "desc": "was 弱讀為輕短的 /wuz/。"
+      },
+      {
+        "orig": "was high",
+        "speakText": "was high",
+        "phonetic": "wuz-high",
+        "desc": "was 弱讀為輕短的 /wuz/。"
+      },
+      {
+        "orig": "drawn to",
+        "speakText": "drawn to",
+        "phonetic": "drawn-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to the",
+        "speakText": "to the",
+        "phonetic": "tuh-thuh",
+        "desc": "to 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 tuh-thuh。"
+      },
+      {
+        "orig": "the exciting",
+        "speakText": "the exciting",
+        "phonetic": "thuh-exciting",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "A clerical oversight left some important figures off the quarterly report.",
+    "zh": "一項文書疏失導致季度報告漏列了一些重要數據。",
+    "notes": [
+      {
+        "orig": "A clerical",
+        "speakText": "A clerical",
+        "phonetic": "uh-kler-i-kul",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "clerical oversight",
+        "speakText": "clerical oversight",
+        "phonetic": "kler-i-kul-oversight",
+        "desc": "clerical 尾音輔音自然連向 oversight 的開頭母音，語流連成 kler-i-kul-oversight。"
+      },
+      {
+        "orig": "left some",
+        "speakText": "left some",
+        "phonetic": "left-some",
+        "desc": "left 字尾塞音在後續輔音 /s/ 前發生吞音（無聲除阻），直接滑向 some。"
+      },
+      {
+        "orig": "important figures",
+        "speakText": "important figures",
+        "phonetic": "im-por-tunt-figures",
+        "desc": "important 字尾塞音在後續輔音 /f/ 前發生吞音（無聲除阻），直接滑向 figures。"
+      },
+      {
+        "orig": "figures off",
+        "speakText": "figures off",
+        "phonetic": "figures-off",
+        "desc": "figures 尾音輔音自然連向 off 的開頭母音，語流連成 figures-off。"
+      }
+    ]
+  },
+  {
+    "en": "All decisions are left to the manager's discretion.",
+    "zh": "所有決定均由經理全權裁量。",
+    "notes": [
+      {
+        "orig": "decisions are",
+        "speakText": "decisions are",
+        "phonetic": "decisions-er",
+        "desc": "decisions 尾音直接連向弱讀的 are（/er/），聽起來像 decisions-er。"
+      },
+      {
+        "orig": "are left",
+        "speakText": "are left",
+        "phonetic": "er-left",
+        "desc": "be 動詞 are 在非重讀位置弱讀為 /er/。"
+      },
+      {
+        "orig": "left to",
+        "speakText": "left to",
+        "phonetic": "left-tuh",
+        "desc": "left 字尾塞音在後續輔音 /t/ 前發生吞音（無聲除阻），直接滑向 to。"
+      },
+      {
+        "orig": "to the",
+        "speakText": "to the",
+        "phonetic": "tuh-thuh",
+        "desc": "to 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 tuh-thuh。"
+      },
+      {
+        "orig": "the manager's",
+        "speakText": "the manager's",
+        "phonetic": "thuh-manager's",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  }
+]

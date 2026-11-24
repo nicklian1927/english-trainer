@@ -1,0 +1,362 @@
+[
+  {
+    "en": "After the prototype was destroyed, the engineers couldn't make an equivalent model.",
+    "zh": "原型機損毀後，工程師無法做出同等級的模型。",
+    "notes": [
+      {
+        "orig": "After the",
+        "speakText": "After the",
+        "phonetic": "after-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the prototype",
+        "speakText": "the prototype",
+        "phonetic": "thuh-proh-duh-typ",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "prototype was",
+        "speakText": "prototype was",
+        "phonetic": "proh-duh-typ-wuz",
+        "desc": "was 弱讀為輕短的 /wuz/。"
+      },
+      {
+        "orig": "was destroyed",
+        "speakText": "was destroyed",
+        "phonetic": "wuz-di-stroyd",
+        "desc": "was 弱讀為輕短的 /wuz/。"
+      },
+      {
+        "orig": "the engineers",
+        "speakText": "the engineers",
+        "phonetic": "thuh-en-juh-neerz",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "Passengers boarding ES Flight 623 to Bucharest must hold valid passports.",
+    "zh": "搭乘 ES 623 航班前往布加勒斯特的旅客必須持有有效護照。",
+    "notes": [
+      {
+        "orig": "boarding ES",
+        "speakText": "boarding ES",
+        "phonetic": "boarding-es",
+        "desc": "boarding 尾音輔音自然連向 ES 的開頭母音，語流連成 boarding-es。"
+      },
+      {
+        "orig": "623 to",
+        "speakText": "623 to",
+        "phonetic": "623-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to Bucharest",
+        "speakText": "to Bucharest",
+        "phonetic": "tuh-bucharest",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "Bucharest must",
+        "speakText": "Bucharest must",
+        "phonetic": "bucharest-must",
+        "desc": "Bucharest 字尾塞音在後續輔音 /m/ 前發生吞音（無聲除阻），直接滑向 must。"
+      },
+      {
+        "orig": "must hold",
+        "speakText": "must hold",
+        "phonetic": "must-hold",
+        "desc": "must 字尾塞音在後續輔音 /h/ 前發生吞音（無聲除阻），直接滑向 hold。"
+      }
+    ]
+  },
+  {
+    "en": "Ken is an ambitious man who wants to climb up the corporate ladder.",
+    "zh": "肯恩是個有野心的人，想要在公司裡步步高升。",
+    "notes": [
+      {
+        "orig": "Ken is",
+        "speakText": "Ken is",
+        "phonetic": "ken-is",
+        "desc": "Ken 尾音輔音自然連向 is 的開頭母音，語流連成 ken-is。"
+      },
+      {
+        "orig": "is an",
+        "speakText": "is an",
+        "phonetic": "is-un",
+        "desc": "is 尾音直接連向弱讀的 an（/un/），聽起來像 is-un。"
+      },
+      {
+        "orig": "an ambitious",
+        "speakText": "an ambitious",
+        "phonetic": "un-am-bish-us",
+        "desc": "an 尾音輔音自然連向 ambitious 的開頭母音，語流連成 un-am-bish-us。"
+      },
+      {
+        "orig": "wants to",
+        "speakText": "wants to",
+        "phonetic": "wants-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to climb",
+        "speakText": "to climb",
+        "phonetic": "tuh-climb",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "Ms. Zales is reluctant to help with such a risky endeavor.",
+    "zh": "札爾斯女士不太願意協助這種高風險的嘗試。",
+    "notes": [
+      {
+        "orig": "Zales is",
+        "speakText": "Zales is",
+        "phonetic": "zales-is",
+        "desc": "Zales 尾音輔音自然連向 is 的開頭母音，語流連成 zales-is。"
+      },
+      {
+        "orig": "reluctant to",
+        "speakText": "reluctant to",
+        "phonetic": "ri-luk-tunt-tuh",
+        "desc": "reluctant 字尾塞音在後續輔音 /t/ 前發生吞音（無聲除阻），直接滑向 to。"
+      },
+      {
+        "orig": "to help",
+        "speakText": "to help",
+        "phonetic": "tuh-help",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "such a",
+        "speakText": "such a",
+        "phonetic": "such-uh",
+        "desc": "such 尾音直接連向弱讀的 a（/uh/），聽起來像 such-uh。"
+      },
+      {
+        "orig": "a risky",
+        "speakText": "a risky",
+        "phonetic": "uh-risky",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      }
+    ]
+  },
+  {
+    "en": "No matter how hard we tried to convince him, the client was indifferent to our proposal.",
+    "zh": "無論我們怎麼努力說服他，客戶對我們的提案都無動於衷。",
+    "notes": [
+      {
+        "orig": "tried to",
+        "speakText": "tried to",
+        "phonetic": "trid-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to convince",
+        "speakText": "to convince",
+        "phonetic": "tuh-convince",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "convince him",
+        "speakText": "convince him",
+        "phonetic": "convince-im",
+        "desc": "him 開頭的 /h/ 在連讀時常弱化省略，與前一字尾音黏連。"
+      },
+      {
+        "orig": "the client",
+        "speakText": "the client",
+        "phonetic": "thuh-client",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "client was",
+        "speakText": "client was",
+        "phonetic": "client-wuz",
+        "desc": "client 字尾塞音在後續輔音 /w/ 前發生吞音（無聲除阻），直接滑向 was。"
+      }
+    ]
+  },
+  {
+    "en": "It's difficult to penetrate the market with our current product line.",
+    "zh": "以我們現有的產品線很難打入這個市場。",
+    "notes": [
+      {
+        "orig": "difficult to",
+        "speakText": "difficult to",
+        "phonetic": "difficult-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to penetrate",
+        "speakText": "to penetrate",
+        "phonetic": "tuh-pen-uh-trayt",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "penetrate the",
+        "speakText": "penetrate the",
+        "phonetic": "pen-uh-trayt-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the market",
+        "speakText": "the market",
+        "phonetic": "thuh-market",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "with our",
+        "speakText": "with our",
+        "phonetic": "with-owr",
+        "desc": "with 尾音輔音自然連向 our 的開頭母音，語流連成 with-owr。"
+      }
+    ]
+  },
+  {
+    "en": "The staff made a unanimous decision to set up a break room.",
+    "zh": "全體員工一致決定設立一間休息室。",
+    "notes": [
+      {
+        "orig": "The staff",
+        "speakText": "The staff",
+        "phonetic": "thuh-staff",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "made a",
+        "speakText": "made a",
+        "phonetic": "made-uh",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "a unanimous",
+        "speakText": "a unanimous",
+        "phonetic": "uh-yoo-nan-uh-mus",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "decision to",
+        "speakText": "decision to",
+        "phonetic": "di-zi-zhun-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to set",
+        "speakText": "to set",
+        "phonetic": "tuh-set",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "The singer gave a terrific performance and raised a lot of money for charity.",
+    "zh": "那位歌手帶來了精彩的演出，為慈善機構募得大量善款。",
+    "notes": [
+      {
+        "orig": "The singer",
+        "speakText": "The singer",
+        "phonetic": "thuh-singer",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "gave a",
+        "speakText": "gave a",
+        "phonetic": "gave-uh",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "a terrific",
+        "speakText": "a terrific",
+        "phonetic": "uh-tuh-rif-ik",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "performance and",
+        "speakText": "performance and",
+        "phonetic": "per-for-muns-un",
+        "desc": "連接詞 and 常弱化並吞掉字尾 /d/，唸成輕短的 /un/。"
+      },
+      {
+        "orig": "and raised",
+        "speakText": "and raised",
+        "phonetic": "un-raisd",
+        "desc": "and 字尾塞音在後續輔音 /r/ 前發生吞音（無聲除阻），直接滑向 raised。"
+      }
+    ]
+  },
+  {
+    "en": "The firm put a help-wanted ad in the paper to fill the vacant manager position.",
+    "zh": "該公司在報紙刊登徵才廣告，以填補經理職缺。",
+    "notes": [
+      {
+        "orig": "The firm",
+        "speakText": "The firm",
+        "phonetic": "thuh-firm",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "put a",
+        "speakText": "put a",
+        "phonetic": "pu-duh",
+        "desc": "put 字尾 /t/ 夾在母音間閃化為輕彈音 /ɾ/，與 a 連讀成 pu-duh。"
+      },
+      {
+        "orig": "a help",
+        "speakText": "a help",
+        "phonetic": "uh-help",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "wanted ad",
+        "speakText": "wanted ad",
+        "phonetic": "wantd-ad",
+        "desc": "wanted 尾音輔音自然連向 ad 的開頭母音，語流連成 wantd-ad。"
+      },
+      {
+        "orig": "ad in",
+        "speakText": "ad in",
+        "phonetic": "ad-in",
+        "desc": "ad 尾音輔音自然連向 in 的開頭母音，語流連成 ad-in。"
+      }
+    ]
+  },
+  {
+    "en": "I'm a bit embarrassed by all your praise.",
+    "zh": "受到你這麼多稱讚，我有點不好意思。",
+    "notes": [
+      {
+        "orig": "I'm a",
+        "speakText": "I'm a",
+        "phonetic": "i'm-uh",
+        "desc": "I'm 尾音直接連向弱讀的 a（/uh/），聽起來像 i'm-uh。"
+      },
+      {
+        "orig": "a bit",
+        "speakText": "a bit",
+        "phonetic": "uh-bit",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "bit embarrassed",
+        "speakText": "bit embarrassed",
+        "phonetic": "bi-dem-bar-ust",
+        "desc": "bit 字尾 /t/ 夾在母音間閃化為輕彈音 /ɾ/，與 embarrassed 連讀成 bi-dem-bar-ust。"
+      },
+      {
+        "orig": "by all",
+        "speakText": "by all",
+        "phonetic": "by-all",
+        "desc": "by 尾音輔音自然連向 all 的開頭母音，語流連成 by-all。"
+      },
+      {
+        "orig": "all your",
+        "speakText": "all your",
+        "phonetic": "all-yer",
+        "desc": "所有格 your 在非重讀位置常弱讀為 /yer/。"
+      }
+    ]
+  }
+]

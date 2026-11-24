@@ -1,0 +1,350 @@
+[
+  {
+    "en": "Customers are encouraged to switch to online statements.",
+    "zh": "鼓勵客戶改用電子對帳單。",
+    "notes": [
+      {
+        "orig": "Customers are",
+        "speakText": "Customers are",
+        "phonetic": "customers-er",
+        "desc": "Customers 尾音直接連向弱讀的 are（/er/），聽起來像 customers-er。"
+      },
+      {
+        "orig": "are encouraged",
+        "speakText": "are encouraged",
+        "phonetic": "er-en-ker-ijd",
+        "desc": "be 動詞 are 在非重讀位置弱讀為 /er/。"
+      },
+      {
+        "orig": "encouraged to",
+        "speakText": "encouraged to",
+        "phonetic": "en-ker-ijd-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to switch",
+        "speakText": "to switch",
+        "phonetic": "tuh-switch",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "switch to",
+        "speakText": "switch to",
+        "phonetic": "switch-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "The brokers have the drive to close deals at a very high rate.",
+    "zh": "這些經紀人擁有以極高成交率敲定交易的衝勁。",
+    "notes": [
+      {
+        "orig": "The brokers",
+        "speakText": "The brokers",
+        "phonetic": "thuh-brokers",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "brokers have",
+        "speakText": "brokers have",
+        "phonetic": "brokers-huv",
+        "desc": "助動詞 have 弱讀為輕短的 /huv/。"
+      },
+      {
+        "orig": "have the",
+        "speakText": "have the",
+        "phonetic": "huv-thuh",
+        "desc": "have 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 huv-thuh。"
+      },
+      {
+        "orig": "the drive",
+        "speakText": "the drive",
+        "phonetic": "thuh-drive",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "drive to",
+        "speakText": "drive to",
+        "phonetic": "drive-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "The president always values helpful input from employees on improving the workplace.",
+    "zh": "總裁向來重視員工對改善工作環境提出的有益意見。",
+    "notes": [
+      {
+        "orig": "The president",
+        "speakText": "The president",
+        "phonetic": "thuh-prez-i-dunt",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "president always",
+        "speakText": "president always",
+        "phonetic": "prez-i-dunt-always",
+        "desc": "president 尾音輔音自然連向 always 的開頭母音，語流連成 prez-i-dunt-always。"
+      },
+      {
+        "orig": "helpful input",
+        "speakText": "helpful input",
+        "phonetic": "helpful-input",
+        "desc": "helpful 尾音輔音自然連向 input 的開頭母音，語流連成 helpful-input。"
+      },
+      {
+        "orig": "input from",
+        "speakText": "input from",
+        "phonetic": "input-frum",
+        "desc": "介系詞 from 弱讀為輕短的 /frum/。"
+      },
+      {
+        "orig": "from employees",
+        "speakText": "from employees",
+        "phonetic": "frum-em-ploy-eez",
+        "desc": "from 尾音輔音自然連向 employees 的開頭母音，語流連成 frum-em-ploy-eez。"
+      }
+    ]
+  },
+  {
+    "en": "Dr. Bobson provided feedback on the new surgical equipment.",
+    "zh": "鮑勃森博士對新的外科手術設備提供了意見回饋。",
+    "notes": [
+      {
+        "orig": "feedback on",
+        "speakText": "feedback on",
+        "phonetic": "feedback-on",
+        "desc": "feedback 尾音輔音自然連向 on 的開頭母音，語流連成 feedback-on。"
+      },
+      {
+        "orig": "on the",
+        "speakText": "on the",
+        "phonetic": "on-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the new",
+        "speakText": "the new",
+        "phonetic": "thuh-new",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "surgical equipment",
+        "speakText": "surgical equipment",
+        "phonetic": "surgical-equipmunt",
+        "desc": "surgical 尾音輔音自然連向 equipment 的開頭母音，語流連成 surgical-equipmunt。"
+      }
+    ]
+  },
+  {
+    "en": "It is against company regulations to wear shorts to work.",
+    "zh": "穿短褲上班違反公司規定。",
+    "notes": [
+      {
+        "orig": "It is",
+        "speakText": "It is",
+        "phonetic": "i-dis",
+        "desc": "It 字尾 /t/ 夾在母音間閃化為輕彈音 /ɾ/，與 is 連讀成 i-dis。"
+      },
+      {
+        "orig": "is against",
+        "speakText": "is against",
+        "phonetic": "is-against",
+        "desc": "is 尾音輔音自然連向 against 的開頭母音，語流連成 is-against。"
+      },
+      {
+        "orig": "against company",
+        "speakText": "against company",
+        "phonetic": "against-kum-puh-nee",
+        "desc": "against 字尾塞音在後續輔音 /c/ 前發生吞音（無聲除阻），直接滑向 company。"
+      },
+      {
+        "orig": "regulations to",
+        "speakText": "regulations to",
+        "phonetic": "reg-yuh-lay-shunz-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to wear",
+        "speakText": "to wear",
+        "phonetic": "tuh-wear",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "I think my only shortcoming is a lack of experience in management.",
+    "zh": "我認為我唯一的缺點是缺乏管理經驗。",
+    "notes": [
+      {
+        "orig": "my only",
+        "speakText": "my only",
+        "phonetic": "my-only",
+        "desc": "my 尾音輔音自然連向 only 的開頭母音，語流連成 my-only。"
+      },
+      {
+        "orig": "shortcoming is",
+        "speakText": "shortcoming is",
+        "phonetic": "shortcoming-is",
+        "desc": "shortcoming 尾音輔音自然連向 is 的開頭母音，語流連成 shortcoming-is。"
+      },
+      {
+        "orig": "is a",
+        "speakText": "is a",
+        "phonetic": "is-uh",
+        "desc": "is 尾音直接連向弱讀的 a（/uh/），聽起來像 is-uh。"
+      },
+      {
+        "orig": "a lack",
+        "speakText": "a lack",
+        "phonetic": "uh-lack",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "lack of",
+        "speakText": "lack of",
+        "phonetic": "lack-uh",
+        "desc": "lack 尾音直接連向弱讀的 of（/uh/），聽起來像 lack-uh。"
+      }
+    ]
+  },
+  {
+    "en": "The state government is now struggling to reduce budget deficits.",
+    "zh": "州政府目前正努力削減預算赤字。",
+    "notes": [
+      {
+        "orig": "The state",
+        "speakText": "The state",
+        "phonetic": "thuh-state",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "government is",
+        "speakText": "government is",
+        "phonetic": "governmunt-is",
+        "desc": "government 尾音輔音自然連向 is 的開頭母音，語流連成 governmunt-is。"
+      },
+      {
+        "orig": "struggling to",
+        "speakText": "struggling to",
+        "phonetic": "struggling-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to reduce",
+        "speakText": "to reduce",
+        "phonetic": "tuh-reduce",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "Airline staff apologized to passengers for their delayed departure inconvenience.",
+    "zh": "航空公司人員就班機延誤起飛造成的不便向旅客致歉。",
+    "notes": [
+      {
+        "orig": "staff apologized",
+        "speakText": "staff apologized",
+        "phonetic": "staff-apologizd",
+        "desc": "staff 尾音輔音自然連向 apologized 的開頭母音，語流連成 staff-apologizd。"
+      },
+      {
+        "orig": "apologized to",
+        "speakText": "apologized to",
+        "phonetic": "apologizd-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to passengers",
+        "speakText": "to passengers",
+        "phonetic": "tuh-pas-un-jerz",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "passengers for",
+        "speakText": "passengers for",
+        "phonetic": "pas-un-jerz-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for their",
+        "speakText": "for their",
+        "phonetic": "fer-ther",
+        "desc": "for 與 their 皆為非重讀功能詞，雙雙弱讀並連成輕短的 fer-ther。"
+      }
+    ]
+  },
+  {
+    "en": "The CityGo Pass provides an easier way to cover daily commuting fares.",
+    "zh": "CityGo 通勤卡提供了一種更簡便的方式來支付日常通勤車資。",
+    "notes": [
+      {
+        "orig": "The CityGo",
+        "speakText": "The CityGo",
+        "phonetic": "thuh-citygo",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "provides an",
+        "speakText": "provides an",
+        "phonetic": "provides-un",
+        "desc": "provides 尾音直接連向弱讀的 an（/un/），聽起來像 provides-un。"
+      },
+      {
+        "orig": "an easier",
+        "speakText": "an easier",
+        "phonetic": "un-easier",
+        "desc": "an 尾音輔音自然連向 easier 的開頭母音，語流連成 un-easier。"
+      },
+      {
+        "orig": "way to",
+        "speakText": "way to",
+        "phonetic": "way-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to cover",
+        "speakText": "to cover",
+        "phonetic": "tuh-cover",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "The sales manager made a comparison between the two graphs.",
+    "zh": "業務經理對這兩張圖表進行了比較。",
+    "notes": [
+      {
+        "orig": "The sales",
+        "speakText": "The sales",
+        "phonetic": "thuh-sales",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "made a",
+        "speakText": "made a",
+        "phonetic": "made-uh",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "a comparison",
+        "speakText": "a comparison",
+        "phonetic": "uh-kum-par-i-sun",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "between the",
+        "speakText": "between the",
+        "phonetic": "between-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the two",
+        "speakText": "the two",
+        "phonetic": "thuh-two",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  }
+]

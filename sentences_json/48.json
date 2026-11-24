@@ -1,0 +1,362 @@
+[
+  {
+    "en": "The team developed a new method for shipping fresh fish.",
+    "zh": "該團隊開發了一種運送生鮮魚貨的新方法。",
+    "notes": [
+      {
+        "orig": "The team",
+        "speakText": "The team",
+        "phonetic": "thuh-team",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "developed a",
+        "speakText": "developed a",
+        "phonetic": "developd-uh",
+        "desc": "developed 尾音直接連向弱讀的 a（/uh/），聽起來像 developd-uh。"
+      },
+      {
+        "orig": "a new",
+        "speakText": "a new",
+        "phonetic": "uh-new",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "method for",
+        "speakText": "method for",
+        "phonetic": "method-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for shipping",
+        "speakText": "for shipping",
+        "phonetic": "fer-shipping",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      }
+    ]
+  },
+  {
+    "en": "It is standard procedure to fill out the form before entering the building.",
+    "zh": "進入大樓前填寫表格是標準程序。",
+    "notes": [
+      {
+        "orig": "It is",
+        "speakText": "It is",
+        "phonetic": "i-dis",
+        "desc": "It 字尾 /t/ 夾在母音間閃化為輕彈音 /ɾ/，與 is 連讀成 i-dis。"
+      },
+      {
+        "orig": "procedure to",
+        "speakText": "procedure to",
+        "phonetic": "pruh-see-jer-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to fill",
+        "speakText": "to fill",
+        "phonetic": "tuh-fill",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "fill out",
+        "speakText": "fill out",
+        "phonetic": "fill-out",
+        "desc": "fill 尾音輔音自然連向 out 的開頭母音，語流連成 fill-out。"
+      },
+      {
+        "orig": "out the",
+        "speakText": "out the",
+        "phonetic": "out-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "Gatner Zoo faces the prospect of more visitors as the weather becomes warmer.",
+    "zh": "隨著天氣轉暖，加特納動物園預計將迎來更多遊客。",
+    "notes": [
+      {
+        "orig": "faces the",
+        "speakText": "faces the",
+        "phonetic": "faces-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the prospect",
+        "speakText": "the prospect",
+        "phonetic": "thuh-prospect",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "prospect of",
+        "speakText": "prospect of",
+        "phonetic": "prospect-uh",
+        "desc": "prospect 尾音直接連向弱讀的 of（/uh/），聽起來像 prospect-uh。"
+      },
+      {
+        "orig": "of more",
+        "speakText": "of more",
+        "phonetic": "uh-more",
+        "desc": "介系詞 of 在口語連讀中常弱化為輕短的 /uh/（或 /uv/）。"
+      },
+      {
+        "orig": "visitors as",
+        "speakText": "visitors as",
+        "phonetic": "visitors-uz",
+        "desc": "visitors 尾音直接連向弱讀的 as（/uz/），聽起來像 visitors-uz。"
+      }
+    ]
+  },
+  {
+    "en": "After the chairman resigned, the company's fortune turned for the worse.",
+    "zh": "董事長辭職後，公司的運勢急轉直下。",
+    "notes": [
+      {
+        "orig": "After the",
+        "speakText": "After the",
+        "phonetic": "after-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the chairman",
+        "speakText": "the chairman",
+        "phonetic": "thuh-chairman",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the company's",
+        "speakText": "the company's",
+        "phonetic": "thuh-company's",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "turned for",
+        "speakText": "turned for",
+        "phonetic": "turnd-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for the",
+        "speakText": "for the",
+        "phonetic": "fer-thuh",
+        "desc": "for 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 fer-thuh。"
+      }
+    ]
+  },
+  {
+    "en": "Steve works for an organization that plans various events for charity.",
+    "zh": "史蒂夫在一家為慈善事業籌劃各種活動的機構工作。",
+    "notes": [
+      {
+        "orig": "works for",
+        "speakText": "works for",
+        "phonetic": "works-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for an",
+        "speakText": "for an",
+        "phonetic": "fer-un",
+        "desc": "for 尾音直接連向弱讀的 an（/un/），聽起來像 fer-un。"
+      },
+      {
+        "orig": "an organization",
+        "speakText": "an organization",
+        "phonetic": "un-or-guh-nuh-zay-shun",
+        "desc": "an 尾音輔音自然連向 organization 的開頭母音，語流連成 un-or-guh-nuh-zay-shun。"
+      },
+      {
+        "orig": "organization that",
+        "speakText": "organization that",
+        "phonetic": "or-guh-nuh-zay-shun-thut",
+        "desc": "連接詞／關係代名詞 that 弱讀為輕短的 /thut/。"
+      },
+      {
+        "orig": "that plans",
+        "speakText": "that plans",
+        "phonetic": "thut-plans",
+        "desc": "連接詞／關係代名詞 that 弱讀為輕短的 /thut/。"
+      }
+    ]
+  },
+  {
+    "en": "Tomorrow is the anniversary of the founding of the company.",
+    "zh": "明天是公司成立週年紀念日。",
+    "notes": [
+      {
+        "orig": "Tomorrow is",
+        "speakText": "Tomorrow is",
+        "phonetic": "tomorrow-is",
+        "desc": "Tomorrow 尾音輔音自然連向 is 的開頭母音，語流連成 tomorrow-is。"
+      },
+      {
+        "orig": "is the",
+        "speakText": "is the",
+        "phonetic": "is-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the anniversary",
+        "speakText": "the anniversary",
+        "phonetic": "thuh-an-uh-ver-suh-ree",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "anniversary of",
+        "speakText": "anniversary of",
+        "phonetic": "an-uh-ver-suh-ree-uh",
+        "desc": "anniversary 尾音直接連向弱讀的 of（/uh/），聽起來像 an-uh-ver-suh-ree-uh。"
+      },
+      {
+        "orig": "of the",
+        "speakText": "of the",
+        "phonetic": "uh-thuh",
+        "desc": "of 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 uh-thuh。"
+      }
+    ]
+  },
+  {
+    "en": "The conference attendees included members of the medical profession.",
+    "zh": "與會者包括醫療專業人員。",
+    "notes": [
+      {
+        "orig": "The conference",
+        "speakText": "The conference",
+        "phonetic": "thuh-kahn-fer-uns",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "attendees included",
+        "speakText": "attendees included",
+        "phonetic": "uh-ten-deez-includd",
+        "desc": "attendees 尾音輔音自然連向 included 的開頭母音，語流連成 uh-ten-deez-includd。"
+      },
+      {
+        "orig": "members of",
+        "speakText": "members of",
+        "phonetic": "members-uh",
+        "desc": "members 尾音直接連向弱讀的 of（/uh/），聽起來像 members-uh。"
+      },
+      {
+        "orig": "of the",
+        "speakText": "of the",
+        "phonetic": "uh-thuh",
+        "desc": "of 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 uh-thuh。"
+      },
+      {
+        "orig": "the medical",
+        "speakText": "the medical",
+        "phonetic": "thuh-medical",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "To find out your order status, please enter your ten-digit order number.",
+    "zh": "若要查詢訂單狀態，請輸入您的十位數訂單編號。",
+    "notes": [
+      {
+        "orig": "To find",
+        "speakText": "To find",
+        "phonetic": "tuh-find",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "find out",
+        "speakText": "find out",
+        "phonetic": "find-out",
+        "desc": "find 尾音輔音自然連向 out 的開頭母音，語流連成 find-out。"
+      },
+      {
+        "orig": "out your",
+        "speakText": "out your",
+        "phonetic": "out-yer",
+        "desc": "所有格 your 在非重讀位置常弱讀為 /yer/。"
+      },
+      {
+        "orig": "your order",
+        "speakText": "your order",
+        "phonetic": "yer-order",
+        "desc": "your 尾音輔音自然連向 order 的開頭母音，語流連成 yer-order。"
+      },
+      {
+        "orig": "enter your",
+        "speakText": "enter your",
+        "phonetic": "enter-yer",
+        "desc": "所有格 your 在非重讀位置常弱讀為 /yer/。"
+      }
+    ]
+  },
+  {
+    "en": "The work on the building will start next week if circumstances permit.",
+    "zh": "如果情況允許，這棟大樓的工程將於下週開工。",
+    "notes": [
+      {
+        "orig": "The work",
+        "speakText": "The work",
+        "phonetic": "thuh-work",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "work on",
+        "speakText": "work on",
+        "phonetic": "work-on",
+        "desc": "work 尾音輔音自然連向 on 的開頭母音，語流連成 work-on。"
+      },
+      {
+        "orig": "on the",
+        "speakText": "on the",
+        "phonetic": "on-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the building",
+        "speakText": "the building",
+        "phonetic": "thuh-building",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "week if",
+        "speakText": "week if",
+        "phonetic": "week-if",
+        "desc": "week 尾音輔音自然連向 if 的開頭母音，語流連成 week-if。"
+      }
+    ]
+  },
+  {
+    "en": "The team developed several solutions to architectural problems in the bridge design.",
+    "zh": "該團隊針對橋梁設計中的建築難題提出了幾項解決方案。",
+    "notes": [
+      {
+        "orig": "The team",
+        "speakText": "The team",
+        "phonetic": "thuh-team",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "solutions to",
+        "speakText": "solutions to",
+        "phonetic": "solutions-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to architectural",
+        "speakText": "to architectural",
+        "phonetic": "tuh-ar-ki-tek-cher-ul",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "problems in",
+        "speakText": "problems in",
+        "phonetic": "problems-in",
+        "desc": "problems 尾音輔音自然連向 in 的開頭母音，語流連成 problems-in。"
+      },
+      {
+        "orig": "in the",
+        "speakText": "in the",
+        "phonetic": "in-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  }
+]

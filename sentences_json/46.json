@@ -1,0 +1,344 @@
+[
+  {
+    "en": "Everyone in the company must follow its code of ethics.",
+    "zh": "公司裡的每個人都必須遵守公司的道德規範。",
+    "notes": [
+      {
+        "orig": "in the",
+        "speakText": "in the",
+        "phonetic": "in-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the company",
+        "speakText": "the company",
+        "phonetic": "thuh-kum-puh-nee",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "must follow",
+        "speakText": "must follow",
+        "phonetic": "must-follow",
+        "desc": "must 字尾塞音在後續輔音 /f/ 前發生吞音（無聲除阻），直接滑向 follow。"
+      },
+      {
+        "orig": "follow its",
+        "speakText": "follow its",
+        "phonetic": "follow-its",
+        "desc": "follow 尾音輔音自然連向 its 的開頭母音，語流連成 follow-its。"
+      },
+      {
+        "orig": "code of",
+        "speakText": "code of",
+        "phonetic": "code-uh",
+        "desc": "介系詞 of 在口語連讀中常弱化為輕短的 /uh/（或 /uv/）。"
+      }
+    ]
+  },
+  {
+    "en": "A $500 fine is imposed for riding without a valid ticket.",
+    "zh": "無有效車票乘車將處以 500 美元罰款。",
+    "notes": [
+      {
+        "orig": "A $500",
+        "speakText": "A $500",
+        "phonetic": "uh-500",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "is imposed",
+        "speakText": "is imposed",
+        "phonetic": "is-imposd",
+        "desc": "is 尾音輔音自然連向 imposed 的開頭母音，語流連成 is-imposd。"
+      },
+      {
+        "orig": "imposed for",
+        "speakText": "imposed for",
+        "phonetic": "imposd-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for riding",
+        "speakText": "for riding",
+        "phonetic": "fer-riding",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "without a",
+        "speakText": "without a",
+        "phonetic": "withou-duh",
+        "desc": "without 字尾 /t/ 夾在母音間閃化為輕彈音 /ɾ/，與 a 連讀成 withou-duh。"
+      }
+    ]
+  },
+  {
+    "en": "The architect will come to the construction site today.",
+    "zh": "建築師今天會來到建築工地。",
+    "notes": [
+      {
+        "orig": "The architect",
+        "speakText": "The architect",
+        "phonetic": "thuh-ar-ki-tekt",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "come to",
+        "speakText": "come to",
+        "phonetic": "come-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to the",
+        "speakText": "to the",
+        "phonetic": "tuh-thuh",
+        "desc": "to 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 tuh-thuh。"
+      },
+      {
+        "orig": "the construction",
+        "speakText": "the construction",
+        "phonetic": "thuh-kun-struk-shun",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "Housekeeping is no longer a female domain.",
+    "zh": "家務管理不再只是女性的專屬領域。",
+    "notes": [
+      {
+        "orig": "Housekeeping is",
+        "speakText": "Housekeeping is",
+        "phonetic": "housekeeping-is",
+        "desc": "Housekeeping 尾音輔音自然連向 is 的開頭母音，語流連成 housekeeping-is。"
+      },
+      {
+        "orig": "longer a",
+        "speakText": "longer a",
+        "phonetic": "longer-uh",
+        "desc": "longer 尾音直接連向弱讀的 a（/uh/），聽起來像 longer-uh。"
+      },
+      {
+        "orig": "a female",
+        "speakText": "a female",
+        "phonetic": "uh-female",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      }
+    ]
+  },
+  {
+    "en": "Do you have any suggestions on the plan?",
+    "zh": "你對這項計畫有什麼建議嗎？",
+    "notes": [
+      {
+        "orig": "you have",
+        "speakText": "you have",
+        "phonetic": "you-huv",
+        "desc": "助動詞 have 弱讀為輕短的 /huv/。"
+      },
+      {
+        "orig": "have any",
+        "speakText": "have any",
+        "phonetic": "huv-any",
+        "desc": "助動詞 have 弱讀為輕短的 /huv/。"
+      },
+      {
+        "orig": "suggestions on",
+        "speakText": "suggestions on",
+        "phonetic": "suh-jes-chunz-on",
+        "desc": "suggestions 尾音輔音自然連向 on 的開頭母音，語流連成 suh-jes-chunz-on。"
+      },
+      {
+        "orig": "on the",
+        "speakText": "on the",
+        "phonetic": "on-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the plan",
+        "speakText": "the plan",
+        "phonetic": "thuh-plan",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "She has passed the multiple rounds of job interviews.",
+    "zh": "她已經通過了多輪求職面試。",
+    "notes": [
+      {
+        "orig": "She has",
+        "speakText": "She has",
+        "phonetic": "she-huz",
+        "desc": "助動詞 has 弱讀為輕短的 /huz/。"
+      },
+      {
+        "orig": "has passed",
+        "speakText": "has passed",
+        "phonetic": "huz-passd",
+        "desc": "助動詞 has 弱讀為輕短的 /huz/。"
+      },
+      {
+        "orig": "passed the",
+        "speakText": "passed the",
+        "phonetic": "passd-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the multiple",
+        "speakText": "the multiple",
+        "phonetic": "thuh-multiple",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "rounds of",
+        "speakText": "rounds of",
+        "phonetic": "rounds-uh",
+        "desc": "rounds 尾音直接連向弱讀的 of（/uh/），聽起來像 rounds-uh。"
+      }
+    ]
+  },
+  {
+    "en": "The rescue team will undergo a series of practice sessions.",
+    "zh": "搜救隊將接受一系列的實務訓練。",
+    "notes": [
+      {
+        "orig": "The rescue",
+        "speakText": "The rescue",
+        "phonetic": "thuh-rescue",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "will undergo",
+        "speakText": "will undergo",
+        "phonetic": "will-undergo",
+        "desc": "will 尾音輔音自然連向 undergo 的開頭母音，語流連成 will-undergo。"
+      },
+      {
+        "orig": "undergo a",
+        "speakText": "undergo a",
+        "phonetic": "undergo-uh",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "a series",
+        "speakText": "a series",
+        "phonetic": "uh-series",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "series of",
+        "speakText": "series of",
+        "phonetic": "series-uh",
+        "desc": "series 尾音直接連向弱讀的 of（/uh/），聽起來像 series-uh。"
+      }
+    ]
+  },
+  {
+    "en": "Increasing sales is a top priority for the new CEO.",
+    "zh": "提升業績是新任執行長的首要任務。",
+    "notes": [
+      {
+        "orig": "sales is",
+        "speakText": "sales is",
+        "phonetic": "sales-is",
+        "desc": "sales 尾音輔音自然連向 is 的開頭母音，語流連成 sales-is。"
+      },
+      {
+        "orig": "is a",
+        "speakText": "is a",
+        "phonetic": "is-uh",
+        "desc": "is 尾音直接連向弱讀的 a（/uh/），聽起來像 is-uh。"
+      },
+      {
+        "orig": "a top",
+        "speakText": "a top",
+        "phonetic": "uh-top",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "priority for",
+        "speakText": "priority for",
+        "phonetic": "pry-or-uh-tee-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for the",
+        "speakText": "for the",
+        "phonetic": "fer-thuh",
+        "desc": "for 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 fer-thuh。"
+      }
+    ]
+  },
+  {
+    "en": "The CEO started his career as sales representative.",
+    "zh": "執行長是以業務代表的身分開啟職涯的。",
+    "notes": [
+      {
+        "orig": "The CEO",
+        "speakText": "The CEO",
+        "phonetic": "thuh-ceo",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "started his",
+        "speakText": "started his",
+        "phonetic": "startd-iz",
+        "desc": "his 開頭的 /h/ 在連讀時常弱化省略，started 尾音直接黏上 iz 變成 startd-iz。"
+      },
+      {
+        "orig": "his career",
+        "speakText": "his career",
+        "phonetic": "iz-career",
+        "desc": "his 開頭的 /h/ 在連讀時常弱化省略，與前一字尾音黏連。"
+      },
+      {
+        "orig": "career as",
+        "speakText": "career as",
+        "phonetic": "career-uz",
+        "desc": "career 尾音直接連向弱讀的 as（/uz/），聽起來像 career-uz。"
+      },
+      {
+        "orig": "as sales",
+        "speakText": "as sales",
+        "phonetic": "uz-sales",
+        "desc": "as 弱讀為輕短的 /uz/。"
+      }
+    ]
+  },
+  {
+    "en": "There are many new features in the new software program.",
+    "zh": "這個新軟體程式有許多新功能。",
+    "notes": [
+      {
+        "orig": "There are",
+        "speakText": "There are",
+        "phonetic": "there-er",
+        "desc": "be 動詞 are 在非重讀位置弱讀為 /er/。"
+      },
+      {
+        "orig": "are many",
+        "speakText": "are many",
+        "phonetic": "er-many",
+        "desc": "be 動詞 are 在非重讀位置弱讀為 /er/。"
+      },
+      {
+        "orig": "features in",
+        "speakText": "features in",
+        "phonetic": "features-in",
+        "desc": "features 尾音輔音自然連向 in 的開頭母音，語流連成 features-in。"
+      },
+      {
+        "orig": "in the",
+        "speakText": "in the",
+        "phonetic": "in-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the new",
+        "speakText": "the new",
+        "phonetic": "thuh-new",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  }
+]

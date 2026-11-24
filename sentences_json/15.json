@@ -1,0 +1,230 @@
+[
+  {
+    "en": "Anyone who does business should retain a lawyer.",
+    "zh": "任何做生意的人都應該聘請律師。",
+    "notes": [
+      {
+        "orig": "does business",
+        "speakText": "does business",
+        "phonetic": "duz-biz-nis",
+        "desc": "does 弱讀為 duz，business 常弱化為兩音節 biz-nis。"
+      },
+      {
+        "orig": "should retain",
+        "speakText": "should retain",
+        "phonetic": "shud-ri-tayn",
+        "desc": "should 在非重讀位置弱化為 shud，retain 重音落在 tayn。"
+      },
+      {
+        "orig": "retain a",
+        "speakText": "retain a",
+        "phonetic": "ri-tay-nuh",
+        "desc": "retain 尾音 /n/ 連向不定冠詞 a，聽起來像 ri-tay-nuh。"
+      }
+    ]
+  },
+  {
+    "en": "I decided to pursue a career in information systems after completing my university studies.",
+    "zh": "大學學業完成後，我決定投身資訊系統領域的職涯。",
+    "notes": [
+      {
+        "orig": "decided to",
+        "speakText": "decided to",
+        "phonetic": "di-sy-did-tuh",
+        "desc": "decided 尾音 /d/ 接弱讀的 to（/tuh/）。"
+      },
+      {
+        "orig": "to pursue",
+        "speakText": "to pursue",
+        "phonetic": "tuh-per-soo",
+        "desc": "to 弱讀為 tuh，pursue 重音落在 soo。"
+      },
+      {
+        "orig": "pursue a",
+        "speakText": "pursue a",
+        "phonetic": "per-soo-uh",
+        "desc": "pursue 尾音母音滑向不定冠詞 a。"
+      },
+      {
+        "orig": "career in",
+        "speakText": "career in",
+        "phonetic": "kuh-reer-in",
+        "desc": "career 尾音 /r/ 連向 in 的母音 /ɪ/，聽起來像 reer-in。"
+      }
+    ]
+  },
+  {
+    "en": "The project has absorbed all of our department's resources.",
+    "zh": "這個專案已經耗盡了我們部門所有的資源。",
+    "notes": [
+      {
+        "orig": "has absorbed",
+        "speakText": "has absorbed",
+        "phonetic": "huz-ub-zorbd",
+        "desc": "has 弱讀為 huz，absorbed 首音節弱化為 ub。"
+      },
+      {
+        "orig": "absorbed all",
+        "speakText": "absorbed all",
+        "phonetic": "ub-zor-bawl",
+        "desc": "absorbed 尾音 /d/ 連向 all 的母音 /ɔː/。"
+      },
+      {
+        "orig": "all of",
+        "speakText": "all of",
+        "phonetic": "ah-luh",
+        "desc": "all 尾音 /l/ 連向弱讀的 of（/uh/），聽起來像 ah-luh。"
+      },
+      {
+        "orig": "of our",
+        "speakText": "of our",
+        "phonetic": "uh-vowr",
+        "desc": "of 弱讀為 /uh/ 且 /v/ 滑向 our。"
+      }
+    ]
+  },
+  {
+    "en": "The president has no heir to inherit his business.",
+    "zh": "這位總裁沒有繼承人可以接手他的事業。",
+    "notes": [
+      {
+        "orig": "no heir",
+        "speakText": "no heir",
+        "phonetic": "noh-air",
+        "desc": "heir 開頭的 h 不發音，直接以母音 /ɛə/ 接在 no 後面。"
+      },
+      {
+        "orig": "to inherit",
+        "speakText": "to inherit",
+        "phonetic": "tuh-in-her-it",
+        "desc": "to 弱讀為 tuh，直接連向 inherit。"
+      },
+      {
+        "orig": "inherit his",
+        "speakText": "inherit his",
+        "phonetic": "in-her-i-tiz",
+        "desc": "his 的 /h/ 弱化省略，inherit 尾音 /t/ 閃化連向 iz。"
+      }
+    ]
+  },
+  {
+    "en": "The economy began thriving only after a long period of negative performance.",
+    "zh": "在經歷了一段長時間的負面表現後，經濟才開始復甦興盛。",
+    "notes": [
+      {
+        "orig": "after a",
+        "speakText": "after a",
+        "phonetic": "af-ter-uh",
+        "desc": "after 尾音 /r/ 連向不定冠詞 a，聽起來像 af-ter-uh。"
+      },
+      {
+        "orig": "period of",
+        "speakText": "period of",
+        "phonetic": "peer-ee-ud-uh",
+        "desc": "of 弱讀為輕短的 /uh/，緊接在 period 之後。"
+      }
+    ]
+  },
+  {
+    "en": "The company has emerged as our strongest competitor in computer games.",
+    "zh": "該公司已崛起成為我們在電腦遊戲領域最強勁的競爭對手。",
+    "notes": [
+      {
+        "orig": "has emerged",
+        "speakText": "has emerged",
+        "phonetic": "huz-i-merjd",
+        "desc": "has 弱讀為 huz，emerged 首音節弱化為 i。"
+      },
+      {
+        "orig": "emerged as",
+        "speakText": "emerged as",
+        "phonetic": "i-mer-juz",
+        "desc": "emerged 尾音 /d/ 連向弱讀的 as（/uz/）。"
+      },
+      {
+        "orig": "in computer",
+        "speakText": "in computer",
+        "phonetic": "in-kum-pyoo-ter",
+        "desc": "in 尾音 /n/ 緊接 computer，computer 首音節弱化為 kum。"
+      }
+    ]
+  },
+  {
+    "en": "We hope this new venture will generate a lot of revenue.",
+    "zh": "我們希望這項新事業能帶來可觀的營收。",
+    "notes": [
+      {
+        "orig": "generate a",
+        "speakText": "generate a",
+        "phonetic": "jen-er-ay-duh",
+        "desc": "generate 字尾 /t/ 閃化為 /ɾ/，連向 a 聽起來像 ay-duh。"
+      },
+      {
+        "orig": "a lot",
+        "speakText": "a lot",
+        "phonetic": "uh-laht",
+        "desc": "a 弱讀為 uh，重音落在 lot。"
+      },
+      {
+        "orig": "lot of",
+        "speakText": "lot of",
+        "phonetic": "lah-duh",
+        "desc": "美式口語 lot of 常連音弱化為 lah-duh（t 閃化、of 弱化）。"
+      }
+    ]
+  },
+  {
+    "en": "The doctor prescribed me medication for high blood pressure.",
+    "zh": "醫生為我開了治療高血壓的藥物。",
+    "notes": [
+      {
+        "orig": "for high",
+        "speakText": "for high",
+        "phonetic": "fer-hy",
+        "desc": "for 弱讀為 fer，緊接 high。"
+      }
+    ]
+  },
+  {
+    "en": "Ray's team devised a new method for managing the inventory.",
+    "zh": "雷的團隊設計了一種管理庫存的新方法。",
+    "notes": [
+      {
+        "orig": "devised a",
+        "speakText": "devised a",
+        "phonetic": "di-vy-zuh",
+        "desc": "devised 尾音 /z/ 連向不定冠詞 a，聽起來像 di-vy-zuh。"
+      },
+      {
+        "orig": "for managing",
+        "speakText": "for managing",
+        "phonetic": "fer-man-uh-jing",
+        "desc": "for 弱讀為 fer，managing 中間音節弱化為 uh。"
+      },
+      {
+        "orig": "managing the",
+        "speakText": "managing the",
+        "phonetic": "man-uh-jing-thuh",
+        "desc": "the 弱讀為輕短的 thuh。"
+      }
+    ]
+  },
+  {
+    "en": "The IT company tailors its solutions to specific company requirements.",
+    "zh": "這家資訊公司會針對特定公司的需求量身打造解決方案。",
+    "notes": [
+      {
+        "orig": "tailors its",
+        "speakText": "tailors its",
+        "phonetic": "tay-lerz-its",
+        "desc": "tailors 尾音 /z/ 連向 its 的母音 /ɪ/，聽起來像 lerz-its。"
+      },
+      {
+        "orig": "solutions to",
+        "speakText": "solutions to",
+        "phonetic": "suh-loo-shunz-tuh",
+        "desc": "to 弱讀為 tuh，緊接在 solutions 之後。"
+      }
+    ]
+  }
+]

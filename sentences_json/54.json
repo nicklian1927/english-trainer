@@ -1,0 +1,344 @@
+[
+  {
+    "en": "In order to receive a social security number, you must present your birth certificate.",
+    "zh": "為了領取社會安全號碼，您必須出示出生證明。",
+    "notes": [
+      {
+        "orig": "In order",
+        "speakText": "In order",
+        "phonetic": "in-order",
+        "desc": "In 尾音輔音自然連向 order 的開頭母音，語流連成 in-order。"
+      },
+      {
+        "orig": "order to",
+        "speakText": "order to",
+        "phonetic": "order-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to receive",
+        "speakText": "to receive",
+        "phonetic": "tuh-receive",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "receive a",
+        "speakText": "receive a",
+        "phonetic": "receive-uh",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "a social",
+        "speakText": "a social",
+        "phonetic": "uh-social",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      }
+    ]
+  },
+  {
+    "en": "Thank you for your kind reminder.",
+    "zh": "謝謝你的貼心提醒。",
+    "notes": [
+      {
+        "orig": "you for",
+        "speakText": "you for",
+        "phonetic": "you-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for your",
+        "speakText": "for your",
+        "phonetic": "fer-yer",
+        "desc": "for 與 your 皆為非重讀功能詞，雙雙弱讀並連成輕短的 fer-yer。"
+      },
+      {
+        "orig": "your kind",
+        "speakText": "your kind",
+        "phonetic": "yer-kind",
+        "desc": "所有格 your 在非重讀位置常弱讀為 /yer/。"
+      },
+      {
+        "orig": "kind reminder",
+        "speakText": "kind reminder",
+        "phonetic": "kind-reminder",
+        "desc": "kind 字尾塞音在後續輔音 /r/ 前發生吞音（無聲除阻），直接滑向 reminder。"
+      }
+    ]
+  },
+  {
+    "en": "The art gallery relies heavily on guest patronage for its operating funds.",
+    "zh": "這家藝廊的營運資金高度仰賴賓客的贊助支持。",
+    "notes": [
+      {
+        "orig": "The art",
+        "speakText": "The art",
+        "phonetic": "thuh-art",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "heavily on",
+        "speakText": "heavily on",
+        "phonetic": "heavily-on",
+        "desc": "heavily 尾音輔音自然連向 on 的開頭母音，語流連成 heavily-on。"
+      },
+      {
+        "orig": "guest patronage",
+        "speakText": "guest patronage",
+        "phonetic": "guest-pay-truh-nij",
+        "desc": "guest 字尾塞音在後續輔音 /p/ 前發生吞音（無聲除阻），直接滑向 patronage。"
+      },
+      {
+        "orig": "patronage for",
+        "speakText": "patronage for",
+        "phonetic": "pay-truh-nij-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for its",
+        "speakText": "for its",
+        "phonetic": "fer-its",
+        "desc": "for 尾音輔音自然連向 its 的開頭母音，語流連成 fer-its。"
+      }
+    ]
+  },
+  {
+    "en": "Our CEO prefers to do business with acquaintances and friends.",
+    "zh": "我們的執行長更喜歡與熟人和朋友做生意。",
+    "notes": [
+      {
+        "orig": "Our CEO",
+        "speakText": "Our CEO",
+        "phonetic": "owr-ceo",
+        "desc": "our 與前一字尾音自然連讀滑入。"
+      },
+      {
+        "orig": "prefers to",
+        "speakText": "prefers to",
+        "phonetic": "prefers-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to do",
+        "speakText": "to do",
+        "phonetic": "tuh-do",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "with acquaintances",
+        "speakText": "with acquaintances",
+        "phonetic": "with-uh-kwayn-tun-siz",
+        "desc": "with 尾音輔音自然連向 acquaintances 的開頭母音，語流連成 with-uh-kwayn-tun-siz。"
+      },
+      {
+        "orig": "acquaintances and",
+        "speakText": "acquaintances and",
+        "phonetic": "uh-kwayn-tun-siz-un",
+        "desc": "acquaintances 尾音輔音自然連向 and 的開頭母音，語流連成 uh-kwayn-tun-siz-un。"
+      }
+    ]
+  },
+  {
+    "en": "The resort chain offers exceptional hospitality in over 100 cities worldwide.",
+    "zh": "該連鎖度假村在全球超過 100 個城市提供卓越的款待服務。",
+    "notes": [
+      {
+        "orig": "The resort",
+        "speakText": "The resort",
+        "phonetic": "thuh-resort",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "chain offers",
+        "speakText": "chain offers",
+        "phonetic": "chain-offers",
+        "desc": "chain 尾音輔音自然連向 offers 的開頭母音，語流連成 chain-offers。"
+      },
+      {
+        "orig": "offers exceptional",
+        "speakText": "offers exceptional",
+        "phonetic": "offers-exceptional",
+        "desc": "offers 尾音輔音自然連向 exceptional 的開頭母音，語流連成 offers-exceptional。"
+      },
+      {
+        "orig": "hospitality in",
+        "speakText": "hospitality in",
+        "phonetic": "hahs-pi-tal-uh-tee-in",
+        "desc": "hospitality 尾音輔音自然連向 in 的開頭母音，語流連成 hahs-pi-tal-uh-tee-in。"
+      },
+      {
+        "orig": "in over",
+        "speakText": "in over",
+        "phonetic": "in-over",
+        "desc": "in 尾音輔音自然連向 over 的開頭母音，語流連成 in-over。"
+      }
+    ]
+  },
+  {
+    "en": "The CEO had pity for the laid-off workers in the process of downsizing.",
+    "zh": "執行長對縮編過程中被資遣的員工深表同情。",
+    "notes": [
+      {
+        "orig": "The CEO",
+        "speakText": "The CEO",
+        "phonetic": "thuh-ceo",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "pity for",
+        "speakText": "pity for",
+        "phonetic": "pity-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for the",
+        "speakText": "for the",
+        "phonetic": "fer-thuh",
+        "desc": "for 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 fer-thuh。"
+      },
+      {
+        "orig": "the laid",
+        "speakText": "the laid",
+        "phonetic": "thuh-laid",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "laid-off",
+        "speakText": "laid-off",
+        "phonetic": "laid-off",
+        "desc": "laid 尾音輔音自然連向 off 的開頭母音，語流連成 laid-off。"
+      }
+    ]
+  },
+  {
+    "en": "Avery performs her job duties with great enthusiasm.",
+    "zh": "艾佛瑞以極大的熱忱履行她的工作職責。",
+    "notes": [
+      {
+        "orig": "performs her",
+        "speakText": "performs her",
+        "phonetic": "performs-er",
+        "desc": "her 開頭的 /h/ 在連讀時常弱化省略，performs 尾音直接黏上 er 變成 performs-er。"
+      },
+      {
+        "orig": "her job",
+        "speakText": "her job",
+        "phonetic": "er-job",
+        "desc": "her 開頭的 /h/ 在連讀時常弱化省略，與前一字尾音黏連。"
+      },
+      {
+        "orig": "great enthusiasm",
+        "speakText": "great enthusiasm",
+        "phonetic": "grea-den-thoo-zee-az-um",
+        "desc": "great 字尾 /t/ 夾在母音間閃化為輕彈音 /ɾ/，與 enthusiasm 連讀成 grea-den-thoo-zee-az-um。"
+      }
+    ]
+  },
+  {
+    "en": "The athlete is on a quest for the gold medal at the Olympics.",
+    "zh": "這位運動員正在奧運會上追尋金牌。",
+    "notes": [
+      {
+        "orig": "The athlete",
+        "speakText": "The athlete",
+        "phonetic": "thuh-athlete",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "is on",
+        "speakText": "is on",
+        "phonetic": "is-on",
+        "desc": "is 尾音輔音自然連向 on 的開頭母音，語流連成 is-on。"
+      },
+      {
+        "orig": "on a",
+        "speakText": "on a",
+        "phonetic": "on-uh",
+        "desc": "on 尾音直接連向弱讀的 a（/uh/），聽起來像 on-uh。"
+      },
+      {
+        "orig": "a quest",
+        "speakText": "a quest",
+        "phonetic": "uh-quest",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "quest for",
+        "speakText": "quest for",
+        "phonetic": "quest-fer",
+        "desc": "quest 字尾塞音在後續輔音 /f/ 前發生吞音（無聲除阻），直接滑向 for。"
+      }
+    ]
+  },
+  {
+    "en": "We must make every endeavor to win back our market share.",
+    "zh": "我們必須竭盡全力贏回我們的市占率。",
+    "notes": [
+      {
+        "orig": "must make",
+        "speakText": "must make",
+        "phonetic": "must-make",
+        "desc": "must 字尾塞音在後續輔音 /m/ 前發生吞音（無聲除阻），直接滑向 make。"
+      },
+      {
+        "orig": "every endeavor",
+        "speakText": "every endeavor",
+        "phonetic": "every-en-dev-er",
+        "desc": "every 尾音輔音自然連向 endeavor 的開頭母音，語流連成 every-en-dev-er。"
+      },
+      {
+        "orig": "endeavor to",
+        "speakText": "endeavor to",
+        "phonetic": "en-dev-er-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to win",
+        "speakText": "to win",
+        "phonetic": "tuh-win",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "back our",
+        "speakText": "back our",
+        "phonetic": "back-owr",
+        "desc": "back 尾音輔音自然連向 our 的開頭母音，語流連成 back-owr。"
+      }
+    ]
+  },
+  {
+    "en": "The successful project was the result of an evolution of many good ideas.",
+    "zh": "這個成功的專案是許多好點子逐步演進的成果。",
+    "notes": [
+      {
+        "orig": "The successful",
+        "speakText": "The successful",
+        "phonetic": "thuh-successful",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "project was",
+        "speakText": "project was",
+        "phonetic": "project-wuz",
+        "desc": "was 弱讀為輕短的 /wuz/。"
+      },
+      {
+        "orig": "was the",
+        "speakText": "was the",
+        "phonetic": "wuz-thuh",
+        "desc": "was 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 wuz-thuh。"
+      },
+      {
+        "orig": "the result",
+        "speakText": "the result",
+        "phonetic": "thuh-result",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "result of",
+        "speakText": "result of",
+        "phonetic": "result-uh",
+        "desc": "result 尾音直接連向弱讀的 of（/uh/），聽起來像 result-uh。"
+      }
+    ]
+  }
+]

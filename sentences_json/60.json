@@ -1,0 +1,314 @@
+[
+  {
+    "en": "Our dishes are all made from organic ingredients.",
+    "zh": "我們的餐點全部採用有機食材製作。",
+    "notes": [
+      {
+        "orig": "Our dishes",
+        "speakText": "Our dishes",
+        "phonetic": "owr-dishes",
+        "desc": "our 與前一字尾音自然連讀滑入。"
+      },
+      {
+        "orig": "dishes are",
+        "speakText": "dishes are",
+        "phonetic": "dishes-er",
+        "desc": "dishes 尾音直接連向弱讀的 are（/er/），聽起來像 dishes-er。"
+      },
+      {
+        "orig": "are all",
+        "speakText": "are all",
+        "phonetic": "er-all",
+        "desc": "be 動詞 are 在非重讀位置弱讀為 /er/。"
+      },
+      {
+        "orig": "made from",
+        "speakText": "made from",
+        "phonetic": "made-frum",
+        "desc": "介系詞 from 弱讀為輕短的 /frum/。"
+      },
+      {
+        "orig": "from organic",
+        "speakText": "from organic",
+        "phonetic": "frum-organic",
+        "desc": "from 尾音輔音自然連向 organic 的開頭母音，語流連成 frum-organic。"
+      }
+    ]
+  },
+  {
+    "en": "James is an energetic worker and has an appetite for learning.",
+    "zh": "詹姆斯是個精力充沛的員工，對學習充滿渴望。",
+    "notes": [
+      {
+        "orig": "James is",
+        "speakText": "James is",
+        "phonetic": "james-is",
+        "desc": "James 尾音輔音自然連向 is 的開頭母音，語流連成 james-is。"
+      },
+      {
+        "orig": "is an",
+        "speakText": "is an",
+        "phonetic": "is-un",
+        "desc": "is 尾音直接連向弱讀的 an（/un/），聽起來像 is-un。"
+      },
+      {
+        "orig": "an energetic",
+        "speakText": "an energetic",
+        "phonetic": "un-en-er-jet-ik",
+        "desc": "an 尾音輔音自然連向 energetic 的開頭母音，語流連成 un-en-er-jet-ik。"
+      },
+      {
+        "orig": "worker and",
+        "speakText": "worker and",
+        "phonetic": "worker-un",
+        "desc": "worker 尾音輔音自然連向 and 的開頭母音，語流連成 worker-un。"
+      },
+      {
+        "orig": "and has",
+        "speakText": "and has",
+        "phonetic": "un-huz",
+        "desc": "and 字尾塞音在後續輔音 /h/ 前發生吞音（無聲除阻），直接滑向 has。"
+      }
+    ]
+  },
+  {
+    "en": "The convention is a showcase of the latest video games and entertainment software.",
+    "zh": "這場展覽會是最新電玩遊戲與娛樂軟體的展示舞台。",
+    "notes": [
+      {
+        "orig": "The convention",
+        "speakText": "The convention",
+        "phonetic": "thuh-convenshun",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "convention is",
+        "speakText": "convention is",
+        "phonetic": "convenshun-is",
+        "desc": "convention 尾音輔音自然連向 is 的開頭母音，語流連成 convenshun-is。"
+      },
+      {
+        "orig": "is a",
+        "speakText": "is a",
+        "phonetic": "is-uh",
+        "desc": "is 尾音直接連向弱讀的 a（/uh/），聽起來像 is-uh。"
+      },
+      {
+        "orig": "a showcase",
+        "speakText": "a showcase",
+        "phonetic": "uh-showcase",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "showcase of",
+        "speakText": "showcase of",
+        "phonetic": "showcase-uh",
+        "desc": "介系詞 of 在口語連讀中常弱化為輕短的 /uh/（或 /uv/）。"
+      }
+    ]
+  },
+  {
+    "en": "Let's celebrate the company's 100th anniversary with great fanfare.",
+    "zh": "讓我們盛大隆重地慶祝公司成立一百週年。",
+    "notes": [
+      {
+        "orig": "celebrate the",
+        "speakText": "celebrate the",
+        "phonetic": "celebrate-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the company's",
+        "speakText": "the company's",
+        "phonetic": "thuh-company's",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "100th anniversary",
+        "speakText": "100th anniversary",
+        "phonetic": "100th-an-uh-ver-suh-ree",
+        "desc": "100th 尾音輔音自然連向 anniversary 的開頭母音，語流連成 100th-an-uh-ver-suh-ree。"
+      }
+    ]
+  },
+  {
+    "en": "Could you check this document, as there may still be some typos?",
+    "zh": "你可以檢查一下這份文件嗎？因為裡面可能還有一些打字錯誤。",
+    "notes": [
+      {
+        "orig": "Could you",
+        "speakText": "Could you",
+        "phonetic": "could-you",
+        "desc": "Could 字尾塞音在後續輔音 /y/ 前發生吞音（無聲除阻），直接滑向 you。"
+      },
+      {
+        "orig": "as there",
+        "speakText": "as there",
+        "phonetic": "uz-there",
+        "desc": "as 弱讀為輕短的 /uz/。"
+      }
+    ]
+  },
+  {
+    "en": "The theme of today's seminar is resilience in difficult business situations.",
+    "zh": "今天研討會的主題是在艱困商業環境中的韌性。",
+    "notes": [
+      {
+        "orig": "The theme",
+        "speakText": "The theme",
+        "phonetic": "thuh-theme",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "theme of",
+        "speakText": "theme of",
+        "phonetic": "theme-uh",
+        "desc": "介系詞 of 在口語連讀中常弱化為輕短的 /uh/（或 /uv/）。"
+      },
+      {
+        "orig": "of today's",
+        "speakText": "of today's",
+        "phonetic": "uh-today's",
+        "desc": "介系詞 of 在口語連讀中常弱化為輕短的 /uh/（或 /uv/）。"
+      },
+      {
+        "orig": "seminar is",
+        "speakText": "seminar is",
+        "phonetic": "sem-uh-nar-is",
+        "desc": "seminar 尾音輔音自然連向 is 的開頭母音，語流連成 sem-uh-nar-is。"
+      }
+    ]
+  },
+  {
+    "en": "The odds are that the candidate will decline our offer.",
+    "zh": "這位候選人很可能會婉拒我們的工作邀約。",
+    "notes": [
+      {
+        "orig": "The odds",
+        "speakText": "The odds",
+        "phonetic": "thuh-odds",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "odds are",
+        "speakText": "odds are",
+        "phonetic": "odds-er",
+        "desc": "odds 尾音直接連向弱讀的 are（/er/），聽起來像 odds-er。"
+      },
+      {
+        "orig": "are that",
+        "speakText": "are that",
+        "phonetic": "er-thut",
+        "desc": "are 與 that 皆為非重讀功能詞，雙雙弱讀並連成輕短的 er-thut。"
+      },
+      {
+        "orig": "that the",
+        "speakText": "that the",
+        "phonetic": "thut-thuh",
+        "desc": "that 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 thut-thuh。"
+      },
+      {
+        "orig": "the candidate",
+        "speakText": "the candidate",
+        "phonetic": "thuh-kan-di-dayt",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "The production manager is a strong proponent of on-site employee training.",
+    "zh": "生產經理是員工現場培訓的堅定支持者。",
+    "notes": [
+      {
+        "orig": "The production",
+        "speakText": "The production",
+        "phonetic": "thuh-producshun",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "manager is",
+        "speakText": "manager is",
+        "phonetic": "manager-is",
+        "desc": "manager 尾音輔音自然連向 is 的開頭母音，語流連成 manager-is。"
+      },
+      {
+        "orig": "is a",
+        "speakText": "is a",
+        "phonetic": "is-uh",
+        "desc": "is 尾音直接連向弱讀的 a（/uh/），聽起來像 is-uh。"
+      },
+      {
+        "orig": "a strong",
+        "speakText": "a strong",
+        "phonetic": "uh-strong",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "proponent of",
+        "speakText": "proponent of",
+        "phonetic": "pruh-poh-nunt-uh",
+        "desc": "proponent 尾音直接連向弱讀的 of（/uh/），聽起來像 pruh-poh-nunt-uh。"
+      }
+    ]
+  },
+  {
+    "en": "You can negotiate with the proprietor on the price of his property for sale.",
+    "zh": "你可以直接與業主協商待售房產的價格。",
+    "notes": [
+      {
+        "orig": "You can",
+        "speakText": "You can",
+        "phonetic": "you-kun",
+        "desc": "助動詞 can 在非重讀位置弱讀為 /kun/。"
+      },
+      {
+        "orig": "can negotiate",
+        "speakText": "can negotiate",
+        "phonetic": "kun-negotiate",
+        "desc": "助動詞 can 在非重讀位置弱讀為 /kun/。"
+      },
+      {
+        "orig": "with the",
+        "speakText": "with the",
+        "phonetic": "with-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the proprietor",
+        "speakText": "the proprietor",
+        "phonetic": "thuh-pruh-pry-uh-ter",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "proprietor on",
+        "speakText": "proprietor on",
+        "phonetic": "pruh-pry-uh-ter-on",
+        "desc": "proprietor 尾音輔音自然連向 on 的開頭母音，語流連成 pruh-pry-uh-ter-on。"
+      }
+    ]
+  },
+  {
+    "en": "The concert will last approximately four hours, including one 20-minute intermission.",
+    "zh": "這場音樂會將持續約四個小時，包含一次 20 分鐘的中場休息。",
+    "notes": [
+      {
+        "orig": "The concert",
+        "speakText": "The concert",
+        "phonetic": "thuh-concert",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "last approximately",
+        "speakText": "last approximately",
+        "phonetic": "last-uh-prahk-suh-mut-lee",
+        "desc": "last 尾音輔音自然連向 approximately 的開頭母音，語流連成 last-uh-prahk-suh-mut-lee。"
+      },
+      {
+        "orig": "including one",
+        "speakText": "including one",
+        "phonetic": "including-one",
+        "desc": "including 尾音輔音自然連向 one 的開頭母音，語流連成 including-one。"
+      }
+    ]
+  }
+]

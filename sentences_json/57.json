@@ -1,0 +1,338 @@
+[
+  {
+    "en": "Martin's intuition told him that he should not accept the job offer.",
+    "zh": "馬丁的直覺告訴他不應該接受這份工作邀約。",
+    "notes": [
+      {
+        "orig": "Martin's intuition",
+        "speakText": "Martin's intuition",
+        "phonetic": "martin's-in-too-ish-un",
+        "desc": "Martin's 尾音輔音自然連向 intuition 的開頭母音，語流連成 martin's-in-too-ish-un。"
+      },
+      {
+        "orig": "told him",
+        "speakText": "told him",
+        "phonetic": "told-im",
+        "desc": "him 開頭的 /h/ 在連讀時常弱化省略，told 尾音直接黏上 im 變成 told-im。"
+      },
+      {
+        "orig": "him that",
+        "speakText": "him that",
+        "phonetic": "im-thut",
+        "desc": "him 與 that 皆為非重讀功能詞，雙雙弱讀並連成輕短的 im-thut。"
+      },
+      {
+        "orig": "that he",
+        "speakText": "that he",
+        "phonetic": "thu-dee",
+        "desc": "that 字尾 /t/ 夾在母音間閃化為輕彈音 /ɾ/，與 he 連讀成 thu-dee。"
+      },
+      {
+        "orig": "he should",
+        "speakText": "he should",
+        "phonetic": "ee-should",
+        "desc": "he 開頭的 /h/ 在句中連讀時常弱化省略。"
+      }
+    ]
+  },
+  {
+    "en": "All legal agreements require close scrutiny before signing them.",
+    "zh": "所有法律協議在簽署前都需要經過嚴密審查。",
+    "notes": [
+      {
+        "orig": "legal agreements",
+        "speakText": "legal agreements",
+        "phonetic": "legal-agreements",
+        "desc": "legal 尾音輔音自然連向 agreements 的開頭母音，語流連成 legal-agreements。"
+      }
+    ]
+  },
+  {
+    "en": "It takes a certain amount of skill and aptitude to do the job well.",
+    "zh": "要把這份工作做好需要一定的技能和天資。",
+    "notes": [
+      {
+        "orig": "takes a",
+        "speakText": "takes a",
+        "phonetic": "takes-uh",
+        "desc": "takes 尾音直接連向弱讀的 a（/uh/），聽起來像 takes-uh。"
+      },
+      {
+        "orig": "a certain",
+        "speakText": "a certain",
+        "phonetic": "uh-certain",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "certain amount",
+        "speakText": "certain amount",
+        "phonetic": "certain-uh-mount",
+        "desc": "certain 尾音輔音自然連向 amount 的開頭母音，語流連成 certain-uh-mount。"
+      },
+      {
+        "orig": "amount of",
+        "speakText": "amount of",
+        "phonetic": "uh-mount-uh",
+        "desc": "amount 尾音直接連向弱讀的 of（/uh/），聽起來像 uh-mount-uh。"
+      },
+      {
+        "orig": "of skill",
+        "speakText": "of skill",
+        "phonetic": "uh-skill",
+        "desc": "介系詞 of 在口語連讀中常弱化為輕短的 /uh/（或 /uv/）。"
+      }
+    ]
+  },
+  {
+    "en": "Frances had the privilege of going to Europe on her business trip.",
+    "zh": "法蘭西絲有幸在出差時前往歐洲。",
+    "notes": [
+      {
+        "orig": "had the",
+        "speakText": "had the",
+        "phonetic": "had-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the privilege",
+        "speakText": "the privilege",
+        "phonetic": "thuh-priv-uh-lij",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "privilege of",
+        "speakText": "privilege of",
+        "phonetic": "priv-uh-lij-uh",
+        "desc": "介系詞 of 在口語連讀中常弱化為輕短的 /uh/（或 /uv/）。"
+      },
+      {
+        "orig": "of going",
+        "speakText": "of going",
+        "phonetic": "uh-going",
+        "desc": "介系詞 of 在口語連讀中常弱化為輕短的 /uh/（或 /uv/）。"
+      },
+      {
+        "orig": "going to",
+        "speakText": "going to",
+        "phonetic": "going-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "The CEO told the staff to have dignity when performing their duties.",
+    "zh": "執行長告訴員工在履行職責時要保持尊嚴。",
+    "notes": [
+      {
+        "orig": "The CEO",
+        "speakText": "The CEO",
+        "phonetic": "thuh-ceo",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "told the",
+        "speakText": "told the",
+        "phonetic": "told-thuh",
+        "desc": "told 字尾塞音在後續輔音 /t/ 前發生吞音（無聲除阻），直接滑向 the。"
+      },
+      {
+        "orig": "the staff",
+        "speakText": "the staff",
+        "phonetic": "thuh-staff",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "staff to",
+        "speakText": "staff to",
+        "phonetic": "staff-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to have",
+        "speakText": "to have",
+        "phonetic": "tuh-huv",
+        "desc": "to 與 have 皆為非重讀功能詞，雙雙弱讀並連成輕短的 tuh-huv。"
+      }
+    ]
+  },
+  {
+    "en": "Her first novel became the literary phenomenon of the decade.",
+    "zh": "她的第一部小說成為該十年文壇的轟動現象。",
+    "notes": [
+      {
+        "orig": "Her first",
+        "speakText": "Her first",
+        "phonetic": "er-first",
+        "desc": "her 開頭的 /h/ 在連讀時常弱化省略，與前一字尾音黏連。"
+      },
+      {
+        "orig": "first novel",
+        "speakText": "first novel",
+        "phonetic": "first-novel",
+        "desc": "first 字尾塞音在後續輔音 /n/ 前發生吞音（無聲除阻），直接滑向 novel。"
+      },
+      {
+        "orig": "became the",
+        "speakText": "became the",
+        "phonetic": "became-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the literary",
+        "speakText": "the literary",
+        "phonetic": "thuh-literary",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "phenomenon of",
+        "speakText": "phenomenon of",
+        "phonetic": "fuh-nah-muh-nahn-uh",
+        "desc": "phenomenon 尾音直接連向弱讀的 of（/uh/），聽起來像 fuh-nah-muh-nahn-uh。"
+      }
+    ]
+  },
+  {
+    "en": "The production department plans for multiple contingencies, such as raw material shortages.",
+    "zh": "生產部門針對原物料短缺等多種突發狀況預做規劃。",
+    "notes": [
+      {
+        "orig": "The production",
+        "speakText": "The production",
+        "phonetic": "thuh-producshun",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "department plans",
+        "speakText": "department plans",
+        "phonetic": "di-part-munt-plans",
+        "desc": "department 字尾塞音在後續輔音 /p/ 前發生吞音（無聲除阻），直接滑向 plans。"
+      },
+      {
+        "orig": "plans for",
+        "speakText": "plans for",
+        "phonetic": "plans-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for multiple",
+        "speakText": "for multiple",
+        "phonetic": "fer-multiple",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "such as",
+        "speakText": "such as",
+        "phonetic": "such-uz",
+        "desc": "such 尾音直接連向弱讀的 as（/uz/），聽起來像 such-uz。"
+      }
+    ]
+  },
+  {
+    "en": "Please look over the agreement to make sure there isn't a discrepancy in the terms.",
+    "zh": "請仔細檢查協議內容，確保條款中沒有不一致之處。",
+    "notes": [
+      {
+        "orig": "look over",
+        "speakText": "look over",
+        "phonetic": "look-over",
+        "desc": "look 尾音輔音自然連向 over 的開頭母音，語流連成 look-over。"
+      },
+      {
+        "orig": "over the",
+        "speakText": "over the",
+        "phonetic": "over-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the agreement",
+        "speakText": "the agreement",
+        "phonetic": "thuh-uh-gree-munt",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "agreement to",
+        "speakText": "agreement to",
+        "phonetic": "uh-gree-munt-tuh",
+        "desc": "agreement 字尾塞音在後續輔音 /t/ 前發生吞音（無聲除阻），直接滑向 to。"
+      },
+      {
+        "orig": "to make",
+        "speakText": "to make",
+        "phonetic": "tuh-make",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "Our overseas investment plan seemed to have no flaws.",
+    "zh": "我們的海外投資計畫似乎毫無瑕疵。",
+    "notes": [
+      {
+        "orig": "Our overseas",
+        "speakText": "Our overseas",
+        "phonetic": "owr-oh-ver-seez",
+        "desc": "Our 尾音輔音自然連向 overseas 的開頭母音，語流連成 owr-oh-ver-seez。"
+      },
+      {
+        "orig": "overseas investment",
+        "speakText": "overseas investment",
+        "phonetic": "oh-ver-seez-investmunt",
+        "desc": "overseas 尾音輔音自然連向 investment 的開頭母音，語流連成 oh-ver-seez-investmunt。"
+      },
+      {
+        "orig": "investment plan",
+        "speakText": "investment plan",
+        "phonetic": "investmunt-plan",
+        "desc": "investment 字尾塞音在後續輔音 /p/ 前發生吞音（無聲除阻），直接滑向 plan。"
+      },
+      {
+        "orig": "seemed to",
+        "speakText": "seemed to",
+        "phonetic": "seemd-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to have",
+        "speakText": "to have",
+        "phonetic": "tuh-huv",
+        "desc": "to 與 have 皆為非重讀功能詞，雙雙弱讀並連成輕短的 tuh-huv。"
+      }
+    ]
+  },
+  {
+    "en": "Some men believe that it is a burden to take care of a family.",
+    "zh": "有些男性認為照顧家庭是一種負擔。",
+    "notes": [
+      {
+        "orig": "believe that",
+        "speakText": "believe that",
+        "phonetic": "believe-thut",
+        "desc": "連接詞／關係代名詞 that 弱讀為輕短的 /thut/。"
+      },
+      {
+        "orig": "that it",
+        "speakText": "that it",
+        "phonetic": "thu-dit",
+        "desc": "that 字尾 /t/ 夾在母音間閃化為輕彈音 /ɾ/，與 it 連讀成 thu-dit。"
+      },
+      {
+        "orig": "it is",
+        "speakText": "it is",
+        "phonetic": "i-dis",
+        "desc": "it 字尾 /t/ 夾在母音間閃化為輕彈音 /ɾ/，與 is 連讀成 i-dis。"
+      },
+      {
+        "orig": "is a",
+        "speakText": "is a",
+        "phonetic": "is-uh",
+        "desc": "is 尾音直接連向弱讀的 a（/uh/），聽起來像 is-uh。"
+      },
+      {
+        "orig": "a burden",
+        "speakText": "a burden",
+        "phonetic": "uh-burden",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      }
+    ]
+  }
+]

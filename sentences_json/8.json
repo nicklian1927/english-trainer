@@ -1,0 +1,248 @@
+[
+  {
+    "en": "Tim got a promotion because his hard work was recognized.",
+    "zh": "提姆因為他的努力獲得肯定而得到了升遷。",
+    "notes": [
+      {
+        "orig": "got a",
+        "speakText": "got a",
+        "phonetic": "gah-duh",
+        "desc": "got 字尾 /t/ 夾在母音間閃化為 /ɾ/，連向 a 聽起來像 gah-duh。"
+      },
+      {
+        "orig": "because his",
+        "speakText": "because his",
+        "phonetic": "bi-kuz-iz",
+        "desc": "because 弱讀為 bi-kuz，his 的 /h/ 弱化省略，聽起來像 bi-kuz-iz。"
+      },
+      {
+        "orig": "was recognized",
+        "speakText": "was recognized",
+        "phonetic": "wuz-rek-ug-nyzd",
+        "desc": "was 弱讀為 wuz，recognized 中間音節弱化為 ug。"
+      }
+    ]
+  },
+  {
+    "en": "Mr. Warner admires those who work hard to make a living.",
+    "zh": "華納先生敬佩那些努力工作糊口的人。",
+    "notes": [
+      {
+        "orig": "work hard",
+        "speakText": "work hard",
+        "phonetic": "werk-hard",
+        "desc": "work 尾音 /k/ 接 hard 的 /h/，音節清楚銜接。"
+      },
+      {
+        "orig": "to make",
+        "speakText": "to make",
+        "phonetic": "tuh-mayk",
+        "desc": "to 弱讀為 tuh，直接接 make。"
+      },
+      {
+        "orig": "make a",
+        "speakText": "make a",
+        "phonetic": "may-kuh",
+        "desc": "make 尾音 /k/ 連向不定冠詞 a，聽起來像 may-kuh。"
+      }
+    ]
+  },
+  {
+    "en": "The private life of the famous CEO fascinates the public.",
+    "zh": "這位知名執行長的私生活令大眾感到好奇。",
+    "notes": [
+      {
+        "orig": "life of",
+        "speakText": "life of",
+        "phonetic": "ly-fuh",
+        "desc": "life 尾音 /f/ 連向弱讀的 of（/uh/），聽起來像 ly-fuh。"
+      },
+      {
+        "orig": "of the",
+        "speakText": "of the",
+        "phonetic": "uh-thuh",
+        "desc": "of 與 the 皆弱讀為輕短音。"
+      },
+      {
+        "orig": "fascinates the",
+        "speakText": "fascinates the",
+        "phonetic": "fas-uh-nayts-thuh",
+        "desc": "fascinates 中間音節弱化為 uh，the 弱讀為 thuh。"
+      }
+    ]
+  },
+  {
+    "en": "Our company boasts a wide range of products and services.",
+    "zh": "我們公司擁有多元豐富的產品與服務。",
+    "notes": [
+      {
+        "orig": "boasts a",
+        "speakText": "boasts a",
+        "phonetic": "bohst-suh",
+        "desc": "boasts 尾音 /s/ 連向不定冠詞 a，聽起來像 bohst-suh。"
+      },
+      {
+        "orig": "range of",
+        "speakText": "range of",
+        "phonetic": "rayn-juh",
+        "desc": "range 尾音 /dʒ/ 連向弱讀的 of（/uh/），聽起來像 rayn-juh。"
+      },
+      {
+        "orig": "and services",
+        "speakText": "and services",
+        "phonetic": "un-ser-vi-siz",
+        "desc": "and 弱化吞掉 /d/，聽起來像 un-ser-vi-siz。"
+      }
+    ]
+  },
+  {
+    "en": "The annual budget meeting has been postponed until next week.",
+    "zh": "年度預算會議已延期至下週。",
+    "notes": [
+      {
+        "orig": "has been",
+        "speakText": "has been",
+        "phonetic": "huz-bin",
+        "desc": "has 與 been 弱化為輕短的 huz-bin。"
+      },
+      {
+        "orig": "until next",
+        "speakText": "until next",
+        "phonetic": "un-til-nekst",
+        "desc": "until 重音落在 til，接 next。"
+      },
+      {
+        "orig": "next week",
+        "speakText": "next week",
+        "phonetic": "neks-week",
+        "desc": "next 尾音 /t/ 在 /w/ 前吞音，直接接 week。"
+      }
+    ]
+  },
+  {
+    "en": "Many employees participated in Dr. Ayala's lecture on the latest design trends.",
+    "zh": "許多員工參加了阿亞拉博士關於最新設計趨勢的講座。",
+    "notes": [
+      {
+        "orig": "participated in",
+        "speakText": "participated in",
+        "phonetic": "par-tis-uh-pay-did-in",
+        "desc": "participated 中的 t 閃化為 /ɾ/，尾音 /d/ 連向 in。"
+      },
+      {
+        "orig": "on the",
+        "speakText": "on the",
+        "phonetic": "ahn-thuh",
+        "desc": "the 弱讀為輕短的 thuh。"
+      }
+    ]
+  },
+  {
+    "en": "After the database crashed, the systems engineer located the source of the error.",
+    "zh": "資料庫當機後，系統工程師找到了錯誤的來源。",
+    "notes": [
+      {
+        "orig": "After the",
+        "speakText": "After the",
+        "phonetic": "af-ter-thuh",
+        "desc": "the 弱讀為輕短的 thuh。"
+      },
+      {
+        "orig": "located the",
+        "speakText": "located the",
+        "phonetic": "loh-kay-did-thuh",
+        "desc": "located 尾音 /d/ 接弱讀的 thuh。"
+      },
+      {
+        "orig": "source of",
+        "speakText": "source of",
+        "phonetic": "sors-uh",
+        "desc": "source 尾音 /s/ 連向弱讀的 of（/uh/），聽起來像 sors-uh。"
+      },
+      {
+        "orig": "of the",
+        "speakText": "of the",
+        "phonetic": "uh-thuh",
+        "desc": "of 與 the 皆弱讀為輕短音。"
+      }
+    ]
+  },
+  {
+    "en": "Please enclose your resume with the application and send it to our office.",
+    "zh": "請將履歷隨申請表一併附上，並寄至我們辦公室。",
+    "notes": [
+      {
+        "orig": "enclose your",
+        "speakText": "enclose your",
+        "phonetic": "en-kloh-zher",
+        "desc": "enclose 尾音 /z/ 遇 your 首音 /j/ 同化連音，聽起來像 en-kloh-zher。"
+      },
+      {
+        "orig": "with the",
+        "speakText": "with the",
+        "phonetic": "wi-thuh",
+        "desc": "the 弱讀為輕短的 thuh。"
+      },
+      {
+        "orig": "send it",
+        "speakText": "send it",
+        "phonetic": "sen-dit",
+        "desc": "send 尾音 /d/ 連向 it 的母音 /ɪ/，聽起來像 sen-dit。"
+      },
+      {
+        "orig": "to our",
+        "speakText": "to our",
+        "phonetic": "tuh-owr",
+        "desc": "to 弱讀為 tuh，連向 our。"
+      }
+    ]
+  },
+  {
+    "en": "The budget includes financing for our planned expansion into India.",
+    "zh": "預算中包含我們計畫拓展印度的融資資金。",
+    "notes": [
+      {
+        "orig": "for our",
+        "speakText": "for our",
+        "phonetic": "fer-owr",
+        "desc": "for 弱讀為 fer，連向 our。"
+      },
+      {
+        "orig": "into India",
+        "speakText": "into India",
+        "phonetic": "in-too-in-dee-uh",
+        "desc": "into 尾音母音滑向 India 開頭的 /ɪ/。"
+      }
+    ]
+  },
+  {
+    "en": "She has consented to the terms of the contract.",
+    "zh": "她已同意該合約的條款。",
+    "notes": [
+      {
+        "orig": "She has",
+        "speakText": "She has",
+        "phonetic": "Shee-huz",
+        "desc": "has 弱讀為輕短的 huz。"
+      },
+      {
+        "orig": "consented to",
+        "speakText": "consented to",
+        "phonetic": "kun-sen-did-tuh",
+        "desc": "consented 尾音 /d/ 接弱讀的 to（/tuh/）。"
+      },
+      {
+        "orig": "terms of",
+        "speakText": "terms of",
+        "phonetic": "termz-uh",
+        "desc": "terms 尾音 /z/ 連向弱讀的 of（/uh/）。"
+      },
+      {
+        "orig": "of the",
+        "speakText": "of the",
+        "phonetic": "uh-thuh",
+        "desc": "of 與 the 雙雙弱讀為輕短音。"
+      }
+    ]
+  }
+]

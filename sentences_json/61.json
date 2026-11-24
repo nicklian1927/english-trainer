@@ -1,0 +1,326 @@
+[
+  {
+    "en": "The new salesperson's performance in her first month was above the norm.",
+    "zh": "這位新業務員第一個月的表現高於一般水準。",
+    "notes": [
+      {
+        "orig": "The new",
+        "speakText": "The new",
+        "phonetic": "thuh-new",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "in her",
+        "speakText": "in her",
+        "phonetic": "in-er",
+        "desc": "her 開頭的 /h/ 在連讀時常弱化省略，in 尾音直接黏上 er 變成 in-er。"
+      },
+      {
+        "orig": "her first",
+        "speakText": "her first",
+        "phonetic": "er-first",
+        "desc": "her 開頭的 /h/ 在連讀時常弱化省略，與前一字尾音黏連。"
+      },
+      {
+        "orig": "first month",
+        "speakText": "first month",
+        "phonetic": "first-month",
+        "desc": "first 字尾塞音在後續輔音 /m/ 前發生吞音（無聲除阻），直接滑向 month。"
+      },
+      {
+        "orig": "month was",
+        "speakText": "month was",
+        "phonetic": "month-wuz",
+        "desc": "was 弱讀為輕短的 /wuz/。"
+      }
+    ]
+  },
+  {
+    "en": "I'm in charge of the internships outreach program to college students.",
+    "zh": "我負責針對大學生的實習推廣計畫。",
+    "notes": [
+      {
+        "orig": "I'm in",
+        "speakText": "I'm in",
+        "phonetic": "i'm-in",
+        "desc": "I'm 尾音輔音自然連向 in 的開頭母音，語流連成 i'm-in。"
+      },
+      {
+        "orig": "charge of",
+        "speakText": "charge of",
+        "phonetic": "charge-uh",
+        "desc": "介系詞 of 在口語連讀中常弱化為輕短的 /uh/（或 /uv/）。"
+      },
+      {
+        "orig": "of the",
+        "speakText": "of the",
+        "phonetic": "uh-thuh",
+        "desc": "of 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 uh-thuh。"
+      },
+      {
+        "orig": "the internships",
+        "speakText": "the internships",
+        "phonetic": "thuh-in-tern-ships",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "internships outreach",
+        "speakText": "internships outreach",
+        "phonetic": "in-tern-ships-outreach",
+        "desc": "internships 尾音輔音自然連向 outreach 的開頭母音，語流連成 in-tern-ships-outreach。"
+      }
+    ]
+  },
+  {
+    "en": "From its inception, the e-reader gained high market share.",
+    "zh": "這款電子書閱讀器自問世以來便取得了高市占率。",
+    "notes": [
+      {
+        "orig": "From its",
+        "speakText": "From its",
+        "phonetic": "frum-its",
+        "desc": "From 尾音輔音自然連向 its 的開頭母音，語流連成 frum-its。"
+      },
+      {
+        "orig": "its inception",
+        "speakText": "its inception",
+        "phonetic": "its-in-sep-shun",
+        "desc": "its 尾音輔音自然連向 inception 的開頭母音，語流連成 its-in-sep-shun。"
+      },
+      {
+        "orig": "the e",
+        "speakText": "the e",
+        "phonetic": "thuh-e",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "Disruption in the power supply sometimes happens in this country.",
+    "zh": "這個國家偶爾會發生電力供應中斷的情況。",
+    "notes": [
+      {
+        "orig": "Disruption in",
+        "speakText": "Disruption in",
+        "phonetic": "dis-rup-shun-in",
+        "desc": "Disruption 尾音輔音自然連向 in 的開頭母音，語流連成 dis-rup-shun-in。"
+      },
+      {
+        "orig": "in the",
+        "speakText": "in the",
+        "phonetic": "in-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the power",
+        "speakText": "the power",
+        "phonetic": "thuh-power",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "happens in",
+        "speakText": "happens in",
+        "phonetic": "happens-in",
+        "desc": "happens 尾音輔音自然連向 in 的開頭母音，語流連成 happens-in。"
+      }
+    ]
+  },
+  {
+    "en": "Restaurant Tan Long offers traditional local dishes with modern twists.",
+    "zh": "譚龍餐廳提供融入現代創意的傳統地方菜餚。",
+    "notes": [
+      {
+        "orig": "Restaurant Tan",
+        "speakText": "Restaurant Tan",
+        "phonetic": "res-tuh-rahnt-tan",
+        "desc": "Restaurant 字尾塞音在後續輔音 /t/ 前發生吞音（無聲除阻），直接滑向 Tan。"
+      },
+      {
+        "orig": "Long offers",
+        "speakText": "Long offers",
+        "phonetic": "long-offers",
+        "desc": "Long 尾音輔音自然連向 offers 的開頭母音，語流連成 long-offers。"
+      }
+    ]
+  },
+  {
+    "en": "The board is discussing a realignment of our company's organization.",
+    "zh": "董事會正在討論公司組織的重新調整。",
+    "notes": [
+      {
+        "orig": "The board",
+        "speakText": "The board",
+        "phonetic": "thuh-board",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "board is",
+        "speakText": "board is",
+        "phonetic": "board-is",
+        "desc": "board 尾音輔音自然連向 is 的開頭母音，語流連成 board-is。"
+      },
+      {
+        "orig": "discussing a",
+        "speakText": "discussing a",
+        "phonetic": "discussing-uh",
+        "desc": "discussing 尾音直接連向弱讀的 a（/uh/），聽起來像 discussing-uh。"
+      },
+      {
+        "orig": "a realignment",
+        "speakText": "a realignment",
+        "phonetic": "uh-ree-uh-lyn-munt",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "realignment of",
+        "speakText": "realignment of",
+        "phonetic": "ree-uh-lyn-munt-uh",
+        "desc": "realignment 尾音直接連向弱讀的 of（/uh/），聽起來像 ree-uh-lyn-munt-uh。"
+      }
+    ]
+  },
+  {
+    "en": "The CEO's proposal broke the stalemate and the deal was finalized.",
+    "zh": "執行長的提議打破了僵局，交易得以最終敲定。",
+    "notes": [
+      {
+        "orig": "The CEO's",
+        "speakText": "The CEO's",
+        "phonetic": "thuh-ceo's",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "broke the",
+        "speakText": "broke the",
+        "phonetic": "broke-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the stalemate",
+        "speakText": "the stalemate",
+        "phonetic": "thuh-stalemate",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "stalemate and",
+        "speakText": "stalemate and",
+        "phonetic": "stalemate-un",
+        "desc": "連接詞 and 常弱化並吞掉字尾 /d/，唸成輕短的 /un/。"
+      },
+      {
+        "orig": "and the",
+        "speakText": "and the",
+        "phonetic": "un-thuh",
+        "desc": "and 字尾塞音在後續輔音 /t/ 前發生吞音（無聲除阻），直接滑向 the。"
+      }
+    ]
+  },
+  {
+    "en": "The employees are worried about the implications of the planned merger.",
+    "zh": "員工們對計畫中的合併案可能帶來的影響感到擔憂。",
+    "notes": [
+      {
+        "orig": "The employees",
+        "speakText": "The employees",
+        "phonetic": "thuh-em-ploy-eez",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "employees are",
+        "speakText": "employees are",
+        "phonetic": "em-ploy-eez-er",
+        "desc": "employees 尾音直接連向弱讀的 are（/er/），聽起來像 em-ploy-eez-er。"
+      },
+      {
+        "orig": "are worried",
+        "speakText": "are worried",
+        "phonetic": "er-worrid",
+        "desc": "be 動詞 are 在非重讀位置弱讀為 /er/。"
+      },
+      {
+        "orig": "worried about",
+        "speakText": "worried about",
+        "phonetic": "worrid-about",
+        "desc": "worried 尾音輔音自然連向 about 的開頭母音，語流連成 worrid-about。"
+      },
+      {
+        "orig": "about the",
+        "speakText": "about the",
+        "phonetic": "about-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "Every year before the final match, over-the-top extravaganzas are staged.",
+    "zh": "每年決賽前都會上演極盡華麗的大型盛會。",
+    "notes": [
+      {
+        "orig": "before the",
+        "speakText": "before the",
+        "phonetic": "before-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the final",
+        "speakText": "the final",
+        "phonetic": "thuh-final",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "over-the",
+        "speakText": "over-the",
+        "phonetic": "over-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the-top",
+        "speakText": "the-top",
+        "phonetic": "thuh-top",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "top extravaganzas",
+        "speakText": "top extravaganzas",
+        "phonetic": "top-ik-strav-uh-gan-zuhz",
+        "desc": "top 尾音輔音自然連向 extravaganzas 的開頭母音，語流連成 top-ik-strav-uh-gan-zuhz。"
+      }
+    ]
+  },
+  {
+    "en": "Our company is now at a critical juncture, whether to stay within the domestic market or expand abroad.",
+    "zh": "我們公司目前正處於關鍵時刻，決定要留在國內市場還是向海外擴張。",
+    "notes": [
+      {
+        "orig": "Our company",
+        "speakText": "Our company",
+        "phonetic": "owr-kum-puh-nee",
+        "desc": "our 與前一字尾音自然連讀滑入。"
+      },
+      {
+        "orig": "company is",
+        "speakText": "company is",
+        "phonetic": "kum-puh-nee-is",
+        "desc": "company 尾音輔音自然連向 is 的開頭母音，語流連成 kum-puh-nee-is。"
+      },
+      {
+        "orig": "now at",
+        "speakText": "now at",
+        "phonetic": "now-ut",
+        "desc": "now 尾音直接連向弱讀的 at（/ut/），聽起來像 now-ut。"
+      },
+      {
+        "orig": "at a",
+        "speakText": "at a",
+        "phonetic": "u-duh",
+        "desc": "at 字尾 /t/ 夾在母音間閃化為輕彈音 /ɾ/，與 a 連讀成 u-duh。"
+      },
+      {
+        "orig": "a critical",
+        "speakText": "a critical",
+        "phonetic": "uh-kri-duh-kul",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      }
+    ]
+  }
+]

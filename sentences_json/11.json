@@ -1,0 +1,236 @@
+[
+  {
+    "en": "The CEO emphasized the positive aspects of the merger.",
+    "zh": "執行長強調了這樁合併案的正面層面。",
+    "notes": [
+      {
+        "orig": "emphasized the",
+        "speakText": "emphasized the",
+        "phonetic": "em-fuh-syzd-thuh",
+        "desc": "emphasized 尾音 /d/ 接弱讀的 thuh。"
+      },
+      {
+        "orig": "aspects of",
+        "speakText": "aspects of",
+        "phonetic": "as-pek-tsuh",
+        "desc": "aspects 尾音 /kts/ 連向弱讀的 of（/uh/）。"
+      },
+      {
+        "orig": "of the",
+        "speakText": "of the",
+        "phonetic": "uh-thuh",
+        "desc": "of 與 the 雙雙弱讀為輕短音。"
+      }
+    ]
+  },
+  {
+    "en": "The mayor was accused of delaying the decision on the construction.",
+    "zh": "市長被指控拖延這項建設案的決策。",
+    "notes": [
+      {
+        "orig": "was accused",
+        "speakText": "was accused",
+        "phonetic": "wuz-uh-kyoozd",
+        "desc": "was 弱讀為 wuz，accused 首音節弱化為 uh。"
+      },
+      {
+        "orig": "accused of",
+        "speakText": "accused of",
+        "phonetic": "uh-kyooz-duh",
+        "desc": "accused 尾音 /d/ 連向弱讀的 of（/uh/），聽起來像 kyooz-duh。"
+      },
+      {
+        "orig": "delaying the",
+        "speakText": "delaying the",
+        "phonetic": "di-lay-ing-thuh",
+        "desc": "the 弱讀為輕短的 thuh。"
+      },
+      {
+        "orig": "on the",
+        "speakText": "on the",
+        "phonetic": "ahn-thuh",
+        "desc": "the 弱讀為輕短的 thuh。"
+      }
+    ]
+  },
+  {
+    "en": "It took me a while to comprehend what the boss meant.",
+    "zh": "我花了一點時間才理解老闆的意思。",
+    "notes": [
+      {
+        "orig": "It took",
+        "speakText": "It took",
+        "phonetic": "It-took",
+        "desc": "It 尾音 /t/ 輕觸接 took。"
+      },
+      {
+        "orig": "me a",
+        "speakText": "me a",
+        "phonetic": "mee-yuh",
+        "desc": "me 尾音母音滑向不定冠詞 a，聽起來像 mee-yuh。"
+      },
+      {
+        "orig": "to comprehend",
+        "speakText": "to comprehend",
+        "phonetic": "tuh-kahm-pri-hend",
+        "desc": "to 弱讀為 tuh，comprehend 重音落在 hend。"
+      },
+      {
+        "orig": "what the",
+        "speakText": "what the",
+        "phonetic": "wuh-thuh",
+        "desc": "what 尾音 /t/ 吞音，母音弱化為 wuh，接弱讀的 thuh。"
+      }
+    ]
+  },
+  {
+    "en": "The patent dispute between the two companies was settled out of court.",
+    "zh": "兩家公司之間的專利糾紛已在庭外和解。",
+    "notes": [
+      {
+        "orig": "between the",
+        "speakText": "between the",
+        "phonetic": "bi-tween-thuh",
+        "desc": "the 弱讀為輕短的 thuh。"
+      },
+      {
+        "orig": "was settled",
+        "speakText": "was settled",
+        "phonetic": "wuz-set-uld",
+        "desc": "was 弱讀為 wuz，settled 中間 t 閃化。"
+      },
+      {
+        "orig": "out of",
+        "speakText": "out of",
+        "phonetic": "ow-duh",
+        "desc": "美式口語 out of 常弱化連音為 ow-duh（t 閃化、of 弱化）。"
+      }
+    ]
+  },
+  {
+    "en": "The profits from the sale exceeded our expectations.",
+    "zh": "這次銷售的利潤超出了我們的預期。",
+    "notes": [
+      {
+        "orig": "from the",
+        "speakText": "from the",
+        "phonetic": "frum-thuh",
+        "desc": "from 與 the 皆弱讀為輕短的 frum-thuh。"
+      },
+      {
+        "orig": "exceeded our",
+        "speakText": "exceeded our",
+        "phonetic": "ik-see-did-owr",
+        "desc": "exceeded 尾音 /d/ 連向 our，聽起來像 did-owr。"
+      }
+    ]
+  },
+  {
+    "en": "I'd like to extend my stay until 6 p.m. as I have an evening flight.",
+    "zh": "因為我晚上有航班，我想把住宿延長到下午六點。",
+    "notes": [
+      {
+        "orig": "like to",
+        "speakText": "like to",
+        "phonetic": "lyk-tuh",
+        "desc": "to 弱讀為 tuh，緊接在 like 後面。"
+      },
+      {
+        "orig": "to extend",
+        "speakText": "to extend",
+        "phonetic": "tuh-ik-stend",
+        "desc": "to 弱讀為 tuh，直接連向 extend。"
+      },
+      {
+        "orig": "have an",
+        "speakText": "have an",
+        "phonetic": "ha-vun",
+        "desc": "have 尾音 /v/ 連向弱讀的 an（/un/），聽起來像 ha-vun。"
+      }
+    ]
+  },
+  {
+    "en": "The news about the CEO's departure quickly spread throughout the nation.",
+    "zh": "執行長離職的消息迅速傳遍全國。",
+    "notes": [
+      {
+        "orig": "about the",
+        "speakText": "about the",
+        "phonetic": "uh-bout-thuh",
+        "desc": "about 尾音 /t/ 在 the 前吞音，接弱讀的 thuh。"
+      },
+      {
+        "orig": "throughout the",
+        "speakText": "throughout the",
+        "phonetic": "throo-out-thuh",
+        "desc": "throughout 尾音 /t/ 吞音，接弱讀的 thuh。"
+      }
+    ]
+  },
+  {
+    "en": "Big business must also do its part to preserve natural resources.",
+    "zh": "大企業也必須盡一份心力保育自然資源。",
+    "notes": [
+      {
+        "orig": "must also",
+        "speakText": "must also",
+        "phonetic": "mus-awl-soh",
+        "desc": "must 尾音 /t/ 在 /ɔː/ 前吞音，直接接 also。"
+      },
+      {
+        "orig": "do its",
+        "speakText": "do its",
+        "phonetic": "doo-its",
+        "desc": "do 母音自然滑向 its。"
+      },
+      {
+        "orig": "to preserve",
+        "speakText": "to preserve",
+        "phonetic": "tuh-pri-zerv",
+        "desc": "to 弱讀為 tuh，preserve 重音落在 zerv。"
+      }
+    ]
+  },
+  {
+    "en": "Workers must observe safety guidelines in the factory.",
+    "zh": "工廠裡的工人必須遵守安全規範。",
+    "notes": [
+      {
+        "orig": "must observe",
+        "speakText": "must observe",
+        "phonetic": "mus-ub-zerv",
+        "desc": "must 尾音 /t/ 吞音，observe 首音節弱化為 ub。"
+      },
+      {
+        "orig": "in the",
+        "speakText": "in the",
+        "phonetic": "in-thuh",
+        "desc": "the 弱讀為輕短的 thuh。"
+      }
+    ]
+  },
+  {
+    "en": "George has been working hard for years, so he deserves a raise.",
+    "zh": "喬治多年來一直努力工作，所以他值得加薪。",
+    "notes": [
+      {
+        "orig": "has been",
+        "speakText": "has been",
+        "phonetic": "huz-bin",
+        "desc": "has 與 been 弱化為 huz-bin。"
+      },
+      {
+        "orig": "for years",
+        "speakText": "for years",
+        "phonetic": "fer-yeerz",
+        "desc": "for 弱讀為 fer，緊接 years。"
+      },
+      {
+        "orig": "deserves a",
+        "speakText": "deserves a",
+        "phonetic": "di-zer-vuh",
+        "desc": "deserves 尾音 /z/ 連向不定冠詞 a，聽起來像 di-zer-vuh。"
+      }
+    ]
+  }
+]

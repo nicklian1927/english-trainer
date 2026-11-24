@@ -1,0 +1,344 @@
+[
+  {
+    "en": "The scientist said that a big earthquake in the near future is inevitable.",
+    "zh": "科學家表示，在不久的將來發生大地震是無可避免的。",
+    "notes": [
+      {
+        "orig": "The scientist",
+        "speakText": "The scientist",
+        "phonetic": "thuh-scientist",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "scientist said",
+        "speakText": "scientist said",
+        "phonetic": "scientist-said",
+        "desc": "scientist 字尾塞音在後續輔音 /s/ 前發生吞音（無聲除阻），直接滑向 said。"
+      },
+      {
+        "orig": "said that",
+        "speakText": "said that",
+        "phonetic": "said-thut",
+        "desc": "連接詞／關係代名詞 that 弱讀為輕短的 /thut/。"
+      },
+      {
+        "orig": "that a",
+        "speakText": "that a",
+        "phonetic": "thu-duh",
+        "desc": "that 字尾 /t/ 夾在母音間閃化為輕彈音 /ɾ/，與 a 連讀成 thu-duh。"
+      },
+      {
+        "orig": "a big",
+        "speakText": "a big",
+        "phonetic": "uh-big",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      }
+    ]
+  },
+  {
+    "en": "The bank insisted that they have been engaging in legitimate business practices.",
+    "zh": "該銀行堅稱他們一直從事合法合規的商業活動。",
+    "notes": [
+      {
+        "orig": "The bank",
+        "speakText": "The bank",
+        "phonetic": "thuh-bank",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "bank insisted",
+        "speakText": "bank insisted",
+        "phonetic": "bank-insistd",
+        "desc": "bank 尾音輔音自然連向 insisted 的開頭母音，語流連成 bank-insistd。"
+      },
+      {
+        "orig": "insisted that",
+        "speakText": "insisted that",
+        "phonetic": "insistd-thut",
+        "desc": "連接詞／關係代名詞 that 弱讀為輕短的 /thut/。"
+      },
+      {
+        "orig": "that they",
+        "speakText": "that they",
+        "phonetic": "thut-they",
+        "desc": "連接詞／關係代名詞 that 弱讀為輕短的 /thut/。"
+      },
+      {
+        "orig": "they have",
+        "speakText": "they have",
+        "phonetic": "they-huv",
+        "desc": "助動詞 have 弱讀為輕短的 /huv/。"
+      }
+    ]
+  },
+  {
+    "en": "Jane and Jack was not simply a superficial romantic comedy, but a heartwarming film.",
+    "zh": "《珍與傑克》不僅是一部膚淺的愛情喜劇，更是一部溫暖人心的電影。",
+    "notes": [
+      {
+        "orig": "Jane and",
+        "speakText": "Jane and",
+        "phonetic": "jane-un",
+        "desc": "連接詞 and 常弱化並吞掉字尾 /d/，唸成輕短的 /un/。"
+      },
+      {
+        "orig": "and Jack",
+        "speakText": "and Jack",
+        "phonetic": "un-jack",
+        "desc": "and 字尾塞音在後續輔音 /j/ 前發生吞音（無聲除阻），直接滑向 Jack。"
+      },
+      {
+        "orig": "Jack was",
+        "speakText": "Jack was",
+        "phonetic": "jack-wuz",
+        "desc": "was 弱讀為輕短的 /wuz/。"
+      },
+      {
+        "orig": "was not",
+        "speakText": "was not",
+        "phonetic": "wuz-not",
+        "desc": "was 弱讀為輕短的 /wuz/。"
+      },
+      {
+        "orig": "simply a",
+        "speakText": "simply a",
+        "phonetic": "simply-uh",
+        "desc": "simply 尾音直接連向弱讀的 a（/uh/），聽起來像 simply-uh。"
+      }
+    ]
+  },
+  {
+    "en": "The sales manager made a humble apology to the client for the mistake in the order.",
+    "zh": "業務經理就訂單錯誤向客戶致上誠摯謙卑的歉意。",
+    "notes": [
+      {
+        "orig": "The sales",
+        "speakText": "The sales",
+        "phonetic": "thuh-sales",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "made a",
+        "speakText": "made a",
+        "phonetic": "made-uh",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "a humble",
+        "speakText": "a humble",
+        "phonetic": "uh-humble",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "apology to",
+        "speakText": "apology to",
+        "phonetic": "uh-pah-luh-jee-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to the",
+        "speakText": "to the",
+        "phonetic": "tuh-thuh",
+        "desc": "to 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 tuh-thuh。"
+      }
+    ]
+  },
+  {
+    "en": "The CEO told the employees that it is mandatory to attend the seminar.",
+    "zh": "執行長告訴員工，參加這場研討會是強制性的。",
+    "notes": [
+      {
+        "orig": "The CEO",
+        "speakText": "The CEO",
+        "phonetic": "thuh-ceo",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "told the",
+        "speakText": "told the",
+        "phonetic": "told-thuh",
+        "desc": "told 字尾塞音在後續輔音 /t/ 前發生吞音（無聲除阻），直接滑向 the。"
+      },
+      {
+        "orig": "the employees",
+        "speakText": "the employees",
+        "phonetic": "thuh-em-ploy-eez",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "employees that",
+        "speakText": "employees that",
+        "phonetic": "em-ploy-eez-thut",
+        "desc": "連接詞／關係代名詞 that 弱讀為輕短的 /thut/。"
+      },
+      {
+        "orig": "that it",
+        "speakText": "that it",
+        "phonetic": "thu-dit",
+        "desc": "that 字尾 /t/ 夾在母音間閃化為輕彈音 /ɾ/，與 it 連讀成 thu-dit。"
+      }
+    ]
+  },
+  {
+    "en": "Meg's office is adjacent to my office.",
+    "zh": "梅格的辦公室就在我辦公室隔壁。",
+    "notes": [
+      {
+        "orig": "Meg's office",
+        "speakText": "Meg's office",
+        "phonetic": "meg's-office",
+        "desc": "Meg's 尾音輔音自然連向 office 的開頭母音，語流連成 meg's-office。"
+      },
+      {
+        "orig": "is adjacent",
+        "speakText": "is adjacent",
+        "phonetic": "is-uh-jay-sunt",
+        "desc": "is 尾音輔音自然連向 adjacent 的開頭母音，語流連成 is-uh-jay-sunt。"
+      },
+      {
+        "orig": "adjacent to",
+        "speakText": "adjacent to",
+        "phonetic": "uh-jay-sunt-tuh",
+        "desc": "adjacent 字尾塞音在後續輔音 /t/ 前發生吞音（無聲除阻），直接滑向 to。"
+      },
+      {
+        "orig": "to my",
+        "speakText": "to my",
+        "phonetic": "tuh-my",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "my office",
+        "speakText": "my office",
+        "phonetic": "my-office",
+        "desc": "my 尾音輔音自然連向 office 的開頭母音，語流連成 my-office。"
+      }
+    ]
+  },
+  {
+    "en": "Confidential documents must be stored in locked cabinets.",
+    "zh": "機密文件必須存放在上鎖的櫃子裡。",
+    "notes": [
+      {
+        "orig": "must be",
+        "speakText": "must be",
+        "phonetic": "must-be",
+        "desc": "must 字尾塞音在後續輔音 /b/ 前發生吞音（無聲除阻），直接滑向 be。"
+      },
+      {
+        "orig": "stored in",
+        "speakText": "stored in",
+        "phonetic": "stord-in",
+        "desc": "stored 尾音輔音自然連向 in 的開頭母音，語流連成 stord-in。"
+      }
+    ]
+  },
+  {
+    "en": "A good sales clerk should greet the customers in a courteous manner.",
+    "zh": "優秀的店員應該以有禮貌的態度迎接顧客。",
+    "notes": [
+      {
+        "orig": "A good",
+        "speakText": "A good",
+        "phonetic": "uh-good",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "should greet",
+        "speakText": "should greet",
+        "phonetic": "should-greet",
+        "desc": "should 字尾塞音在後續輔音 /g/ 前發生吞音（無聲除阻），直接滑向 greet。"
+      },
+      {
+        "orig": "greet the",
+        "speakText": "greet the",
+        "phonetic": "greet-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the customers",
+        "speakText": "the customers",
+        "phonetic": "thuh-customers",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "customers in",
+        "speakText": "customers in",
+        "phonetic": "customers-in",
+        "desc": "customers 尾音輔音自然連向 in 的開頭母音，語流連成 customers-in。"
+      }
+    ]
+  },
+  {
+    "en": "Our company has posted profits for six consecutive years.",
+    "zh": "我們公司已連續六年實現獲利。",
+    "notes": [
+      {
+        "orig": "Our company",
+        "speakText": "Our company",
+        "phonetic": "owr-kum-puh-nee",
+        "desc": "our 與前一字尾音自然連讀滑入。"
+      },
+      {
+        "orig": "company has",
+        "speakText": "company has",
+        "phonetic": "kum-puh-nee-huz",
+        "desc": "助動詞 has 弱讀為輕短的 /huz/。"
+      },
+      {
+        "orig": "has posted",
+        "speakText": "has posted",
+        "phonetic": "huz-postd",
+        "desc": "助動詞 has 弱讀為輕短的 /huz/。"
+      },
+      {
+        "orig": "profits for",
+        "speakText": "profits for",
+        "phonetic": "profits-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for six",
+        "speakText": "for six",
+        "phonetic": "fer-six",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      }
+    ]
+  },
+  {
+    "en": "The country is made up of many diverse cultures that must be preserved.",
+    "zh": "這個國家由許多必須加以保存的多元文化組成。",
+    "notes": [
+      {
+        "orig": "The country",
+        "speakText": "The country",
+        "phonetic": "thuh-country",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "country is",
+        "speakText": "country is",
+        "phonetic": "country-is",
+        "desc": "country 尾音輔音自然連向 is 的開頭母音，語流連成 country-is。"
+      },
+      {
+        "orig": "up of",
+        "speakText": "up of",
+        "phonetic": "up-uh",
+        "desc": "up 尾音直接連向弱讀的 of（/uh/），聽起來像 up-uh。"
+      },
+      {
+        "orig": "of many",
+        "speakText": "of many",
+        "phonetic": "uh-many",
+        "desc": "介系詞 of 在口語連讀中常弱化為輕短的 /uh/（或 /uv/）。"
+      },
+      {
+        "orig": "cultures that",
+        "speakText": "cultures that",
+        "phonetic": "cultures-thut",
+        "desc": "連接詞／關係代名詞 that 弱讀為輕短的 /thut/。"
+      }
+    ]
+  }
+]

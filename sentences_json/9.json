@@ -1,0 +1,272 @@
+[
+  {
+    "en": "The new agreement permits both parties to sell each other's goods.",
+    "zh": "這項新協議允許雙方銷售彼此的商品。",
+    "notes": [
+      {
+        "orig": "permits both",
+        "speakText": "permits both",
+        "phonetic": "per-mits-bohth",
+        "desc": "permits 尾音 /ts/ 接 both，語流順暢。"
+      },
+      {
+        "orig": "parties to",
+        "speakText": "parties to",
+        "phonetic": "par-teez-tuh",
+        "desc": "to 弱讀為 tuh，緊接在 parties 之後。"
+      },
+      {
+        "orig": "sell each",
+        "speakText": "sell each",
+        "phonetic": "sel-eech",
+        "desc": "sell 尾音 /l/ 連向 each 的母音 /iː/，聽起來像 sel-eech。"
+      }
+    ]
+  },
+  {
+    "en": "I wondered how long it would take for us to reach an agreement.",
+    "zh": "我想知道我們還需要多久才能達成協議。",
+    "notes": [
+      {
+        "orig": "long it",
+        "speakText": "long it",
+        "phonetic": "lahng-git",
+        "desc": "long 尾音 /ŋ/ 連向 it 的母音 /ɪ/，聽起來像 lahng-git。"
+      },
+      {
+        "orig": "for us",
+        "speakText": "for us",
+        "phonetic": "fer-us",
+        "desc": "for 弱讀為 fer，尾音 /r/ 連向 us，聽起來像 fer-us。"
+      },
+      {
+        "orig": "to reach",
+        "speakText": "to reach",
+        "phonetic": "tuh-reech",
+        "desc": "to 弱讀為 tuh，直接接 reach。"
+      },
+      {
+        "orig": "reach an",
+        "speakText": "reach an",
+        "phonetic": "ree-chun",
+        "desc": "reach 尾音 /tʃ/ 連向弱讀的 an（/un/），聽起來像 ree-chun。"
+      }
+    ]
+  },
+  {
+    "en": "Frida quit her job as a receptionist to attend business school full-time.",
+    "zh": "芙烈達辭去了接待員的工作，全職去念商學院。",
+    "notes": [
+      {
+        "orig": "quit her",
+        "speakText": "quit her",
+        "phonetic": "kwi-der",
+        "desc": "quit 的 t 閃化為 /ɾ/，her 的 /h/ 弱化省略，聽起來像 kwi-der。"
+      },
+      {
+        "orig": "job as",
+        "speakText": "job as",
+        "phonetic": "jah-buz",
+        "desc": "job 尾音 /b/ 連向弱讀的 as（/uz/），聽起來像 jah-buz。"
+      },
+      {
+        "orig": "as a",
+        "speakText": "as a",
+        "phonetic": "uh-zuh",
+        "desc": "as 與 a 皆弱讀，聽起來像 uh-zuh。"
+      },
+      {
+        "orig": "to attend",
+        "speakText": "to attend",
+        "phonetic": "tuh-uh-tend",
+        "desc": "to 與 attend 首音節弱化連讀。"
+      }
+    ]
+  },
+  {
+    "en": "You can avoid eye strain and stress by taking a break every hour.",
+    "zh": "你可以每小時休息一次，以避免眼睛疲勞和壓力。",
+    "notes": [
+      {
+        "orig": "You can",
+        "speakText": "You can",
+        "phonetic": "Yuh-kun",
+        "desc": "助動詞 can 在非重讀位置弱化為 kun，you 輕讀為 yuh。"
+      },
+      {
+        "orig": "and stress",
+        "speakText": "and stress",
+        "phonetic": "un-stres",
+        "desc": "and 弱化吞掉 /d/，聽起來像 un-stres。"
+      },
+      {
+        "orig": "taking a",
+        "speakText": "taking a",
+        "phonetic": "tay-king-uh",
+        "desc": "taking 尾音 /ŋ/ 連向不定冠詞 a，聽起來像 tay-king-uh。"
+      },
+      {
+        "orig": "every hour",
+        "speakText": "every hour",
+        "phonetic": "ev-ree-owr",
+        "desc": "every 常弱讀為兩音節 ev-ree，並連向 hour。"
+      }
+    ]
+  },
+  {
+    "en": "Jason almost missed the project deadline since he fell behind.",
+    "zh": "傑森因為進度落後，差點錯過了專案截止期限。",
+    "notes": [
+      {
+        "orig": "almost missed",
+        "speakText": "almost missed",
+        "phonetic": "awl-mohs-mist",
+        "desc": "almost 字尾 /t/ 在 /m/ 前吞音，missed 尾音 /t/ 輕收。"
+      },
+      {
+        "orig": "missed the",
+        "speakText": "missed the",
+        "phonetic": "mis-thuh",
+        "desc": "missed 尾音 /st/ 簡化，接弱讀的 thuh。"
+      },
+      {
+        "orig": "since he",
+        "speakText": "since he",
+        "phonetic": "sin-see",
+        "desc": "he 的 /h/ 在連讀時常弱化省略，since 尾音 /s/ 接 ee 聽起來像 sin-see。"
+      }
+    ]
+  },
+  {
+    "en": "Inflation affects the buying power of the dollar.",
+    "zh": "通貨膨脹會影響美元的購買力。",
+    "notes": [
+      {
+        "orig": "affects the",
+        "speakText": "affects the",
+        "phonetic": "uh-fek-thuh",
+        "desc": "affects 尾音 /kts/ 在 the 前吞掉 /t/，接弱讀的 thuh。"
+      },
+      {
+        "orig": "power of",
+        "speakText": "power of",
+        "phonetic": "pow-er-uh",
+        "desc": "power 尾音 /r/ 連向弱讀的 of（/uh/）。"
+      },
+      {
+        "orig": "of the",
+        "speakText": "of the",
+        "phonetic": "uh-thuh",
+        "desc": "of 與 the 皆弱讀為輕短音。"
+      }
+    ]
+  },
+  {
+    "en": "Bad weather prevented us from going on the company picnic.",
+    "zh": "惡劣的天氣使我們無法去參加公司野餐。",
+    "notes": [
+      {
+        "orig": "Bad weather",
+        "speakText": "Bad weather",
+        "phonetic": "Bad-weth-er",
+        "desc": "Bad 尾音 /d/ 接 weather，語流順暢。"
+      },
+      {
+        "orig": "prevented us",
+        "speakText": "prevented us",
+        "phonetic": "pri-ven-did-us",
+        "desc": "prevented 中的 t 閃化為 /ɾ/，尾音 /d/ 連向 us 聽起來像 did-us。"
+      },
+      {
+        "orig": "from going",
+        "speakText": "from going",
+        "phonetic": "frum-goh-ing",
+        "desc": "from 弱讀為 frum，直接接 going。"
+      },
+      {
+        "orig": "on the",
+        "speakText": "on the",
+        "phonetic": "ahn-thuh",
+        "desc": "the 弱讀為輕短的 thuh。"
+      }
+    ]
+  },
+  {
+    "en": "Visitors are prohibited from using flash photography inside the cathedral.",
+    "zh": "大教堂內部禁止訪客使用閃光燈攝影。",
+    "notes": [
+      {
+        "orig": "Visitors are",
+        "speakText": "Visitors are",
+        "phonetic": "viz-i-terz-er",
+        "desc": "Visitors 尾音 /z/ 連向弱讀的 are（/er/）。"
+      },
+      {
+        "orig": "from using",
+        "speakText": "from using",
+        "phonetic": "frum-yoo-zing",
+        "desc": "from 弱讀為 frum，接 using。"
+      },
+      {
+        "orig": "inside the",
+        "speakText": "inside the",
+        "phonetic": "in-syd-thuh",
+        "desc": "inside 尾音 /d/ 接弱讀的 thuh。"
+      }
+    ]
+  },
+  {
+    "en": "Question and answer sessions are restricted to 20 minutes.",
+    "zh": "問答環節限定為 20 分鐘。",
+    "notes": [
+      {
+        "orig": "and answer",
+        "speakText": "and answer",
+        "phonetic": "un-an-ser",
+        "desc": "and 弱化吞掉 /d/，並連向 answer 的母音 /æ/。"
+      },
+      {
+        "orig": "sessions are",
+        "speakText": "sessions are",
+        "phonetic": "sesh-unz-er",
+        "desc": "sessions 尾音 /z/ 連向弱讀的 are（/er/）。"
+      },
+      {
+        "orig": "restricted to",
+        "speakText": "restricted to",
+        "phonetic": "ri-strik-did-tuh",
+        "desc": "restricted 尾音 /d/ 接弱讀的 to（/tuh/）。"
+      }
+    ]
+  },
+  {
+    "en": "The boss didn't hesitate to give his approval of the new plan.",
+    "zh": "老闆毫不猶豫地核准了這項新計畫。",
+    "notes": [
+      {
+        "orig": "didn't hesitate",
+        "speakText": "didn't hesitate",
+        "phonetic": "di-dn-hez-i-tayt",
+        "desc": "didn't 字尾 /t/ 吞音，直接接 hesitate。"
+      },
+      {
+        "orig": "to give",
+        "speakText": "to give",
+        "phonetic": "tuh-giv",
+        "desc": "to 弱讀為 tuh，直接接 give。"
+      },
+      {
+        "orig": "give his",
+        "speakText": "give his",
+        "phonetic": "gi-viz",
+        "desc": "his 的 /h/ 弱化省略，give 尾音 /v/ 連向 iz 聽起來像 gi-viz。"
+      },
+      {
+        "orig": "approval of",
+        "speakText": "approval of",
+        "phonetic": "uh-proo-vul-uh",
+        "desc": "of 弱讀為 /uh/，緊接在 approval 後面。"
+      }
+    ]
+  }
+]

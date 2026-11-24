@@ -1,0 +1,344 @@
+[
+  {
+    "en": "He hopes to find work in the field of advertising.",
+    "zh": "他希望在廣告領域找到工作。",
+    "notes": [
+      {
+        "orig": "He hopes",
+        "speakText": "He hopes",
+        "phonetic": "ee-hopes",
+        "desc": "he 開頭的 /h/ 在句中連讀時常弱化省略。"
+      },
+      {
+        "orig": "hopes to",
+        "speakText": "hopes to",
+        "phonetic": "hopes-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to find",
+        "speakText": "to find",
+        "phonetic": "tuh-find",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "find work",
+        "speakText": "find work",
+        "phonetic": "find-work",
+        "desc": "find 字尾塞音在後續輔音 /w/ 前發生吞音（無聲除阻），直接滑向 work。"
+      },
+      {
+        "orig": "work in",
+        "speakText": "work in",
+        "phonetic": "work-in",
+        "desc": "work 尾音輔音自然連向 in 的開頭母音，語流連成 work-in。"
+      }
+    ]
+  },
+  {
+    "en": "The garden is closed to the public during the winter season.",
+    "zh": "冬季期間，這座花園不對外開放。",
+    "notes": [
+      {
+        "orig": "The garden",
+        "speakText": "The garden",
+        "phonetic": "thuh-garden",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "garden is",
+        "speakText": "garden is",
+        "phonetic": "garden-is",
+        "desc": "garden 尾音輔音自然連向 is 的開頭母音，語流連成 garden-is。"
+      },
+      {
+        "orig": "closed to",
+        "speakText": "closed to",
+        "phonetic": "klohzd-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to the",
+        "speakText": "to the",
+        "phonetic": "tuh-thuh",
+        "desc": "to 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 tuh-thuh。"
+      },
+      {
+        "orig": "the public",
+        "speakText": "the public",
+        "phonetic": "thuh-pub-lik",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "Quality first is our company's motto.",
+    "zh": "品質第一是我們公司的座右銘。",
+    "notes": [
+      {
+        "orig": "first is",
+        "speakText": "first is",
+        "phonetic": "first-is",
+        "desc": "first 尾音輔音自然連向 is 的開頭母音，語流連成 first-is。"
+      },
+      {
+        "orig": "is our",
+        "speakText": "is our",
+        "phonetic": "is-owr",
+        "desc": "is 尾音輔音自然連向 our 的開頭母音，語流連成 is-owr。"
+      },
+      {
+        "orig": "our company's",
+        "speakText": "our company's",
+        "phonetic": "owr-company's",
+        "desc": "our 與前一字尾音自然連讀滑入。"
+      }
+    ]
+  },
+  {
+    "en": "You are a valuable addition to our department.",
+    "zh": "你是我們部門不可或缺的生力軍。",
+    "notes": [
+      {
+        "orig": "You are",
+        "speakText": "You are",
+        "phonetic": "you-er",
+        "desc": "be 動詞 are 在非重讀位置弱讀為 /er/。"
+      },
+      {
+        "orig": "are a",
+        "speakText": "are a",
+        "phonetic": "er-uh",
+        "desc": "are 與 a 皆為非重讀功能詞，雙雙弱讀並連成輕短的 er-uh。"
+      },
+      {
+        "orig": "a valuable",
+        "speakText": "a valuable",
+        "phonetic": "uh-valuuh-bul",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "addition to",
+        "speakText": "addition to",
+        "phonetic": "uh-dish-un-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to our",
+        "speakText": "to our",
+        "phonetic": "tuh-owr",
+        "desc": "to 與 our 皆為非重讀功能詞，雙雙弱讀並連成輕短的 tuh-owr。"
+      }
+    ]
+  },
+  {
+    "en": "I think buying that startup is a smart move.",
+    "zh": "我認為收購那家新創公司是明智之舉。",
+    "notes": [
+      {
+        "orig": "buying that",
+        "speakText": "buying that",
+        "phonetic": "buying-thut",
+        "desc": "連接詞／關係代名詞 that 弱讀為輕短的 /thut/。"
+      },
+      {
+        "orig": "that startup",
+        "speakText": "that startup",
+        "phonetic": "thut-startup",
+        "desc": "連接詞／關係代名詞 that 弱讀為輕短的 /thut/。"
+      },
+      {
+        "orig": "startup is",
+        "speakText": "startup is",
+        "phonetic": "startup-is",
+        "desc": "startup 尾音輔音自然連向 is 的開頭母音，語流連成 startup-is。"
+      },
+      {
+        "orig": "is a",
+        "speakText": "is a",
+        "phonetic": "is-uh",
+        "desc": "is 尾音直接連向弱讀的 a（/uh/），聽起來像 is-uh。"
+      },
+      {
+        "orig": "a smart",
+        "speakText": "a smart",
+        "phonetic": "uh-smart",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      }
+    ]
+  },
+  {
+    "en": "Lack of funds is another matter we must discuss.",
+    "zh": "資金短缺是我們必須討論的另一個問題。",
+    "notes": [
+      {
+        "orig": "Lack of",
+        "speakText": "Lack of",
+        "phonetic": "lack-uh",
+        "desc": "Lack 尾音直接連向弱讀的 of（/uh/），聽起來像 lack-uh。"
+      },
+      {
+        "orig": "of funds",
+        "speakText": "of funds",
+        "phonetic": "uh-funds",
+        "desc": "介系詞 of 在口語連讀中常弱化為輕短的 /uh/（或 /uv/）。"
+      },
+      {
+        "orig": "funds is",
+        "speakText": "funds is",
+        "phonetic": "funds-is",
+        "desc": "funds 尾音輔音自然連向 is 的開頭母音，語流連成 funds-is。"
+      },
+      {
+        "orig": "is another",
+        "speakText": "is another",
+        "phonetic": "is-another",
+        "desc": "is 尾音輔音自然連向 another 的開頭母音，語流連成 is-another。"
+      },
+      {
+        "orig": "must discuss",
+        "speakText": "must discuss",
+        "phonetic": "must-discuss",
+        "desc": "must 字尾塞音在後續輔音 /d/ 前發生吞音（無聲除阻），直接滑向 discuss。"
+      }
+    ]
+  },
+  {
+    "en": "I have a weakness for sweet stuff.",
+    "zh": "我對甜食毫無抵抗力。",
+    "notes": [
+      {
+        "orig": "I have",
+        "speakText": "I have",
+        "phonetic": "i-huv",
+        "desc": "助動詞 have 弱讀為輕短的 /huv/。"
+      },
+      {
+        "orig": "have a",
+        "speakText": "have a",
+        "phonetic": "huv-uh",
+        "desc": "have 與 a 皆為非重讀功能詞，雙雙弱讀並連成輕短的 huv-uh。"
+      },
+      {
+        "orig": "a weakness",
+        "speakText": "a weakness",
+        "phonetic": "uh-weaknis",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "weakness for",
+        "speakText": "weakness for",
+        "phonetic": "weaknis-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for sweet",
+        "speakText": "for sweet",
+        "phonetic": "fer-sweet",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      }
+    ]
+  },
+  {
+    "en": "Our new line of sports shoes is selling well.",
+    "zh": "我們的新款運動鞋系列銷售情況很好。",
+    "notes": [
+      {
+        "orig": "Our new",
+        "speakText": "Our new",
+        "phonetic": "owr-new",
+        "desc": "our 與前一字尾音自然連讀滑入。"
+      },
+      {
+        "orig": "line of",
+        "speakText": "line of",
+        "phonetic": "line-uh",
+        "desc": "介系詞 of 在口語連讀中常弱化為輕短的 /uh/（或 /uv/）。"
+      },
+      {
+        "orig": "of sports",
+        "speakText": "of sports",
+        "phonetic": "uh-sports",
+        "desc": "介系詞 of 在口語連讀中常弱化為輕短的 /uh/（或 /uv/）。"
+      },
+      {
+        "orig": "shoes is",
+        "speakText": "shoes is",
+        "phonetic": "shoes-is",
+        "desc": "shoes 尾音輔音自然連向 is 的開頭母音，語流連成 shoes-is。"
+      }
+    ]
+  },
+  {
+    "en": "We are still negotiating with the vendor on price per unit.",
+    "zh": "我們仍在與供應商協商單價。",
+    "notes": [
+      {
+        "orig": "We are",
+        "speakText": "We are",
+        "phonetic": "we-er",
+        "desc": "be 動詞 are 在非重讀位置弱讀為 /er/。"
+      },
+      {
+        "orig": "are still",
+        "speakText": "are still",
+        "phonetic": "er-still",
+        "desc": "be 動詞 are 在非重讀位置弱讀為 /er/。"
+      },
+      {
+        "orig": "with the",
+        "speakText": "with the",
+        "phonetic": "with-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the vendor",
+        "speakText": "the vendor",
+        "phonetic": "thuh-vendor",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "vendor on",
+        "speakText": "vendor on",
+        "phonetic": "vendor-on",
+        "desc": "vendor 尾音輔音自然連向 on 的開頭母音，語流連成 vendor-on。"
+      }
+    ]
+  },
+  {
+    "en": "Maggie couldn't pay the full amount of the bill.",
+    "zh": "瑪姬無法支付帳單的全額。",
+    "notes": [
+      {
+        "orig": "pay the",
+        "speakText": "pay the",
+        "phonetic": "pay-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the full",
+        "speakText": "the full",
+        "phonetic": "thuh-full",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "full amount",
+        "speakText": "full amount",
+        "phonetic": "full-uh-mount",
+        "desc": "full 尾音輔音自然連向 amount 的開頭母音，語流連成 full-uh-mount。"
+      },
+      {
+        "orig": "amount of",
+        "speakText": "amount of",
+        "phonetic": "uh-mount-uh",
+        "desc": "amount 尾音直接連向弱讀的 of（/uh/），聽起來像 uh-mount-uh。"
+      },
+      {
+        "orig": "of the",
+        "speakText": "of the",
+        "phonetic": "uh-thuh",
+        "desc": "of 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 uh-thuh。"
+      }
+    ]
+  }
+]

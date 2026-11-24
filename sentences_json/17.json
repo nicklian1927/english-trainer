@@ -1,0 +1,230 @@
+[
+  {
+    "en": "We are sorry, but you aren't authorized to access our website.",
+    "zh": "很抱歉，您沒有權限存取我們的網站。",
+    "notes": [
+      {
+        "orig": "We are",
+        "speakText": "We are",
+        "phonetic": "Wee-yer",
+        "desc": "we 尾音母音滑向弱讀的 are（/er/）。"
+      },
+      {
+        "orig": "but you",
+        "speakText": "but you",
+        "phonetic": "buh-yoo",
+        "desc": "but 尾音 /t/ 吞音，母音弱化為 buh。"
+      },
+      {
+        "orig": "to access",
+        "speakText": "to access",
+        "phonetic": "tuh-ak-ses",
+        "desc": "to 弱讀為 tuh，直接連向 access。"
+      },
+      {
+        "orig": "access our",
+        "speakText": "access our",
+        "phonetic": "ak-ses-owr",
+        "desc": "access 尾音 /s/ 連向 our。"
+      }
+    ]
+  },
+  {
+    "en": "A plan to develop a new material has been endorsed by the board of directors.",
+    "zh": "一項研發新材料的計畫已獲董事會背書通過。",
+    "notes": [
+      {
+        "orig": "to develop",
+        "speakText": "to develop",
+        "phonetic": "tuh-di-vel-up",
+        "desc": "to 弱讀為 tuh，develop 重音落在 vel。"
+      },
+      {
+        "orig": "develop a",
+        "speakText": "develop a",
+        "phonetic": "di-vel-uh-puh",
+        "desc": "develop 尾音 /p/ 連向不定冠詞 a，聽起來像 di-vel-uh-puh。"
+      },
+      {
+        "orig": "has been",
+        "speakText": "has been",
+        "phonetic": "huz-bin",
+        "desc": "has 與 been 弱化為輕短的 huz-bin。"
+      },
+      {
+        "orig": "by the",
+        "speakText": "by the",
+        "phonetic": "by-thuh",
+        "desc": "the 弱讀為輕短的 thuh。"
+      },
+      {
+        "orig": "of directors",
+        "speakText": "of directors",
+        "phonetic": "uh-di-rek-terz",
+        "desc": "of 弱讀為輕短的 /uh/，接 directors。"
+      }
+    ]
+  },
+  {
+    "en": "Our company gives awards for ideas that are implemented.",
+    "zh": "我們公司會針對獲得落實的想法頒發獎勵。",
+    "notes": [
+      {
+        "orig": "gives awards",
+        "speakText": "gives awards",
+        "phonetic": "givz-uh-wordz",
+        "desc": "gives 尾音 /z/ 連向 awards，awards 首音節弱化為 uh。"
+      },
+      {
+        "orig": "for ideas",
+        "speakText": "for ideas",
+        "phonetic": "fer-y-dee-uhz",
+        "desc": "for 弱讀為 fer，連向 ideas 的母音 /aɪ/。"
+      },
+      {
+        "orig": "that are",
+        "speakText": "that are",
+        "phonetic": "thut-er",
+        "desc": "that 弱讀為 thut，尾音 /t/ 連向弱讀的 are（/er/）。"
+      }
+    ]
+  },
+  {
+    "en": "The car maker merged with its competitor after months of negotiations.",
+    "zh": "經過數月的談判，這家汽車製造商與競爭對手合併了。",
+    "notes": [
+      {
+        "orig": "with its",
+        "speakText": "with its",
+        "phonetic": "with-its",
+        "desc": "with 尾音 /θ/ 接 its 的母音 /ɪ/。"
+      },
+      {
+        "orig": "after months",
+        "speakText": "after months",
+        "phonetic": "af-ter-munths",
+        "desc": "after 緊接 months。"
+      },
+      {
+        "orig": "months of",
+        "speakText": "months of",
+        "phonetic": "munths-uh",
+        "desc": "months 尾音 /s/ 連向弱讀的 of（/uh/）。"
+      }
+    ]
+  },
+  {
+    "en": "We finally sealed a deal with the city government.",
+    "zh": "我們最終與市政府敲定了這筆交易。",
+    "notes": [
+      {
+        "orig": "sealed a",
+        "speakText": "sealed a",
+        "phonetic": "seel-duh",
+        "desc": "sealed 尾音 /d/ 連向不定冠詞 a，聽起來像 seel-duh。"
+      },
+      {
+        "orig": "with the",
+        "speakText": "with the",
+        "phonetic": "wi-thuh",
+        "desc": "the 弱讀為輕短的 thuh。"
+      }
+    ]
+  },
+  {
+    "en": "Exhibitors at the international telecom show unveiled several interesting consumer services.",
+    "zh": "國際電信展的參展商推出了幾項有趣的消費性服務。",
+    "notes": [
+      {
+        "orig": "at the",
+        "speakText": "at the",
+        "phonetic": "ut-thuh",
+        "desc": "at 弱讀吞掉 /t/，接弱讀的 thuh。"
+      },
+      {
+        "orig": "several interesting",
+        "speakText": "several interesting",
+        "phonetic": "sev-rul-in-tres-ting",
+        "desc": "several 與 interesting 皆常縮讀弱化，語流流暢。"
+      }
+    ]
+  },
+  {
+    "en": "Customers may have orders expedited through an extra five-euro charge.",
+    "zh": "顧客可透過額外支付五歐元的費用加快訂單處理。",
+    "notes": [
+      {
+        "orig": "have orders",
+        "speakText": "have orders",
+        "phonetic": "hav-or-derz",
+        "desc": "have 尾音 /v/ 連向 orders 的母音 /ɔː/。"
+      },
+      {
+        "orig": "an extra",
+        "speakText": "an extra",
+        "phonetic": "un-ek-struh",
+        "desc": "an 弱讀為 un，尾音 /n/ 連向 extra 的母音 /ɛ/。"
+      }
+    ]
+  },
+  {
+    "en": "Mr. Forrester deferred paying the bills until he got paid.",
+    "zh": "佛瑞斯特先生將付帳延後到他領到薪水為止。",
+    "notes": [
+      {
+        "orig": "paying the",
+        "speakText": "paying the",
+        "phonetic": "pay-ing-thuh",
+        "desc": "the 弱讀為輕短的 thuh。"
+      },
+      {
+        "orig": "until he",
+        "speakText": "until he",
+        "phonetic": "un-til-ee",
+        "desc": "he 的 /h/ 弱化省略，until 尾音 /l/ 連向 ee。"
+      },
+      {
+        "orig": "got paid",
+        "speakText": "got paid",
+        "phonetic": "gaht-payd",
+        "desc": "got 尾音 /t/ 接 paid。"
+      }
+    ]
+  },
+  {
+    "en": "The corporation incurred substantial losses during the stock market crash.",
+    "zh": "該公司在股市崩盤期間蒙受了重大虧損。",
+    "notes": [
+      {
+        "orig": "during the",
+        "speakText": "during the",
+        "phonetic": "duhr-ing-thuh",
+        "desc": "the 弱讀為輕短的 thuh。"
+      }
+    ]
+  },
+  {
+    "en": "Jan was always exposed to classical music as a child.",
+    "zh": "珍小時候就經常接觸古典音樂。",
+    "notes": [
+      {
+        "orig": "was always",
+        "speakText": "was always",
+        "phonetic": "wuz-awl-wayz",
+        "desc": "was 弱讀為 wuz，連向 always。"
+      },
+      {
+        "orig": "exposed to",
+        "speakText": "exposed to",
+        "phonetic": "ik-spohzd-tuh",
+        "desc": "to 弱讀為 tuh，緊接在 exposed 之後。"
+      },
+      {
+        "orig": "as a",
+        "speakText": "as a",
+        "phonetic": "uh-zuh",
+        "desc": "as 與 a 雙雙弱讀，聽起來像 uh-zuh。"
+      }
+    ]
+  }
+]

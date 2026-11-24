@@ -1,0 +1,338 @@
+[
+  {
+    "en": "Who has had an influence on you?",
+    "zh": "誰曾對你產生過影響？",
+    "notes": [
+      {
+        "orig": "Who has",
+        "speakText": "Who has",
+        "phonetic": "who-huz",
+        "desc": "助動詞 has 弱讀為輕短的 /huz/。"
+      },
+      {
+        "orig": "has had",
+        "speakText": "has had",
+        "phonetic": "huz-had",
+        "desc": "助動詞 has 弱讀為輕短的 /huz/。"
+      },
+      {
+        "orig": "had an",
+        "speakText": "had an",
+        "phonetic": "had-un",
+        "desc": "had 尾音直接連向弱讀的 an（/un/），聽起來像 had-un。"
+      },
+      {
+        "orig": "an influence",
+        "speakText": "an influence",
+        "phonetic": "un-in-floo-uns",
+        "desc": "an 尾音輔音自然連向 influence 的開頭母音，語流連成 un-in-floo-uns。"
+      }
+    ]
+  },
+  {
+    "en": "The engineers fixed a problem with a car model that had a tendency to overheat.",
+    "zh": "工程師修復了一款容易過熱的車型的問題。",
+    "notes": [
+      {
+        "orig": "The engineers",
+        "speakText": "The engineers",
+        "phonetic": "thuh-en-juh-neerz",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "fixed a",
+        "speakText": "fixed a",
+        "phonetic": "fixd-uh",
+        "desc": "fixed 尾音直接連向弱讀的 a（/uh/），聽起來像 fixd-uh。"
+      },
+      {
+        "orig": "a problem",
+        "speakText": "a problem",
+        "phonetic": "uh-problem",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "with a",
+        "speakText": "with a",
+        "phonetic": "with-uh",
+        "desc": "with 尾音直接連向弱讀的 a（/uh/），聽起來像 with-uh。"
+      },
+      {
+        "orig": "a car",
+        "speakText": "a car",
+        "phonetic": "uh-car",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      }
+    ]
+  },
+  {
+    "en": "It's a custom to eat turkey on Thanksgiving Day.",
+    "zh": "感恩節吃火雞是一種習俗。",
+    "notes": [
+      {
+        "orig": "It's a",
+        "speakText": "It's a",
+        "phonetic": "it's-uh",
+        "desc": "It's 尾音直接連向弱讀的 a（/uh/），聽起來像 it's-uh。"
+      },
+      {
+        "orig": "a custom",
+        "speakText": "a custom",
+        "phonetic": "uh-custom",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "custom to",
+        "speakText": "custom to",
+        "phonetic": "custom-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to eat",
+        "speakText": "to eat",
+        "phonetic": "tuh-eat",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "turkey on",
+        "speakText": "turkey on",
+        "phonetic": "turkey-on",
+        "desc": "turkey 尾音輔音自然連向 on 的開頭母音，語流連成 turkey-on。"
+      }
+    ]
+  },
+  {
+    "en": "When you join our rewards program, you instantly get benefits like free Wi-Fi.",
+    "zh": "當您加入我們的會員獎勵計畫，即可立即享有免費 Wi-Fi 等優惠。",
+    "notes": [
+      {
+        "orig": "join our",
+        "speakText": "join our",
+        "phonetic": "join-owr",
+        "desc": "join 尾音輔音自然連向 our 的開頭母音，語流連成 join-owr。"
+      },
+      {
+        "orig": "our rewards",
+        "speakText": "our rewards",
+        "phonetic": "owr-rewards",
+        "desc": "our 與前一字尾音自然連讀滑入。"
+      }
+    ]
+  },
+  {
+    "en": "Roger made an attempt to finish the project early.",
+    "zh": "羅傑嘗試提早完成這個專案。",
+    "notes": [
+      {
+        "orig": "made an",
+        "speakText": "made an",
+        "phonetic": "made-un",
+        "desc": "不定冠詞 an 弱讀為輕短的 /un/。"
+      },
+      {
+        "orig": "an attempt",
+        "speakText": "an attempt",
+        "phonetic": "un-attempt",
+        "desc": "an 尾音輔音自然連向 attempt 的開頭母音，語流連成 un-attempt。"
+      },
+      {
+        "orig": "attempt to",
+        "speakText": "attempt to",
+        "phonetic": "attempt-tuh",
+        "desc": "attempt 字尾塞音在後續輔音 /t/ 前發生吞音（無聲除阻），直接滑向 to。"
+      },
+      {
+        "orig": "to finish",
+        "speakText": "to finish",
+        "phonetic": "tuh-finish",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "finish the",
+        "speakText": "finish the",
+        "phonetic": "finish-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "The majority of the board of directors voted to accept the supplier contract.",
+    "zh": "董事會多數成員投票同意接受這份供應商合約。",
+    "notes": [
+      {
+        "orig": "The majority",
+        "speakText": "The majority",
+        "phonetic": "thuh-muh-jor-uh-tee",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "majority of",
+        "speakText": "majority of",
+        "phonetic": "muh-jor-uh-tee-uh",
+        "desc": "majority 尾音直接連向弱讀的 of（/uh/），聽起來像 muh-jor-uh-tee-uh。"
+      },
+      {
+        "orig": "of the",
+        "speakText": "of the",
+        "phonetic": "uh-thuh",
+        "desc": "of 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 uh-thuh。"
+      },
+      {
+        "orig": "the board",
+        "speakText": "the board",
+        "phonetic": "thuh-board",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "board of",
+        "speakText": "board of",
+        "phonetic": "board-uh",
+        "desc": "board 尾音直接連向弱讀的 of（/uh/），聽起來像 board-uh。"
+      }
+    ]
+  },
+  {
+    "en": "The residents of the small village tend to live long lives.",
+    "zh": "這個小村莊的居民普遍長壽。",
+    "notes": [
+      {
+        "orig": "The residents",
+        "speakText": "The residents",
+        "phonetic": "thuh-residents",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "residents of",
+        "speakText": "residents of",
+        "phonetic": "residents-uh",
+        "desc": "residents 尾音直接連向弱讀的 of（/uh/），聽起來像 residents-uh。"
+      },
+      {
+        "orig": "of the",
+        "speakText": "of the",
+        "phonetic": "uh-thuh",
+        "desc": "of 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 uh-thuh。"
+      },
+      {
+        "orig": "the small",
+        "speakText": "the small",
+        "phonetic": "thuh-small",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "tend to",
+        "speakText": "tend to",
+        "phonetic": "tend-tuh",
+        "desc": "tend 字尾塞音在後續輔音 /t/ 前發生吞音（無聲除阻），直接滑向 to。"
+      }
+    ]
+  },
+  {
+    "en": "Patty Weld considered it a great honor to be chosen author of the year.",
+    "zh": "派蒂・韋爾德認為獲選為年度作家是莫大的榮幸。",
+    "notes": [
+      {
+        "orig": "Weld considered",
+        "speakText": "Weld considered",
+        "phonetic": "weld-kun-si-derd",
+        "desc": "Weld 字尾塞音在後續輔音 /c/ 前發生吞音（無聲除阻），直接滑向 considered。"
+      },
+      {
+        "orig": "considered it",
+        "speakText": "considered it",
+        "phonetic": "kun-si-derd-it",
+        "desc": "considered 尾音輔音自然連向 it 的開頭母音，語流連成 kun-si-derd-it。"
+      },
+      {
+        "orig": "it a",
+        "speakText": "it a",
+        "phonetic": "i-duh",
+        "desc": "it 字尾 /t/ 夾在母音間閃化為輕彈音 /ɾ/，與 a 連讀成 i-duh。"
+      },
+      {
+        "orig": "a great",
+        "speakText": "a great",
+        "phonetic": "uh-great",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "honor to",
+        "speakText": "honor to",
+        "phonetic": "honor-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "Please refer to the information packet attached for further details.",
+    "zh": "進一步詳情請參閱隨附的資訊手冊。",
+    "notes": [
+      {
+        "orig": "refer to",
+        "speakText": "refer to",
+        "phonetic": "refer-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to the",
+        "speakText": "to the",
+        "phonetic": "tuh-thuh",
+        "desc": "to 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 tuh-thuh。"
+      },
+      {
+        "orig": "the information",
+        "speakText": "the information",
+        "phonetic": "thuh-in-fer-may-shun",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "packet attached",
+        "speakText": "packet attached",
+        "phonetic": "packe-duh-tacht",
+        "desc": "packet 字尾 /t/ 夾在母音間閃化為輕彈音 /ɾ/，與 attached 連讀成 packe-duh-tacht。"
+      },
+      {
+        "orig": "attached for",
+        "speakText": "attached for",
+        "phonetic": "uh-tacht-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      }
+    ]
+  },
+  {
+    "en": "The newscaster waited for a development in the breaking news story.",
+    "zh": "新聞主播等待這則突發新聞的最新進展。",
+    "notes": [
+      {
+        "orig": "The newscaster",
+        "speakText": "The newscaster",
+        "phonetic": "thuh-newscaster",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "waited for",
+        "speakText": "waited for",
+        "phonetic": "waitd-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for a",
+        "speakText": "for a",
+        "phonetic": "fer-uh",
+        "desc": "for 尾音直接連向弱讀的 a（/uh/），聽起來像 fer-uh。"
+      },
+      {
+        "orig": "a development",
+        "speakText": "a development",
+        "phonetic": "uh-developmunt",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "development in",
+        "speakText": "development in",
+        "phonetic": "developmunt-in",
+        "desc": "development 尾音輔音自然連向 in 的開頭母音，語流連成 developmunt-in。"
+      }
+    ]
+  }
+]

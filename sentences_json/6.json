@@ -1,0 +1,230 @@
+[
+  {
+    "en": "I was asked to replace Ms. Moss as host of the annual event.",
+    "zh": "我被指派接替莫斯女士擔任這場年度活動的主持人。",
+    "notes": [
+      {
+        "orig": "was asked",
+        "speakText": "was asked",
+        "phonetic": "wuz-askt",
+        "desc": "was 弱讀為 wuz，asked 尾音 /t/ 輕觸。"
+      },
+      {
+        "orig": "to replace",
+        "speakText": "to replace",
+        "phonetic": "tuh-ri-plays",
+        "desc": "to 弱讀為 tuh，replace 重音落在 plays。"
+      },
+      {
+        "orig": "host of",
+        "speakText": "host of",
+        "phonetic": "hohs-tuh",
+        "desc": "host 尾音 /t/ 連向弱讀的 of（/uh/），聽起來像 hohs-tuh。"
+      }
+    ]
+  },
+  {
+    "en": "The employees were unable to adjust to the strict working conditions.",
+    "zh": "員工們無法適應嚴格的工作條件。",
+    "notes": [
+      {
+        "orig": "were unable",
+        "speakText": "were unable",
+        "phonetic": "wer-uh-nay-bul",
+        "desc": "were 弱讀為 wer，unable 首音節弱化為 uh。"
+      },
+      {
+        "orig": "to adjust",
+        "speakText": "to adjust",
+        "phonetic": "tuh-uh-just",
+        "desc": "to 與 adjust 首音節皆弱化，聽起來像 tuh-uh-just。"
+      },
+      {
+        "orig": "adjust to",
+        "speakText": "adjust to",
+        "phonetic": "uh-jus-tuh",
+        "desc": "adjust 字尾 /t/ 在 to 前吞音，to 弱讀為 tuh。"
+      }
+    ]
+  },
+  {
+    "en": "We must fix the projector before the presentation.",
+    "zh": "我們必須在簡報開始前修好投影機。",
+    "notes": [
+      {
+        "orig": "must fix",
+        "speakText": "must fix",
+        "phonetic": "mus-fiks",
+        "desc": "must 字尾 /t/ 在 /f/ 前吞音，直接接 fix。"
+      },
+      {
+        "orig": "before the",
+        "speakText": "before the",
+        "phonetic": "bi-for-thuh",
+        "desc": "the 弱讀為輕短的 thuh。"
+      }
+    ]
+  },
+  {
+    "en": "We apologize for the inconvenience caused by this delay.",
+    "zh": "對於這次延誤造成的不便，我們深感抱歉。",
+    "notes": [
+      {
+        "orig": "for the",
+        "speakText": "for the",
+        "phonetic": "fer-thuh",
+        "desc": "for 與 the 皆弱讀為輕短的 fer-thuh。"
+      },
+      {
+        "orig": "caused by",
+        "speakText": "caused by",
+        "phonetic": "kawzd-by",
+        "desc": "caused 尾音 /d/ 直接接 by。"
+      },
+      {
+        "orig": "by this",
+        "speakText": "by this",
+        "phonetic": "by-this",
+        "desc": "by 滑向 this，語流連貫。"
+      }
+    ]
+  },
+  {
+    "en": "The president guaranteed wage increases in his video message.",
+    "zh": "總統在影片談話中保證會調漲薪資。",
+    "notes": [
+      {
+        "orig": "wage increases",
+        "speakText": "wage increases",
+        "phonetic": "wayj-in-kree-siz",
+        "desc": "wage 尾音 /dʒ/ 接 increases，increases 尾音複數發 /iz/。"
+      },
+      {
+        "orig": "in his",
+        "speakText": "in his",
+        "phonetic": "i-niz",
+        "desc": "his 的 /h/ 弱化省略，in 的 /n/ 黏上 iz 變成 i-niz。"
+      }
+    ]
+  },
+  {
+    "en": "It's a good idea to frequently update your computer system to avoid viruses.",
+    "zh": "經常更新電腦系統是避免感染病毒的好方法。",
+    "notes": [
+      {
+        "orig": "It's a",
+        "speakText": "It's a",
+        "phonetic": "It-suh",
+        "desc": "It's 尾音 /s/ 連向不定冠詞 a，聽起來像 It-suh。"
+      },
+      {
+        "orig": "good idea",
+        "speakText": "good idea",
+        "phonetic": "gu-dy-dee-uh",
+        "desc": "good 尾音 /d/ 連向 idea 的母音 /aɪ/，聽起來像 gu-dy-dee-uh。"
+      },
+      {
+        "orig": "to avoid",
+        "speakText": "to avoid",
+        "phonetic": "tuh-uh-void",
+        "desc": "to 與 avoid 首音節弱化連讀，聽起來像 tuh-uh-void。"
+      }
+    ]
+  },
+  {
+    "en": "Sarah described the product in detail to the client.",
+    "zh": "莎拉向客戶詳細說明了這項產品。",
+    "notes": [
+      {
+        "orig": "described the",
+        "speakText": "described the",
+        "phonetic": "di-skrybd-thuh",
+        "desc": "described 尾音 /d/ 接弱讀的 thuh。"
+      },
+      {
+        "orig": "in detail",
+        "speakText": "in detail",
+        "phonetic": "in-dee-tayl",
+        "desc": "in 尾音 /n/ 緊接 detail（美式重音常在首音節 DEE-tayl）。"
+      },
+      {
+        "orig": "to the",
+        "speakText": "to the",
+        "phonetic": "tuh-thuh",
+        "desc": "to 與 the 雙雙弱讀為輕短音。"
+      }
+    ]
+  },
+  {
+    "en": "The boss instructed me to bring the client to a nearby cafe.",
+    "zh": "老闆指示我帶客戶去附近的咖啡館。",
+    "notes": [
+      {
+        "orig": "instructed me",
+        "speakText": "instructed me",
+        "phonetic": "in-struk-did-mee",
+        "desc": "instructed 中的 t 閃化為 /ɾ/，尾音 /d/ 接 me。"
+      },
+      {
+        "orig": "to a",
+        "speakText": "to a",
+        "phonetic": "tuh-uh",
+        "desc": "to 與不定冠詞 a 弱化連讀，聽起來像 tuh-uh。"
+      }
+    ]
+  },
+  {
+    "en": "Her team laid out a plan to address falling sales at the firm.",
+    "zh": "她的團隊擬定了一項計畫，以應對公司業績下滑的問題。",
+    "notes": [
+      {
+        "orig": "laid out",
+        "speakText": "laid out",
+        "phonetic": "lay-dout",
+        "desc": "laid 尾音 /d/ 連向 out 的母音 /aʊ/，聽起來像 lay-dout。"
+      },
+      {
+        "orig": "out a",
+        "speakText": "out a",
+        "phonetic": "ou-duh",
+        "desc": "out 字尾 /t/ 夾在母音間閃化為 /ɾ/，連向 a 變成 ou-duh。"
+      },
+      {
+        "orig": "to address",
+        "speakText": "to address",
+        "phonetic": "tuh-uh-dres",
+        "desc": "to 與 address 首音節弱化連讀。"
+      },
+      {
+        "orig": "at the",
+        "speakText": "at the",
+        "phonetic": "ut-thuh",
+        "desc": "at 弱讀且 /t/ 吞音，連向弱讀的 thuh。"
+      }
+    ]
+  },
+  {
+    "en": "Here are some tips to resolve conflicts at work.",
+    "zh": "這裡有一些解決職場衝突的秘訣。",
+    "notes": [
+      {
+        "orig": "Here are",
+        "speakText": "Here are",
+        "phonetic": "Heer-er",
+        "desc": "Here 尾音 /r/ 滑向弱讀的 are（/er/），聽起來像 heer-er。"
+      },
+      {
+        "orig": "to resolve",
+        "speakText": "to resolve",
+        "phonetic": "tuh-ri-zahlv",
+        "desc": "to 弱讀為 tuh，直接接 resolve。"
+      },
+      {
+        "orig": "at work",
+        "speakText": "at work",
+        "phonetic": "ut-werk",
+        "desc": "at 弱讀為 ut，緊接 work。"
+      }
+    ]
+  }
+]

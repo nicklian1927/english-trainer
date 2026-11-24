@@ -1,0 +1,242 @@
+[
+  {
+    "en": "She applied for a job in the new mall.",
+    "zh": "她在新的購物中心應徵了一份工作。",
+    "notes": [
+      {
+        "orig": "applied for",
+        "speakText": "applied for",
+        "phonetic": "uh-plyd-fer",
+        "desc": "applied 字尾 /d/ 在輔音前弱化，for 弱讀為短促的 /fer/。"
+      },
+      {
+        "orig": "job in",
+        "speakText": "job in",
+        "phonetic": "jah-bin",
+        "desc": "job 字尾濁塞音 /b/ 連到 in 的母音 /ɪ/，聽起來像 jah-bin。"
+      },
+      {
+        "orig": "in the new",
+        "speakText": "in the new",
+        "phonetic": "in-thuh-nyoo",
+        "desc": "the 弱讀為輕短的 /thuh/，與前後詞緊密黏連。"
+      }
+    ]
+  },
+  {
+    "en": "I must submit a sales report today.",
+    "zh": "我今天必須提交一份銷售報告。",
+    "notes": [
+      {
+        "orig": "must submit",
+        "speakText": "must submit",
+        "phonetic": "mus-sub-mit",
+        "desc": "must 字尾的 /t/ 遇到後續輔音 /s/ 發生吞音（無聲除阻）。"
+      },
+      {
+        "orig": "submit a",
+        "speakText": "submit a",
+        "phonetic": "sub-mi-duh",
+        "desc": "submit 字尾 /t/ 夾在母音間變成美式閃音 /ɾ/，並連向不定冠詞 a。"
+      },
+      {
+        "orig": "report today",
+        "speakText": "report today",
+        "phonetic": "ri-port-tuh-day",
+        "desc": "report 字尾 /t/ 吞音，today 的 to 弱讀為 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "We are discussing the budget cuts with the director.",
+    "zh": "我們正在與主管討論縮減預算的事宜。",
+    "notes": [
+      {
+        "orig": "We are",
+        "speakText": "We are",
+        "phonetic": "Wee-yer",
+        "desc": "we 結尾母音滑向 are 的 /r/ 音，連讀成輕快的 wee-yer。"
+      },
+      {
+        "orig": "budget cuts",
+        "speakText": "budget cuts",
+        "phonetic": "buh-jit-kuts",
+        "desc": "budget 字尾 /dʒ/ 接 cuts 的 /k/，音節之間銜接緊湊不拉長。"
+      },
+      {
+        "orig": "with the",
+        "speakText": "with the",
+        "phonetic": "wi-thuh",
+        "desc": "with 字尾 /θ/ 與 the 的 /ð/ 皆為齒間音，常合併簡化為 wi-thuh。"
+      }
+    ]
+  },
+  {
+    "en": "The order was shipped last week, but we still haven't received it.",
+    "zh": "那筆訂單上週就出貨了，但我們到現在還沒收到。",
+    "notes": [
+      {
+        "orig": "was shipped",
+        "speakText": "was shipped",
+        "phonetic": "wuz-shipt",
+        "desc": "was 弱讀為 wuz，shipped 詞尾 -ed 在 /p/ 後發 /t/ 且弱化。"
+      },
+      {
+        "orig": "last week",
+        "speakText": "last week",
+        "phonetic": "las-week",
+        "desc": "last 字尾 /t/ 在 /w/ 前發生吞音，直接滑向 week。"
+      },
+      {
+        "orig": "but we",
+        "speakText": "but we",
+        "phonetic": "buh-we",
+        "desc": "but 字尾 /t/ 吞音，母音弱化成短促的 buh。"
+      },
+      {
+        "orig": "received it",
+        "speakText": "received it",
+        "phonetic": "ri-seev-dit",
+        "desc": "received 尾音 /d/ 直接連到 it 的母音 /ɪ/，聽起來像 ri-seev-dit。"
+      }
+    ]
+  },
+  {
+    "en": "The company will release a new smartphone next month.",
+    "zh": "公司下個月將推出一款新智慧型手機。",
+    "notes": [
+      {
+        "orig": "will release",
+        "speakText": "will release",
+        "phonetic": "wul-ri-lees",
+        "desc": "will 弱讀為輕短的 wul，與 release 連成一氣。"
+      },
+      {
+        "orig": "release a",
+        "speakText": "release a",
+        "phonetic": "ri-lee-suh",
+        "desc": "release 字尾 /s/ 連到不定冠詞 a，聽起來像 ri-lee-suh。"
+      },
+      {
+        "orig": "next month",
+        "speakText": "next month",
+        "phonetic": "neks-munth",
+        "desc": "next 尾音 /kst/ 裡的 /t/ 在 month 前吞音，直接接 munth。"
+      }
+    ]
+  },
+  {
+    "en": "It's always beneficial to promote your company over the internet.",
+    "zh": "透過網路推廣公司總是很有好處。",
+    "notes": [
+      {
+        "orig": "It's always",
+        "speakText": "It's always",
+        "phonetic": "Its-awl-wayz",
+        "desc": "It's 結尾 /s/ 順勢滑向 always。"
+      },
+      {
+        "orig": "to promote",
+        "speakText": "to promote",
+        "phonetic": "tuh-pruh-mote",
+        "desc": "to 弱讀為 tuh，promote 的 pro 弱化為 /pruh/。"
+      },
+      {
+        "orig": "your company",
+        "speakText": "your company",
+        "phonetic": "yer-kum-puh-nee",
+        "desc": "your 在非重讀位置弱讀為 yer，company 中間音節弱化。"
+      },
+      {
+        "orig": "over the",
+        "speakText": "over the",
+        "phonetic": "oh-ver-thuh",
+        "desc": "over 尾音 /r/ 自然銜接弱讀的 the。"
+      }
+    ]
+  },
+  {
+    "en": "Bob provided continuous updates on his work progress.",
+    "zh": "鮑勃針對他的工作進度提供了持續的更新。",
+    "notes": [
+      {
+        "orig": "provided continuous",
+        "speakText": "provided continuous",
+        "phonetic": "pruh-vy-did-kun-tin-yoo-us",
+        "desc": "provided 尾音 /d/ 連向 continuous 開頭輔音 /k/，節奏連貫。"
+      },
+      {
+        "orig": "updates on",
+        "speakText": "updates on",
+        "phonetic": "up-dayts-ahn",
+        "desc": "updates 尾音 /s/ 直接連到 on 的母音 /ɑ/。"
+      },
+      {
+        "orig": "on his",
+        "speakText": "on his",
+        "phonetic": "ah-niz",
+        "desc": "his 開頭的 /h/ 在連讀時常弱化省略，/n/ 黏上 iz 變成 ah-niz。"
+      }
+    ]
+  },
+  {
+    "en": "The catering company charged us $1,600 for the party.",
+    "zh": "外燴公司為這場派對向我們收費 1,600 美元。",
+    "notes": [
+      {
+        "orig": "charged us",
+        "speakText": "charged us",
+        "phonetic": "char-jdus",
+        "desc": "charged 字尾 /d/ 連到 us 的母音，聽起來像 char-jdus。"
+      },
+      {
+        "orig": "for the",
+        "speakText": "for the",
+        "phonetic": "fer-thuh",
+        "desc": "for 弱讀為 fer，the 弱讀為 thuh。"
+      }
+    ]
+  },
+  {
+    "en": "Veronica appreciated the help from her colleagues on the database upgrade.",
+    "zh": "維羅妮卡感謝同事們在資料庫升級上給予的協助。",
+    "notes": [
+      {
+        "orig": "appreciated the",
+        "speakText": "appreciated the",
+        "phonetic": "uh-pree-shee-ay-did-thuh",
+        "desc": "appreciated 字尾 /d/ 與後續齒間音銜接自然。"
+      },
+      {
+        "orig": "from her",
+        "speakText": "from her",
+        "phonetic": "frum-er",
+        "desc": "from 弱讀為 frum，her 的 /h/ 弱化並與 frum 緊貼。"
+      },
+      {
+        "orig": "on the",
+        "speakText": "on the",
+        "phonetic": "ahn-thuh",
+        "desc": "the 弱讀為輕短的 thuh，不加強調。"
+      }
+    ]
+  },
+  {
+    "en": "The board of directors accepted the committee's report.",
+    "zh": "董事會接受了委員會的報告。",
+    "notes": [
+      {
+        "orig": "board of",
+        "speakText": "board of",
+        "phonetic": "bor-duh",
+        "desc": "board 尾音 /d/ 連到 of 的母音，of 弱讀為 /uh/。"
+      },
+      {
+        "orig": "accepted the",
+        "speakText": "accepted the",
+        "phonetic": "uk-sep-did-thuh",
+        "desc": "accepted 尾音 /d/ 輕柔收尾，接弱讀的 the。"
+      }
+    ]
+  }
+]

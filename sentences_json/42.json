@@ -1,0 +1,302 @@
+[
+  {
+    "en": "The boss gave me an overseas duty.",
+    "zh": "老闆指派給我一項海外職務。",
+    "notes": [
+      {
+        "orig": "The boss",
+        "speakText": "The boss",
+        "phonetic": "thuh-boss",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "me an",
+        "speakText": "me an",
+        "phonetic": "me-un",
+        "desc": "不定冠詞 an 弱讀為輕短的 /un/。"
+      },
+      {
+        "orig": "an overseas",
+        "speakText": "an overseas",
+        "phonetic": "un-oh-ver-seez",
+        "desc": "an 尾音輔音自然連向 overseas 的開頭母音，語流連成 un-oh-ver-seez。"
+      }
+    ]
+  },
+  {
+    "en": "Keep in mind that some company policies will change next week.",
+    "zh": "請記住，部分公司政策將於下週變更。",
+    "notes": [
+      {
+        "orig": "Keep in",
+        "speakText": "Keep in",
+        "phonetic": "keep-in",
+        "desc": "Keep 尾音輔音自然連向 in 的開頭母音，語流連成 keep-in。"
+      },
+      {
+        "orig": "mind that",
+        "speakText": "mind that",
+        "phonetic": "mind-thut",
+        "desc": "mind 字尾塞音在後續輔音 /t/ 前發生吞音（無聲除阻），直接滑向 that。"
+      },
+      {
+        "orig": "that some",
+        "speakText": "that some",
+        "phonetic": "thut-some",
+        "desc": "連接詞／關係代名詞 that 弱讀為輕短的 /thut/。"
+      }
+    ]
+  },
+  {
+    "en": "We'll make room for new seasonal items.",
+    "zh": "我們將騰出空間擺放新的季節性商品。",
+    "notes": [
+      {
+        "orig": "room for",
+        "speakText": "room for",
+        "phonetic": "room-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for new",
+        "speakText": "for new",
+        "phonetic": "fer-new",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "seasonal items",
+        "speakText": "seasonal items",
+        "phonetic": "see-zuh-nul-items",
+        "desc": "seasonal 尾音輔音自然連向 items 的開頭母音，語流連成 see-zuh-nul-items。"
+      }
+    ]
+  },
+  {
+    "en": "Price isn't the most important factor in selling furniture.",
+    "zh": "價格並不是銷售家具時最重要的因素。",
+    "notes": [
+      {
+        "orig": "isn't the",
+        "speakText": "isn't the",
+        "phonetic": "isn't-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the most",
+        "speakText": "the most",
+        "phonetic": "thuh-most",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "most important",
+        "speakText": "most important",
+        "phonetic": "most-im-por-tunt",
+        "desc": "most 尾音輔音自然連向 important 的開頭母音，語流連成 most-im-por-tunt。"
+      },
+      {
+        "orig": "important factor",
+        "speakText": "important factor",
+        "phonetic": "im-por-tunt-factor",
+        "desc": "important 字尾塞音在後續輔音 /f/ 前發生吞音（無聲除阻），直接滑向 factor。"
+      },
+      {
+        "orig": "factor in",
+        "speakText": "factor in",
+        "phonetic": "factor-in",
+        "desc": "factor 尾音輔音自然連向 in 的開頭母音，語流連成 factor-in。"
+      }
+    ]
+  },
+  {
+    "en": "I always have fun learning new things.",
+    "zh": "學習新事物總是讓我樂在其中。",
+    "notes": [
+      {
+        "orig": "always have",
+        "speakText": "always have",
+        "phonetic": "always-huv",
+        "desc": "助動詞 have 弱讀為輕短的 /huv/。"
+      },
+      {
+        "orig": "have fun",
+        "speakText": "have fun",
+        "phonetic": "huv-fun",
+        "desc": "助動詞 have 弱讀為輕短的 /huv/。"
+      }
+    ]
+  },
+  {
+    "en": "You should go home and take a good rest.",
+    "zh": "你應該回家好好休息一下。",
+    "notes": [
+      {
+        "orig": "should go",
+        "speakText": "should go",
+        "phonetic": "should-go",
+        "desc": "should 字尾塞音在後續輔音 /g/ 前發生吞音（無聲除阻），直接滑向 go。"
+      },
+      {
+        "orig": "home and",
+        "speakText": "home and",
+        "phonetic": "home-un",
+        "desc": "連接詞 and 常弱化並吞掉字尾 /d/，唸成輕短的 /un/。"
+      },
+      {
+        "orig": "and take",
+        "speakText": "and take",
+        "phonetic": "un-take",
+        "desc": "and 字尾塞音在後續輔音 /t/ 前發生吞音（無聲除阻），直接滑向 take。"
+      },
+      {
+        "orig": "take a",
+        "speakText": "take a",
+        "phonetic": "take-uh",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "a good",
+        "speakText": "a good",
+        "phonetic": "uh-good",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      }
+    ]
+  },
+  {
+    "en": "The admission fee is six euros for adults.",
+    "zh": "成人入場費為六歐元。",
+    "notes": [
+      {
+        "orig": "The admission",
+        "speakText": "The admission",
+        "phonetic": "thuh-ud-mish-un",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "six euros",
+        "speakText": "six euros",
+        "phonetic": "six-euros",
+        "desc": "six 尾音輔音自然連向 euros 的開頭母音，語流連成 six-euros。"
+      },
+      {
+        "orig": "euros for",
+        "speakText": "euros for",
+        "phonetic": "euros-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for adults",
+        "speakText": "for adults",
+        "phonetic": "fer-adults",
+        "desc": "for 尾音輔音自然連向 adults 的開頭母音，語流連成 fer-adults。"
+      }
+    ]
+  },
+  {
+    "en": "Mr. Taylor wasn't certain what his role in the project was.",
+    "zh": "泰勒先生不確定自己在這個專案中扮演什麼角色。",
+    "notes": [
+      {
+        "orig": "what his",
+        "speakText": "what his",
+        "phonetic": "wha-diz",
+        "desc": "what 字尾 /t/ 夾在母音間閃化為輕彈音 /ɾ/，與 his 連讀成 wha-diz。"
+      },
+      {
+        "orig": "his role",
+        "speakText": "his role",
+        "phonetic": "iz-role",
+        "desc": "his 開頭的 /h/ 在連讀時常弱化省略，與前一字尾音黏連。"
+      },
+      {
+        "orig": "in the",
+        "speakText": "in the",
+        "phonetic": "in-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the project",
+        "speakText": "the project",
+        "phonetic": "thuh-project",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "project was",
+        "speakText": "project was",
+        "phonetic": "project-wuz",
+        "desc": "was 弱讀為輕短的 /wuz/。"
+      }
+    ]
+  },
+  {
+    "en": "I've worked as a broadcaster for three decades.",
+    "zh": "我擔任廣播員已經三十年了。",
+    "notes": [
+      {
+        "orig": "worked as",
+        "speakText": "worked as",
+        "phonetic": "workd-uz",
+        "desc": "worked 尾音直接連向弱讀的 as（/uz/），聽起來像 workd-uz。"
+      },
+      {
+        "orig": "as a",
+        "speakText": "as a",
+        "phonetic": "uz-uh",
+        "desc": "as 尾音直接連向弱讀的 a（/uh/），聽起來像 uz-uh。"
+      },
+      {
+        "orig": "a broadcaster",
+        "speakText": "a broadcaster",
+        "phonetic": "uh-brawd-kas-ter",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "broadcaster for",
+        "speakText": "broadcaster for",
+        "phonetic": "brawd-kas-ter-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for three",
+        "speakText": "for three",
+        "phonetic": "fer-three",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      }
+    ]
+  },
+  {
+    "en": "After a delay of three hours, the plane finally took off.",
+    "zh": "延誤了三個小時後，飛機終於起飛了。",
+    "notes": [
+      {
+        "orig": "After a",
+        "speakText": "After a",
+        "phonetic": "after-uh",
+        "desc": "After 尾音直接連向弱讀的 a（/uh/），聽起來像 after-uh。"
+      },
+      {
+        "orig": "a delay",
+        "speakText": "a delay",
+        "phonetic": "uh-delay",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "delay of",
+        "speakText": "delay of",
+        "phonetic": "delay-uh",
+        "desc": "delay 尾音直接連向弱讀的 of（/uh/），聽起來像 delay-uh。"
+      },
+      {
+        "orig": "of three",
+        "speakText": "of three",
+        "phonetic": "uh-three",
+        "desc": "介系詞 of 在口語連讀中常弱化為輕短的 /uh/（或 /uv/）。"
+      },
+      {
+        "orig": "the plane",
+        "speakText": "the plane",
+        "phonetic": "thuh-plane",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  }
+]

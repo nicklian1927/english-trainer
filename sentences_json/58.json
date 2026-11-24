@@ -1,0 +1,332 @@
+[
+  {
+    "en": "We always hire or promote staff without any individual bias.",
+    "zh": "我們招募或晉升員工時向來不帶任何個人偏見。",
+    "notes": [
+      {
+        "orig": "without any",
+        "speakText": "without any",
+        "phonetic": "withou-dany",
+        "desc": "without 字尾 /t/ 夾在母音間閃化為輕彈音 /ɾ/，與 any 連讀成 withou-dany。"
+      },
+      {
+        "orig": "any individual",
+        "speakText": "any individual",
+        "phonetic": "any-in-duh-vij-oo-ul",
+        "desc": "any 尾音輔音自然連向 individual 的開頭母音，語流連成 any-in-duh-vij-oo-ul。"
+      }
+    ]
+  },
+  {
+    "en": "Neil had to quit his job because he was suffering from severe fatigue.",
+    "zh": "尼爾因為嚴重疲勞而不得不辭去工作。",
+    "notes": [
+      {
+        "orig": "had to",
+        "speakText": "had to",
+        "phonetic": "had-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to quit",
+        "speakText": "to quit",
+        "phonetic": "tuh-quit",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "quit his",
+        "speakText": "quit his",
+        "phonetic": "qui-diz",
+        "desc": "quit 字尾 /t/ 夾在母音間閃化為輕彈音 /ɾ/，與 his 連讀成 qui-diz。"
+      },
+      {
+        "orig": "his job",
+        "speakText": "his job",
+        "phonetic": "iz-job",
+        "desc": "his 開頭的 /h/ 在連讀時常弱化省略，與前一字尾音黏連。"
+      },
+      {
+        "orig": "because he",
+        "speakText": "because he",
+        "phonetic": "because-ee",
+        "desc": "he 開頭的 /h/ 在句中連讀時常弱化省略。"
+      }
+    ]
+  },
+  {
+    "en": "Our company is now in a terrible plight, as it has lost substantial market share.",
+    "zh": "由於流失了大量市占率，我們公司目前處於嚴峻的困境。",
+    "notes": [
+      {
+        "orig": "Our company",
+        "speakText": "Our company",
+        "phonetic": "owr-kum-puh-nee",
+        "desc": "our 與前一字尾音自然連讀滑入。"
+      },
+      {
+        "orig": "company is",
+        "speakText": "company is",
+        "phonetic": "kum-puh-nee-is",
+        "desc": "company 尾音輔音自然連向 is 的開頭母音，語流連成 kum-puh-nee-is。"
+      },
+      {
+        "orig": "now in",
+        "speakText": "now in",
+        "phonetic": "now-in",
+        "desc": "now 尾音輔音自然連向 in 的開頭母音，語流連成 now-in。"
+      },
+      {
+        "orig": "in a",
+        "speakText": "in a",
+        "phonetic": "in-uh",
+        "desc": "in 尾音直接連向弱讀的 a（/uh/），聽起來像 in-uh。"
+      },
+      {
+        "orig": "a terrible",
+        "speakText": "a terrible",
+        "phonetic": "uh-terruh-bul",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      }
+    ]
+  },
+  {
+    "en": "The government can't seem to come up with a remedy for the ailing economy.",
+    "zh": "政府似乎想不出挽救疲弱經濟的對策。",
+    "notes": [
+      {
+        "orig": "The government",
+        "speakText": "The government",
+        "phonetic": "thuh-governmunt",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "government can't",
+        "speakText": "government can't",
+        "phonetic": "governmunt-can't",
+        "desc": "government 字尾塞音在後續輔音 /c/ 前發生吞音（無聲除阻），直接滑向 can't。"
+      },
+      {
+        "orig": "seem to",
+        "speakText": "seem to",
+        "phonetic": "seem-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to come",
+        "speakText": "to come",
+        "phonetic": "tuh-come",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "with a",
+        "speakText": "with a",
+        "phonetic": "with-uh",
+        "desc": "with 尾音直接連向弱讀的 a（/uh/），聽起來像 with-uh。"
+      }
+    ]
+  },
+  {
+    "en": "Proximity to the railway terminal made Green Hills a prime residential area.",
+    "zh": "鄰近鐵路總站使綠丘成為優質住宅區。",
+    "notes": [
+      {
+        "orig": "Proximity to",
+        "speakText": "Proximity to",
+        "phonetic": "prahk-sim-uh-tee-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to the",
+        "speakText": "to the",
+        "phonetic": "tuh-thuh",
+        "desc": "to 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 tuh-thuh。"
+      },
+      {
+        "orig": "the railway",
+        "speakText": "the railway",
+        "phonetic": "thuh-railway",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "Hills a",
+        "speakText": "Hills a",
+        "phonetic": "hills-uh",
+        "desc": "Hills 尾音直接連向弱讀的 a（/uh/），聽起來像 hills-uh。"
+      },
+      {
+        "orig": "a prime",
+        "speakText": "a prime",
+        "phonetic": "uh-prime",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      }
+    ]
+  },
+  {
+    "en": "We'd like you to serve as a liaison between the R&D and production divisions.",
+    "zh": "我們希望你擔任研發部門與生產部門之間的聯絡窗口。",
+    "notes": [
+      {
+        "orig": "you to",
+        "speakText": "you to",
+        "phonetic": "you-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to serve",
+        "speakText": "to serve",
+        "phonetic": "tuh-serve",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "serve as",
+        "speakText": "serve as",
+        "phonetic": "serve-uz",
+        "desc": "as 弱讀為輕短的 /uz/。"
+      },
+      {
+        "orig": "as a",
+        "speakText": "as a",
+        "phonetic": "uz-uh",
+        "desc": "as 尾音直接連向弱讀的 a（/uh/），聽起來像 uz-uh。"
+      },
+      {
+        "orig": "a liaison",
+        "speakText": "a liaison",
+        "phonetic": "uh-lee-ay-zahn",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      }
+    ]
+  },
+  {
+    "en": "The accounting section set a new protocol for reimbursing expenses.",
+    "zh": "會計科制定了新的費用報銷規範。",
+    "notes": [
+      {
+        "orig": "The accounting",
+        "speakText": "The accounting",
+        "phonetic": "thuh-accounting",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "set a",
+        "speakText": "set a",
+        "phonetic": "se-duh",
+        "desc": "set 字尾 /t/ 夾在母音間閃化為輕彈音 /ɾ/，與 a 連讀成 se-duh。"
+      },
+      {
+        "orig": "a new",
+        "speakText": "a new",
+        "phonetic": "uh-new",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "protocol for",
+        "speakText": "protocol for",
+        "phonetic": "proh-duh-kawl-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for reimbursing",
+        "speakText": "for reimbursing",
+        "phonetic": "fer-reimbursing",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      }
+    ]
+  },
+  {
+    "en": "I have a scheduling conflict this Friday.",
+    "zh": "我這週五的行程有衝突。",
+    "notes": [
+      {
+        "orig": "I have",
+        "speakText": "I have",
+        "phonetic": "i-huv",
+        "desc": "助動詞 have 弱讀為輕短的 /huv/。"
+      },
+      {
+        "orig": "have a",
+        "speakText": "have a",
+        "phonetic": "huv-uh",
+        "desc": "have 與 a 皆為非重讀功能詞，雙雙弱讀並連成輕短的 huv-uh。"
+      },
+      {
+        "orig": "a scheduling",
+        "speakText": "a scheduling",
+        "phonetic": "uh-scheduling",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      }
+    ]
+  },
+  {
+    "en": "The restaurant is well known for its relaxed ambiance and splendid food.",
+    "zh": "這家餐廳以輕鬆愜意的氛圍和美味佳餚聞名。",
+    "notes": [
+      {
+        "orig": "The restaurant",
+        "speakText": "The restaurant",
+        "phonetic": "thuh-res-tuh-rahnt",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "restaurant is",
+        "speakText": "restaurant is",
+        "phonetic": "res-tuh-rahnt-is",
+        "desc": "restaurant 尾音輔音自然連向 is 的開頭母音，語流連成 res-tuh-rahnt-is。"
+      },
+      {
+        "orig": "known for",
+        "speakText": "known for",
+        "phonetic": "known-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for its",
+        "speakText": "for its",
+        "phonetic": "fer-its",
+        "desc": "for 尾音輔音自然連向 its 的開頭母音，語流連成 fer-its。"
+      },
+      {
+        "orig": "relaxed ambiance",
+        "speakText": "relaxed ambiance",
+        "phonetic": "relaxd-ahm-bee-ahns",
+        "desc": "relaxed 尾音輔音自然連向 ambiance 的開頭母音，語流連成 relaxd-ahm-bee-ahns。"
+      }
+    ]
+  },
+  {
+    "en": "This booklet is a great introduction to the allure of Florence.",
+    "zh": "這本小冊子是介紹佛羅倫斯魅力的絕佳入門讀物。",
+    "notes": [
+      {
+        "orig": "booklet is",
+        "speakText": "booklet is",
+        "phonetic": "bookle-dis",
+        "desc": "booklet 字尾 /t/ 夾在母音間閃化為輕彈音 /ɾ/，與 is 連讀成 bookle-dis。"
+      },
+      {
+        "orig": "is a",
+        "speakText": "is a",
+        "phonetic": "is-uh",
+        "desc": "is 尾音直接連向弱讀的 a（/uh/），聽起來像 is-uh。"
+      },
+      {
+        "orig": "a great",
+        "speakText": "a great",
+        "phonetic": "uh-great",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "great introduction",
+        "speakText": "great introduction",
+        "phonetic": "grea-dintroducshun",
+        "desc": "great 字尾 /t/ 夾在母音間閃化為輕彈音 /ɾ/，與 introduction 連讀成 grea-dintroducshun。"
+      },
+      {
+        "orig": "introduction to",
+        "speakText": "introduction to",
+        "phonetic": "introducshun-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  }
+]

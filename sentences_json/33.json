@@ -1,0 +1,338 @@
+[
+  {
+    "en": "Craig had an intense discussion with the boss about business ethics.",
+    "zh": "克雷格與老闆就商業倫理進行了一場激烈的討論。",
+    "notes": [
+      {
+        "orig": "had an",
+        "speakText": "had an",
+        "phonetic": "had-un",
+        "desc": "had 尾音直接連向弱讀的 an（/un/），聽起來像 had-un。"
+      },
+      {
+        "orig": "an intense",
+        "speakText": "an intense",
+        "phonetic": "un-in-tens",
+        "desc": "an 尾音輔音自然連向 intense 的開頭母音，語流連成 un-in-tens。"
+      },
+      {
+        "orig": "with the",
+        "speakText": "with the",
+        "phonetic": "with-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the boss",
+        "speakText": "the boss",
+        "phonetic": "thuh-boss",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "boss about",
+        "speakText": "boss about",
+        "phonetic": "boss-about",
+        "desc": "boss 尾音輔音自然連向 about 的開頭母音，語流連成 boss-about。"
+      }
+    ]
+  },
+  {
+    "en": "He was asked to make his speech relevant to the current project.",
+    "zh": "他被要求讓演講內容與目前的專案相關。",
+    "notes": [
+      {
+        "orig": "He was",
+        "speakText": "He was",
+        "phonetic": "ee-wuz",
+        "desc": "He 與 was 皆為非重讀功能詞，雙雙弱讀並連成輕短的 ee-wuz。"
+      },
+      {
+        "orig": "was asked",
+        "speakText": "was asked",
+        "phonetic": "wuz-askd",
+        "desc": "was 尾音輔音自然連向 asked 的開頭母音，語流連成 wuz-askd。"
+      },
+      {
+        "orig": "asked to",
+        "speakText": "asked to",
+        "phonetic": "askd-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to make",
+        "speakText": "to make",
+        "phonetic": "tuh-make",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "make his",
+        "speakText": "make his",
+        "phonetic": "make-iz",
+        "desc": "his 開頭的 /h/ 在連讀時常弱化省略，與前一字尾音黏連。"
+      }
+    ]
+  },
+  {
+    "en": "The factory manager decided 10% more output was feasible.",
+    "zh": "廠長認定增加 10% 的產量是可行的。",
+    "notes": [
+      {
+        "orig": "The factory",
+        "speakText": "The factory",
+        "phonetic": "thuh-factory",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "output was",
+        "speakText": "output was",
+        "phonetic": "output-wuz",
+        "desc": "was 弱讀為輕短的 /wuz/。"
+      },
+      {
+        "orig": "was feasible",
+        "speakText": "was feasible",
+        "phonetic": "wuz-fee-zuh-bul",
+        "desc": "was 弱讀為輕短的 /wuz/。"
+      }
+    ]
+  },
+  {
+    "en": "Liz lives in a remote area far from any town or city.",
+    "zh": "莉茲住在遠離任何城鎮或城市的偏遠地區。",
+    "notes": [
+      {
+        "orig": "lives in",
+        "speakText": "lives in",
+        "phonetic": "lives-in",
+        "desc": "lives 尾音輔音自然連向 in 的開頭母音，語流連成 lives-in。"
+      },
+      {
+        "orig": "in a",
+        "speakText": "in a",
+        "phonetic": "in-uh",
+        "desc": "in 尾音直接連向弱讀的 a（/uh/），聽起來像 in-uh。"
+      },
+      {
+        "orig": "a remote",
+        "speakText": "a remote",
+        "phonetic": "uh-remote",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "far from",
+        "speakText": "far from",
+        "phonetic": "far-frum",
+        "desc": "介系詞 from 弱讀為輕短的 /frum/。"
+      },
+      {
+        "orig": "from any",
+        "speakText": "from any",
+        "phonetic": "frum-any",
+        "desc": "from 尾音輔音自然連向 any 的開頭母音，語流連成 frum-any。"
+      }
+    ]
+  },
+  {
+    "en": "It's bad for your health to consume beverages with synthetic flavoring.",
+    "zh": "飲用含有人工香料的飲料對健康有害。",
+    "notes": [
+      {
+        "orig": "bad for",
+        "speakText": "bad for",
+        "phonetic": "bad-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for your",
+        "speakText": "for your",
+        "phonetic": "fer-yer",
+        "desc": "for 與 your 皆為非重讀功能詞，雙雙弱讀並連成輕短的 fer-yer。"
+      },
+      {
+        "orig": "your health",
+        "speakText": "your health",
+        "phonetic": "yer-health",
+        "desc": "所有格 your 在非重讀位置常弱讀為 /yer/。"
+      },
+      {
+        "orig": "health to",
+        "speakText": "health to",
+        "phonetic": "health-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to consume",
+        "speakText": "to consume",
+        "phonetic": "tuh-consume",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "During the preceding meeting, one of the directors was dismissed.",
+    "zh": "在上一次會議中，其中一位董事遭到解職。",
+    "notes": [
+      {
+        "orig": "During the",
+        "speakText": "During the",
+        "phonetic": "during-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the preceding",
+        "speakText": "the preceding",
+        "phonetic": "thuh-pri-see-ding",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "one of",
+        "speakText": "one of",
+        "phonetic": "one-uh",
+        "desc": "介系詞 of 在口語連讀中常弱化為輕短的 /uh/（或 /uv/）。"
+      },
+      {
+        "orig": "of the",
+        "speakText": "of the",
+        "phonetic": "uh-thuh",
+        "desc": "of 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 uh-thuh。"
+      },
+      {
+        "orig": "the directors",
+        "speakText": "the directors",
+        "phonetic": "thuh-directors",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "Scott Consulting is discreet with all client matters.",
+    "zh": "史考特顧問公司對所有客戶事務都謹慎保密。",
+    "notes": [
+      {
+        "orig": "Consulting is",
+        "speakText": "Consulting is",
+        "phonetic": "consulting-is",
+        "desc": "Consulting 尾音輔音自然連向 is 的開頭母音，語流連成 consulting-is。"
+      },
+      {
+        "orig": "with all",
+        "speakText": "with all",
+        "phonetic": "with-all",
+        "desc": "with 尾音輔音自然連向 all 的開頭母音，語流連成 with-all。"
+      },
+      {
+        "orig": "client matters",
+        "speakText": "client matters",
+        "phonetic": "client-matters",
+        "desc": "client 字尾塞音在後續輔音 /m/ 前發生吞音（無聲除阻），直接滑向 matters。"
+      }
+    ]
+  },
+  {
+    "en": "The area was found to have abundant supplies of rare metal.",
+    "zh": "該地區被發現擁有豐富的稀有金屬蘊藏量。",
+    "notes": [
+      {
+        "orig": "The area",
+        "speakText": "The area",
+        "phonetic": "thuh-area",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "area was",
+        "speakText": "area was",
+        "phonetic": "area-wuz",
+        "desc": "was 弱讀為輕短的 /wuz/。"
+      },
+      {
+        "orig": "was found",
+        "speakText": "was found",
+        "phonetic": "wuz-found",
+        "desc": "was 弱讀為輕短的 /wuz/。"
+      },
+      {
+        "orig": "found to",
+        "speakText": "found to",
+        "phonetic": "found-tuh",
+        "desc": "found 字尾塞音在後續輔音 /t/ 前發生吞音（無聲除阻），直接滑向 to。"
+      },
+      {
+        "orig": "to have",
+        "speakText": "to have",
+        "phonetic": "tuh-huv",
+        "desc": "to 與 have 皆為非重讀功能詞，雙雙弱讀並連成輕短的 tuh-huv。"
+      }
+    ]
+  },
+  {
+    "en": "We looked over the document many times to make sure it was a genuine one.",
+    "zh": "我們仔細檢查了這份文件很多遍，以確保它是真品。",
+    "notes": [
+      {
+        "orig": "looked over",
+        "speakText": "looked over",
+        "phonetic": "lookd-over",
+        "desc": "looked 尾音輔音自然連向 over 的開頭母音，語流連成 lookd-over。"
+      },
+      {
+        "orig": "over the",
+        "speakText": "over the",
+        "phonetic": "over-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the document",
+        "speakText": "the document",
+        "phonetic": "thuh-documunt",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "document many",
+        "speakText": "document many",
+        "phonetic": "documunt-many",
+        "desc": "document 字尾塞音在後續輔音 /m/ 前發生吞音（無聲除阻），直接滑向 many。"
+      },
+      {
+        "orig": "times to",
+        "speakText": "times to",
+        "phonetic": "times-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "Solar energy has enormous potential which is yet to be tapped.",
+    "zh": "太陽能擁有巨大的潛力，尚待開發。",
+    "notes": [
+      {
+        "orig": "Solar energy",
+        "speakText": "Solar energy",
+        "phonetic": "solar-energy",
+        "desc": "Solar 尾音輔音自然連向 energy 的開頭母音，語流連成 solar-energy。"
+      },
+      {
+        "orig": "energy has",
+        "speakText": "energy has",
+        "phonetic": "energy-huz",
+        "desc": "助動詞 has 弱讀為輕短的 /huz/。"
+      },
+      {
+        "orig": "has enormous",
+        "speakText": "has enormous",
+        "phonetic": "huz-i-nor-mus",
+        "desc": "has 尾音輔音自然連向 enormous 的開頭母音，語流連成 huz-i-nor-mus。"
+      },
+      {
+        "orig": "which is",
+        "speakText": "which is",
+        "phonetic": "which-is",
+        "desc": "which 尾音輔音自然連向 is 的開頭母音，語流連成 which-is。"
+      },
+      {
+        "orig": "yet to",
+        "speakText": "yet to",
+        "phonetic": "yet-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  }
+]

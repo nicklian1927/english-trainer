@@ -1,0 +1,284 @@
+[
+  {
+    "en": "I don't know what you mean.",
+    "zh": "我不知道你的意思。",
+    "notes": [
+      {
+        "orig": "I don't know",
+        "phonetic": "/aɪ doʊn noʊ/",
+        "desc": "字尾的 /t/ 在 /n/ 前常被吞掉或弱化，不會明顯爆破。"
+      },
+      {
+        "orig": "what you",
+        "phonetic": "/wʌtʃu/",
+        "desc": "字尾 /t/ 遇到開頭 /j/（you）發生顎化連音，聽起來接近 /tʃ/。"
+      }
+    ]
+  },
+  {
+    "en": "Can I get a cup of coffee?",
+    "zh": "我可以來杯咖啡嗎？",
+    "notes": [
+      {
+        "orig": "Can I",
+        "phonetic": "/kənaɪ/",
+        "desc": "母音連音：can 弱化為 /kən/，鼻音 /n/ 與後面的 /aɪ/ 順暢接在一起。"
+      },
+      {
+        "orig": "a cup of",
+        "phonetic": "/ə kʌpə/",
+        "desc": "of 常弱讀為 /ə/，與前面的 cup 連起來唸成 /kʌpə/。"
+      }
+    ]
+  },
+  {
+    "en": "Did you see it?",
+    "zh": "你有看到嗎？",
+    "notes": [
+      {
+        "orig": "Did you",
+        "phonetic": "/dɪdʒu/",
+        "desc": "字尾 /d/ 遇到 /j/ 發生顎化變音，常聽起來像 /dʒ/。"
+      },
+      {
+        "orig": "see it",
+        "phonetic": "/siːjɪt/",
+        "desc": "母音連音：see 尾音是 /iː/，接母音開頭的 it 時中間會自然帶出輕微的 /j/ 滑音。"
+      }
+    ]
+  },
+  {
+    "en": "Let me check it out.",
+    "zh": "讓我看看／確認一下。",
+    "notes": [
+      {
+        "orig": "Let me",
+        "phonetic": "/lɛmi/",
+        "desc": "字尾 /t/ 在鼻音 /m/ 前常省略不唸，整組快速連成 /lɛmi/。"
+      },
+      {
+        "orig": "check it out",
+        "phonetic": "/tʃɛkɪɾaʊt/",
+        "desc": "子音連音＋閃音：check 的 /k/ 連到 it，it 的 /t/ 在兩個母音之間常變成輕彈的閃音 /ɾ/，再連到 out。"
+      }
+    ]
+  },
+  {
+    "en": "I'm going to pick it up.",
+    "zh": "我打算去拿／去接它。",
+    "notes": [
+      {
+        "orig": "going to",
+        "phonetic": "/ɡənə/",
+        "desc": "口語常見弱化縮讀，聽起來接近 gonna（/ɡənə/）。"
+      },
+      {
+        "orig": "pick it up",
+        "phonetic": "/pɪkɪɾʌp/",
+        "desc": "子音連音＋閃音：pick 連 it，it 的 /t/ 變成閃音 /ɾ/ 並連向 up。"
+      }
+    ]
+  },
+  {
+    "en": "I want to ask a question.",
+    "zh": "我想問一個問題。",
+    "notes": [
+      {
+        "orig": "want to",
+        "phonetic": "/wɑːnə/",
+        "desc": "口語常見弱化縮讀，/t/ 弱化或吞音，聽起來接近 wanna（/wɑːnə/）。"
+      },
+      {
+        "orig": "ask a",
+        "phonetic": "/æskə/",
+        "desc": "子音連音：ask 字尾 /k/ 直接連到不定冠詞 a（/ə/）。"
+      }
+    ]
+  },
+  {
+    "en": "Turn it off when you leave.",
+    "zh": "你離開的時候把它關掉。",
+    "notes": [
+      {
+        "orig": "Turn it",
+        "phonetic": "/tɜːrnɪɾ/",
+        "desc": "turn 的 /n/ 連到 it，字尾 /t/ 在母音前或句中常弱化／閃音化。"
+      },
+      {
+        "orig": "it off",
+        "phonetic": "/ɪɾɑːf/",
+        "desc": "子音連音＋閃音：it 字尾 /t/ 夾在兩個母音之間變成閃音 /ɾ/，與 off 連讀。"
+      }
+    ]
+  },
+  {
+    "en": "I have to go now.",
+    "zh": "我現在得走了。",
+    "notes": [
+      {
+        "orig": "have to",
+        "phonetic": "/hæftə/",
+        "desc": "清濁同化＋弱化：have 的 /v/ 受後面的 /t/ 影響變成清音 /f/，to 弱化為 /tə/。"
+      }
+    ]
+  },
+  {
+    "en": "What do you think?",
+    "zh": "你覺得呢？／你怎麼想？",
+    "notes": [
+      {
+        "orig": "What do you",
+        "phonetic": "/wʌɾəjə/ 或 /wʌɾdʒə/",
+        "desc": "What 尾音 /t/ 在母音/弱讀音節前常閃音化成 /ɾ/ 或吞音，do you 弱化為 /dəjə/ 或合流為 /dʒə/，整串常聽起來像「哇得優／哇擠呀」。"
+      }
+    ]
+  },
+  {
+    "en": "What did he say?",
+    "zh": "他剛才說了什麼？",
+    "notes": [
+      {
+        "orig": "What did he",
+        "phonetic": "/wʌɾɪɾi/",
+        "desc": "did 的 /d/ 在母音間常弱化或吞掉，he 開頭的 /h/ 在非重讀位置常被吞音，聽起來像 /wʌɾɪɾi/（哇底哩）。"
+      }
+    ]
+  },
+  {
+    "en": "What are you doing?",
+    "zh": "你在做什麼？",
+    "notes": [
+      {
+        "orig": "What are you",
+        "phonetic": "/wʌɾərjə/ 或 /wʌɾə/",
+        "desc": "what 的 /t/ 變成閃音 /ɾ/ 連向弱讀的 are /ər/，you 弱化為 /jə/，語速快時常聽起來像「哇啦呀」。"
+      }
+    ]
+  },
+  {
+    "en": "Where are we going?",
+    "zh": "我們要去哪裡？",
+    "notes": [
+      {
+        "orig": "Where are we",
+        "phonetic": "/wɛrərwi/",
+        "desc": "where 尾音是 /r/，接母音開頭的弱讀 are /ər/ 時直接連讀，不會在中間停頓，聽起來像「威兒威」。"
+      }
+    ]
+  },
+  {
+    "en": "Where did you put it?",
+    "zh": "你把它放哪裡了？",
+    "notes": [
+      {
+        "orig": "Where did you",
+        "phonetic": "/wɛrɪdʒə/",
+        "desc": "did 的 /d/ 弱化，did you 連讀顎化成 /dʒə/，整體聽起來像「威兒擠呀」。"
+      },
+      {
+        "orig": "put it",
+        "phonetic": "/pʊɾɪt/",
+        "desc": "put 尾音 /t/ 夾在兩個母音之間變成閃音 /ɾ/，並連向 it。"
+      }
+    ]
+  },
+  {
+    "en": "When did that happen?",
+    "zh": "那件事是什麼時候發生的？",
+    "notes": [
+      {
+        "orig": "When did that",
+        "phonetic": "/wɛnɪðæt/",
+        "desc": "when 尾音 /n/ 連到 did，did 尾音 /d/ 容易弱化或被吞掉，直接接 that。"
+      }
+    ]
+  },
+  {
+    "en": "When are you free?",
+    "zh": "你什麼時候有空？",
+    "notes": [
+      {
+        "orig": "When are you",
+        "phonetic": "/wɛnərjə/",
+        "desc": "when 的 /n/ 連上弱讀的 are /ər/，you 弱化為 /jə/，聽起來像「威呢呀」。"
+      }
+    ]
+  },
+  {
+    "en": "Who is calling you?",
+    "zh": "誰在打電話給你？",
+    "notes": [
+      {
+        "orig": "Who is",
+        "phonetic": "/huːz/",
+        "desc": "口語常縮讀成 Who's，is 的 /ɪ/ 省略，只留 /z/ 連在 who 後面。"
+      }
+    ]
+  },
+  {
+    "en": "Who are they talking to?",
+    "zh": "他們在跟誰說話？",
+    "notes": [
+      {
+        "orig": "Who are they",
+        "phonetic": "/huːərðeɪ/",
+        "desc": "who 的母音 /uː/ 連上弱讀 are /ər/，聽起來像「胡兒」，不會一字一字斷開。"
+      }
+    ]
+  },
+  {
+    "en": "Why did you leave early?",
+    "zh": "你為什麼這麼早離開？",
+    "notes": [
+      {
+        "orig": "Why did you",
+        "phonetic": "/waɪdʒə/",
+        "desc": "did 常弱化或吞掉尾音 /d/，did you 顎化連讀成 /dʒə/，聽起來像「外擠呀」。"
+      }
+    ]
+  },
+  {
+    "en": "Why don't we take a break?",
+    "zh": "我們為什麼不休息一下呢？",
+    "notes": [
+      {
+        "orig": "don't we",
+        "phonetic": "/doʊnwi/",
+        "desc": "don't 字尾的 /t/ 在 /w/ 前常被吞掉，直接連成 /doʊnwi/。"
+      }
+    ]
+  },
+  {
+    "en": "How do you know that?",
+    "zh": "你怎麼知道那件事的？",
+    "notes": [
+      {
+        "orig": "How do you",
+        "phonetic": "/haʊdəjə/ 或 /haʊdʒə/",
+        "desc": "how 尾音雙母音 /aʊ/ 連上弱讀的 do you，常弱化為 /dəjə/ 或 /dʒə/，聽起來像「好得呀／好擠呀」。"
+      }
+    ]
+  },
+  {
+    "en": "How did it go?",
+    "zh": "進行得怎麼樣？／順利嗎？",
+    "notes": [
+      {
+        "orig": "How did it",
+        "phonetic": "/haʊdɪɾɪt/",
+        "desc": "did 連向 it，it 的 /t/ 在母音間變成閃音 /ɾ/，整串連起來唸。"
+      }
+    ]
+  },
+  {
+    "en": "How about tomorrow morning?",
+    "zh": "明天早上怎麼樣？",
+    "notes": [
+      {
+        "orig": "How about",
+        "phonetic": "/haʊəbaʊt/",
+        "desc": "how 尾音接上 about 開頭的 /ə/ 連讀，尾音 /t/ 在句中常不送氣或弱化。"
+      }
+    ]
+  }
+]

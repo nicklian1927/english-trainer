@@ -1,0 +1,254 @@
+[
+  {
+    "en": "This new drug alleviates cold symptoms quickly.",
+    "zh": "這種新藥能迅速緩解感冒症狀。",
+    "notes": [
+      {
+        "orig": "drug alleviates",
+        "speakText": "drug alleviates",
+        "phonetic": "druh-guh-lee-vee-ayts",
+        "desc": "drug 尾音 /g/ 連向 alleviates 的母音 /ə/，聽起來像 druh-guh。"
+      },
+      {
+        "orig": "cold symptoms",
+        "speakText": "cold symptoms",
+        "phonetic": "kohld-simp-tumz",
+        "desc": "symptoms 中間可自然滑入輕短的 /p/ 音（simp-tumz）。"
+      }
+    ]
+  },
+  {
+    "en": "The local residents were evacuated due to the forest fire.",
+    "zh": "由於森林大火，當地居民已被撤離。",
+    "notes": [
+      {
+        "orig": "were evacuated",
+        "speakText": "were evacuated",
+        "phonetic": "wer-i-vak-yoo-ay-did",
+        "desc": "were 弱讀為 wer，evacuated 中間 t 閃化為 /ɾ/。"
+      },
+      {
+        "orig": "due to",
+        "speakText": "due to",
+        "phonetic": "dyoo-tuh",
+        "desc": "to 弱讀為輕短的 tuh。"
+      },
+      {
+        "orig": "to the",
+        "speakText": "to the",
+        "phonetic": "tuh-thuh",
+        "desc": "to 與 the 雙雙弱讀為輕短音。"
+      }
+    ]
+  },
+  {
+    "en": "Over 300 wind turbines are scattered across the windy area near the ocean.",
+    "zh": "靠近海洋的多風地帶散布著超過 300 座風力發電機。",
+    "notes": [
+      {
+        "orig": "turbines are",
+        "speakText": "turbines are",
+        "phonetic": "ter-bynz-er",
+        "desc": "turbines 尾音 /z/ 連向弱讀的 are（/er/）。"
+      },
+      {
+        "orig": "scattered across",
+        "speakText": "scattered across",
+        "phonetic": "ska-ter-duh-kraws",
+        "desc": "scattered 尾音 /d/ 連向 across 的弱讀首音 /uh/。"
+      },
+      {
+        "orig": "across the",
+        "speakText": "across the",
+        "phonetic": "uh-kraws-thuh",
+        "desc": "the 弱讀為輕短的 thuh。"
+      }
+    ]
+  },
+  {
+    "en": "Bill was reprimanded by his supervisor for failing to arrive at work on time.",
+    "zh": "比爾因為沒有準時上班而受到主管申誡。",
+    "notes": [
+      {
+        "orig": "was reprimanded",
+        "speakText": "was reprimanded",
+        "phonetic": "wuz-rep-ruh-man-did",
+        "desc": "was 弱讀為 wuz，reprimanded 中間音節弱化為 ruh。"
+      },
+      {
+        "orig": "by his",
+        "speakText": "by his",
+        "phonetic": "by-iz",
+        "desc": "his 的 /h/ 弱化省略，by 滑向 iz 聽起來像 by-iz。"
+      },
+      {
+        "orig": "for failing",
+        "speakText": "for failing",
+        "phonetic": "fer-fay-ling",
+        "desc": "for 弱讀為 fer，緊接 failing。"
+      },
+      {
+        "orig": "to arrive",
+        "speakText": "to arrive",
+        "phonetic": "tuh-uh-ryv",
+        "desc": "to 與 arrive 首音節弱化連讀。"
+      },
+      {
+        "orig": "arrive at",
+        "speakText": "arrive at",
+        "phonetic": "uh-ry-vat",
+        "desc": "arrive 尾音 /v/ 連向 at 的母音 /æ/，聽起來像 uh-ry-vat。"
+      },
+      {
+        "orig": "at work",
+        "speakText": "at work",
+        "phonetic": "ut-werk",
+        "desc": "at 弱讀為 ut，緊接 work。"
+      },
+      {
+        "orig": "on time",
+        "speakText": "on time",
+        "phonetic": "ahn-tym",
+        "desc": "on 尾音 /n/ 緊接 time。"
+      }
+    ]
+  },
+  {
+    "en": "Kirsten had to look hard for a file she misplaced.",
+    "zh": "克絲汀必須費力尋找她放錯地方的檔案。",
+    "notes": [
+      {
+        "orig": "had to",
+        "speakText": "had to",
+        "phonetic": "had-tuh",
+        "desc": "to 弱讀為輕短的 tuh，緊接在 had 之後。"
+      },
+      {
+        "orig": "for a",
+        "speakText": "for a",
+        "phonetic": "fer-uh",
+        "desc": "for 弱讀為 fer，連向不定冠詞 a 聽起來像 fer-uh。"
+      }
+    ]
+  },
+  {
+    "en": "Although the economy is improving, the exchange rate continues to fluctuate.",
+    "zh": "雖然經濟正在好轉，但匯率仍在持續波動。",
+    "notes": [
+      {
+        "orig": "economy is",
+        "speakText": "economy is",
+        "phonetic": "i-kah-nuh-mee-yiz",
+        "desc": "economy 尾音母音滑向 is 的母音 /ɪ/。"
+      },
+      {
+        "orig": "continues to",
+        "speakText": "continues to",
+        "phonetic": "kun-tin-yooz-tuh",
+        "desc": "to 弱讀為 tuh，緊接在 continues 之後。"
+      },
+      {
+        "orig": "to fluctuate",
+        "speakText": "to fluctuate",
+        "phonetic": "tuh-fluk-choo-ayt",
+        "desc": "to 弱讀為 tuh，fluctuate 中的 tu 常帶有 /tʃ/ 音感。"
+      }
+    ]
+  },
+  {
+    "en": "The festival culminated in live music, a costume parade, and sword fighting.",
+    "zh": "這場節慶活動以現場音樂、變裝遊行和擊劍表演推向高潮。",
+    "notes": [
+      {
+        "orig": "culminated in",
+        "speakText": "culminated in",
+        "phonetic": "kul-muh-nay-did-in",
+        "desc": "culminated 中的 t 閃化為 /ɾ/，尾音 /d/ 連向 in。"
+      },
+      {
+        "orig": "and sword",
+        "speakText": "and sword",
+        "phonetic": "un-sord",
+        "desc": "and 弱化吞掉 /d/，sword 的 w 不發音，聽起來像 un-sord。"
+      }
+    ]
+  },
+  {
+    "en": "Pollution and global warming are jeopardizing the agricultural industry.",
+    "zh": "污染與全球暖化正危及農業。",
+    "notes": [
+      {
+        "orig": "Pollution and",
+        "speakText": "Pollution and",
+        "phonetic": "puh-loo-shun-und",
+        "desc": "Pollution 尾音 /n/ 連向弱化的 and。"
+      },
+      {
+        "orig": "warming are",
+        "speakText": "warming are",
+        "phonetic": "wor-ming-er",
+        "desc": "warming 尾音 /ŋ/ 滑向弱讀的 are（/er/）。"
+      },
+      {
+        "orig": "jeopardizing the",
+        "speakText": "jeopardizing the",
+        "phonetic": "jep-er-dy-zing-thuh",
+        "desc": "the 弱讀為輕短的 thuh。"
+      }
+    ]
+  },
+  {
+    "en": "The new taxes would aggravate the already bad economic situation in this country.",
+    "zh": "新稅制將使這個國家本已惡化的經濟情勢雪上加霜。",
+    "notes": [
+      {
+        "orig": "aggravate the",
+        "speakText": "aggravate the",
+        "phonetic": "ag-ruh-vayt-thuh",
+        "desc": "aggravate 尾音 /t/ 在 the 前吞音，接弱讀的 thuh。"
+      },
+      {
+        "orig": "in this",
+        "speakText": "in this",
+        "phonetic": "in-this",
+        "desc": "in 尾音 /n/ 緊接 this。"
+      }
+    ]
+  },
+  {
+    "en": "We've digressed from the topic, so let's get back on the right track.",
+    "zh": "我們離題了，讓我們回到正軌上吧。",
+    "notes": [
+      {
+        "orig": "from the",
+        "speakText": "from the",
+        "phonetic": "frum-thuh",
+        "desc": "from 與 the 皆弱讀為輕短的 frum-thuh。"
+      },
+      {
+        "orig": "let's get",
+        "speakText": "let's get",
+        "phonetic": "lets-get",
+        "desc": "let's 尾音 /s/ 接 get，語流明快。"
+      },
+      {
+        "orig": "get back",
+        "speakText": "get back",
+        "phonetic": "get-bak",
+        "desc": "get 尾音 /t/ 輕觸接 back。"
+      },
+      {
+        "orig": "back on",
+        "speakText": "back on",
+        "phonetic": "ba-kahn",
+        "desc": "back 尾音 /k/ 連向 on 的母音 /ɑ/，聽起來像 ba-kahn。"
+      },
+      {
+        "orig": "on the",
+        "speakText": "on the",
+        "phonetic": "ahn-thuh",
+        "desc": "the 弱讀為輕短的 thuh。"
+      }
+    ]
+  }
+]

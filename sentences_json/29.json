@@ -1,0 +1,314 @@
+[
+  {
+    "en": "Customers will be delighted by our virtual try-on services.",
+    "zh": "顧客將會對我們的虛擬試穿服務感到欣喜。",
+    "notes": [
+      {
+        "orig": "by our",
+        "speakText": "by our",
+        "phonetic": "by-owr",
+        "desc": "by 尾音輔音自然連向 our 的開頭母音，語流連成 by-owr。"
+      },
+      {
+        "orig": "our virtual",
+        "speakText": "our virtual",
+        "phonetic": "owr-ver-choo-ul",
+        "desc": "our 與前一字尾音自然連讀滑入。"
+      },
+      {
+        "orig": "try-on",
+        "speakText": "try-on",
+        "phonetic": "try-on",
+        "desc": "try 尾音輔音自然連向 on 的開頭母音，語流連成 try-on。"
+      }
+    ]
+  },
+  {
+    "en": "Some people get very nervous when they board an aircraft.",
+    "zh": "有些人在登機時會非常緊張。",
+    "notes": [
+      {
+        "orig": "board an",
+        "speakText": "board an",
+        "phonetic": "board-un",
+        "desc": "board 尾音直接連向弱讀的 an（/un/），聽起來像 board-un。"
+      },
+      {
+        "orig": "an aircraft",
+        "speakText": "an aircraft",
+        "phonetic": "un-air-kraft",
+        "desc": "an 尾音輔音自然連向 aircraft 的開頭母音，語流連成 un-air-kraft。"
+      }
+    ]
+  },
+  {
+    "en": "The dispute between the two companies is a complicated one.",
+    "zh": "這兩家公司之間的糾紛相當複雜。",
+    "notes": [
+      {
+        "orig": "The dispute",
+        "speakText": "The dispute",
+        "phonetic": "thuh-dispute",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "between the",
+        "speakText": "between the",
+        "phonetic": "between-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the two",
+        "speakText": "the two",
+        "phonetic": "thuh-two",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "companies is",
+        "speakText": "companies is",
+        "phonetic": "companies-is",
+        "desc": "companies 尾音輔音自然連向 is 的開頭母音，語流連成 companies-is。"
+      },
+      {
+        "orig": "is a",
+        "speakText": "is a",
+        "phonetic": "is-uh",
+        "desc": "is 尾音直接連向弱讀的 a（/uh/），聽起來像 is-uh。"
+      }
+    ]
+  },
+  {
+    "en": "Only approved employees have access to sensitive internal information.",
+    "zh": "只有獲得授權的員工才能存取機密的內部資訊。",
+    "notes": [
+      {
+        "orig": "Only approved",
+        "speakText": "Only approved",
+        "phonetic": "only-uh-proovd",
+        "desc": "Only 尾音輔音自然連向 approved 的開頭母音，語流連成 only-uh-proovd。"
+      },
+      {
+        "orig": "approved employees",
+        "speakText": "approved employees",
+        "phonetic": "uh-proovd-em-ploy-eez",
+        "desc": "approved 尾音輔音自然連向 employees 的開頭母音，語流連成 uh-proovd-em-ploy-eez。"
+      },
+      {
+        "orig": "employees have",
+        "speakText": "employees have",
+        "phonetic": "em-ploy-eez-huv",
+        "desc": "助動詞 have 弱讀為輕短的 /huv/。"
+      },
+      {
+        "orig": "have access",
+        "speakText": "have access",
+        "phonetic": "huv-access",
+        "desc": "助動詞 have 弱讀為輕短的 /huv/。"
+      },
+      {
+        "orig": "access to",
+        "speakText": "access to",
+        "phonetic": "access-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "Please be patient when waiting for a response to your inquiry.",
+    "zh": "等候您的詢問回覆時，請耐心稍候。",
+    "notes": [
+      {
+        "orig": "patient when",
+        "speakText": "patient when",
+        "phonetic": "pay-shunt-when",
+        "desc": "patient 字尾塞音在後續輔音 /w/ 前發生吞音（無聲除阻），直接滑向 when。"
+      },
+      {
+        "orig": "waiting for",
+        "speakText": "waiting for",
+        "phonetic": "waiting-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for a",
+        "speakText": "for a",
+        "phonetic": "fer-uh",
+        "desc": "for 尾音直接連向弱讀的 a（/uh/），聽起來像 fer-uh。"
+      },
+      {
+        "orig": "a response",
+        "speakText": "a response",
+        "phonetic": "uh-response",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "response to",
+        "speakText": "response to",
+        "phonetic": "response-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "I'm seeking a permanent position, not a temporary one.",
+    "zh": "我在尋找正職工作，而非臨時職位。",
+    "notes": [
+      {
+        "orig": "seeking a",
+        "speakText": "seeking a",
+        "phonetic": "seeking-uh",
+        "desc": "seeking 尾音直接連向弱讀的 a（/uh/），聽起來像 seeking-uh。"
+      },
+      {
+        "orig": "a permanent",
+        "speakText": "a permanent",
+        "phonetic": "uh-per-muh-nunt",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "permanent position",
+        "speakText": "permanent position",
+        "phonetic": "per-muh-nunt-posishun",
+        "desc": "permanent 字尾塞音在後續輔音 /p/ 前發生吞音（無聲除阻），直接滑向 position。"
+      },
+      {
+        "orig": "not a",
+        "speakText": "not a",
+        "phonetic": "no-duh",
+        "desc": "not 字尾 /t/ 夾在母音間閃化為輕彈音 /ɾ/，與 a 連讀成 no-duh。"
+      },
+      {
+        "orig": "a temporary",
+        "speakText": "a temporary",
+        "phonetic": "uh-tem-puh-rer-ee",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      }
+    ]
+  },
+  {
+    "en": "Mr. Danforth's low rank made him feel inferior.",
+    "zh": "丹佛斯先生職級較低，這讓他覺得低人一等。",
+    "notes": [
+      {
+        "orig": "made him",
+        "speakText": "made him",
+        "phonetic": "made-im",
+        "desc": "him 開頭的 /h/ 在連讀時常弱化省略，與前一字尾音黏連。"
+      },
+      {
+        "orig": "him feel",
+        "speakText": "him feel",
+        "phonetic": "im-feel",
+        "desc": "him 開頭的 /h/ 在連讀時常弱化省略，與前一字尾音黏連。"
+      },
+      {
+        "orig": "feel inferior",
+        "speakText": "feel inferior",
+        "phonetic": "feel-in-feer-ee-er",
+        "desc": "feel 尾音輔音自然連向 inferior 的開頭母音，語流連成 feel-in-feer-ee-er。"
+      }
+    ]
+  },
+  {
+    "en": "My wife left this morning for an overnight business trip.",
+    "zh": "我太太今天早上出發去進行過夜出差。",
+    "notes": [
+      {
+        "orig": "left this",
+        "speakText": "left this",
+        "phonetic": "left-this",
+        "desc": "left 字尾塞音在後續輔音 /t/ 前發生吞音（無聲除阻），直接滑向 this。"
+      },
+      {
+        "orig": "morning for",
+        "speakText": "morning for",
+        "phonetic": "morning-fer",
+        "desc": "for 弱讀為短促的 /fer/，與後續詞緊密相連。"
+      },
+      {
+        "orig": "for an",
+        "speakText": "for an",
+        "phonetic": "fer-un",
+        "desc": "for 尾音直接連向弱讀的 an（/un/），聽起來像 fer-un。"
+      },
+      {
+        "orig": "an overnight",
+        "speakText": "an overnight",
+        "phonetic": "un-oh-ver-nyt",
+        "desc": "an 尾音輔音自然連向 overnight 的開頭母音，語流連成 un-oh-ver-nyt。"
+      }
+    ]
+  },
+  {
+    "en": "Ms. Kramer got a clerical job at a law firm downtown.",
+    "zh": "克萊默女士在市中心一家律師事務所找到一份行政文書工作。",
+    "notes": [
+      {
+        "orig": "got a",
+        "speakText": "got a",
+        "phonetic": "go-duh",
+        "desc": "got 字尾 /t/ 夾在母音間閃化為輕彈音 /ɾ/，與 a 連讀成 go-duh。"
+      },
+      {
+        "orig": "a clerical",
+        "speakText": "a clerical",
+        "phonetic": "uh-kler-i-kul",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "job at",
+        "speakText": "job at",
+        "phonetic": "job-ut",
+        "desc": "job 尾音直接連向弱讀的 at（/ut/），聽起來像 job-ut。"
+      },
+      {
+        "orig": "at a",
+        "speakText": "at a",
+        "phonetic": "u-duh",
+        "desc": "at 字尾 /t/ 夾在母音間閃化為輕彈音 /ɾ/，與 a 連讀成 u-duh。"
+      },
+      {
+        "orig": "a law",
+        "speakText": "a law",
+        "phonetic": "uh-law",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      }
+    ]
+  },
+  {
+    "en": "Paper has got jammed in the copier again.",
+    "zh": "影印機又卡紙了。",
+    "notes": [
+      {
+        "orig": "Paper has",
+        "speakText": "Paper has",
+        "phonetic": "paper-huz",
+        "desc": "助動詞 has 弱讀為輕短的 /huz/。"
+      },
+      {
+        "orig": "has got",
+        "speakText": "has got",
+        "phonetic": "huz-got",
+        "desc": "助動詞 has 弱讀為輕短的 /huz/。"
+      },
+      {
+        "orig": "jammed in",
+        "speakText": "jammed in",
+        "phonetic": "jammd-in",
+        "desc": "jammed 尾音輔音自然連向 in 的開頭母音，語流連成 jammd-in。"
+      },
+      {
+        "orig": "in the",
+        "speakText": "in the",
+        "phonetic": "in-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the copier",
+        "speakText": "the copier",
+        "phonetic": "thuh-copier",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  }
+]

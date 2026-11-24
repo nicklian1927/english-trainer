@@ -1,0 +1,326 @@
+[
+  {
+    "en": "The report predicts a significant increase in oil prices.",
+    "zh": "這份報告預測油價將大幅上漲。",
+    "notes": [
+      {
+        "orig": "The report",
+        "speakText": "The report",
+        "phonetic": "thuh-report",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "predicts a",
+        "speakText": "predicts a",
+        "phonetic": "predicts-uh",
+        "desc": "predicts 尾音直接連向弱讀的 a（/uh/），聽起來像 predicts-uh。"
+      },
+      {
+        "orig": "a significant",
+        "speakText": "a significant",
+        "phonetic": "uh-sig-nif-i-kunt",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "significant increase",
+        "speakText": "significant increase",
+        "phonetic": "sig-nif-i-kunt-in-krees",
+        "desc": "significant 尾音輔音自然連向 increase 的開頭母音，語流連成 sig-nif-i-kunt-in-krees。"
+      },
+      {
+        "orig": "in oil",
+        "speakText": "in oil",
+        "phonetic": "in-oil",
+        "desc": "in 尾音輔音自然連向 oil 的開頭母音，語流連成 in-oil。"
+      }
+    ]
+  },
+  {
+    "en": "Can you be more specific?",
+    "zh": "你能說得更具體一點嗎？",
+    "notes": [
+      {
+        "orig": "Can you",
+        "speakText": "Can you",
+        "phonetic": "kun-you",
+        "desc": "助動詞 can 在非重讀位置弱讀為 /kun/。"
+      }
+    ]
+  },
+  {
+    "en": "These classes take students from elementary to advanced level.",
+    "zh": "這些課程帶領學生從初級一路進階到高級程度。",
+    "notes": [
+      {
+        "orig": "students from",
+        "speakText": "students from",
+        "phonetic": "students-frum",
+        "desc": "介系詞 from 弱讀為輕短的 /frum/。"
+      },
+      {
+        "orig": "from elementary",
+        "speakText": "from elementary",
+        "phonetic": "frum-el-uh-men-tree",
+        "desc": "from 尾音輔音自然連向 elementary 的開頭母音，語流連成 frum-el-uh-men-tree。"
+      },
+      {
+        "orig": "elementary to",
+        "speakText": "elementary to",
+        "phonetic": "el-uh-men-tree-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to advanced",
+        "speakText": "to advanced",
+        "phonetic": "tuh-ud-vanst",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "This isn't a top brand, but is fairly popular among young people.",
+    "zh": "這不是頂級品牌，但在年輕人之間相當受歡迎。",
+    "notes": [
+      {
+        "orig": "This isn't",
+        "speakText": "This isn't",
+        "phonetic": "this-isn't",
+        "desc": "This 尾音輔音自然連向 isn't 的開頭母音，語流連成 this-isn't。"
+      },
+      {
+        "orig": "isn't a",
+        "speakText": "isn't a",
+        "phonetic": "isn't-uh",
+        "desc": "isn't 尾音直接連向弱讀的 a（/uh/），聽起來像 isn't-uh。"
+      },
+      {
+        "orig": "a top",
+        "speakText": "a top",
+        "phonetic": "uh-top",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "but is",
+        "speakText": "but is",
+        "phonetic": "buh-dis",
+        "desc": "but 字尾 /t/ 夾在母音間閃化為輕彈音 /ɾ/，與 is 連讀成 buh-dis。"
+      },
+      {
+        "orig": "popular among",
+        "speakText": "popular among",
+        "phonetic": "pahp-yuh-ler-among",
+        "desc": "popular 尾音輔音自然連向 among 的開頭母音，語流連成 pahp-yuh-ler-among。"
+      }
+    ]
+  },
+  {
+    "en": "The boss was initially opposed to my proposal.",
+    "zh": "老闆起初反對我的提案。",
+    "notes": [
+      {
+        "orig": "The boss",
+        "speakText": "The boss",
+        "phonetic": "thuh-boss",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "boss was",
+        "speakText": "boss was",
+        "phonetic": "boss-wuz",
+        "desc": "was 弱讀為輕短的 /wuz/。"
+      },
+      {
+        "orig": "was initially",
+        "speakText": "was initially",
+        "phonetic": "wuz-i-nish-uh-lee",
+        "desc": "was 尾音輔音自然連向 initially 的開頭母音，語流連成 wuz-i-nish-uh-lee。"
+      },
+      {
+        "orig": "initially opposed",
+        "speakText": "initially opposed",
+        "phonetic": "i-nish-uh-lee-uh-pohzd",
+        "desc": "initially 尾音輔音自然連向 opposed 的開頭母音，語流連成 i-nish-uh-lee-uh-pohzd。"
+      },
+      {
+        "orig": "opposed to",
+        "speakText": "opposed to",
+        "phonetic": "uh-pohzd-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "Please contact the manufacturer immediately if there are any defects found in the product.",
+    "zh": "若發現產品有任何瑕疵，請立即聯繫製造商。",
+    "notes": [
+      {
+        "orig": "contact the",
+        "speakText": "contact the",
+        "phonetic": "kahn-takt-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the manufacturer",
+        "speakText": "the manufacturer",
+        "phonetic": "thuh-man-yuh-fak-cher-er",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "manufacturer immediately",
+        "speakText": "manufacturer immediately",
+        "phonetic": "man-yuh-fak-cher-er-i-mee-dee-ut-lee",
+        "desc": "manufacturer 尾音輔音自然連向 immediately 的開頭母音，語流連成 man-yuh-fak-cher-er-i-mee-dee-ut-lee。"
+      },
+      {
+        "orig": "immediately if",
+        "speakText": "immediately if",
+        "phonetic": "i-mee-dee-ut-lee-if",
+        "desc": "immediately 尾音輔音自然連向 if 的開頭母音，語流連成 i-mee-dee-ut-lee-if。"
+      },
+      {
+        "orig": "there are",
+        "speakText": "there are",
+        "phonetic": "there-er",
+        "desc": "be 動詞 are 在非重讀位置弱讀為 /er/。"
+      }
+    ]
+  },
+  {
+    "en": "Jan and Susan are certainly welcome to join us for dinner tonight.",
+    "zh": "當然歡迎珍和蘇珊今晚一起來吃晚餐。",
+    "notes": [
+      {
+        "orig": "Jan and",
+        "speakText": "Jan and",
+        "phonetic": "jan-un",
+        "desc": "Jan 尾音輔音自然連向 and 的開頭母音，語流連成 jan-un。"
+      },
+      {
+        "orig": "and Susan",
+        "speakText": "and Susan",
+        "phonetic": "un-susan",
+        "desc": "and 字尾塞音在後續輔音 /s/ 前發生吞音（無聲除阻），直接滑向 Susan。"
+      },
+      {
+        "orig": "Susan are",
+        "speakText": "Susan are",
+        "phonetic": "susan-er",
+        "desc": "Susan 尾音直接連向弱讀的 are（/er/），聽起來像 susan-er。"
+      },
+      {
+        "orig": "are certainly",
+        "speakText": "are certainly",
+        "phonetic": "er-ser-tn-lee",
+        "desc": "be 動詞 are 在非重讀位置弱讀為 /er/。"
+      },
+      {
+        "orig": "welcome to",
+        "speakText": "welcome to",
+        "phonetic": "welcome-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "Relatively affluent people tend to buy this product line.",
+    "zh": "相對富裕的族群傾向購買這個產品系列。",
+    "notes": [
+      {
+        "orig": "Relatively affluent",
+        "speakText": "Relatively affluent",
+        "phonetic": "rel-uh-tiv-lee-af-loo-unt",
+        "desc": "Relatively 尾音輔音自然連向 affluent 的開頭母音，語流連成 rel-uh-tiv-lee-af-loo-unt。"
+      },
+      {
+        "orig": "affluent people",
+        "speakText": "affluent people",
+        "phonetic": "af-loo-unt-people",
+        "desc": "affluent 字尾塞音在後續輔音 /p/ 前發生吞音（無聲除阻），直接滑向 people。"
+      },
+      {
+        "orig": "tend to",
+        "speakText": "tend to",
+        "phonetic": "tend-tuh",
+        "desc": "tend 字尾塞音在後續輔音 /t/ 前發生吞音（無聲除阻），直接滑向 to。"
+      },
+      {
+        "orig": "to buy",
+        "speakText": "to buy",
+        "phonetic": "tuh-buy",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "We sat in the back row and could hardly hear the speaker.",
+    "zh": "我們坐在後排，幾乎聽不到講者的聲音。",
+    "notes": [
+      {
+        "orig": "sat in",
+        "speakText": "sat in",
+        "phonetic": "sa-din",
+        "desc": "sat 字尾 /t/ 夾在母音間閃化為輕彈音 /ɾ/，與 in 連讀成 sa-din。"
+      },
+      {
+        "orig": "in the",
+        "speakText": "in the",
+        "phonetic": "in-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the back",
+        "speakText": "the back",
+        "phonetic": "thuh-back",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "row and",
+        "speakText": "row and",
+        "phonetic": "row-un",
+        "desc": "row 尾音輔音自然連向 and 的開頭母音，語流連成 row-un。"
+      },
+      {
+        "orig": "and could",
+        "speakText": "and could",
+        "phonetic": "un-could",
+        "desc": "and 字尾塞音在後續輔音 /c/ 前發生吞音（無聲除阻），直接滑向 could。"
+      }
+    ]
+  },
+  {
+    "en": "Actually, I am the manager of the Miami branch, not the Houston one.",
+    "zh": "其實我是邁阿密分公司的經理，不是休士頓分公司的。",
+    "notes": [
+      {
+        "orig": "am the",
+        "speakText": "am the",
+        "phonetic": "am-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the manager",
+        "speakText": "the manager",
+        "phonetic": "thuh-manager",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "manager of",
+        "speakText": "manager of",
+        "phonetic": "manager-uh",
+        "desc": "manager 尾音直接連向弱讀的 of（/uh/），聽起來像 manager-uh。"
+      },
+      {
+        "orig": "of the",
+        "speakText": "of the",
+        "phonetic": "uh-thuh",
+        "desc": "of 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 uh-thuh。"
+      },
+      {
+        "orig": "the Miami",
+        "speakText": "the Miami",
+        "phonetic": "thuh-miami",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  }
+]

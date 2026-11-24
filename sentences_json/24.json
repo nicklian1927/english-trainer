@@ -1,0 +1,338 @@
+[
+  {
+    "en": "Many women are becoming more and more frustrated with domestic chores.",
+    "zh": "許多女性對家務事感到越來越挫折。",
+    "notes": [
+      {
+        "orig": "women are",
+        "speakText": "women are",
+        "phonetic": "women-er",
+        "desc": "women 尾音直接連向弱讀的 are（/er/），聽起來像 women-er。"
+      },
+      {
+        "orig": "are becoming",
+        "speakText": "are becoming",
+        "phonetic": "er-bi-kum-ing",
+        "desc": "be 動詞 are 在非重讀位置弱讀為 /er/。"
+      },
+      {
+        "orig": "more and",
+        "speakText": "more and",
+        "phonetic": "more-un",
+        "desc": "連接詞 and 常弱化並吞掉字尾 /d/，唸成輕短的 /un/。"
+      },
+      {
+        "orig": "and more",
+        "speakText": "and more",
+        "phonetic": "un-more",
+        "desc": "and 字尾塞音在後續輔音 /m/ 前發生吞音（無聲除阻），直接滑向 more。"
+      }
+    ]
+  },
+  {
+    "en": "Bus route 381 serves opposite sides of the city.",
+    "zh": "381 號公車路線行駛於城市的兩端。",
+    "notes": [
+      {
+        "orig": "serves opposite",
+        "speakText": "serves opposite",
+        "phonetic": "serves-ah-puh-zit",
+        "desc": "serves 尾音輔音自然連向 opposite 的開頭母音，語流連成 serves-ah-puh-zit。"
+      },
+      {
+        "orig": "sides of",
+        "speakText": "sides of",
+        "phonetic": "sides-uh",
+        "desc": "sides 尾音直接連向弱讀的 of（/uh/），聽起來像 sides-uh。"
+      },
+      {
+        "orig": "of the",
+        "speakText": "of the",
+        "phonetic": "uh-thuh",
+        "desc": "of 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 uh-thuh。"
+      },
+      {
+        "orig": "the city",
+        "speakText": "the city",
+        "phonetic": "thuh-city",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "The staff had a meeting to find a reasonable solution to the problem.",
+    "zh": "員工們開會尋找解決這個問題的合理方案。",
+    "notes": [
+      {
+        "orig": "The staff",
+        "speakText": "The staff",
+        "phonetic": "thuh-staff",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "had a",
+        "speakText": "had a",
+        "phonetic": "had-uh",
+        "desc": "had 尾音直接連向弱讀的 a（/uh/），聽起來像 had-uh。"
+      },
+      {
+        "orig": "a meeting",
+        "speakText": "a meeting",
+        "phonetic": "uh-meeting",
+        "desc": "不定冠詞 a 弱讀為輕短的 /uh/。"
+      },
+      {
+        "orig": "meeting to",
+        "speakText": "meeting to",
+        "phonetic": "meeting-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to find",
+        "speakText": "to find",
+        "phonetic": "tuh-find",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "Please stay on the line and the next available agent will help you.",
+    "zh": "請在線上稍候，下一位有空的客服人員將為您服務。",
+    "notes": [
+      {
+        "orig": "stay on",
+        "speakText": "stay on",
+        "phonetic": "stay-on",
+        "desc": "stay 尾音輔音自然連向 on 的開頭母音，語流連成 stay-on。"
+      },
+      {
+        "orig": "on the",
+        "speakText": "on the",
+        "phonetic": "on-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the line",
+        "speakText": "the line",
+        "phonetic": "thuh-line",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "line and",
+        "speakText": "line and",
+        "phonetic": "line-un",
+        "desc": "連接詞 and 常弱化並吞掉字尾 /d/，唸成輕短的 /un/。"
+      },
+      {
+        "orig": "and the",
+        "speakText": "and the",
+        "phonetic": "un-thuh",
+        "desc": "and 字尾塞音在後續輔音 /t/ 前發生吞音（無聲除阻），直接滑向 the。"
+      }
+    ]
+  },
+  {
+    "en": "The contract was changed except for its essential terms.",
+    "zh": "除了核心條款之外，合約內容已做修改。",
+    "notes": [
+      {
+        "orig": "The contract",
+        "speakText": "The contract",
+        "phonetic": "thuh-kahn-trakt",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "contract was",
+        "speakText": "contract was",
+        "phonetic": "kahn-trakt-wuz",
+        "desc": "was 弱讀為輕短的 /wuz/。"
+      },
+      {
+        "orig": "was changed",
+        "speakText": "was changed",
+        "phonetic": "wuz-changd",
+        "desc": "was 弱讀為輕短的 /wuz/。"
+      },
+      {
+        "orig": "changed except",
+        "speakText": "changed except",
+        "phonetic": "changd-ik-sept",
+        "desc": "changed 尾音輔音自然連向 except 的開頭母音，語流連成 changd-ik-sept。"
+      },
+      {
+        "orig": "except for",
+        "speakText": "except for",
+        "phonetic": "ik-sept-fer",
+        "desc": "except 字尾塞音在後續輔音 /f/ 前發生吞音（無聲除阻），直接滑向 for。"
+      }
+    ]
+  },
+  {
+    "en": "The accountant neglected to pay the amount due on the bill.",
+    "zh": "會計師疏忽了支付帳單上的到期應付款項。",
+    "notes": [
+      {
+        "orig": "The accountant",
+        "speakText": "The accountant",
+        "phonetic": "thuh-uh-koun-tunt",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "accountant neglected",
+        "speakText": "accountant neglected",
+        "phonetic": "uh-koun-tunt-ni-glek-tid",
+        "desc": "accountant 字尾塞音在後續輔音 /n/ 前發生吞音（無聲除阻），直接滑向 neglected。"
+      },
+      {
+        "orig": "neglected to",
+        "speakText": "neglected to",
+        "phonetic": "ni-glek-tid-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to pay",
+        "speakText": "to pay",
+        "phonetic": "tuh-pay",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "pay the",
+        "speakText": "pay the",
+        "phonetic": "pay-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "There is an apparent advantage to hiring a headhunter when making a career change.",
+    "zh": "轉職時聘請獵人頭顧問有明顯的優勢。",
+    "notes": [
+      {
+        "orig": "is an",
+        "speakText": "is an",
+        "phonetic": "is-un",
+        "desc": "is 尾音直接連向弱讀的 an（/un/），聽起來像 is-un。"
+      },
+      {
+        "orig": "an apparent",
+        "speakText": "an apparent",
+        "phonetic": "un-uh-par-unt",
+        "desc": "an 尾音輔音自然連向 apparent 的開頭母音，語流連成 un-uh-par-unt。"
+      },
+      {
+        "orig": "apparent advantage",
+        "speakText": "apparent advantage",
+        "phonetic": "uh-par-unt-ud-van-tij",
+        "desc": "apparent 尾音輔音自然連向 advantage 的開頭母音，語流連成 uh-par-unt-ud-van-tij。"
+      },
+      {
+        "orig": "advantage to",
+        "speakText": "advantage to",
+        "phonetic": "ud-van-tij-tuh",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      },
+      {
+        "orig": "to hiring",
+        "speakText": "to hiring",
+        "phonetic": "tuh-hy-ring",
+        "desc": "to 處於非重讀位置，母音弱讀為輕短的 /tuh/。"
+      }
+    ]
+  },
+  {
+    "en": "We received an urgent message from the boss calling for an emergency meeting.",
+    "zh": "我們收到老闆的緊急訊息，要求召開緊急會議。",
+    "notes": [
+      {
+        "orig": "received an",
+        "speakText": "received an",
+        "phonetic": "receivd-un",
+        "desc": "received 尾音直接連向弱讀的 an（/un/），聽起來像 receivd-un。"
+      },
+      {
+        "orig": "an urgent",
+        "speakText": "an urgent",
+        "phonetic": "un-er-junt",
+        "desc": "an 尾音輔音自然連向 urgent 的開頭母音，語流連成 un-er-junt。"
+      },
+      {
+        "orig": "urgent message",
+        "speakText": "urgent message",
+        "phonetic": "er-junt-mes-ij",
+        "desc": "urgent 字尾塞音在後續輔音 /m/ 前發生吞音（無聲除阻），直接滑向 message。"
+      },
+      {
+        "orig": "message from",
+        "speakText": "message from",
+        "phonetic": "mes-ij-frum",
+        "desc": "介系詞 from 弱讀為輕短的 /frum/。"
+      },
+      {
+        "orig": "from the",
+        "speakText": "from the",
+        "phonetic": "frum-thuh",
+        "desc": "from 與 the 皆為非重讀功能詞，雙雙弱讀並連成輕短的 frum-thuh。"
+      }
+    ]
+  },
+  {
+    "en": "The exchange rate remained stable throughout the week.",
+    "zh": "整週的匯率維持穩定。",
+    "notes": [
+      {
+        "orig": "The exchange",
+        "speakText": "The exchange",
+        "phonetic": "thuh-exchange",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "throughout the",
+        "speakText": "throughout the",
+        "phonetic": "throo-out-thuh",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "the week",
+        "speakText": "the week",
+        "phonetic": "thuh-week",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      }
+    ]
+  },
+  {
+    "en": "The retail sector is highly competitive and many shops close after one year in business.",
+    "zh": "零售業競爭非常激烈，許多店家開業一年後就歇業了。",
+    "notes": [
+      {
+        "orig": "The retail",
+        "speakText": "The retail",
+        "phonetic": "thuh-retail",
+        "desc": "定冠詞 the 弱讀為輕短的 /thuh/。"
+      },
+      {
+        "orig": "sector is",
+        "speakText": "sector is",
+        "phonetic": "sector-is",
+        "desc": "sector 尾音輔音自然連向 is 的開頭母音，語流連成 sector-is。"
+      },
+      {
+        "orig": "competitive and",
+        "speakText": "competitive and",
+        "phonetic": "kum-pe-duh-tiv-un",
+        "desc": "連接詞 and 常弱化並吞掉字尾 /d/，唸成輕短的 /un/。"
+      },
+      {
+        "orig": "and many",
+        "speakText": "and many",
+        "phonetic": "un-many",
+        "desc": "and 字尾塞音在後續輔音 /m/ 前發生吞音（無聲除阻），直接滑向 many。"
+      },
+      {
+        "orig": "after one",
+        "speakText": "after one",
+        "phonetic": "after-one",
+        "desc": "after 尾音輔音自然連向 one 的開頭母音，語流連成 after-one。"
+      }
+    ]
+  }
+]

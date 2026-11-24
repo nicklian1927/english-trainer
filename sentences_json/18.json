@@ -1,0 +1,224 @@
+[
+  {
+    "en": "The government imposed a new tax on goods and services.",
+    "zh": "政府對商品與服務課徵了新稅。",
+    "notes": [
+      {
+        "orig": "imposed a",
+        "speakText": "imposed a",
+        "phonetic": "im-poh-zuh",
+        "desc": "imposed 尾音 /d/ 連向不定冠詞 a，聽起來像 poh-zuh。"
+      },
+      {
+        "orig": "tax on",
+        "speakText": "tax on",
+        "phonetic": "tak-sahn",
+        "desc": "tax 尾音 /ks/ 連向 on 的母音 /ɑ/，聽起來像 tak-sahn。"
+      },
+      {
+        "orig": "and services",
+        "speakText": "and services",
+        "phonetic": "un-ser-vi-siz",
+        "desc": "and 弱化吞掉 /d/，聽起來像 un-ser-vi-siz。"
+      }
+    ]
+  },
+  {
+    "en": "The secretary classified the documents by level of importance.",
+    "zh": "秘書依重要程度將文件分類。",
+    "notes": [
+      {
+        "orig": "classified the",
+        "speakText": "classified the",
+        "phonetic": "klas-uh-fy-did-thuh",
+        "desc": "classified 尾音 /d/ 接弱讀的 thuh。"
+      },
+      {
+        "orig": "level of",
+        "speakText": "level of",
+        "phonetic": "lev-ul-uh",
+        "desc": "level 尾音 /l/ 連向弱讀的 of（/uh/）。"
+      }
+    ]
+  },
+  {
+    "en": "Assembly line 7 resumed operating in the display factory after some repairs.",
+    "zh": "經過一些維修後，顯示器工廠的 7 號生產線恢復運作。",
+    "notes": [
+      {
+        "orig": "operating in",
+        "speakText": "operating in",
+        "phonetic": "ah-puh-ray-ding-in",
+        "desc": "operating 中的 t 閃化為 /ɾ/，尾音 /ŋ/ 連向 in。"
+      },
+      {
+        "orig": "in the",
+        "speakText": "in the",
+        "phonetic": "in-thuh",
+        "desc": "the 弱讀為輕短的 thuh。"
+      },
+      {
+        "orig": "after some",
+        "speakText": "after some",
+        "phonetic": "af-ter-sum",
+        "desc": "some 弱讀為輕短的 sum。"
+      }
+    ]
+  },
+  {
+    "en": "Matthew discarded the file and couldn't retrieve it.",
+    "zh": "馬修把那份檔案丟棄了，結果再也找不回來。",
+    "notes": [
+      {
+        "orig": "discarded the",
+        "speakText": "discarded the",
+        "phonetic": "di-skar-did-thuh",
+        "desc": "discarded 尾音 /d/ 接弱讀的 thuh。"
+      },
+      {
+        "orig": "file and",
+        "speakText": "file and",
+        "phonetic": "fyl-und",
+        "desc": "file 尾音 /l/ 連向弱化的 and。"
+      },
+      {
+        "orig": "retrieve it",
+        "speakText": "retrieve it",
+        "phonetic": "ri-tree-vit",
+        "desc": "retrieve 尾音 /v/ 連向 it 的母音 /ɪ/，聽起來像 ri-tree-vit。"
+      }
+    ]
+  },
+  {
+    "en": "Most of the staff found it difficult to conform to the company's policy.",
+    "zh": "大多數員工覺得很難配合公司的政策。",
+    "notes": [
+      {
+        "orig": "Most of",
+        "speakText": "Most of",
+        "phonetic": "mohs-tuh",
+        "desc": "Most 尾音 /t/ 連向弱讀的 of（/uh/），聽起來像 mohs-tuh。"
+      },
+      {
+        "orig": "of the",
+        "speakText": "of the",
+        "phonetic": "uh-thuh",
+        "desc": "of 與 the 雙雙弱讀為輕短音。"
+      },
+      {
+        "orig": "found it",
+        "speakText": "found it",
+        "phonetic": "fown-dit",
+        "desc": "found 尾音 /d/ 連向 it 的母音 /ɪ/，聽起來像 fown-dit。"
+      },
+      {
+        "orig": "to conform",
+        "speakText": "to conform",
+        "phonetic": "tuh-kun-form",
+        "desc": "to 弱讀為 tuh，conform 首音節弱化為 kun。"
+      },
+      {
+        "orig": "conform to",
+        "speakText": "conform to",
+        "phonetic": "kun-form-tuh",
+        "desc": "to 弱讀為輕短的 tuh。"
+      }
+    ]
+  },
+  {
+    "en": "The museum waives the admission fees for city residents.",
+    "zh": "該博物館免除市民的入場費。",
+    "notes": [
+      {
+        "orig": "waives the",
+        "speakText": "waives the",
+        "phonetic": "wayvz-thuh",
+        "desc": "the 弱讀為輕短的 thuh。"
+      },
+      {
+        "orig": "for city",
+        "speakText": "for city",
+        "phonetic": "fer-si-dee",
+        "desc": "for 弱讀為 fer，city 中間的 t 閃化為 /ɾ/。"
+      }
+    ]
+  },
+  {
+    "en": "The rule forbids loitering on the museum grounds.",
+    "zh": "該規定禁止在博物館園區內逗留徘徊。",
+    "notes": [
+      {
+        "orig": "on the",
+        "speakText": "on the",
+        "phonetic": "ahn-thuh",
+        "desc": "the 弱讀為輕短的 thuh。"
+      }
+    ]
+  },
+  {
+    "en": "Larry's license was revoked after the traffic accident.",
+    "zh": "發生車禍後，賴瑞的駕照被吊銷了。",
+    "notes": [
+      {
+        "orig": "was revoked",
+        "speakText": "was revoked",
+        "phonetic": "wuz-ri-vohkt",
+        "desc": "was 弱讀為 wuz，revoked 重音落在 vohkt。"
+      },
+      {
+        "orig": "after the",
+        "speakText": "after the",
+        "phonetic": "af-ter-thuh",
+        "desc": "the 弱讀為輕短的 thuh。"
+      }
+    ]
+  },
+  {
+    "en": "I can squeeze that appointment in at 3 tomorrow.",
+    "zh": "我明天下午三點可以幫你把那個預約擠進去。",
+    "notes": [
+      {
+        "orig": "can squeeze",
+        "speakText": "can squeeze",
+        "phonetic": "kun-skweez",
+        "desc": "助動詞 can 弱化為 kun，接 squeeze。"
+      },
+      {
+        "orig": "that appointment",
+        "speakText": "that appointment",
+        "phonetic": "thut-uh-poynt-munt",
+        "desc": "that 弱讀為 thut，尾音 /t/ 連向 appointment 的弱讀首音 /uh/。"
+      },
+      {
+        "orig": "in at",
+        "speakText": "in at",
+        "phonetic": "i-nat",
+        "desc": "in 尾音 /n/ 連向 at 的母音 /æ/，聽起來像 i-nat。"
+      }
+    ]
+  },
+  {
+    "en": "An oil shortage will drive up gas prices and compel fuel conservation.",
+    "zh": "石油短缺將推升油價，並促使節約能源。",
+    "notes": [
+      {
+        "orig": "An oil",
+        "speakText": "An oil",
+        "phonetic": "un-oyl",
+        "desc": "An 弱讀為 un，尾音 /n/ 連向 oil 的母音 /ɔɪ/。"
+      },
+      {
+        "orig": "drive up",
+        "speakText": "drive up",
+        "phonetic": "dry-vup",
+        "desc": "drive 尾音 /v/ 連向 up 的母音 /ʌ/，聽起來像 dry-vup。"
+      },
+      {
+        "orig": "and compel",
+        "speakText": "and compel",
+        "phonetic": "un-kum-pel",
+        "desc": "and 弱化吞掉 /d/，compel 首音節弱化為 kum。"
+      }
+    ]
+  }
+]
