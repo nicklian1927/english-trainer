@@ -1,13 +1,13 @@
 {
   "sourceRepoTreeUrl": "https://github.com/nicklian1927/english-trainer/tree/resource",
   "articles": {
-    "baseUrl": "https://raw.githubusercontent.com/nicklian1927/english-trainer/resource/articles_json/",
+    "baseUrl": "https://raw.githubusercontent.com/nicklian1927/english-trainer/refs/heads/resource/articles_json/",
     "folderName": "articles_json",
     "manifestFile": "manifest.json",
     "files": []
   },
   "sentences": {
-    "baseUrl": "https://raw.githubusercontent.com/nicklian1927/english-trainer/resource/sentences_json/",
+    "baseUrl": "https://raw.githubusercontent.com/nicklian1927/english-trainer/refs/heads/resource/sentences_json/",
     "folderName": "sentences_json",
     "manifestFile": "manifest.json",
     "files": []
