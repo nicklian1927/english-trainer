@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>短句盲聽與10次跟讀訓練器（高速並行載入版）</title>
+<link rel="stylesheet" href="./styles/base.css">
+<link rel="stylesheet" href="./styles/sentence.css">
+</head>
+<body>
+
+<div class="container">
+  <div class="header">
+    <h1>🎧 短句盲聽＋連音單點跟讀訓練</h1>
+    <span class="badge" id="progressBadge">掃描中...</span>
+  </div>
+
+  <div class="card">
+    <div class="loader-bar">
+      <div class="loader-top">
+        <select id="deckSelect" class="deck-select" title="切換 sentences_json 內的 JSON 檔案">
+          <option value="">掃描 sentences_json 中...</option>
+        </select>
+        <div class="loader-actions">
+          <button type="button" class="btn-secondary" id="rescanBtn">🔄 重新掃描資料夾</button>
+          <button type="button" class="btn-secondary" id="manualPickBtn">📄 手動選檔</button>
+        </div>
+      </div>
+      <input type="file" id="filesInput" multiple accept=".json,application/json" style="display:none">
+      <div class="status-hint" id="deckStatus">啟動時會依 <code>config.json</code> 設定並行掃描並載入 <code>sentences_json</code> 內的 <code>.json</code> 檔案。</div>
+
+      <div class="all-sentences-bar">
+        <button type="button" class="btn-toggle-all" id="toggleAllSentencesBtn" aria-expanded="false" disabled>
+          ▸ 展開所有句子（預設隱藏）
+        </button>
+        <span class="status-hint" id="allSentencesHint" style="margin-top: 0;">點擊單字可朗誦，或跳至指定題目</span>
+      </div>
+      <div class="all-sentences-panel" id="allSentencesPanel" hidden>
+        <div class="all-sentences-list" id="allSentencesList"></div>
+      </div>
+    </div>
+
+    <div class="error-box" id="errorBox"></div>
+
+    <select id="voiceSelect" class="voice-select" title="選擇英語語音">
+      <option value="">載入系統美式英語語音中...</option>
+    </select>
+
+    <div class="step-title">
+      <span>階段 1 & 2：整句盲聽 3 遍 ＋ 開口復述</span>
+      <div class="dots" id="blindDots">
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+      </div>
+    </div>
+
+    <div class="controls">
+      <button type="button" class="btn-play" id="play10">▶ 原速 (1.0x)</button>
+      <button type="button" class="btn-slow" id="play075">🐢 慢速 (0.75x)</button>
+      <button type="button" class="btn-slow" id="play05">🐌 超慢 (0.5x)</button>
+    </div>
+
+    <div class="hidden-box" id="blindPlaceholder">
+      🔒 <strong>文字已完全隱藏</strong><br>
+      <span style="font-size: 0.85rem;">請先按上方播放鍵盲聽 3 遍，並試著開口模仿唸出來，再揭曉答案。</span>
+    </div>
+
+    <button type="button" class="btn-reveal" id="revealBtn">👁️ 揭曉原文與連音拆解</button>
+
+    <div class="answer-box" id="answerBox">
+      <p class="en-sentence" id="enText"></p>
+      <p class="zh-sentence" id="zhText"></p>
+
+      <div style="display: flex; justify-content: space-between; align-items: center;">
+        <strong style="font-size: 0.9rem; color: #e2e8f0;">🔍 連音與吞音密碼（可單點反覆聽局部發音）：</strong>
+      </div>
+      <div class="linking-container" id="notesList"></div>
+
+      <div style="margin-top: 18px; padding-top: 14px; border-top: 1px solid #334155;">
+        <div class="step-title" style="margin-bottom: 6px;">
+          <span>階段 4：整句 10 次跟讀計數（按最上方播放鍵自動累計）</span>
+        </div>
+        <div class="tracker-grid">
+          <div class="tracker-item">
+            <div class="tracker-label">
+              <span>1. 看字跟讀 (第 1~5 次)</span>
+              <span id="readCountText">0 / 5</span>
+            </div>
+            <div class="dots" id="readDots">
+              <div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div>
+            </div>
+          </div>
+          <div class="tracker-item">
+            <div class="tracker-label">
+              <span>2. 閉眼盲跟 (第 6~10 次)</span>
+              <span id="closeCountText">0 / 5</span>
+            </div>
+            <div class="dots" id="closeDots">
+              <div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="nav-controls">
+      <button type="button" class="btn-prev" id="prevBtn">⬅ 上一題</button>
+      <button type="button" class="btn-next" id="nextBtn">下一題 ➔</button>
+    </div>
+  </div>
+</div>
+
+<script type="module" src="./js/sentence-app.js"></script>
+</body>
+</html>

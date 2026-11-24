@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>長文章沉浸閱讀＋斷句連音精讀訓練器</title>
+<link rel="stylesheet" href="./styles/base.css">
+<link rel="stylesheet" href="./styles/article.css">
+</head>
+<body>
+
+<div class="container">
+  <div class="header">
+    <h1>📖 長文章閱讀＋斷句連音精讀訓練（高速並行載入版）</h1>
+    <span class="badge" id="progressBadge">掃描中...</span>
+  </div>
+
+  <div class="card">
+    <div class="loader-bar">
+      <div class="loader-top">
+        <select id="deckSelect" class="deck-select" title="切換 articles_json 內的 JSON 檔案">
+          <option value="">掃描 articles_json 中...</option>
+        </select>
+        <div class="loader-actions">
+          <button type="button" class="btn-secondary" id="rescanBtn">🔄 重新掃描資料夾</button>
+          <button type="button" class="btn-secondary" id="manualPickBtn">📄 手動選檔</button>
+        </div>
+      </div>
+      <input type="file" id="filesInput" multiple accept=".json,application/json" style="display:none">
+      <div class="status-hint" id="deckStatus">啟動時會依 <code>config.json</code> 設定並行掃描並載入 <code>articles_json</code> 內的 <code>.json</code> 檔案。</div>
+    </div>
+
+    <div class="error-box" id="errorBox"></div>
+
+    <select id="voiceSelect" class="voice-select" title="選擇英語語音">
+      <option value="">載入系統美式英語語音中...</option>
+    </select>
+
+    <div class="step-title">
+      <span>全文朗讀控制（點擊單字可單獨發音，點擊句子可切換下方連音拆解）</span>
+    </div>
+    <div class="controls">
+      <button type="button" class="btn-play" id="playArticle10" disabled>▶ 全文原速 (1.0x)</button>
+      <button type="button" class="btn-slow" id="playArticle075" disabled>🐢 全文慢速 (0.75x)</button>
+      <button type="button" class="btn-slow" id="playArticle05" disabled>🐌 全文超慢 (0.5x)</button>
+      <button type="button" class="btn-stop" id="stopAudioBtn">⏹ 停止</button>
+    </div>
+
+    <div class="article-box">
+      <div class="article-header">
+        <div>
+          <h2 class="article-title" id="articleTitle">掃描文章中...</h2>
+          <p class="article-subtitle" id="articleSubtitle">點擊文章中的任意單字即可發音</p>
+        </div>
+        <div class="article-tools">
+          <button type="button" class="btn-chip active" id="wordRateToggleBtn">
+            🔊 單字發音：1.0x
+          </button>
+          <button type="button" class="btn-chip" id="toggleZhBtn" disabled>
+            🌐 顯示全文翻譯
+          </button>
+          <button type="button" class="btn-chip" id="toggleAllSentencesBtn" aria-expanded="false" disabled>
+            ▸ 展開所有斷句（預設隱藏）
+          </button>
+        </div>
+      </div>
+
+      <div class="article-body" id="articleBody"></div>
+      <div class="article-zh-box" id="articleZhBox"></div>
+
+      <div class="all-sentences-panel" id="allSentencesPanel" hidden>
+        <div class="all-sentences-list" id="allSentencesList"></div>
+      </div>
+    </div>
+
+    <div class="focus-box">
+      <div class="focus-top">
+        <strong style="font-size: 0.92rem; color: #e2e8f0;" id="focusSentenceLabel">🔍 斷句精讀與連音教學</strong>
+        <div class="focus-nav">
+          <button type="button" class="btn-mini" id="prevSentenceBtn" disabled>⬅ 上一句</button>
+          <button type="button" class="btn-mini" id="nextSentenceBtn" disabled>下一句 ➔</button>
+        </div>
+      </div>
+
+      <p class="en-sentence" id="focusEnText"></p>
+      <p class="zh-sentence" id="focusZhText"></p>
+
+      <div class="sentence-controls">
+        <button type="button" class="btn-play" id="playSent10" style="flex: 1.5;" disabled>▶ 朗讀本句 (1.0x)</button>
+        <button type="button" class="btn-slow" id="playSent075" disabled>🐢 慢速 (0.75x)</button>
+        <button type="button" class="btn-slow" id="playSent05" disabled>🐌 超慢 (0.5x)</button>
+      </div>
+
+      <div style="margin-bottom: 8px;">
+        <strong style="font-size: 0.88rem; color: #e2e8f0;">🎯 本句連音與吞音密碼（可單點反覆聽局部發音）：</strong>
+      </div>
+      <div class="linking-container" id="notesList"></div>
+    </div>
+  </div>
+</div>
+
+<script type="module" src="./js/article-app.js"></script>
+</body>
+</html>
