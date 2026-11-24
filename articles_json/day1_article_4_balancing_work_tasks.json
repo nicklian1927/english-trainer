@@ -1,0 +1,131 @@
+{
+  "title": "Balancing Work Tasks and Rest Breaks",
+  "zhTitle": "平衡工作任務與休息空檔",
+  "sentences": [
+    {
+      "paragraph": 1,
+      "en": "Even when a project feels challenging, employees should take a short break and enjoy a moment of rest.",
+      "zh": "即使專案感到具挑戰性，員工也應該短暫休息一下，享受片刻的歇息。",
+      "notes": [
+        {
+          "orig": "feels challenging",
+          "speakText": "feels challenging",
+          "phonetic": "feelz-chal-un-jing",
+          "desc": "feels 字尾 /lz/ 接向 challenging，重音落在 chal。"
+        },
+        {
+          "orig": "should take",
+          "speakText": "should take",
+          "phonetic": "shud-tayk",
+          "desc": "should 弱讀為 shud，尾音 /d/ 在 /t/ 前自然收尾。"
+        },
+        {
+          "orig": "of rest",
+          "speakText": "of rest",
+          "phonetic": "uhv-rest",
+          "desc": "of 弱讀為 uhv，與 rest 緊密銜接。"
+        }
+      ]
+    },
+    {
+      "paragraph": 1,
+      "en": "Managers often assign a clear duty to each unit and designate a lead for every particular task.",
+      "zh": "主管常會指派明確的職責給各單位，並為每項特定任務指定一位負責人。",
+      "notes": [
+        {
+          "orig": "often assign",
+          "speakText": "often assign",
+          "phonetic": "aw-fun-uh-syn",
+          "desc": "often 中的 /t/ 常不發音，字尾 /n/ 連向 assign 的母音。"
+        },
+        {
+          "orig": "each unit",
+          "speakText": "each unit",
+          "phonetic": "eech-yoo-nit",
+          "desc": "each 尾音 /ch/ 接向 unit 開頭的半母音 /j/（yoo）。"
+        },
+        {
+          "orig": "for every",
+          "speakText": "for every",
+          "phonetic": "fer-ev-ree",
+          "desc": "for 弱讀為 fer 並連向 every，every 常見縮讀為 ev-ree。"
+        }
+      ]
+    },
+    {
+      "paragraph": 1,
+      "en": "When a proposal is acceptable, the director will approve it and release a plain statement to the public.",
+      "zh": "當提案可被接受時，主管就會核准它，並向大眾發布一份簡明的聲明。",
+      "notes": [
+        {
+          "orig": "is acceptable",
+          "speakText": "is acceptable",
+          "phonetic": "iz-uhk-sep-tuh-bul",
+          "desc": "is 尾音 /z/ 連向 acceptable 的母音，重音落在 sep。"
+        },
+        {
+          "orig": "approve it",
+          "speakText": "approve it",
+          "phonetic": "uh-proo-vit",
+          "desc": "approve 尾音 /v/ 直接連到 it 的母音 /ɪ/，聽起來像 uh-proo-vit。"
+        },
+        {
+          "orig": "to the",
+          "speakText": "to the",
+          "phonetic": "tuh-thuh",
+          "desc": "兩個功能詞 to 與 the 都弱化，語速快時輕快帶過。"
+        }
+      ]
+    },
+    {
+      "paragraph": 2,
+      "en": "Adding fun to the workplace can increase morale and expand team spirit across a wide area.",
+      "zh": "在職場中加入樂趣能提升士氣，並在廣大的範圍內擴展團隊精神。",
+      "notes": [
+        {
+          "orig": "to the",
+          "speakText": "to the",
+          "phonetic": "tuh-thuh",
+          "desc": "to 與 the 弱讀連貫，重音落在重音實詞 workplace。"
+        },
+        {
+          "orig": "can increase",
+          "speakText": "can increase",
+          "phonetic": "kuhn-in-krees",
+          "desc": "can 弱讀為 kuhn，尾音 /n/ 連向 increase 的母音。"
+        },
+        {
+          "orig": "across a",
+          "speakText": "across a",
+          "phonetic": "uh-kraw-suh",
+          "desc": "across 尾音 /s/ 連向不定冠詞 a（/uh/），聽起來像 uh-kraw-suh。"
+        }
+      ]
+    },
+    {
+      "paragraph": 2,
+      "en": "If a schedule has an incomplete part, we adjust our strategy so we do not waste a single line of effort.",
+      "zh": "如果行程有不完整的部分，我們就會調整策略，以免浪費一絲一毫的努力。",
+      "notes": [
+        {
+          "orig": "has an",
+          "speakText": "has an",
+          "phonetic": "haz-uhn",
+          "desc": "has 尾音 /z/ 連向 an 的母音，聽起來像 haz-uhn。"
+        },
+        {
+          "orig": "our strategy",
+          "speakText": "our strategy",
+          "phonetic": "ow-er-strat-uh-jee",
+          "desc": "our 弱讀為 ow-er，strategy 重音落在 strat。"
+        },
+        {
+          "orig": "a single",
+          "speakText": "a single",
+          "phonetic": "uh-sing-gul",
+          "desc": "a 弱讀為 uh，single 字尾的 ng 帶出輕快的 gul。"
+        }
+      ]
+    }
+  ]
+}

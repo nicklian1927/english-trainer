@@ -1,0 +1,131 @@
+{
+  "title": "Managing Digital Subscriptions and Content",
+  "zhTitle": "管理數位訂閱與內容服務",
+  "sentences": [
+    {
+      "paragraph": 1,
+      "en": "When a user decides to subscribe to our platform, they gain access to useful content and helpful tips.",
+      "zh": "當使用者決定訂閱我們的平台時，他們就能取得實用的內容與有幫助的訣竅。",
+      "notes": [
+        {
+          "orig": "decides to",
+          "speakText": "decides to",
+          "phonetic": "di-sydz-tuh",
+          "desc": "decides 尾音 /dz/ 接向弱讀的 to（/tuh/），語流自然銜接。"
+        },
+        {
+          "orig": "gain access",
+          "speakText": "gain access",
+          "phonetic": "gay-nak-ses",
+          "desc": "gain 尾音 /n/ 連向 access 的短母音 /æ/，聽起來像 gay-nak-ses。"
+        },
+        {
+          "orig": "and helpful",
+          "speakText": "and helpful",
+          "phonetic": "un-help-ful",
+          "desc": "and 弱讀為 un 並省略字尾 /d/，順勢帶出 helpful。"
+        }
+      ]
+    },
+    {
+      "paragraph": 1,
+      "en": "Each subscriber receives a monthly review of new tools and can search our library for usable guides.",
+      "zh": "每位訂閱者都會收到一份新工具的每月回顧，並能在我們的資料庫中搜尋可用的指南。",
+      "notes": [
+        {
+          "orig": "receives a",
+          "speakText": "receives a",
+          "phonetic": "ri-seev-zuh",
+          "desc": "receives 尾音 /vz/ 連向冠詞 a（/uh/），聽起來像 ri-seev-zuh。"
+        },
+        {
+          "orig": "review of",
+          "speakText": "review of",
+          "phonetic": "ri-vyoo-uhv",
+          "desc": "of 弱讀為 uhv，與前面的 review 連貫帶過。"
+        },
+        {
+          "orig": "for usable",
+          "speakText": "for usable",
+          "phonetic": "fer-yoo-zuh-bul",
+          "desc": "for 弱讀為 fer 並連向 usable，重音落在 yoo。"
+        }
+      ]
+    },
+    {
+      "paragraph": 1,
+      "en": "Before any subscription reaches its expiration, our system will notify members with a clear reminder.",
+      "zh": "在任何訂閱到達期限之前，我們的系統都會發送清楚的提醒通知會員。",
+      "notes": [
+        {
+          "orig": "reaches its",
+          "speakText": "reaches its",
+          "phonetic": "ree-chiz-its",
+          "desc": "reaches 尾音 /z/ 連向 its 的母音 /ɪ/，語速流暢。"
+        },
+        {
+          "orig": "will notify",
+          "speakText": "will notify",
+          "phonetic": "wul-noh-duh-fy",
+          "desc": "will 弱讀為 wul，notify 中的 /t/ 閃音化為輕快的 /d/。"
+        },
+        {
+          "orig": "with a",
+          "speakText": "with a",
+          "phonetic": "with-uh",
+          "desc": "with 與弱讀的 a（/uh/）連讀，節奏輕快。"
+        }
+      ]
+    },
+    {
+      "paragraph": 2,
+      "en": "If an account becomes unavailable due to a payment issue, we advise customers to update their details promptly.",
+      "zh": "如果帳號因付款問題而無法使用，我們建議客戶立即更新他們的資料。",
+      "notes": [
+        {
+          "orig": "becomes unavailable",
+          "speakText": "becomes unavailable",
+          "phonetic": "bi-kumz-un-uh-vay-luh-bul",
+          "desc": "becomes 尾音 /mz/ 連向 unavailable 的母音，重音落在 vay。"
+        },
+        {
+          "orig": "due to",
+          "speakText": "due to",
+          "phonetic": "doo-tuh",
+          "desc": "to 弱讀為 tuh，與 due 緊密連接。"
+        },
+        {
+          "orig": "to update",
+          "speakText": "to update",
+          "phonetic": "too-up-dayt",
+          "desc": "to 在母音 /ʌ/ 前發較完整的 too，平順滑向 update。"
+        }
+      ]
+    },
+    {
+      "paragraph": 2,
+      "en": "We never discourage honest feedback, because an apparent flaw helps us build a firm and competitive product.",
+      "zh": "我們從不勸阻坦誠的意見回饋，因為一個明顯的缺點能幫助我們打造穩固且具競爭力的產品。",
+      "notes": [
+        {
+          "orig": "an apparent",
+          "speakText": "an apparent",
+          "phonetic": "uh-nuh-per-unt",
+          "desc": "an 的 /n/ 連向 apparent 的母音，重音落在 per。"
+        },
+        {
+          "orig": "helps us",
+          "speakText": "helps us",
+          "phonetic": "help-suhs",
+          "desc": "helps 尾音 /ps/ 連向 us 的母音，聽起來像 help-suhs。"
+        },
+        {
+          "orig": "build a",
+          "speakText": "build a",
+          "phonetic": "bil-duh",
+          "desc": "build 尾音 /d/ 連向冠詞 a（/uh/），聽起來像 bil-duh。"
+        }
+      ]
+    }
+  ]
+}

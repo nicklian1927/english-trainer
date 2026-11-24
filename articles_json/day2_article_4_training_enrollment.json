@@ -1,0 +1,131 @@
+{
+  "title": "Course Enrollment and Skill Development",
+  "zhTitle": "課程註冊與技能培訓",
+  "sentences": [
+    {
+      "paragraph": 1,
+      "en": "Every new generation of workers needs to enroll in practical workshops to stay ready for a competitive market.",
+      "zh": "每一代新進員工都需要報名參加實用工作坊，以隨時準備好面對競爭激烈的市場。",
+      "notes": [
+        {
+          "orig": "generation of",
+          "speakText": "generation of",
+          "phonetic": "jen-uh-ray-shun-uhv",
+          "desc": "of 弱讀為 uhv，與 generation 尾音 /n/ 連貫。"
+        },
+        {
+          "orig": "enroll in",
+          "speakText": "enroll in",
+          "phonetic": "en-roh-lin",
+          "desc": "enroll 尾音 /l/ 直接連向 in 的母音 /ɪ/，聽起來像 en-roh-lin。"
+        },
+        {
+          "orig": "for a",
+          "speakText": "for a",
+          "phonetic": "fer-uh",
+          "desc": "for 弱讀為 fer，與冠詞 a（/uh/）連讀。"
+        }
+      ]
+    },
+    {
+      "paragraph": 1,
+      "en": "After registration closes, instructors compute each group's progress and review every member's individual condition.",
+      "zh": "報名截止後，講師會計算各組的進度，並檢視每位成員的個別狀況。",
+      "notes": [
+        {
+          "orig": "After registration",
+          "speakText": "After registration",
+          "phonetic": "af-ter-rej-i-stray-shun",
+          "desc": "After 字尾的 r 順勢帶出 registration，重音落在 stray。"
+        },
+        {
+          "orig": "and review",
+          "speakText": "and review",
+          "phonetic": "un-ri-vyoo",
+          "desc": "and 弱化為 un 並省略字尾 /d/，直接連向 review。"
+        },
+        {
+          "orig": "individual condition",
+          "speakText": "individual condition",
+          "phonetic": "in-duh-vij-oo-ul-kuhn-dish-un",
+          "desc": "individual 中的 du 音節連讀成 vij，重音落在 vij。"
+        }
+      ]
+    },
+    {
+      "paragraph": 1,
+      "en": "We prompt learners to ask critical questions and avoid a careless or indecent attitude during group discussions.",
+      "zh": "我們促使學員提出關鍵問題，並在小組討論期間避免粗心或不恰當的態度。",
+      "notes": [
+        {
+          "orig": "to ask",
+          "speakText": "to ask",
+          "phonetic": "too-ask",
+          "desc": "to 在母音 /æ/ 前發較清楚的 too，平順連向 ask。"
+        },
+        {
+          "orig": "avoid a",
+          "speakText": "avoid a",
+          "phonetic": "uh-voi-duh",
+          "desc": "avoid 尾音 /d/ 連向冠詞 a（/uh/），聽起來像 uh-voi-duh。"
+        },
+        {
+          "orig": "or indecent",
+          "speakText": "or indecent",
+          "phonetic": "or-in-dee-sunt",
+          "desc": "or 字尾的 r 與 indecent 開頭的 in 連讀。"
+        }
+      ]
+    },
+    {
+      "paragraph": 2,
+      "en": "If a student is liable for a missed assignment, they must file documents with the office before the due date.",
+      "zh": "如果學生對缺交的作業負有責任，他們必須在截止日期前向辦公室提交文件。",
+      "notes": [
+        {
+          "orig": "is liable",
+          "speakText": "is liable",
+          "phonetic": "iz-ly-uh-bul",
+          "desc": "is 尾音 /z/ 接向 liable，重音落在 ly。"
+        },
+        {
+          "orig": "for a",
+          "speakText": "for a",
+          "phonetic": "fer-uh",
+          "desc": "for 弱讀為 fer，與冠詞 a（/uh/）連貫。"
+        },
+        {
+          "orig": "with the",
+          "speakText": "with the",
+          "phonetic": "with-thuh",
+          "desc": "the 弱讀為 thuh，與前面的 with 緊密銜接。"
+        }
+      ]
+    },
+    {
+      "paragraph": 2,
+      "en": "By keeping a conscious and deliberate focus, participants can master every topic and reach a decent level of skill.",
+      "zh": "透過保持有意識且審慎的專注力，學員能精通每個主題並達到良好的技能水準。",
+      "notes": [
+        {
+          "orig": "keeping a",
+          "speakText": "keeping a",
+          "phonetic": "kee-ping-uh",
+          "desc": "keeping 尾音 /ŋ/ 直接連向冠詞 a（/uh/）。"
+        },
+        {
+          "orig": "can master",
+          "speakText": "can master",
+          "phonetic": "kuhn-mas-ter",
+          "desc": "can 弱讀為 kuhn，重音落在 master 的 mas。"
+        },
+        {
+          "orig": "level of",
+          "speakText": "level of",
+          "phonetic": "lev-ul-uhv",
+          "desc": "level 尾音 /l/ 連向弱讀的 of（/uhv/），聽起來像 lev-ul-uhv。"
+        }
+      ]
+    }
+  ]
+}

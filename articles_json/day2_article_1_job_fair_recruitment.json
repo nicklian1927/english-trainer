@@ -1,0 +1,131 @@
+{
+  "title": "Recruiting Dedicated Talent at a Job Fair",
+  "zhTitle": "在就業博覽會招募敬業人才",
+  "sentences": [
+    {
+      "paragraph": 1,
+      "en": "Our company decided to hire dedicated staff at a job fair to support our expanding domestic operation.",
+      "zh": "我們公司決定在就業博覽會招募敬業的員工，以支援我們不斷擴展的國內業務。",
+      "notes": [
+        {
+          "orig": "decided to",
+          "speakText": "decided to",
+          "phonetic": "di-sy-did-tuh",
+          "desc": "decided 字尾 /d/ 與弱讀的 to（/tuh/）銜接，語速快時 /d/ 音會輕帶過去。"
+        },
+        {
+          "orig": "at a",
+          "speakText": "at a",
+          "phonetic": "uh-duh",
+          "desc": "at 中的 /t/ 在母音之間閃音化為 /ɾ/（接近輕快的 d 音），並與 a 連讀。"
+        },
+        {
+          "orig": "job fair",
+          "speakText": "job fair",
+          "phonetic": "jahb-fer",
+          "desc": "job 尾音 /b/ 在輔音 /f/ 前自然收尾，順勢帶出 fair。"
+        }
+      ]
+    },
+    {
+      "paragraph": 1,
+      "en": "Before the event, we will display every available position and inform candidates about each essential requirement.",
+      "zh": "活動開始前，我們會展示所有開放的職缺，並通知應徵者各項必要條件。",
+      "notes": [
+        {
+          "orig": "will display",
+          "speakText": "will display",
+          "phonetic": "wul-di-splay",
+          "desc": "will 弱讀為 wul，重音落在 display 的 splay。"
+        },
+        {
+          "orig": "and inform",
+          "speakText": "and inform",
+          "phonetic": "un-in-form",
+          "desc": "and 的字尾 /d/ 常省略，弱讀的 un 直接連向 inform。"
+        },
+        {
+          "orig": "about each",
+          "speakText": "about each",
+          "phonetic": "uh-bow-deech",
+          "desc": "about 字尾 /t/ 在母音 /iː/ 前閃音化為 /ɾ/，連讀成 uh-bow-deech。"
+        }
+      ]
+    },
+    {
+      "paragraph": 1,
+      "en": "Many potential applicants register early and consult a senior consultant to improve their interview mind and state.",
+      "zh": "許多潛在應徵者會提早報名，並向資深顧問諮詢，以調整他們的面試心態與狀態。",
+      "notes": [
+        {
+          "orig": "register early",
+          "speakText": "register early",
+          "phonetic": "rej-i-ster-er-lee",
+          "desc": "register 字尾的 r 與 early 開頭的 er 順勢連貫。"
+        },
+        {
+          "orig": "consult a",
+          "speakText": "consult a",
+          "phonetic": "kuhn-sul-duh",
+          "desc": "consult 尾音 /t/ 在母音之間閃音化，與冠詞 a 連讀。"
+        },
+        {
+          "orig": "mind and",
+          "speakText": "mind and",
+          "phonetic": "myn-dun",
+          "desc": "mind 尾音 /d/ 連向弱讀的 and（/un/），聽起來像 myn-dun。"
+        }
+      ]
+    },
+    {
+      "paragraph": 2,
+      "en": "We always encourage visitors to seek reliable advice and offer a reasonable salary with generous benefits.",
+      "zh": "我們總是鼓勵參觀者尋求可靠的建議，並提供合理的薪資與優渥的福利。",
+      "notes": [
+        {
+          "orig": "to seek",
+          "speakText": "to seek",
+          "phonetic": "tuh-seek",
+          "desc": "介系詞 to 弱讀為短促的 tuh，重音落在 seek。"
+        },
+        {
+          "orig": "offer a",
+          "speakText": "offer a",
+          "phonetic": "aw-fer-uh",
+          "desc": "offer 字尾的 r 直接連向不定冠詞 a（/uh/）。"
+        },
+        {
+          "orig": "with generous",
+          "speakText": "with generous",
+          "phonetic": "with-jen-er-us",
+          "desc": "with 接向 generous，generous 常見縮讀為 jen-rus。"
+        }
+      ]
+    },
+    {
+      "paragraph": 2,
+      "en": "When a candidate proves sufficient skill, we can employ them immediately and celebrate a mutual aim for growth.",
+      "zh": "當應徵者證明具備足夠的能力時，我們就能立即聘用他們，並慶祝雙方共同的成長目標。",
+      "notes": [
+        {
+          "orig": "proves sufficient",
+          "speakText": "proves sufficient",
+          "phonetic": "proovz-suh-fish-unt",
+          "desc": "proves 尾音 /vz/ 接向 sufficient 的 /s/，語流平順過渡。"
+        },
+        {
+          "orig": "can employ",
+          "speakText": "can employ",
+          "phonetic": "kuhn-em-ploy",
+          "desc": "助動詞 can 弱讀為 kuhn，尾音 /n/ 連向 employ。"
+        },
+        {
+          "orig": "aim for",
+          "speakText": "aim for",
+          "phonetic": "aym-fer",
+          "desc": "for 弱讀為 fer，與前面的 aim 緊密銜接。"
+        }
+      ]
+    }
+  ]
+}

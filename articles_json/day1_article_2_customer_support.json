@@ -1,0 +1,131 @@
+{
+  "title": "Improving Customer Support and Project Delivery",
+  "zhTitle": "提升客戶支援與專案交付效能",
+  "sentences": [
+    {
+      "paragraph": 1,
+      "en": "Our support team decided to adopt a practical system to handle routine requests without delay.",
+      "zh": "我們的支援團隊決定採用一套實用的系統，在沒有延遲的情況下處理日常需求。",
+      "notes": [
+        {
+          "orig": "decided to",
+          "speakText": "decided to",
+          "phonetic": "di-sy-did-tuh",
+          "desc": "decided 字尾 /d/ 與弱讀的 to（/tuh/）銜接，語速快時 /d/ 音會輕帶過去。"
+        },
+        {
+          "orig": "a practical",
+          "speakText": "a practical",
+          "phonetic": "uh-prak-ti-kul",
+          "desc": "不定冠詞 a 弱讀為 uh，與 practical 開頭的 pr 輔音叢自然連貫。"
+        },
+        {
+          "orig": "without delay",
+          "speakText": "without delay",
+          "phonetic": "with-ow-di-lay",
+          "desc": "without 字尾 /t/ 在輔音 /d/ 前常發生吞音，順勢帶出 delay。"
+        }
+      ]
+    },
+    {
+      "paragraph": 1,
+      "en": "During the training session, we will demonstrate the updated procedure and clarify every detail for new staff.",
+      "zh": "在訓練課程期間，我們將示範更新後的流程，並為新員工釐清每個細節。",
+      "notes": [
+        {
+          "orig": "will demonstrate",
+          "speakText": "will demonstrate",
+          "phonetic": "wul-dem-un-strayt",
+          "desc": "will 弱讀為 wul，重音落在 demonstrate 的 dem。"
+        },
+        {
+          "orig": "the updated",
+          "speakText": "the updated",
+          "phonetic": "thee-up-day-did",
+          "desc": "the 在母音 /ʌ/ 前常發較清楚的 thee，updated 中的 /t/ 閃音化為 /d/。"
+        },
+        {
+          "orig": "for new",
+          "speakText": "for new",
+          "phonetic": "fer-noo",
+          "desc": "for 弱讀為 fer，與 new 緊密連接。"
+        }
+      ]
+    },
+    {
+      "paragraph": 1,
+      "en": "Each specialist also needs to verify the exact figures before sending an official notice to the client.",
+      "zh": "每位專員也需要在向客戶寄出正式通知前，核實確切的數據。",
+      "notes": [
+        {
+          "orig": "needs to",
+          "speakText": "needs to",
+          "phonetic": "needz-tuh",
+          "desc": "needs 尾音 /dz/ 接向弱讀的 to（/tuh/），語流順暢。"
+        },
+        {
+          "orig": "the exact",
+          "speakText": "the exact",
+          "phonetic": "thee-ig-zakt",
+          "desc": "the 在母音前發 thee，exact 開頭的 ex 連讀為 ig-zakt。"
+        },
+        {
+          "orig": "an official",
+          "speakText": "an official",
+          "phonetic": "uh-nuh-fish-ul",
+          "desc": "an 的 /n/ 連向 official 的母音，聽起來像 uh-nuh-fish-ul。"
+        }
+      ]
+    },
+    {
+      "paragraph": 2,
+      "en": "To keep the workflow smooth, we will resolve minor issues promptly and maintain close contact with partners.",
+      "zh": "為了保持工作流程順暢，我們將迅速解決小問題，並與合作夥伴保持密切聯繫。",
+      "notes": [
+        {
+          "orig": "To keep",
+          "speakText": "To keep",
+          "phonetic": "tuh-keep",
+          "desc": "介系詞 to 在句首弱化為短促的 tuh，重音落在 keep。"
+        },
+        {
+          "orig": "minor issues",
+          "speakText": "minor issues",
+          "phonetic": "my-ner-ish-ooz",
+          "desc": "minor 字尾的 r 在母音前發音，並連向 issues。"
+        },
+        {
+          "orig": "close contact",
+          "speakText": "close contact",
+          "phonetic": "klohs-kahn-takt",
+          "desc": "close 尾音 /s/ 接向 contact 的 /k/，注意兩個清輔音的銜接。"
+        }
+      ]
+    },
+    {
+      "paragraph": 2,
+      "en": "If we follow a consistent standard and avoid needless delays, we can achieve a notable improvement in service.",
+      "zh": "如果我們遵循一致的標準並避免不必要的延誤，我們就能在服務上取得顯著的改進。",
+      "notes": [
+        {
+          "orig": "a consistent",
+          "speakText": "a consistent",
+          "phonetic": "uh-kuhn-sis-tunt",
+          "desc": "冠詞 a 弱讀為 uh，consistent 重音落在 sis。"
+        },
+        {
+          "orig": "and avoid",
+          "speakText": "and avoid",
+          "phonetic": "un-uh-void",
+          "desc": "and 的字尾 /d/ 常省略，弱讀的 un 直接連向 avoid。"
+        },
+        {
+          "orig": "a notable",
+          "speakText": "a notable",
+          "phonetic": "uh-noh-tuh-bul",
+          "desc": "a 弱讀為 uh，notable 中的 /t/ 閃音化為輕快的 /d/ 或 /tuh/。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "Expanding Operations Into a New Field",
+  "zhTitle": "將業務擴展至新領域",
+  "sentences": [
+    {
+      "paragraph": 1,
+      "en": "Our company plans to launch a strategic policy to enter a promising field over the next decade.",
+      "zh": "我們公司計畫推行一項策略性政策，在未來十年內進入一個有前景的領域。",
+      "notes": [
+        {
+          "orig": "plans to",
+          "speakText": "plans to",
+          "phonetic": "planz-tuh",
+          "desc": "plans 尾音 /nz/ 接向弱讀的 to（/tuh/），語流自然銜接。"
+        },
+        {
+          "orig": "a strategic",
+          "speakText": "a strategic",
+          "phonetic": "uh-struh-tee-jik",
+          "desc": "冠詞 a 弱讀為 uh，strategic 的 str 輔音叢緊密結合，重音落在 tee。"
+        },
+        {
+          "orig": "over the",
+          "speakText": "over the",
+          "phonetic": "oh-ver-thuh",
+          "desc": "over 字尾的 r 與弱讀的 the 順勢連貫。"
+        }
+      ]
+    },
+    {
+      "paragraph": 1,
+      "en": "Before we ship the first shipment, each applicant must submit a complete form with accurate details.",
+      "zh": "在我們寄出第一批貨物前，每位申請者都必須提交一份填寫完整且細節精確的表格。",
+      "notes": [
+        {
+          "orig": "first shipment",
+          "speakText": "first shipment",
+          "phonetic": "fers-ship-munt",
+          "desc": "first 字尾的 /t/ 在輔音 /ʃ/ 前常發生吞音，直接連向 shipment。"
+        },
+        {
+          "orig": "must submit",
+          "speakText": "must submit",
+          "phonetic": "mus-sub-mit",
+          "desc": "must 尾音 /t/ 在 /s/ 前常省略，聽起來像 mus-sub-mit。"
+        },
+        {
+          "orig": "with accurate",
+          "speakText": "with accurate",
+          "phonetic": "with-ak-yer-it",
+          "desc": "with 接向 accurate，accurate 重音落在 ak。"
+        }
+      ]
+    },
+    {
+      "paragraph": 1,
+      "en": "Every team member plays an essential role in keeping the overall quality high.",
+      "zh": "每位團隊成員在維持整體高品質方面都扮演著不可或缺的角色。",
+      "notes": [
+        {
+          "orig": "an essential",
+          "speakText": "an essential",
+          "phonetic": "uh-nuh-sen-shul",
+          "desc": "an 的 /n/ 連向 essential 的母音，重音落在 sen。"
+        },
+        {
+          "orig": "in keeping",
+          "speakText": "in keeping",
+          "phonetic": "in-kee-ping",
+          "desc": "in 尾音 /n/ 順勢帶出 keeping，字尾 -ing 輕快收尾。"
+        },
+        {
+          "orig": "the overall",
+          "speakText": "the overall",
+          "phonetic": "thee-oh-ver-awl",
+          "desc": "the 在母音前發較清楚的 thee，overall 重音落在 oh。"
+        }
+      ]
+    },
+    {
+      "paragraph": 2,
+      "en": "When a client makes an inquiry about a fee or a charge, our staff will provide a timely response.",
+      "zh": "當客戶詢問費用或收費時，我們的員工會提供及時的回覆。",
+      "notes": [
+        {
+          "orig": "makes an",
+          "speakText": "makes an",
+          "phonetic": "mayk-suhn",
+          "desc": "makes 的 /s/ 連向 an 的母音，聽起來像 mayk-suhn。"
+        },
+        {
+          "orig": "about a",
+          "speakText": "about a",
+          "phonetic": "uh-bow-duh",
+          "desc": "about 中的 /t/ 在母音之間閃音化為 /ɾ/，並與 a 連讀。"
+        },
+        {
+          "orig": "a timely",
+          "speakText": "a timely",
+          "phonetic": "uh-tyme-lee",
+          "desc": "冠詞 a 弱讀為 uh，timely 重音落在 tyme。"
+        }
+      ]
+    },
+    {
+      "paragraph": 2,
+      "en": "We also debate every major factor so we do not overlook a sole matter that could affect the mission.",
+      "zh": "我們也會討論每一個重要因素，以免忽略任何可能影響任務的單一事項。",
+      "notes": [
+        {
+          "orig": "do not",
+          "speakText": "do not",
+          "phonetic": "doo-naht",
+          "desc": "口語中若不特別強調否定，do not 語流會平順銜接。"
+        },
+        {
+          "orig": "a sole",
+          "speakText": "a sole",
+          "phonetic": "uh-sohl",
+          "desc": "冠詞 a 弱讀為 uh，sole 音節短促清晰。"
+        },
+        {
+          "orig": "could affect",
+          "speakText": "could affect",
+          "phonetic": "kud-uh-fekt",
+          "desc": "could 弱讀為 kud，尾音 /d/ 順勢帶出 affect。"
+        }
+      ]
+    }
+  ]
+}

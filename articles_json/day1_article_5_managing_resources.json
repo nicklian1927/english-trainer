@@ -1,0 +1,131 @@
+{
+  "title": "Managing Resources and Service Upgrades",
+  "zhTitle": "管理資源與服務升級",
+  "sentences": [
+    {
+      "paragraph": 1,
+      "en": "Our department will augment its resources and enlarge the workspace to handle a larger amount of stuff.",
+      "zh": "我們部門將增加資源並擴大工作空間，以處理更大數量的物品。",
+      "notes": [
+        {
+          "orig": "will augment",
+          "speakText": "will augment",
+          "phonetic": "wul-awg-ment",
+          "desc": "will 弱讀為 wul，augment 重音落在 awg。"
+        },
+        {
+          "orig": "enlarge the",
+          "speakText": "enlarge the",
+          "phonetic": "en-larj-thuh",
+          "desc": "enlarge 尾音 /dʒ/ 接向弱讀的 the（/thuh/）。"
+        },
+        {
+          "orig": "amount of",
+          "speakText": "amount of",
+          "phonetic": "uh-mownt-uhv",
+          "desc": "of 弱讀為 uhv，與前面的 amount 緊密銜接。"
+        }
+      ]
+    },
+    {
+      "paragraph": 1,
+      "en": "Before we promote a new feature, we check whether the setup is suitable and whether the price is appropriate.",
+      "zh": "在我們推廣新功能前，我們會確認該設定是否合適，以及價格是否恰當。",
+      "notes": [
+        {
+          "orig": "promote a",
+          "speakText": "promote a",
+          "phonetic": "pruh-moh-duh",
+          "desc": "promote 中的 /t/ 在母音之間閃音化為 /ɾ/，並與 a 連讀。"
+        },
+        {
+          "orig": "whether the",
+          "speakText": "whether the",
+          "phonetic": "weth-er-thuh",
+          "desc": "whether 字尾的 r 順勢帶出弱讀的 thuh。"
+        },
+        {
+          "orig": "is appropriate",
+          "speakText": "is appropriate",
+          "phonetic": "iz-uh-proh-pree-ut",
+          "desc": "is 尾音 /z/ 連向 appropriate，重音落在 proh。"
+        }
+      ]
+    },
+    {
+      "paragraph": 1,
+      "en": "When a customer shows appreciation, we decrease unnecessary fees and suggest a favorite option for future orders.",
+      "zh": "當客戶表達感謝時，我們會降低不必要的費用，並為未來的訂單推薦偏好的選項。",
+      "notes": [
+        {
+          "orig": "shows appreciation",
+          "speakText": "shows appreciation",
+          "phonetic": "shohz-uh-pree-shee-ay-shun",
+          "desc": "shows 尾音 /z/ 連向 appreciation 的母音，重音落在 pree。"
+        },
+        {
+          "orig": "unnecessary fees",
+          "speakText": "unnecessary fees",
+          "phonetic": "un-nes-uh-ser-ee-feez",
+          "desc": "unnecessary 重音落在 nes，fees 尾音清晰。"
+        },
+        {
+          "orig": "a favorite",
+          "speakText": "a favorite",
+          "phonetic": "uh-fay-vrit",
+          "desc": "a 弱讀為 uh，favorite 常見縮讀為 fay-vrit。"
+        }
+      ]
+    },
+    {
+      "paragraph": 2,
+      "en": "Even if a rule seems strict, an implicit understanding can guide every move without causing friction.",
+      "zh": "即使規定看似嚴格，隱含的默契也能引導每一步行動，而不會引發摩擦。",
+      "notes": [
+        {
+          "orig": "Even if",
+          "speakText": "Even if",
+          "phonetic": "ee-vun-if",
+          "desc": "Even 尾音 /n/ 連向 if 的母音 /ɪ/，聽起來像 ee-vun-if。"
+        },
+        {
+          "orig": "an implicit",
+          "speakText": "an implicit",
+          "phonetic": "uh-nim-plis-it",
+          "desc": "an 的 /n/ 連向 implicit 的母音，重音落在 plis。"
+        },
+        {
+          "orig": "every move",
+          "speakText": "every move",
+          "phonetic": "ev-ree-moov",
+          "desc": "every 縮讀為 ev-ree，順勢帶出 move。"
+        }
+      ]
+    },
+    {
+      "paragraph": 2,
+      "en": "This ongoing effort may require an extra budget, yet it can make the final result truly perfect.",
+      "zh": "這項持續進行的努力可能需要額外預算，但能讓最終成果真正臻於完美。",
+      "notes": [
+        {
+          "orig": "This ongoing",
+          "speakText": "This ongoing",
+          "phonetic": "this-ahn-goh-ing",
+          "desc": "This 尾音 /s/ 接向 ongoing 的母音 /ɑː/。"
+        },
+        {
+          "orig": "an extra",
+          "speakText": "an extra",
+          "phonetic": "uh-nek-struh",
+          "desc": "an 的 /n/ 連向 extra 的母音，聽起來像 uh-nek-struh。"
+        },
+        {
+          "orig": "truly perfect",
+          "speakText": "truly perfect",
+          "phonetic": "troo-lee-per-fikt",
+          "desc": "truly 重音落在 troo，perfect 作為形容詞時重音落在 per。"
+        }
+      ]
+    }
+  ]
+}

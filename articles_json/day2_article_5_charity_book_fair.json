@@ -1,0 +1,131 @@
+{
+  "title": "Hosting a Celebrated Charity Book Fair",
+  "zhTitle": "舉辦備受讚譽的慈善書展",
+  "sentences": [
+    {
+      "paragraph": 1,
+      "en": "Next month, our foundation will launch a celebrated book fair to support local schools and community libraries.",
+      "zh": "下個月，我們的基金會將舉辦一場備受讚譽的書展，以支援當地學校與社區圖書館。",
+      "notes": [
+        {
+          "orig": "Next month",
+          "speakText": "Next month",
+          "phonetic": "neks-munth",
+          "desc": "Next 字尾的 /t/ 在輔音 /m/ 前常發生吞音，直接帶出 month。"
+        },
+        {
+          "orig": "will launch",
+          "speakText": "will launch",
+          "phonetic": "wul-lawnch",
+          "desc": "will 弱讀為 wul，重音落在 launch。"
+        },
+        {
+          "orig": "book fair",
+          "speakText": "book fair",
+          "phonetic": "buk-fer",
+          "desc": "book 尾音 /k/ 在輔音 /f/ 前輕收，順勢帶出 fair。"
+        }
+      ]
+    },
+    {
+      "paragraph": 1,
+      "en": "Many generous sponsors plan to donate rare editions and funds so every visitor can afford a great read.",
+      "zh": "許多慷慨的贊助商計畫捐贈珍稀版本書籍與資金，讓每位參觀者都能負擔得起一本好書。",
+      "notes": [
+        {
+          "orig": "plan to",
+          "speakText": "plan to",
+          "phonetic": "plan-tuh",
+          "desc": "to 弱讀為 tuh，與 plan 尾音 /n/ 順暢銜接。"
+        },
+        {
+          "orig": "and funds",
+          "speakText": "and funds",
+          "phonetic": "un-fundz",
+          "desc": "and 弱化為 un 並省略字尾 /d/，直接連向 funds。"
+        },
+        {
+          "orig": "afford a",
+          "speakText": "afford a",
+          "phonetic": "uh-for-duh",
+          "desc": "afford 尾音 /d/ 連向冠詞 a（/uh/），聽起來像 uh-for-duh。"
+        }
+      ]
+    },
+    {
+      "paragraph": 1,
+      "en": "From an outward view, the event looks simple, yet behind the scenes we manage every internal detail with care.",
+      "zh": "從外在觀點來看，這場活動看似簡單，但在幕後我們細心管理每一個內部細節。",
+      "notes": [
+        {
+          "orig": "From an",
+          "speakText": "From an",
+          "phonetic": "fruh-muhn",
+          "desc": "From 尾音 /m/ 連向 an 的母音，聽起來像 fruh-muhn。"
+        },
+        {
+          "orig": "looks simple",
+          "speakText": "looks simple",
+          "phonetic": "luk-sim-pul",
+          "desc": "looks 尾音 /s/ 與 simple 開頭的 /s/ 合併延長，語流自然。"
+        },
+        {
+          "orig": "with care",
+          "speakText": "with care",
+          "phonetic": "with-ker",
+          "desc": "with 接向 care，重音落在 care。"
+        }
+      ]
+    },
+    {
+      "paragraph": 2,
+      "en": "Volunteers help arrange each display and discreetly guide families toward activities that match their child's mind.",
+      "zh": "志工協助佈置每個展示區，並謹慎地引導家庭前往符合孩子心智的活動。",
+      "notes": [
+        {
+          "orig": "help arrange",
+          "speakText": "help arrange",
+          "phonetic": "hel-puh-raynj",
+          "desc": "help 尾音 /p/ 直接連向 arrange 的母音，聽起來像 hel-puh-raynj。"
+        },
+        {
+          "orig": "activities that",
+          "speakText": "activities that",
+          "phonetic": "ak-tiv-uh-deez-thut",
+          "desc": "activities 中的 /t/ 閃音化為 /d/，that 弱讀為 thut。"
+        },
+        {
+          "orig": "match their",
+          "speakText": "match their",
+          "phonetic": "mach-ther",
+          "desc": "their 弱讀為 ther，與 match 緊密連接。"
+        }
+      ]
+    },
+    {
+      "paragraph": 2,
+      "en": "Should any vendor ever need to file a claim for damaged goods, our dedicated coordinator will resolve it swiftly.",
+      "zh": "萬一有任何攤商需要針對損壞商品提出索賠，我們專責的協調人員將會迅速解決。",
+      "notes": [
+        {
+          "orig": "need to",
+          "speakText": "need to",
+          "phonetic": "nee-duh",
+          "desc": "need 尾音 /d/ 與弱讀的 to 融合，口語常唸得輕快如 nee-duh。"
+        },
+        {
+          "orig": "file a",
+          "speakText": "file a",
+          "phonetic": "fy-luh",
+          "desc": "file 尾音 /l/ 直接連向冠詞 a（/uh/），聽起來像 fy-luh。"
+        },
+        {
+          "orig": "resolve it",
+          "speakText": "resolve it",
+          "phonetic": "ri-zahl-vit",
+          "desc": "resolve 尾音 /v/ 連向 it 的母音 /ɪ/，聽起來像 ri-zahl-vit。"
+        }
+      ]
+    }
+  ]
+}
