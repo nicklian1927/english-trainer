@@ -1,0 +1,2133 @@
+{
+  "title": "TOEIC 聽力完整模擬測驗 (Part 1 - Part 4) - Chapter 2",
+  "description": "依 Part 與題組區塊拆分之多益盲聽與跟讀訓練題庫 (Chapter 2)",
+  "parts": [
+    {
+      "part_id": "part1",
+      "part_title": "Part 1: Photographs (照片描述)",
+      "directions": "For each question in this part, you will hear four statements about a picture in your test book. When you hear the statements, you must select the one statement that best describes what you see in the picture. Then find the number of the question on your answer sheet and mark your answer. The statements will not be printed in your test book and will be spoken only one time.",
+      "blocks": [
+        {
+          "block_id": "p1_q1",
+          "block_title": "Question 1",
+          "context_type": "single_question",
+          "passage": [],
+          "questions": [
+            {
+              "number": 1,
+              "prompt": "Look at the picture marked number 1 in your test book.",
+              "options": [
+                {
+                  "label": "A",
+                  "en": "A man is looking at a file.",
+                  "zh": "一位男士正在查看一份文件。"
+                },
+                {
+                  "label": "B",
+                  "en": "A man is shutting a cabinet drawer.",
+                  "zh": "一位男士正在關上櫃子的抽屜。"
+                },
+                {
+                  "label": "C",
+                  "en": "A man is pointing at a picture frame.",
+                  "zh": "一位男士正在指著一個相框。"
+                },
+                {
+                  "label": "D",
+                  "en": "A man is turning on a desk lamp.",
+                  "zh": "一位男士正在打開一盞檯燈。"
+                }
+              ],
+              "linking_notes": [
+                {
+                  "orig": "looking at a",
+                  "speakText": "looking at a",
+                  "phonetic": "",
+                  "desc": "looking 尾音與 at 連音，at 弱讀"
+                },
+                {
+                  "orig": "shutting a",
+                  "speakText": "shutting a",
+                  "phonetic": "",
+                  "desc": "shutting 尾音與 a 連音"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "p1_q2",
+          "block_title": "Question 2",
+          "context_type": "single_question",
+          "passage": [],
+          "questions": [
+            {
+              "number": 2,
+              "prompt": "Look at the picture marked number 2 in your test book.",
+              "options": [
+                {
+                  "label": "A",
+                  "en": "A woman is repairing a wheel.",
+                  "zh": "一位女士正在修理車輪。"
+                },
+                {
+                  "label": "B",
+                  "en": "A man is unzipping his backpack.",
+                  "zh": "一位男士正在拉開背包的拉鍊。"
+                },
+                {
+                  "label": "C",
+                  "en": "They are locking up their bicycles.",
+                  "zh": "他們正在把腳踏車上鎖。"
+                },
+                {
+                  "label": "D",
+                  "en": "They are wearing helmets.",
+                  "zh": "他們戴著安全帽。"
+                }
+              ],
+              "linking_notes": [
+                {
+                  "orig": "locking up",
+                  "speakText": "locking up",
+                  "phonetic": "",
+                  "desc": "locking 尾音與 up 連音"
+                },
+                {
+                  "orig": "They are",
+                  "speakText": "They're",
+                  "phonetic": "",
+                  "desc": "口語常縮讀為 They're"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "p1_q3",
+          "block_title": "Question 3",
+          "context_type": "single_question",
+          "passage": [],
+          "questions": [
+            {
+              "number": 3,
+              "prompt": "Look at the picture marked number 3 in your test book.",
+              "options": [
+                {
+                  "label": "A",
+                  "en": "Some supplies have been left on a kitchen floor.",
+                  "zh": "一些用品被留在廚房地板上。"
+                },
+                {
+                  "label": "B",
+                  "en": "Some rags are being washed in a sink.",
+                  "zh": "一些抹布正在水槽裡被清洗。"
+                },
+                {
+                  "label": "C",
+                  "en": "A man is adjusting the temperature of an oven.",
+                  "zh": "一位男士正在調整烤箱的溫度。"
+                },
+                {
+                  "label": "D",
+                  "en": "Some cupboard doors are being opened.",
+                  "zh": "一些櫥櫃門正在被打開。"
+                }
+              ],
+              "linking_notes": [
+                {
+                  "orig": "left on a",
+                  "speakText": "left on a",
+                  "phonetic": "",
+                  "desc": "left 尾音與 on a 連音"
+                },
+                {
+                  "orig": "are being washed",
+                  "speakText": "are being washed",
+                  "phonetic": "",
+                  "desc": "現在進行式被動語態，being 弱讀"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "p1_q4",
+          "block_title": "Question 4",
+          "context_type": "single_question",
+          "passage": [],
+          "questions": [
+            {
+              "number": 4,
+              "prompt": "Look at the picture marked number 4 in your test book.",
+              "options": [
+                {
+                  "label": "A",
+                  "en": "A woman is reaching into her bag.",
+                  "zh": "一位女士正伸手拿包包裡的東西。"
+                },
+                {
+                  "label": "B",
+                  "en": "A woman is holding onto a railing.",
+                  "zh": "一位女士正扶著欄杆。"
+                },
+                {
+                  "label": "C",
+                  "en": "The walkway is closed for maintenance.",
+                  "zh": "走道因維護而關閉。"
+                },
+                {
+                  "label": "D",
+                  "en": "The staircase is being constructed.",
+                  "zh": "樓梯正在施工中。"
+                }
+              ],
+              "linking_notes": [
+                {
+                  "orig": "reaching into",
+                  "speakText": "reaching into",
+                  "phonetic": "",
+                  "desc": "reaching 尾音與 into 連音"
+                },
+                {
+                  "orig": "holding onto",
+                  "speakText": "holding onto",
+                  "phonetic": "",
+                  "desc": "holding 尾音與 onto 連音"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "p1_q5",
+          "block_title": "Question 5",
+          "context_type": "single_question",
+          "passage": [],
+          "questions": [
+            {
+              "number": 5,
+              "prompt": "Look at the picture marked number 5 in your test book.",
+              "options": [
+                {
+                  "label": "A",
+                  "en": "A man is writing on a clipboard with a pen.",
+                  "zh": "一位男士正拿筆在寫字板上書寫。"
+                },
+                {
+                  "label": "B",
+                  "en": "A man is pushing a cart in a factory.",
+                  "zh": "一位男士正在工廠裡推手推車。"
+                },
+                {
+                  "label": "C",
+                  "en": "A man is placing an item on a display shelf.",
+                  "zh": "一位男士正在把物品放在展示架上。"
+                },
+                {
+                  "label": "D",
+                  "en": "A man is pressing a button on a panel.",
+                  "zh": "一位男士正在按面板上的按鈕。"
+                }
+              ],
+              "linking_notes": [
+                {
+                  "orig": "writing on a",
+                  "speakText": "writing on a",
+                  "phonetic": "",
+                  "desc": "writing 尾音與 on 連音，t 弱化為閃音"
+                },
+                {
+                  "orig": "placing an item",
+                  "speakText": "placing an item",
+                  "phonetic": "",
+                  "desc": "placing 與 an item 連音"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "p1_q6",
+          "block_title": "Question 6",
+          "context_type": "single_question",
+          "passage": [],
+          "questions": [
+            {
+              "number": 6,
+              "prompt": "Look at the picture marked number 6 in your test book.",
+              "options": [
+                {
+                  "label": "A",
+                  "en": "Some lights have been hung across a bridge.",
+                  "zh": "一些燈飾橫掛在橋上。"
+                },
+                {
+                  "label": "B",
+                  "en": "Some smoke is rising from the buildings.",
+                  "zh": "一些煙霧正從建築物升起。"
+                },
+                {
+                  "label": "C",
+                  "en": "Some umbrellas have been set up at tables.",
+                  "zh": "一些遮陽傘已架設在桌子旁。"
+                },
+                {
+                  "label": "D",
+                  "en": "Some boats are floating in a harbor.",
+                  "zh": "一些船隻漂浮在港口裡。"
+                }
+              ],
+              "linking_notes": [
+                {
+                  "orig": "across a",
+                  "speakText": "across a",
+                  "phonetic": "",
+                  "desc": "across 尾音 /s/ 與 a 連音"
+                },
+                {
+                  "orig": "set up at",
+                  "speakText": "set up at",
+                  "phonetic": "",
+                  "desc": "set up 連音，up 與 at 連音"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part_id": "part2",
+      "part_title": "Part 2: Question-Response (應答問題)",
+      "directions": "You will hear a question or statement and three responses spoken in English. They will not be printed in your test book and will be spoken only one time. Select the best response to the question or statement and mark the letter (A), (B), or (C) on your answer sheet.",
+      "blocks": [
+        {
+          "block_id": "p2_q7",
+          "block_title": "Question 7",
+          "context_type": "single_question",
+          "passage": [],
+          "questions": [
+            {
+              "number": 7,
+              "prompt": "What brand of snack should I get?",
+              "prompt_zh": "我應該買哪個牌子的點心？",
+              "options": [
+                {
+                  "label": "A",
+                  "en": "You should get Hunter's cookies.",
+                  "zh": "你應該買 Hunter 的餅乾。"
+                },
+                {
+                  "label": "B",
+                  "en": "I don't remember getting it.",
+                  "zh": "我不記得有拿到它。"
+                },
+                {
+                  "label": "C",
+                  "en": "No, that won't be necessary.",
+                  "zh": "不用了，那沒必要。"
+                }
+              ],
+              "linking_notes": []
+            }
+          ]
+        },
+        {
+          "block_id": "p2_q8",
+          "block_title": "Question 8",
+          "context_type": "single_question",
+          "passage": [],
+          "questions": [
+            {
+              "number": 8,
+              "prompt": "Where is the nearest public library?",
+              "prompt_zh": "最近的公共圖書館在哪裡？",
+              "options": [
+                {
+                  "label": "A",
+                  "en": "On Queen's Road.",
+                  "zh": "在皇后路上。"
+                },
+                {
+                  "label": "B",
+                  "en": "I have to return a book.",
+                  "zh": "我得去還一本書。"
+                },
+                {
+                  "label": "C",
+                  "en": "About once a week.",
+                  "zh": "大約一週一次。"
+                }
+              ],
+              "linking_notes": []
+            }
+          ]
+        },
+        {
+          "block_id": "p2_q9",
+          "block_title": "Question 9",
+          "context_type": "single_question",
+          "passage": [],
+          "questions": [
+            {
+              "number": 9,
+              "prompt": "Please notify your team members about the anniversary dinner on Friday.",
+              "prompt_zh": "請通知你的團隊成員關於週五週年晚宴的事。",
+              "options": [
+                {
+                  "label": "A",
+                  "en": "For 35 years.",
+                  "zh": "已經 35 年了。"
+                },
+                {
+                  "label": "B",
+                  "en": "The department head.",
+                  "zh": "部門主管。"
+                },
+                {
+                  "label": "C",
+                  "en": "I've already let them know.",
+                  "zh": "我已經通知他們了。"
+                }
+              ],
+              "linking_notes": []
+            }
+          ]
+        },
+        {
+          "block_id": "p2_q10",
+          "block_title": "Question 10",
+          "context_type": "single_question",
+          "passage": [],
+          "questions": [
+            {
+              "number": 10,
+              "prompt": "Who's going to drop Maria off at the train station?",
+              "prompt_zh": "誰要去火車站送 Maria？",
+              "options": [
+                {
+                  "label": "A",
+                  "en": "At platform five.",
+                  "zh": "在第五月台。"
+                },
+                {
+                  "label": "B",
+                  "en": "I'm planning to take her at 1:00 p.m.",
+                  "zh": "我打算下午一點載她去。"
+                },
+                {
+                  "label": "C",
+                  "en": "They're at a training session.",
+                  "zh": "他們正在參加訓練課程。"
+                }
+              ],
+              "linking_notes": []
+            }
+          ]
+        },
+        {
+          "block_id": "p2_q11",
+          "block_title": "Question 11",
+          "context_type": "single_question",
+          "passage": [],
+          "questions": [
+            {
+              "number": 11,
+              "prompt": "You should take woodworking classes after work.",
+              "prompt_zh": "你下班後應該去上木工課。",
+              "options": [
+                {
+                  "label": "A",
+                  "en": "Sorry, our classes are full.",
+                  "zh": "抱歉，我們的課程已經額滿了。"
+                },
+                {
+                  "label": "B",
+                  "en": "Yes, I'd love to pick up a new hobby.",
+                  "zh": "好啊，我很想培養一個新嗜好。"
+                },
+                {
+                  "label": "C",
+                  "en": "Well, I enjoy walking to the office.",
+                  "zh": "嗯，我喜歡走路去辦公室。"
+                }
+              ],
+              "linking_notes": []
+            }
+          ]
+        },
+        {
+          "block_id": "p2_q12",
+          "block_title": "Question 12",
+          "context_type": "single_question",
+          "passage": [],
+          "questions": [
+            {
+              "number": 12,
+              "prompt": "When will we leave from the convention center?",
+              "prompt_zh": "我們什麼時候從會議中心出發？",
+              "options": [
+                {
+                  "label": "A",
+                  "en": "In an hour.",
+                  "zh": "一小時後。"
+                },
+                {
+                  "label": "B",
+                  "en": "We'll be at the arrival hall.",
+                  "zh": "我們會在入境大廳。"
+                },
+                {
+                  "label": "C",
+                  "en": "The lectures were very informative.",
+                  "zh": "這些講座非常有收穫。"
+                }
+              ],
+              "linking_notes": []
+            }
+          ]
+        },
+        {
+          "block_id": "p2_q13",
+          "block_title": "Question 13",
+          "context_type": "single_question",
+          "passage": [],
+          "questions": [
+            {
+              "number": 13,
+              "prompt": "We haven't sent out the attendance list yet, have we?",
+              "prompt_zh": "我們還沒寄出出席名單，對吧？",
+              "options": [
+                {
+                  "label": "A",
+                  "en": "For the awards ceremony.",
+                  "zh": "為了頒獎典禮。"
+                },
+                {
+                  "label": "B",
+                  "en": "A list of corporate sponsors.",
+                  "zh": "一份企業贊助商名單。"
+                },
+                {
+                  "label": "C",
+                  "en": "Yes, we did.",
+                  "zh": "是的，我們寄出了。"
+                }
+              ],
+              "linking_notes": []
+            }
+          ]
+        },
+        {
+          "block_id": "p2_q14",
+          "block_title": "Question 14",
+          "context_type": "single_question",
+          "passage": [],
+          "questions": [
+            {
+              "number": 14,
+              "prompt": "How do you like your new apartment?",
+              "prompt_zh": "你覺得你的新公寓怎麼樣？",
+              "options": [
+                {
+                  "label": "A",
+                  "en": "Last Saturday.",
+                  "zh": "上週六。"
+                },
+                {
+                  "label": "B",
+                  "en": "It has a nice view.",
+                  "zh": "它的景觀很棒。"
+                },
+                {
+                  "label": "C",
+                  "en": "The department office is downstairs.",
+                  "zh": "部門辦公室在樓下。"
+                }
+              ],
+              "linking_notes": []
+            }
+          ]
+        },
+        {
+          "block_id": "p2_q15",
+          "block_title": "Question 15",
+          "context_type": "single_question",
+          "passage": [],
+          "questions": [
+            {
+              "number": 15,
+              "prompt": "Who will be leading the marketing seminar?",
+              "prompt_zh": "誰將主持這場行銷研討會？",
+              "options": [
+                {
+                  "label": "A",
+                  "en": "It hasn't been decided yet.",
+                  "zh": "目前還沒決定。"
+                },
+                {
+                  "label": "B",
+                  "en": "In conference room B.",
+                  "zh": "在 B 會議室。"
+                },
+                {
+                  "label": "C",
+                  "en": "Yes, I'll be reading it.",
+                  "zh": "是的，我會讀它。"
+                }
+              ],
+              "linking_notes": []
+            }
+          ]
+        },
+        {
+          "block_id": "p2_q16",
+          "block_title": "Question 16",
+          "context_type": "single_question",
+          "passage": [],
+          "questions": [
+            {
+              "number": 16,
+              "prompt": "Do you want me to make the dinner reservation?",
+              "prompt_zh": "你要我訂晚餐的位子嗎？",
+              "options": [
+                {
+                  "label": "A",
+                  "en": "No, I'll take care of it.",
+                  "zh": "不用了，我來處理就好。"
+                },
+                {
+                  "label": "B",
+                  "en": "I made a mistake.",
+                  "zh": "我犯了個錯。"
+                },
+                {
+                  "label": "C",
+                  "en": "For the client dinner.",
+                  "zh": "為了客戶晚宴。"
+                }
+              ],
+              "linking_notes": []
+            }
+          ]
+        },
+        {
+          "block_id": "p2_q17",
+          "block_title": "Question 17",
+          "context_type": "single_question",
+          "passage": [],
+          "questions": [
+            {
+              "number": 17,
+              "prompt": "Where's the bus terminal?",
+              "prompt_zh": "公車總站在哪裡？",
+              "options": [
+                {
+                  "label": "A",
+                  "en": "Across the street from the hospital.",
+                  "zh": "在醫院對街。"
+                },
+                {
+                  "label": "B",
+                  "en": "A short-term lease.",
+                  "zh": "一份短期租約。"
+                },
+                {
+                  "label": "C",
+                  "en": "No, I usually take the subway.",
+                  "zh": "不是，我通常搭地鐵。"
+                }
+              ],
+              "linking_notes": []
+            }
+          ]
+        },
+        {
+          "block_id": "p2_q18",
+          "block_title": "Question 18",
+          "context_type": "single_question",
+          "passage": [],
+          "questions": [
+            {
+              "number": 18,
+              "prompt": "This printer's on sale, right?",
+              "prompt_zh": "這台印表機在特價，對吧？",
+              "options": [
+                {
+                  "label": "A",
+                  "en": "No, but that one is.",
+                  "zh": "不是，但那一台有特價。"
+                },
+                {
+                  "label": "B",
+                  "en": "Yes, I repaired it yesterday.",
+                  "zh": "是的，我昨天修好了它。"
+                },
+                {
+                  "label": "C",
+                  "en": "I'll print more labels.",
+                  "zh": "我會再印更多標籤。"
+                }
+              ],
+              "linking_notes": []
+            }
+          ]
+        },
+        {
+          "block_id": "p2_q19",
+          "block_title": "Question 19",
+          "context_type": "single_question",
+          "passage": [],
+          "questions": [
+            {
+              "number": 19,
+              "prompt": "Could you help me find the mail room?",
+              "prompt_zh": "你能幫我找收發室嗎？",
+              "options": [
+                {
+                  "label": "A",
+                  "en": "Of course. Come with me.",
+                  "zh": "當然。跟我來。"
+                },
+                {
+                  "label": "B",
+                  "en": "I already emailed it to you.",
+                  "zh": "我已經寄電子郵件給你了。"
+                },
+                {
+                  "label": "C",
+                  "en": "That was very helpful. Thanks.",
+                  "zh": "那非常有幫助。謝謝。"
+                }
+              ],
+              "linking_notes": []
+            }
+          ]
+        },
+        {
+          "block_id": "p2_q20",
+          "block_title": "Question 20",
+          "context_type": "single_question",
+          "passage": [],
+          "questions": [
+            {
+              "number": 20,
+              "prompt": "What is this tea made of?",
+              "prompt_zh": "這壺茶是用什麼做的？",
+              "options": [
+                {
+                  "label": "A",
+                  "en": "That T-shirt looks great on you.",
+                  "zh": "那件 T 恤穿在你身上很好看。"
+                },
+                {
+                  "label": "B",
+                  "en": "At a nearby cafe.",
+                  "zh": "在附近的咖啡館。"
+                },
+                {
+                  "label": "C",
+                  "en": "Why don't you check the packaging?",
+                  "zh": "你何不看看包裝？"
+                }
+              ],
+              "linking_notes": []
+            }
+          ]
+        },
+        {
+          "block_id": "p2_q21",
+          "block_title": "Question 21",
+          "context_type": "single_question",
+          "passage": [],
+          "questions": [
+            {
+              "number": 21,
+              "prompt": "Will the office move take place before next month?",
+              "prompt_zh": "辦公室搬遷會在下個月之前進行嗎？",
+              "options": [
+                {
+                  "label": "A",
+                  "en": "The memo was just sent.",
+                  "zh": "備忘錄剛發出去。"
+                },
+                {
+                  "label": "B",
+                  "en": "I'll order more supplies this week.",
+                  "zh": "這週我會再訂購一些用品。"
+                },
+                {
+                  "label": "C",
+                  "en": "No, the maintenance department.",
+                  "zh": "不是，是維修部。"
+                }
+              ],
+              "linking_notes": []
+            }
+          ]
+        },
+        {
+          "block_id": "p2_q22",
+          "block_title": "Question 22",
+          "context_type": "single_question",
+          "passage": [],
+          "questions": [
+            {
+              "number": 22,
+              "prompt": "Which laptop do you prefer, the silver one or the white one?",
+              "prompt_zh": "你比較喜歡哪台筆電，銀色的還是白色的？",
+              "options": [
+                {
+                  "label": "A",
+                  "en": "I contacted the IT department.",
+                  "zh": "我聯繫了資訊部門。"
+                },
+                {
+                  "label": "B",
+                  "en": "It comes with a wireless mouse.",
+                  "zh": "它附帶一個無線滑鼠。"
+                },
+                {
+                  "label": "C",
+                  "en": "The silver one looks better.",
+                  "zh": "銀色的看起來比較好看。"
+                }
+              ],
+              "linking_notes": []
+            }
+          ]
+        },
+        {
+          "block_id": "p2_q23",
+          "block_title": "Question 23",
+          "context_type": "single_question",
+          "passage": [],
+          "questions": [
+            {
+              "number": 23,
+              "prompt": "Why was the meeting postponed today?",
+              "prompt_zh": "今天的會議為什麼延期了？",
+              "options": [
+                {
+                  "label": "A",
+                  "en": "To tomorrow morning.",
+                  "zh": "延到明天早上。"
+                },
+                {
+                  "label": "B",
+                  "en": "I already went to the post office.",
+                  "zh": "我已經去過郵局了。"
+                },
+                {
+                  "label": "C",
+                  "en": "Because the rooms are fully booked.",
+                  "zh": "因為會議室都訂滿了。"
+                }
+              ],
+              "linking_notes": []
+            }
+          ]
+        },
+        {
+          "block_id": "p2_q24",
+          "block_title": "Question 24",
+          "context_type": "single_question",
+          "passage": [],
+          "questions": [
+            {
+              "number": 24,
+              "prompt": "This magazine cover looks nice, doesn't it?",
+              "prompt_zh": "這本雜誌的封面看起來不錯，不是嗎？",
+              "options": [
+                {
+                  "label": "A",
+                  "en": "Yes, it was a great article.",
+                  "zh": "是的，那是一篇很棒的文章。"
+                },
+                {
+                  "label": "B",
+                  "en": "I think you should try a different font.",
+                  "zh": "我覺得你應該試試不同的字體。"
+                },
+                {
+                  "label": "C",
+                  "en": "At the newspaper stand down the street.",
+                  "zh": "在街角下方的報攤。"
+                }
+              ],
+              "linking_notes": []
+            }
+          ]
+        },
+        {
+          "block_id": "p2_q25",
+          "block_title": "Question 25",
+          "context_type": "single_question",
+          "passage": [],
+          "questions": [
+            {
+              "number": 25,
+              "prompt": "How would you like to pay for your clothes?",
+              "prompt_zh": "你想怎麼支付這些衣服的費用？",
+              "options": [
+                {
+                  "label": "A",
+                  "en": "In a medium size, please.",
+                  "zh": "請給我中號的。"
+                },
+                {
+                  "label": "B",
+                  "en": "Do you accept credit cards?",
+                  "zh": "你們收信用卡嗎？"
+                },
+                {
+                  "label": "C",
+                  "en": "We're having a sale.",
+                  "zh": "我們正在舉辦特賣會。"
+                }
+              ],
+              "linking_notes": []
+            }
+          ]
+        },
+        {
+          "block_id": "p2_q26",
+          "block_title": "Question 26",
+          "context_type": "single_question",
+          "passage": [],
+          "questions": [
+            {
+              "number": 26,
+              "prompt": "When are you going on your holidays?",
+              "prompt_zh": "你什麼時候要去放假？",
+              "options": [
+                {
+                  "label": "A",
+                  "en": "We'll be taking a direct flight.",
+                  "zh": "我們會搭直飛航班。"
+                },
+                {
+                  "label": "B",
+                  "en": "I haven't received approval from my manager yet.",
+                  "zh": "我還沒收到主管的核准。"
+                },
+                {
+                  "label": "C",
+                  "en": "There's a travel agency at the airport.",
+                  "zh": "機場裡有一家旅行社。"
+                }
+              ],
+              "linking_notes": []
+            }
+          ]
+        },
+        {
+          "block_id": "p2_q27",
+          "block_title": "Question 27",
+          "context_type": "single_question",
+          "passage": [],
+          "questions": [
+            {
+              "number": 27,
+              "prompt": "The jazz performance was entertaining.",
+              "prompt_zh": "那場爵士樂演出很精彩。",
+              "options": [
+                {
+                  "label": "A",
+                  "en": "No, I can't play any instruments.",
+                  "zh": "不行，我不會演奏任何樂器。"
+                },
+                {
+                  "label": "B",
+                  "en": "It was at Lee Theater.",
+                  "zh": "是在李氏劇院演出的。"
+                },
+                {
+                  "label": "C",
+                  "en": "Yes, the songs were very enjoyable.",
+                  "zh": "是的，那些歌曲非常悅耳。"
+                }
+              ],
+              "linking_notes": []
+            }
+          ]
+        },
+        {
+          "block_id": "p2_q28",
+          "block_title": "Question 28",
+          "context_type": "single_question",
+          "passage": [],
+          "questions": [
+            {
+              "number": 28,
+              "prompt": "How long do you plan to stay with our company?",
+              "prompt_zh": "你打算留在我們公司多久？",
+              "options": [
+                {
+                  "label": "A",
+                  "en": "I'll contact the HR department.",
+                  "zh": "我會聯繫人力資源部。"
+                },
+                {
+                  "label": "B",
+                  "en": "I don't have any immediate plans to move.",
+                  "zh": "我近期沒有搬遷（離開）的打算。"
+                },
+                {
+                  "label": "C",
+                  "en": "At a hotel downtown.",
+                  "zh": "在市中心的一家飯店。"
+                }
+              ],
+              "linking_notes": []
+            }
+          ]
+        },
+        {
+          "block_id": "p2_q29",
+          "block_title": "Question 29",
+          "context_type": "single_question",
+          "passage": [],
+          "questions": [
+            {
+              "number": 29,
+              "prompt": "Don't you provide a special discount for gym members?",
+              "prompt_zh": "你們沒有提供健身房會員特別折扣嗎？",
+              "options": [
+                {
+                  "label": "A",
+                  "en": "I left it in my locker.",
+                  "zh": "我把它放在置物櫃裡了。"
+                },
+                {
+                  "label": "B",
+                  "en": "That offer ended last month.",
+                  "zh": "那個優惠上個月就結束了。"
+                },
+                {
+                  "label": "C",
+                  "en": "Yes, a membership fee.",
+                  "zh": "是的，一筆會員費。"
+                }
+              ],
+              "linking_notes": []
+            }
+          ]
+        },
+        {
+          "block_id": "p2_q30",
+          "block_title": "Question 30",
+          "context_type": "single_question",
+          "passage": [],
+          "questions": [
+            {
+              "number": 30,
+              "prompt": "Where should I go when I finish filling out these forms?",
+              "prompt_zh": "我填完這些表格後該去哪裡？",
+              "options": [
+                {
+                  "label": "A",
+                  "en": "By Friday morning.",
+                  "zh": "在週五早上之前。"
+                },
+                {
+                  "label": "B",
+                  "en": "Thank you. I'm feeling much better.",
+                  "zh": "謝謝。我感覺好多了。"
+                },
+                {
+                  "label": "C",
+                  "en": "To the registration office.",
+                  "zh": "去註冊辦公室（登記處）。"
+                }
+              ],
+              "linking_notes": []
+            }
+          ]
+        },
+        {
+          "block_id": "p2_q31",
+          "block_title": "Question 31",
+          "context_type": "single_question",
+          "passage": [],
+          "questions": [
+            {
+              "number": 31,
+              "prompt": "Has anyone made copies of the meeting agenda?",
+              "prompt_zh": "有人印了會議議程的影本嗎？",
+              "options": [
+                {
+                  "label": "A",
+                  "en": "The meeting has been canceled.",
+                  "zh": "會議已經取消了。"
+                },
+                {
+                  "label": "B",
+                  "en": "We'll be presenting the new product.",
+                  "zh": "我們將會展示新產品。"
+                },
+                {
+                  "label": "C",
+                  "en": "Did you use the coffee maker?",
+                  "zh": "你有使用咖啡機嗎？"
+                }
+              ],
+              "linking_notes": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part_id": "part3",
+      "part_title": "Part 3: Conversations (簡短對話)",
+      "directions": "You will hear some conversations between two or more people. You will be asked to answer three questions about what the speakers say in each conversation. Select the best response to each question and mark the letter (A), (B), (C), or (D) on your answer sheet. The conversations will not be printed in your test book and will be spoken only one time.",
+      "blocks": [
+        {
+          "block_id": "p3_q32_34",
+          "block_title": "Questions 32 - 34 (Clothing Store Expansion & Sign)",
+          "context_type": "conversation",
+          "passage": [
+            {
+              "speaker": "Woman 1",
+              "en": "Jordan, ever since we began expanding our clothing store, I've noticed we haven't been getting many customers. Let's discuss some ways we can increase our sales.",
+              "zh": "Jordan，自從我們開始擴建服飾店以來，我注意到我們的客人變少了。我們來討論一些增加銷售額的方法吧。"
+            },
+            {
+              "speaker": "Man",
+              "en": "You know, construction workers are always going in and out of the building, so it might look like our store is closed. We should put a big sign out front to show that we're open.",
+              "zh": "你知道，施工人員一直進出這棟大樓，所以看起來可能像是我們的店沒開。我們應該在外面放一個大招牌，顯示我們有營業。"
+            },
+            {
+              "speaker": "Woman 1",
+              "en": "That's a great idea. We should make sure the text on the sign stands out so that it catches the customers' attention right away.",
+              "zh": "這是個好主意。我們應該確保招牌上的文字很醒目，這樣才能立刻吸引顧客的注意。"
+            },
+            {
+              "speaker": "Man",
+              "en": "All right. Let's get Kay to make it. She's skilled in graphic design. She's the one who created the store's logo.",
+              "zh": "好吧。我們請 Kay 來做。她擅長平面設計，店裡的標誌就是她設計的。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 32,
+              "prompt": "What kind of business do the speakers work for?",
+              "prompt_zh": "說話者們在哪種類型的企業工作？",
+              "options": []
+            },
+            {
+              "number": 33,
+              "prompt": "What does the man recommend?",
+              "prompt_zh": "這位男士提出了什麼建議？",
+              "options": []
+            },
+            {
+              "number": 34,
+              "prompt": "What does the man say Kay is skilled at?",
+              "prompt_zh": "這位男士說 Kay 擅長什麼？",
+              "options": []
+            }
+          ]
+        },
+        {
+          "block_id": "p3_q35_37",
+          "block_title": "Questions 35 - 37 (Canceled Meeting & Lounge Renovation)",
+          "context_type": "conversation",
+          "passage": [
+            {
+              "speaker": "Man",
+              "en": "Ms. Fieldman, the representatives from CTM Incorporated just called to cancel. I rescheduled them for tomorrow afternoon.",
+              "zh": "Fieldman 女士，CTM 公司的代表剛打電話來說要取消。我幫他們改期到明天下午了。"
+            },
+            {
+              "speaker": "Woman",
+              "en": "Okay, that'll actually give me more time to prepare for that meeting. Anyway, since no more clients are coming in, I'll let the staff leave an hour early today.",
+              "zh": "好的，那其實能給我更多時間準備那場會議。總之，既然沒有其他客戶要來了，我今天就讓員工提早一小時下班。"
+            },
+            {
+              "speaker": "Man",
+              "en": "Oh, I'm sure everyone will be happy to hear that. By the way, some workers are coming by this evening to begin renovations on the dining lounge. They'll be here every day until Friday.",
+              "zh": "喔，我相信大家聽到這個消息會很高興的。順帶一提，今晚會有一些工人過來開始整修用餐休息區。他們每天都會來，直到週五。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 35,
+              "prompt": "What does the man say he did?",
+              "prompt_zh": "這位男士說他做了什麼事？",
+              "options": []
+            },
+            {
+              "number": 36,
+              "prompt": "What does the woman decide to do?",
+              "prompt_zh": "這位女士決定做什麼？",
+              "options": []
+            },
+            {
+              "number": 37,
+              "prompt": "According to the man, what will happen in the evening?",
+              "prompt_zh": "根據這位男士的說法，今晚會發生什麼事？",
+              "options": []
+            }
+          ]
+        },
+        {
+          "block_id": "p3_q38_40",
+          "block_title": "Questions 38 - 40 (Damaged Paint Can Exchange)",
+          "context_type": "conversation",
+          "passage": [
+            {
+              "speaker": "Man",
+              "en": "You've reached Lifestyle Home Improvement. This is Martin speaking.",
+              "zh": "您好，這裡是 Lifestyle 家居修繕。我是 Martin。"
+            },
+            {
+              "speaker": "Woman",
+              "en": "Hello, I just received the four cans of blue paint I purchased from your online store three days ago. However, I noticed that one of the cans was opened and some of the paint spilled. It wasn't sealed properly.",
+              "zh": "您好，我剛收到三天前在你們網路商店買的四罐藍色油漆。不過，我發現其中一罐被打開了，而且有些油漆灑出來。它沒有封好。"
+            },
+            {
+              "speaker": "Man",
+              "en": "I'm so sorry about that.",
+              "zh": "對此我感到非常抱歉。"
+            },
+            {
+              "speaker": "Woman",
+              "en": "I can get this exchanged for another one, right?",
+              "zh": "我可以換一罐新的，對吧？"
+            },
+            {
+              "speaker": "Man",
+              "en": "Definitely. We'll send you a new one at no cost. Please give me your name and phone number so I can look up your order.",
+              "zh": "當然可以。我們會免費寄一罐新的給您。請告訴我您的姓名和電話號碼，讓我查詢您的訂單。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 38,
+              "prompt": "What did the woman recently do?",
+              "prompt_zh": "這位女士最近做了什麼事？",
+              "options": []
+            },
+            {
+              "number": 39,
+              "prompt": "What is the reason for the woman's call?",
+              "prompt_zh": "這位女士打電話的原因是什麼？",
+              "options": []
+            },
+            {
+              "number": 40,
+              "prompt": "What does the man request?",
+              "prompt_zh": "這位男士要求什麼？",
+              "options": []
+            }
+          ]
+        },
+        {
+          "block_id": "p3_q41_43",
+          "block_title": "Questions 41 - 43 (New Administrator Orientation)",
+          "context_type": "conversation",
+          "passage": [
+            {
+              "speaker": "Man",
+              "en": "Hi, June, my name's Alex. I'm glad you've decided to join us here at Otimo Accounting. I'll be in charge of your training as the office administrator.",
+              "zh": "嗨，June，我叫 Alex。很高興你決定加入我們 Otimo 會計事務所。身為辦公室行政人員，我將負責你的培訓。"
+            },
+            {
+              "speaker": "Woman 1",
+              "en": "It's great to meet you, Alex.",
+              "zh": "很高興認識你，Alex。"
+            },
+            {
+              "speaker": "Man",
+              "en": "This is Tanya. Tanya, meet June, our new office administrator.",
+              "zh": "這位是 Tanya。Tanya，這位是 June，我們新的辦公室行政人員。"
+            },
+            {
+              "speaker": "Woman 2",
+              "en": "Welcome, June. I look forward to working with you.",
+              "zh": "歡迎你，June。我期待與你共事。"
+            },
+            {
+              "speaker": "Man",
+              "en": "This is June's orientation manual. Tanya, could you help her work through the first training assignment?",
+              "zh": "這是 June 的入職培訓手冊。Tanya，你能協助她完成第一項培訓作業嗎？"
+            },
+            {
+              "speaker": "Woman 2",
+              "en": "I'd be glad to help.",
+              "zh": "我很樂意幫忙。"
+            },
+            {
+              "speaker": "Man",
+              "en": "Okay, once she's finished with that, bring her up to my office and I'll show her how to use the AccountMaster 2000 software.",
+              "zh": "好的，等她完成那項作業後，帶她到我的辦公室來，我會教她如何使用 AccountMaster 2000 軟體。"
+            },
+            {
+              "speaker": "Woman 1",
+              "en": "Oh, I also used AccountMaster 2000 at the office where I did my internship.",
+              "zh": "喔，我在實習的辦公室也用過 AccountMaster 2000。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 41,
+              "prompt": "What is June's job?",
+              "prompt_zh": "June 的工作是什麼？",
+              "options": []
+            },
+            {
+              "number": 42,
+              "prompt": "What will June most likely do next?",
+              "prompt_zh": "June 接下來最可能會做什麼？",
+              "options": []
+            },
+            {
+              "number": 43,
+              "prompt": "What does June say about some software?",
+              "prompt_zh": "June 對某款軟體說了什麼？",
+              "options": []
+            }
+          ]
+        },
+        {
+          "block_id": "p3_q44_46",
+          "block_title": "Questions 44 - 46 (Appreciation Reward & Concert Tickets)",
+          "context_type": "conversation",
+          "passage": [
+            {
+              "speaker": "Woman",
+              "en": "Hi, Aaron. Did you enjoy the staff appreciation dinner yesterday?",
+              "zh": "嗨，Aaron。你喜歡昨天的員工答謝晚宴嗎？"
+            },
+            {
+              "speaker": "Man",
+              "en": "I did. I received a reward for acquiring the most client accounts this quarter.",
+              "zh": "我喜歡。我因為這季開發了最多客戶帳戶而獲得了獎勵。"
+            },
+            {
+              "speaker": "Woman",
+              "en": "That's great news. Congratulations! You are always very good at securing new clients. What's the reward?",
+              "zh": "真是好消息。恭喜你！你一直都很擅長爭取新客戶。獎勵是什麼？"
+            },
+            {
+              "speaker": "Man",
+              "en": "Two front-row seats to next Friday's performance of the world-famous Newmore Orchestra.",
+              "zh": "下週五世界著名的 Newmore 管弦樂團演出的兩個前排座位。"
+            },
+            {
+              "speaker": "Woman",
+              "en": "Oh, that's nice.",
+              "zh": "喔，那真不錯。"
+            },
+            {
+              "speaker": "Man",
+              "en": "Yeah, but unfortunately, I'll be out of town all next week visiting my parents, so I can't go.",
+              "zh": "是啊，但不幸的是，我下週一整天都會在外地探望父母，所以我去不了。"
+            },
+            {
+              "speaker": "Woman",
+              "en": "I see. What will you do with the tickets then?",
+              "zh": "我明白了。那你打算怎麼處理這些票？"
+            },
+            {
+              "speaker": "Man",
+              "en": "I'll probably offer them to someone in my department.",
+              "zh": "我可能會送給我們部門的人。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 44,
+              "prompt": "What did the man receive a reward for?",
+              "prompt_zh": "這位男士因為什麼而獲得獎勵？",
+              "options": []
+            },
+            {
+              "number": 45,
+              "prompt": "What does the man plan to do next week?",
+              "prompt_zh": "這位男士下週打算做什麼？",
+              "options": []
+            },
+            {
+              "number": 46,
+              "prompt": "What does the man say he might do with his reward?",
+              "prompt_zh": "這位男士說他可能會怎麼處理他的獎勵？",
+              "options": []
+            }
+          ]
+        },
+        {
+          "block_id": "p3_q47_49",
+          "block_title": "Questions 47 - 49 (Conference Room Air Conditioner Issue)",
+          "context_type": "conversation",
+          "passage": [
+            {
+              "speaker": "Woman",
+              "en": "Sorry for calling you over here on such short notice, David. There is an issue with the air conditioning unit your technician installed in our conference room this morning. No cold air is coming out.",
+              "zh": "抱歉這麼臨時請你過來，David。你們技師今天早上在我們會議室安裝的空調設備出了問題，沒有冷氣吹出來。"
+            },
+            {
+              "speaker": "Man",
+              "en": "We're the ones who need to apologize. You've been a loyal client for many years, and we'd like to keep it that way. All right, let me turn the unit on.",
+              "zh": "該道歉的是我們才對。您一直是我們多年的忠實客戶，我們希望一直保持下去。好吧，讓我把機器打開看看。"
+            },
+            {
+              "speaker": "Woman",
+              "en": "As you can see, the air isn't cool. I tried setting the unit to the lowest temperature, but nothing happened. We use this room frequently for meetings.",
+              "zh": "如你所見，吹出來的風並不涼。我試著把溫度調到最低，但完全沒反應。我們很常使用這間會議室開會。"
+            },
+            {
+              "speaker": "Man",
+              "en": "I'm so sorry about that. We'll take care of it right away. I'll call the shop right now and have someone deliver a new unit within the hour.",
+              "zh": "對此我感到非常抱歉。我們會立刻處理。我現在就打電話回店裡，請人一小時內送一台新的過來。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 47,
+              "prompt": "What are the speakers mainly discussing?",
+              "prompt_zh": "說話者們主要在討論什麼？",
+              "options": []
+            },
+            {
+              "number": 48,
+              "prompt": "Why does the woman say, \"We use this room frequently for meetings\"?",
+              "prompt_zh": "這位女士為什麼說「我們很常使用這間會議室開會」？",
+              "options": []
+            },
+            {
+              "number": 49,
+              "prompt": "What will the man do next?",
+              "prompt_zh": "這位男士接下來會做什麼？",
+              "options": []
+            }
+          ]
+        },
+        {
+          "block_id": "p3_q50_52",
+          "block_title": "Questions 50 - 52 (Dry Cleaning Pickup)",
+          "context_type": "conversation",
+          "passage": [
+            {
+              "speaker": "Woman 1",
+              "en": "Welcome to Maxwell Laundry Cleaners. How may I assist you?",
+              "zh": "歡迎光臨 Maxwell 洗衣店。請問有什麼可以幫您的？"
+            },
+            {
+              "speaker": "Man",
+              "en": "Hi, I dropped off a suit here yesterday for dry cleaning. I was told that it would be done today by 2:00 p.m. My name is Roman Park.",
+              "zh": "嗨，我昨天送了一套西裝來這裡乾洗。我被告知今天下午兩點前會好。我叫 Roman Park。"
+            },
+            {
+              "speaker": "Woman 1",
+              "en": "Okay, give me a moment to see if it's done. Carina, did you take care of Mr. Park's request?",
+              "zh": "好的，請稍等一下，我看看好了沒。Carina，Park 先生的件你處理好了嗎？"
+            },
+            {
+              "speaker": "Woman 2",
+              "en": "Yes, your suit is ready to go, Mr. Park.",
+              "zh": "是的，您的西裝已經好了，Park 先生。"
+            },
+            {
+              "speaker": "Man",
+              "en": "Thanks for the speedy service.",
+              "zh": "謝謝你們這麼快的服務。"
+            },
+            {
+              "speaker": "Woman 1",
+              "en": "No problem. I'll grab it for you now. While she's doing that, I can process your payment. Also, if you have some time, do you mind filling out a comment card? It'll help us improve our services.",
+              "zh": "沒問題。我現在去幫您拿。在她拿的時候，我可以先幫您結帳。另外，如果您有時間，介意填寫一張意見卡嗎？這能幫助我們改進服務。"
+            },
+            {
+              "speaker": "Man",
+              "en": "Sure, I don't mind.",
+              "zh": "沒問題，我不介意。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 50,
+              "prompt": "Where do the women work?",
+              "prompt_zh": "這兩位女士在哪裡工作？",
+              "options": []
+            },
+            {
+              "number": 51,
+              "prompt": "Why is the man visiting the business?",
+              "prompt_zh": "這位男士為什麼來這家店？",
+              "options": []
+            },
+            {
+              "number": 52,
+              "prompt": "What does the man agree to do?",
+              "prompt_zh": "這位男士同意做什麼？",
+              "options": []
+            }
+          ]
+        },
+        {
+          "block_id": "p3_q53_55",
+          "block_title": "Questions 53 - 55 (IT Trade Show Interview)",
+          "context_type": "conversation",
+          "passage": [
+            {
+              "speaker": "Man",
+              "en": "Hey, Rosie, you're covering the story on the IT trade show next week, right?",
+              "zh": "嘿，Rosie，你下週要採訪 IT 商展的新聞，對吧？"
+            },
+            {
+              "speaker": "Woman",
+              "en": "Yeah, I am. Why?",
+              "zh": "是啊，沒錯。怎麼了？"
+            },
+            {
+              "speaker": "Man",
+              "en": "One of my old colleagues develops his own mobile applications, and he's going to be revealing a new kind of camera app at the convention. I know you were looking to interview exhibitors, and I think he'd be a perfect candidate.",
+              "zh": "我的一個前同事自己開發行動應用程式，他會在展會上發表一種新的相機 App。我知道你一直在找參展商做專訪，我覺得他會是很棒的人選。"
+            },
+            {
+              "speaker": "Woman",
+              "en": "Ah, that sounds good. I'm actually meeting with the lead event planner tomorrow, so I'll try to arrange an interview with your colleague sometime after that.",
+              "zh": "啊，聽起來不錯。我明天其實要跟首席活動企劃見面，所以我會試著在那之後安排採訪你同事。"
+            },
+            {
+              "speaker": "Man",
+              "en": "Okay, let me give you his email address. I'll tell him to expect your message.",
+              "zh": "好，我把他的電子郵件地址給你。我會跟他說等你的訊息。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 53,
+              "prompt": "Who most likely is the woman?",
+              "prompt_zh": "這位女士最可能是什麼身分？",
+              "options": []
+            },
+            {
+              "number": 54,
+              "prompt": "What does the man's friend make?",
+              "prompt_zh": "這位男士的朋友製作什麼？",
+              "options": []
+            },
+            {
+              "number": 55,
+              "prompt": "What does the man give to the woman?",
+              "prompt_zh": "這位男士給了這位女士什麼？",
+              "options": []
+            }
+          ]
+        },
+        {
+          "block_id": "p3_q56_58",
+          "block_title": "Questions 56 - 58 (Backyard Renovation Schedule)",
+          "context_type": "conversation",
+          "passage": [
+            {
+              "speaker": "Woman",
+              "en": "Darren, before your team gets started, I'd like to discuss what renovation work you'll be doing on the backyard this afternoon. Please follow me.",
+              "zh": "Darren，在你的團隊開始動工之前，我想討論一下今天下午你們要在後院做的整修工作。請跟我來。"
+            },
+            {
+              "speaker": "Man",
+              "en": "Oh, check out these fountains. They've got to be at least 50 years old. I don't think they'll suit the new backyard design.",
+              "zh": "喔，看看這些噴泉。它們至少有 50 年歷史了。我覺得它們不符合新的後院設計。"
+            },
+            {
+              "speaker": "Woman",
+              "en": "The patio isn't great either. Everything there needs to be removed and replaced. So the first thing you'll do today is install floor tiles and put in new furniture in that area.",
+              "zh": "露台也糟透了。那裡的所有東西都需要拆除並替換。所以你們今天第一件要做的事，就是在那個區域鋪地磚並擺放新家具。"
+            },
+            {
+              "speaker": "Man",
+              "en": "Hmm, this patio area is larger than I thought. Do we also have to finish planting all the flowers today?",
+              "zh": "嗯，這個露台區域比我想像的還要大。我們今天也得把所有的花都種完嗎？"
+            },
+            {
+              "speaker": "Woman",
+              "en": "No, when I saw how big the patio was, I decided to put that work off until tomorrow.",
+              "zh": "不用，當我看到露台有多大時，我決定把那項工作延到明天。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 56,
+              "prompt": "What is the main topic of the conversation?",
+              "prompt_zh": "這段對話的主要話題是什麼？",
+              "options": []
+            },
+            {
+              "number": 57,
+              "prompt": "What does the man mention about some fountains?",
+              "prompt_zh": "這位男士提到了關於噴泉的什麼事？",
+              "options": []
+            },
+            {
+              "number": 58,
+              "prompt": "What does the man imply when he says, \"This patio area is larger than I thought\"?",
+              "prompt_zh": "這位男士說「這個露台區域比我想像的還要大」時，言外之意是什麼？",
+              "options": []
+            }
+          ]
+        },
+        {
+          "block_id": "p3_q59_61",
+          "block_title": "Questions 59 - 61 (Cafe Strawberry Price Increase)",
+          "context_type": "conversation",
+          "passage": [
+            {
+              "speaker": "Man",
+              "en": "Janice, I wanted to talk to you about our cafe's produce supplier.",
+              "zh": "Janice，我想跟你談談我們咖啡館的農產品供應商。"
+            },
+            {
+              "speaker": "Woman",
+              "en": "Sure, what is it?",
+              "zh": "好啊，什麼事？"
+            },
+            {
+              "speaker": "Man",
+              "en": "They just started charging 10 percent more for their strawberries. This means that we'll have to charge more for our strawberry-based items.",
+              "zh": "他們剛開始對草莓多收 10% 的費用。這代表我們得對草莓類餐點收更高的價格。"
+            },
+            {
+              "speaker": "Woman",
+              "en": "Hmm, I wonder if this will lead to lower sales.",
+              "zh": "嗯，不知道這會不會導致銷量下滑。"
+            },
+            {
+              "speaker": "Man",
+              "en": "I don't think so. Our strawberry drinks and desserts sell pretty well, and we still have a variety of other items that won't be affected by this change.",
+              "zh": "我不這麼認為。我們的草莓飲品和甜點賣得相當不錯，而且我們還有許多其他品項不會受到這次調漲的影響。"
+            },
+            {
+              "speaker": "Woman",
+              "en": "All right, I'll get everyone together for a brief meeting tomorrow morning and I'll explain what's going on.",
+              "zh": "好吧，我明天早上把大家召集起來開個簡短的會議，說明一下情況。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 59,
+              "prompt": "Where do the speakers work?",
+              "prompt_zh": "說話者們在哪裡工作？",
+              "options": []
+            },
+            {
+              "number": 60,
+              "prompt": "According to the man, what has recently happened?",
+              "prompt_zh": "根據這位男士的說法，最近發生了什麼事？",
+              "options": []
+            },
+            {
+              "number": 61,
+              "prompt": "What does the woman say she will do tomorrow?",
+              "prompt_zh": "這位女士說她明天要做什麼？",
+              "options": []
+            }
+          ]
+        },
+        {
+          "block_id": "p3_q62_64",
+          "block_title": "Questions 62 - 64 (Mini-Marathon Water Station - Graphic)",
+          "context_type": "conversation_graphic",
+          "passage": [
+            {
+              "speaker": "Woman",
+              "en": "Hello, I signed up to hand out water to the participants in today's 16-mile mini-marathon race. An event staff member said that I should talk to you about what I need to do.",
+              "zh": "您好，我報名了在今天 16 英里迷你馬拉松比賽中發水給參賽者。一位活動工作人員說我應該找您了解我需要做什麼。"
+            },
+            {
+              "speaker": "Man",
+              "en": "Ah, okay. Thank you for volunteering. Take this map of the mini-marathon route. You'll be stationed at the four-mile mark to give water to the runners.",
+              "zh": "啊，好的。謝謝你當志工。拿著這張迷你馬拉松路線圖。你會被安排在四英里處為跑者遞水。"
+            },
+            {
+              "speaker": "Woman",
+              "en": "Sounds good. I'll go over there right now and get ready for the event.",
+              "zh": "聽起來不錯。我現在就過去，為活動做準備。"
+            },
+            {
+              "speaker": "Man",
+              "en": "All right. Also, once the race ends, please help clean up any trash around your station.",
+              "zh": "好的。另外，比賽結束後，請幫忙清理你站點周圍的垃圾。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 62,
+              "prompt": "What will the woman do at the marathon?",
+              "prompt_zh": "這位女士在馬拉松比賽中要做什麼？",
+              "options": []
+            },
+            {
+              "number": 63,
+              "prompt": "Look at the graphic. Which intersection will the woman go to?",
+              "prompt_zh": "看圖表。這位女士會去哪個路口？",
+              "options": []
+            },
+            {
+              "number": 64,
+              "prompt": "What is the woman instructed to do after the marathon?",
+              "prompt_zh": "馬拉松結束後，這位女士被指示要做什麼？",
+              "options": []
+            }
+          ]
+        },
+        {
+          "block_id": "p3_q65_67",
+          "block_title": "Questions 65 - 67 (Gym Seminars & Fitness Class - Graphic)",
+          "context_type": "conversation_graphic",
+          "passage": [
+            {
+              "speaker": "Man",
+              "en": "Okay, this is your gym membership ID and a list of our spring seminars.",
+              "zh": "好的，這是您的健身房會員證，還有一份我們春季研討會的清單。"
+            },
+            {
+              "speaker": "Woman",
+              "en": "Great.",
+              "zh": "太好了。"
+            },
+            {
+              "speaker": "Man",
+              "en": "Since you're a member, you can participate in any seminar free of charge. But they fill up quickly, so register in advance.",
+              "zh": "因為您是會員，您可以免費參加任何一場研討會。不過名額很快就滿，所以請提前報名。"
+            },
+            {
+              "speaker": "Woman",
+              "en": "In that case, can I sign up for this yoga seminar on March 29th?",
+              "zh": "既然這樣，我可以報名 3 月 29 日這場瑜伽研討會嗎？"
+            },
+            {
+              "speaker": "Man",
+              "en": "Uh, unfortunately, that session is already full. But we still have a few spaces available at the one on a jogging program if you're interested.",
+              "zh": "呃，很遺憾，那場已經額滿了。不過如果您有興趣，慢跑計畫那場還有幾個名額。"
+            },
+            {
+              "speaker": "Woman",
+              "en": "Sure, I'd like to check that out.",
+              "zh": "好啊，我想去看看。"
+            },
+            {
+              "speaker": "Man",
+              "en": "Okay, I've signed you up. And if you want, you can join tonight's special group fitness class. It's being led by Brianna Pyle, a local trainer. She's going to be introducing a special workout routine using a variety of gymnastics moves.",
+              "zh": "好的，我已經幫您報好了。如果您想參加，今晚還有特別的團體健身課。這堂課由當地教練 Brianna Pyle 帶領。她會介紹一套結合多種體操動作的特別訓練課程。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 65,
+              "prompt": "Why is the woman able to participate in free seminars?",
+              "prompt_zh": "這位女士為什麼能免費參加研討會？",
+              "options": []
+            },
+            {
+              "number": 66,
+              "prompt": "Look at the graphic. On which date will the woman attend an event?",
+              "prompt_zh": "看圖表。這位女士會在哪一天參加活動？",
+              "options": []
+            },
+            {
+              "number": 67,
+              "prompt": "What will Brianna Pyle introduce?",
+              "prompt_zh": "Brianna Pyle 將介紹什麼？",
+              "options": []
+            }
+          ]
+        },
+        {
+          "block_id": "p3_q68_70",
+          "block_title": "Questions 68 - 70 (Coffee Shop Carpeting Dimensions - Graphic)",
+          "context_type": "conversation_graphic",
+          "passage": [
+            {
+              "speaker": "Woman",
+              "en": "Thank you for calling Golden Horn Carpeting. This is Denise.",
+              "zh": "感謝您致電 Golden Horn 地毯公司。我是 Denise。"
+            },
+            {
+              "speaker": "Man",
+              "en": "Hi, Denise. I spoke to you in the store yesterday about some carpeting for my coffee shop.",
+              "zh": "嗨，Denise。我昨天在店裡跟你談過我咖啡店要鋪地毯的事。"
+            },
+            {
+              "speaker": "Woman",
+              "en": "Ah, yes. Mr. Jenkins, right? How did your business partner like the design?",
+              "zh": "啊，沒錯。Jenkins 先生，對吧？您的事業夥伴喜歡這個設計嗎？"
+            },
+            {
+              "speaker": "Man",
+              "en": "She loved it.",
+              "zh": "她很喜歡。"
+            },
+            {
+              "speaker": "Woman",
+              "en": "So would you like us to make your carpeting based on yesterday's drawing?",
+              "zh": "那您希望我們根據昨天的設計圖來製作您的地毯嗎？"
+            },
+            {
+              "speaker": "Man",
+              "en": "Well, yes, but please make it wider so that it will cover the entire interior of the shop. We'd like it to be 4.3 meters wide if possible.",
+              "zh": "嗯，是的，但請把它做寬一點，這樣才能覆蓋整間店的內部。如果可以的話，我們希望寬度是 4.3 公尺。"
+            },
+            {
+              "speaker": "Woman",
+              "en": "Let's see. I think we can do that, but let me just email the new measurements to our factory to confirm.",
+              "zh": "我看看。我想我們可以做到，不過我先寄電子郵件把新的尺寸傳給工廠確認一下。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 68,
+              "prompt": "What kind of business does the man own?",
+              "prompt_zh": "這位男士擁有哪種類型的事業？",
+              "options": []
+            },
+            {
+              "number": 69,
+              "prompt": "Look at the graphic. Which dimension does the man want to change?",
+              "prompt_zh": "看圖表。這位男士想更改哪一個尺寸？",
+              "options": []
+            },
+            {
+              "number": 70,
+              "prompt": "What will the woman probably do next?",
+              "prompt_zh": "這位女士接下來大概會做什麼？",
+              "options": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part_id": "part4",
+      "part_title": "Part 4: Talks (簡短獨白)",
+      "directions": "You will hear some talks given by a single speaker. You will be asked to answer three questions about what the speaker says in each talk. Select the best response to each question and mark the letter (A), (B), (C), or (D) on your answer sheet. The talks will not be printed in your test book and will be spoken only one time.",
+      "blocks": [
+        {
+          "block_id": "p4_q71_73",
+          "block_title": "Questions 71 - 73 (Restaurant Delivery Rollout)",
+          "context_type": "talk",
+          "passage": [
+            {
+              "speaker": "Speaker",
+              "en": "I want to thank the district managers for attending today's meeting to talk about a new approach our restaurant will be taking. In the coming weeks, our entire menu will be available for delivery. The purpose is to be more accessible for our customers. Some people may want to eat our food for lunch, but can't because of their short lunch hours. By offering delivery, these customers can place their order beforehand so their food can arrive in time for lunch. Jose Alvarez, the director of operations, is in charge of this task. Jose, what will the restaurants need to plan in order to properly execute this arrangement?",
+              "zh": "我要感謝各位區經理出席今天的會議，討論我們餐廳即將採取的新作法。在接下來的幾週內，我們的完整菜單都將提供外送服務。這樣做的目的是讓顧客能更方便地享用我們的餐點。有些人午餐想吃我們的食物，但因為午休時間短而無法前往。透過提供外送，這些顧客可以提前下單，讓餐點準時在午餐時間送達。營運總監 Jose Alvarez 負責這項任務。Jose，各家餐廳需要規劃哪些事項，才能妥善執行這項安排？"
+            }
+          ],
+          "questions": [
+            {
+              "number": 71,
+              "prompt": "What type of businesses does the company own?",
+              "prompt_zh": "這家公司擁有哪種類型的事業？",
+              "options": []
+            },
+            {
+              "number": 72,
+              "prompt": "What will the businesses begin doing?",
+              "prompt_zh": "這些店家將開始做什麼？",
+              "options": []
+            },
+            {
+              "number": 73,
+              "prompt": "What does the speaker ask Jose Alvarez to do?",
+              "prompt_zh": "說話者要求 Jose Alvarez 做什麼？",
+              "options": []
+            }
+          ]
+        },
+        {
+          "block_id": "p4_q74_76",
+          "block_title": "Questions 74 - 76 (Highway Construction Delay Announcement)",
+          "context_type": "talk",
+          "passage": [
+            {
+              "speaker": "Speaker",
+              "en": "May I have your attention, please? I've just received notice that there is some road construction ahead that is causing delays on the highway. As a result, we will be arriving at the terminal about an hour later than originally scheduled. We'll be pulling into a rest area shortly to fill up on gas. You may use this time to purchase snacks and use the restroom. Please make sure to take your belongings with you when you get off the bus. We are not responsible for any lost items. We apologize for the inconvenience.",
+              "zh": "請大家注意一下。我剛收到通知，前方有道路施工，造成高速公路塞車延誤。因此，我們抵達航廈／車站的時間會比原定時間晚大約一小時。我們很快就會開進休息區加油。大家可以趁這段時間買點零食和上洗手間。下車時請務必隨身攜帶個人物品，遺失物品本公司概不負責。造成您的不便，敬請見諒。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 74,
+              "prompt": "Where is the announcement probably being heard?",
+              "prompt_zh": "這則廣播最可能是在哪裡聽到的？",
+              "options": []
+            },
+            {
+              "number": 75,
+              "prompt": "What problem does the speaker mention?",
+              "prompt_zh": "說話者提到了什麼問題？",
+              "options": []
+            },
+            {
+              "number": 76,
+              "prompt": "What are the listeners instructed to do?",
+              "prompt_zh": "聽眾被指示要做什麼？",
+              "options": []
+            }
+          ]
+        },
+        {
+          "block_id": "p4_q77_79",
+          "block_title": "Questions 77 - 79 (Michelle's Design Home Remodeling Ad)",
+          "context_type": "talk",
+          "passage": [
+            {
+              "speaker": "Speaker",
+              "en": "Have you been wanting to remodel the rooms in your house, but thought it was too expensive? Michelle's Design is your solution. Working with our creative team, you'll be able to create a modern design for any space, from your kitchen to your bathroom. Stop by our office for a consultation and mention this advertisement, and we'll give you a complimentary picture frame. This beautiful frame is available in several colors to match any casual space you have in your home. Give your house the makeover it deserves. Give us a call at 555-3426 to set up an appointment today.",
+              "zh": "你一直想改造家裡的房間，卻又覺得太貴嗎？Michelle's Design 就是你的最佳解決方案。與我們的創意團隊合作，你就能為任何空間打造現代設計，從廚房到浴室都能煥然一新。歡迎前來我們辦公室諮詢，並提及這則廣告，我們就會送你一個免費的相框。這款美麗的相框有多種顏色可選，能搭配家裡任何輕鬆自在的空間。給你的房子應得的改造吧。今天就撥打 555-3426 預約諮詢。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 77,
+              "prompt": "What kind of business is being advertised?",
+              "prompt_zh": "這則廣告宣傳的是哪種類型的業務？",
+              "options": []
+            },
+            {
+              "number": 78,
+              "prompt": "How can the listeners receive a complimentary gift?",
+              "prompt_zh": "聽眾可以如何獲得免費贈品？",
+              "options": []
+            },
+            {
+              "number": 79,
+              "prompt": "What does the speaker say the listeners can do during a phone call?",
+              "prompt_zh": "說話者說聽眾在電話中可以做什麼？",
+              "options": []
+            }
+          ]
+        },
+        {
+          "block_id": "p4_q80_82",
+          "block_title": "Questions 80 - 82 (Wildlife Convention Keynote Introduction)",
+          "context_type": "talk",
+          "passage": [
+            {
+              "speaker": "Speaker",
+              "en": "Thank you all for joining us for the 15th Annual World Convention on Wildlife and Ecology. I am excited to introduce our keynote speaker for today, Benedict Freeman from the Endangered Animals Association. Mr. Freeman is recognized as one of the leading activists involved in protecting endangered species. For the past decade, he has gone on countless tours across the world advocating the preservation of wildlife habitats. But before we bring Mr. Freeman to the stage, I'd like to urge each of you to consider donating to the association. Anything you can give will be a big help.",
+              "zh": "感謝各位參加第 15 屆世界野生動物與生態年會。我很高興為大家介紹今天的主題演講嘉賓——來自瀕危動物協會的 Benedict Freeman。Freeman 先生被公認為致力於保護瀕危物種的頂尖行動家之一。過去十年來，他走遍世界各地進行無數巡迴演講，倡導保育野生動物棲息地。但在我們請 Freeman 先生上台之前，我想呼籲在座每一位考慮向該協會捐款。無論您能捐出多少，都會有很大的幫助。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 80,
+              "prompt": "Where is the introduction being held?",
+              "prompt_zh": "這場介紹是在哪裡舉行的？",
+              "options": []
+            },
+            {
+              "number": 81,
+              "prompt": "What does the speaker say Benedict Freeman is known for?",
+              "prompt_zh": "說話者說 Benedict Freeman 以什麼聞名？",
+              "options": []
+            },
+            {
+              "number": 82,
+              "prompt": "What are the listeners encouraged to do?",
+              "prompt_zh": "聽眾被鼓勵做什麼？",
+              "options": []
+            }
+          ]
+        },
+        {
+          "block_id": "p4_q83_85",
+          "block_title": "Questions 83 - 85 (New Staff Feedback Process)",
+          "context_type": "talk",
+          "passage": [
+            {
+              "speaker": "Speaker",
+              "en": "Hello, everybody. Good to see you all. I know that we've got quite a few vehicles to fix today, so I'll make this quick. Before we start work for the day, I want to inform you about the new process for handling staff complaints and concerns. Employee feedback is very important to us, but it has been difficult getting your opinions on certain issues. We realize that it's not always easy to speak up at work, even when you think something needs our attention. Now, we've added a section on our website and every Monday morning, I will make a compilation of all the feedback provided in that section so that it can be reviewed by the supervisors.",
+              "zh": "大家好。很高興見到各位。我知道我們今天有不少車輛要修，所以我長話短說。在開始今天的工作前，我想向大家說明處理員工申訴與疑慮的新流程。員工的意見回饋對我們非常重要，但要蒐集大家對某些議題的想法一直都很困難。我們知道在工作上勇於發聲並不總是容易的，即使你覺得有事情需要我們關注。現在，我們在網站上新增了一個專區，每週一早上，我都會把該專區提供的所有回饋彙整起來，以便主管審閱。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 83,
+              "prompt": "What kind of business do the listeners most likely work for?",
+              "prompt_zh": "聽眾最可能在哪種類型的企業工作？",
+              "options": []
+            },
+            {
+              "number": 84,
+              "prompt": "What does the speaker mean when he says, \"Now, we've added a section on our website\"?",
+              "prompt_zh": "說話者說「現在，我們在網站上新增了一個專區」時，他的意思是什麼？",
+              "options": []
+            },
+            {
+              "number": 85,
+              "prompt": "What does the speaker plan to do on Mondays?",
+              "prompt_zh": "說話者打算在週一做什麼？",
+              "options": []
+            }
+          ]
+        },
+        {
+          "block_id": "p4_q86_88",
+          "block_title": "Questions 86 - 88 (Wage Deposit & Tax Documents)",
+          "context_type": "talk",
+          "passage": [
+            {
+              "speaker": "Speaker",
+              "en": "Good afternoon, Mr. Herzog. When we spoke on the phone yesterday, I asked you to come by our office to give us your bank account details to ensure that your wages get deposited correctly. But I just realized that we already have your information from the last job you did for us. Your payment will be sent to that account on the 10th of next month. Additionally, I suggest you contact human resources and arrange to collect the official papers you'll need when filing your taxes. I'd do that sooner rather than later.",
+              "zh": "午安，Herzog 先生。昨天我們通電話時，我請您來我們辦公室提供銀行帳戶資料，以確保您的薪資能正確匯入。但我剛剛才發現，我們其實已經有您上次為我們工作時留下的資料了。您的款項將於下個月 10 號匯入該帳戶。此外，我建議您聯繫人力資源部，安排領取報稅時所需的正式文件。這件事越早辦越好。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 86,
+              "prompt": "What department does the speaker most likely work in?",
+              "prompt_zh": "說話者最可能在哪個部門工作？",
+              "options": []
+            },
+            {
+              "number": 87,
+              "prompt": "What does the speaker mean when she says, \"We already have your information from the last job you did for us\"?",
+              "prompt_zh": "說話者說「我們其實已經有您上次為我們工作時留下的資料了」時，她的意思是什麼？",
+              "options": []
+            },
+            {
+              "number": 88,
+              "prompt": "What does the speaker recommend the listener do soon?",
+              "prompt_zh": "說話者建議聽眾盡快做什麼？",
+              "options": []
+            }
+          ]
+        },
+        {
+          "block_id": "p4_q89_91",
+          "block_title": "Questions 89 - 91 (Packaging Machine Replacement)",
+          "context_type": "talk",
+          "passage": [
+            {
+              "speaker": "Speaker",
+              "en": "Let's begin by taking a look at last month's production numbers. As you can see, we saw a 7 percent decline in output, which means we'll need to raise our manufacturing rate in the factory. We, as managers, are aware that a few of our packaging machines on the production line have been malfunctioning and that it is the cause of the decline. So we've decided to install new ones this Friday. These machines function a lot quicker and won't require frequent repairs. We have scheduled several training workshops next week, so please sign up for one as soon as possible. A list will be posted in the staff room.",
+              "zh": "我們先來看看上個月的產量數據。如各位所見，我們的產量下滑了 7%，這表示我們需要提高工廠的生產速度。身為主管，我們知道生產線上有幾台包裝機一直在故障，這就是產量下滑的原因。因此我們決定本週五安裝新機器。這些新機器的運作速度快很多，而且不需要頻繁維修。我們下週安排了好幾場培訓工作坊，請大家盡快報名參加其中一場。名單會張貼在員工休息室。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 89,
+              "prompt": "Who most likely is the speaker?",
+              "prompt_zh": "說話者最可能是什麼身分？",
+              "options": []
+            },
+            {
+              "number": 90,
+              "prompt": "According to the speaker, what is being replaced this week?",
+              "prompt_zh": "根據說話者的說法，這週有什麼東西要被替換？",
+              "options": []
+            },
+            {
+              "number": 91,
+              "prompt": "What are the listeners asked to do?",
+              "prompt_zh": "聽眾被要求做什麼？",
+              "options": []
+            }
+          ]
+        },
+        {
+          "block_id": "p4_q92_94",
+          "block_title": "Questions 92 - 94 (Website Management Outsourcing)",
+          "context_type": "talk",
+          "passage": [
+            {
+              "speaker": "Speaker",
+              "en": "As you may have heard, Greg Velasquez, who has always handled our website, will be retiring next month. Here at Diamante Dairy, we fully understand the importance of the website for our sales department, which processes online orders from supermarkets and eateries all over the state for our farm's products. We've interviewed a few candidates, but finally chose to work with an outside firm, Web Maestros, instead of hiring somebody to do Greg's job in-house. This is a well-respected company that Greg himself thought would do a great job. Now, I know it's been great having Greg right here to help us, but keep in mind, Web Maestros will designate a qualified technician to us.",
+              "zh": "各位可能已經聽說了，一直負責我們網站的 Greg Velasquez 下個月就要退休了。在 Diamante 乳業，我們充分了解網站對業務部門的重要性，業務部門會處理全州各地超市和餐飲店訂購我們農場產品的線上訂單。我們面試了幾位人選，但最後決定與外部公司 Web Maestros 合作，而不是在內部聘請人來接替 Greg 的工作。這是一家備受敬重的公司，就連 Greg 本人也認為他們會做得很好。現在，我知道以前有 Greg 在這裡幫忙很棒，但請記住，Web Maestros 會指派一位合格的技術人員來服務我們。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 92,
+              "prompt": "Where do the listeners work?",
+              "prompt_zh": "聽眾在哪裡工作？",
+              "options": []
+            },
+            {
+              "number": 93,
+              "prompt": "How did the company find out about Web Maestros?",
+              "prompt_zh": "這家公司是如何得知 Web Maestros 的？",
+              "options": []
+            },
+            {
+              "number": 94,
+              "prompt": "Why does the speaker say, \"Web Maestros will designate a qualified technician to us\"?",
+              "prompt_zh": "說話者為什麼說「Web Maestros 會指派一位合格的技術人員來服務我們」？",
+              "options": []
+            }
+          ]
+        },
+        {
+          "block_id": "p4_q95_97",
+          "block_title": "Questions 95 - 97 (Productivity Challenge & Health Seminar - Graphic)",
+          "context_type": "talk_graphic",
+          "passage": [
+            {
+              "speaker": "Speaker",
+              "en": "I am excited to announce that our company will soon begin its month-long productivity challenge. As you can see by this schedule, for each week in March, we'll hold daily sessions on one aspect of becoming a more effective employee. Teams with 100 percent participation will be rewarded with generous prize money. In addition, the company will be holding a health seminar at the local recreation center. This event will be held at the end of the week that is dedicated to physical activity. This will give you a chance to learn how to eat right and adopt a healthy lifestyle. For those of you who'd like to participate in the special seminar, complete a registration form online.",
+              "zh": "我很高興地宣布，我們公司即將展開為期一個月的生產力挑戰。從這份時程表可以看到，三月的每一週，我們都會針對成為更高效員工的一個面向舉辦每日課程。全員 100% 參與的團隊將獲得豐厚的獎金。此外，公司將在當地的康樂中心舉辦一場健康研討會。這場活動將在專門聚焦體能活動那一週的週末舉行。這會讓大家有機會學習如何正確飲食並養成健康的生活方式。想參加這場特別研討會的人，請在線上填寫報名表。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 95,
+              "prompt": "What reward will some staff members receive?",
+              "prompt_zh": "部分員工將獲得什麼獎勵？",
+              "options": []
+            },
+            {
+              "number": 96,
+              "prompt": "Look at the graphic. When will a seminar take place?",
+              "prompt_zh": "看圖表。研討會將在什麼時候舉行？",
+              "options": []
+            },
+            {
+              "number": 97,
+              "prompt": "What should listeners who want to attend a seminar do?",
+              "prompt_zh": "想參加研討會的聽眾應該做什麼？",
+              "options": []
+            }
+          ]
+        },
+        {
+          "block_id": "p4_q98_100",
+          "block_title": "Questions 98 - 100 (Tourism Startup Workshop & Site Builder - Graphic)",
+          "context_type": "talk_graphic",
+          "passage": [
+            {
+              "speaker": "Speaker",
+              "en": "So far, we've discussed identifying your target market, researching the competition, and determining the prices of your services and products. As you know, finding success in any industry is difficult, so as new entrepreneurs in the tourism sector, you must find ways to differentiate and make your business stand out. Before we move on to discuss launching your business, there is an important stage that we need to cover. We have a guest speaker today, a renowned web designer, who will talk about building your website and the essential elements it should contain. Before we invite our guest speaker to the stage, I'd like to remind everyone that there is a site builder program that you can try out in the computer lab on the first floor. So please check it out at the end of the conference.",
+              "zh": "到目前為止，我們討論了鎖定目標市場、研究競爭對手，以及訂定服務與產品的價格。如各位所知，在任何產業要取得成功都很困難，因此身為觀光產業的新創業者，你們必須找出差異化的方法，讓自己的事業脫穎而出。在我們接著討論推出事業之前，還有一個重要的階段需要涵蓋。我們今天請來了一位客座講師，他是一位知名的網頁設計師，將會談談如何建置網站以及網站應包含的必要元素。在邀請客座講師上台之前，我想提醒大家，一樓的電腦教室有一套網站建置程式可以試用。所以請在會議結束後去體驗看看。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 98,
+              "prompt": "What industry do the listeners work in?",
+              "prompt_zh": "聽眾在哪個產業工作？",
+              "options": []
+            },
+            {
+              "number": 99,
+              "prompt": "Look at the graphic. Which stage will a guest speaker discuss?",
+              "prompt_zh": "看圖表。客座講師會討論哪一個階段？",
+              "options": []
+            },
+            {
+              "number": 100,
+              "prompt": "According to the speaker, what can the listeners do on the first floor?",
+              "prompt_zh": "根據說話者的說法，聽眾在一樓可以做什麼？",
+              "options": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
